@@ -14,7 +14,7 @@ def load(rev):
     try:
         return json.loads(subprocess.run(['git', 'show', f'{rev}:posts.json'], capture_output=True, text=True, check=True).stdout)
     except Exception:
-        return []
+        return None
 
 def esc(s): return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
 
@@ -46,11 +46,12 @@ def post(p):
 def main():
     if not TOKEN or not CHAT:
         print('Telegram secrets not set; skipping.'); return
-    now = load('HEAD')
+    now = load('HEAD') or []
     if MODE == 'test':
         todo = now[:1]
     else:
-        old = {p['slug'] for p in load(BEFORE)} if BEFORE and set(BEFORE) != {'0'} else None
+        prev = load(BEFORE) if BEFORE and set(BEFORE) != {'0'} else None
+        old = {p['slug'] for p in prev} if prev is not None else None
         if old is None:
             print('No previous posts.json (first run); not posting the back catalogue.'); return
         new = [p for p in now if p['slug'] not in old]
