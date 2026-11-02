@@ -1,0 +1,26 @@
+name: Post new stories to Telegram
+on:
+  push:
+    branches: [main]
+    paths: [posts.json]
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "test = post the latest story once"
+        default: test
+permissions:
+  contents: read
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+      - name: Post
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+          BEFORE: ${{ github.event.before }}
+          MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'new' }}
+        run: python3 .github/scripts/telegram_post.py
