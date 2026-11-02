@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          P=http://lcinsight.net/news/bnb-just-burned-1-2-billion-of-itself-why-is-100-million-still-years-away.html
+          P=http://lcinsight.net/news/bnb-just-burned-1-2-billion-of-itself-why-is-100-million-still-years.html
           curl -sS -A "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X)" $P -o p.html -w "page %{http_code}\n" || true
           grep -o '<video[^>]*>.\{0,200\}' p.html | head -2
           curl -sSI http://lcinsight.net/art/bnb-37th-burn-1-2-billion-131-million-supply-banner.mp4 | head -8 || true
