@@ -1,5 +1,328 @@
 [
 {
+"slug": "what-is-a-rug-pull",
+"url": "https://lcinsight.net/news/what-is-a-rug-pull-how-crypto-exit-scams-work-and-6-warning-signs-to.html",
+"title": "What is a rug pull? How crypto exit scams work and 6 warning signs to check",
+"dek": "A rug pull is when a project's own insiders take buyers' money and walk away, by draining the pool, printing tokens through a backdoor or dumping their supply. Most of the warning signs are public on-chain before you buy.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T13:14:00-05:00",
+"image": "https://lcinsight.net/og/what-is-a-rug-pull.jpg",
+"hashtags": [
+"#ScamAlerts",
+"#TokenRisk",
+"#Memecoins",
+"#Solana",
+"#SEC"
+]
+},
+{
+"slug": "what-is-gas-fee",
+"url": "https://lcinsight.net/news/what-is-a-gas-fee-how-ethereum-fees-work-who-gets-paid-and-why-they.html",
+"title": "What is a gas fee? How Ethereum fees work, who gets paid and why they spike",
+"dek": "A gas fee is what you pay Ethereum to run a transaction: gas used times the base fee plus an optional tip. The base fee is burned, the tip goes to the validator, and the price can climb 12.5% a block when the network gets busy.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T13:12:00-05:00",
+"image": "https://lcinsight.net/og/what-is-gas-fee.jpg",
+"hashtags": [
+"#Ethereum",
+"#Layer2",
+"#TokenBurns",
+"#Solana",
+"#Glamsterdam"
+]
+},
+{
+"slug": "thailand-crypto-rules-explained",
+"url": "https://lcinsight.net/news/thailand-crypto-rules-explained-licenses-the-bybit-and-okx-blocks-and.html",
+"title": "Thailand crypto rules explained: licenses, the Bybit and OKX blocks, and tax",
+"dek": "Any crypto exchange, broker or dealer serving people in Thailand needs a Thai SEC license, and since April 2025 offshore platforms with Thai features can be blocked. Bybit, OKX and three others were named for blocking from June 28, 2025. Here is what that means for users, payments and tax.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T13:10:00-05:00",
+"image": "https://lcinsight.net/og/thailand-crypto-rules-explained.jpg",
+"hashtags": [
+"#Thailand",
+"#SECThailand",
+"#Licensing",
+"#Enforcement",
+"#Taxes"
+]
+},
+{
+"slug": "what-is-ton",
+"url": "https://lcinsight.net/news/what-is-ton-telegrams-blockchain-explained-and-why-toncoin-is-now-gram.html",
+"title": "What is TON? Telegram's blockchain explained, and why Toncoin is now Gram",
+"dek": "TON (The Open Network) is a proof-of-stake blockchain wired into Telegram, with a wallet built into the messenger. Its coin, long called Toncoin, now trades as Gram (GRAM), and that rename is the first thing a new user can trip over.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T13:10:00-05:00",
+"image": "https://lcinsight.net/og/what-is-ton.jpg",
+"hashtags": [
+"#TON",
+"#Wallets",
+"#Layer1",
+"#USDT",
+"#Staking"
+]
+},
+{
+"slug": "compound-unichain-reserves-withdrawal-vote",
+"url": "https://lcinsight.net/news/compounds-fourth-retreat-in-a-month-a-vote-to-pull-90-eth-and-42-000.html",
+"title": "Compound's fourth retreat in a month: a vote to pull 90 ETH and 42,000 USDC off Unichain",
+"dek": "A Compound DAO vote closing November 3, with no votes against so far, would send reserves from its deprecated Unichain markets back to Ethereum. A bigger 534,530 USDT withdrawal from Polygon was filed and canceled within an hour.",
+"category": "DeFi",
+"guide": false,
+"published": "2026-11-02T13:07:00-05:00",
+"image": "https://lcinsight.net/og/compound-unichain-reserves-withdrawal-vote.jpg",
+"hashtags": [
+"#DeFi",
+"#Governance",
+"#Layer2",
+"#USDC",
+"#Ether"
+]
+},
+{
+"slug": "polymarket-chainlink-15-minute-gold-silver-markets",
+"url": "https://lcinsight.net/news/polymarket-adds-15-minute-gold-and-silver-bets-one-early-window-traded.html",
+"title": "Polymarket adds 15-minute gold and silver bets. One early window traded just $100",
+"dek": "Polymarket has added 15-minute and one-hour Up or Down markets on gold and silver, settled by Chainlink price streams. The format began with crypto, where Chainlink says it has passed $9 billion in volume, but the metal markets start almost empty.",
+"category": "Markets",
+"guide": false,
+"published": "2026-11-02T13:07:00-05:00",
+"image": "https://lcinsight.net/og/polymarket-chainlink-15-minute-gold-silver-markets.jpg",
+"hashtags": [
+"#Polymarket",
+"#Chainlink",
+"#PredictionMarkets",
+"#Data",
+"#Gold"
+]
+},
+{
+"slug": "what-is-bitcoin",
+"url": "https://lcinsight.net/news/what-is-bitcoin-how-it-works-why-only-21-million-exist-and-the-risks.html",
+"title": "What is Bitcoin? How it works, why only 21 million exist and the risks",
+"dek": "Bitcoin is a digital currency that moves directly between users on a public network, with no bank or company in the middle. Miners secure it with computing power, its supply is capped at 21 million coins, and BTC traded near $77,323 as of November 2, 2026.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T13:07:00-05:00",
+"image": "https://lcinsight.net/og/what-is-bitcoin.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Mining",
+"#BitcoinCore",
+"#Hashrate",
+"#OnChainData"
+]
+},
+{
+"slug": "fincen-a7-network-a7a5-special-measure-comments-november-4",
+"url": "https://lcinsight.net/news/a7a5-stablecoin-network-moved-179-billion-fincen-wants-us-banks-and.html",
+"title": "A7A5 stablecoin network moved $179 billion. FinCEN wants US banks and crypto firms out",
+"dek": "A Treasury proposal would bar about 347,926 US financial institutions, crypto exchanges included, from moving money for the Russia-linked A7 network's front companies. Public comments close November 4, 2026.",
+"category": "Policy",
+"guide": false,
+"published": "2026-11-02T13:05:00-05:00",
+"image": "https://lcinsight.net/og/fincen-a7-network-a7a5-special-measure-comments-november-4.jpg",
+"hashtags": [
+"#Sanctions",
+"#OFAC",
+"#AML",
+"#Stablecoins",
+"#Enforcement"
+]
+},
+{
+"slug": "what-is-staking",
+"url": "https://lcinsight.net/news/what-is-staking-how-proof-of-stake-rewards-work-and-how-you-can-lose.html",
+"title": "What is staking? How proof-of-stake rewards work and how you can lose money",
+"dek": "Staking means locking tokens to help run a proof-of-stake blockchain, in return for rewards paid in that token. The stake is collateral: validators that go offline lose a little, and on Ethereum those that break the rules can be slashed.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T13:05:00-05:00",
+"image": "https://lcinsight.net/og/what-is-staking.jpg",
+"hashtags": [
+"#Staking",
+"#Ethereum",
+"#Validators",
+"#Hyperliquid",
+"#TokenSupply"
+]
+},
+{
+"slug": "what-is-chainlink",
+"url": "https://lcinsight.net/news/what-is-chainlink-how-defi-gets-its-prices-plus-ccip-and-link-staking.html",
+"title": "What is Chainlink? How DeFi gets its prices, plus CCIP and LINK staking",
+"dek": "Smart contracts cannot see the outside world, so lending apps rely on oracles like Chainlink to tell them what ether is worth. Chainlink also moves tokens between chains through CCIP, and LINK pays and backs the node operators who do the work.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T12:57:00-05:00",
+"image": "https://lcinsight.net/og/what-is-chainlink.jpg",
+"hashtags": [
+"#Chainlink",
+"#Staking",
+"#Interop",
+"#Bridges",
+"#SmartContracts"
+]
+},
+{
+"slug": "what-is-ethereum",
+"url": "https://lcinsight.net/news/what-is-ethereum-how-the-global-computer-works-what-eth-does-and-the.html",
+"title": "What is Ethereum? How the global computer works, what ETH does and the risks",
+"dek": "Ethereum is a public blockchain that runs programs called smart contracts, and ether (ETH) is the coin that pays for using it and secures it through staking. It launched in July 2015, switched from mining to proof of stake on September 15, 2022, and ETH traded near $2,267 as of November 2, 2026.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T12:52:00-05:00",
+"image": "https://lcinsight.net/og/what-is-ethereum.jpg",
+"hashtags": [
+"#Ethereum",
+"#Ether",
+"#Staking",
+"#SmartContracts",
+"#Layer1"
+]
+},
+{
+"slug": "what-is-mev",
+"url": "https://lcinsight.net/news/what-is-mev-how-sandwich-bots-profit-from-your-swap-and-how-to-cut-the.html",
+"title": "What is MEV? How sandwich bots profit from your swap, and how to cut the risk",
+"dek": "MEV, or maximal extractable value, is the profit made by choosing which transactions go into a block and in what order. Some of it keeps prices in line across exchanges. Sandwich attacks take it straight out of ordinary traders' swaps.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T12:52:00-05:00",
+"image": "https://lcinsight.net/og/what-is-mev.jpg",
+"hashtags": [
+"#Ethereum",
+"#DeFi",
+"#Validators",
+"#Uniswap",
+"#Explainer"
+]
+},
+{
+"slug": "what-is-tron",
+"url": "https://lcinsight.net/news/what-is-tron-how-the-chain-holding-92-6-billion-of-usdt-really-works.html",
+"title": "What is TRON? How the chain holding $92.6 billion of USDT really works",
+"dek": "TRON is the blockchain where more of Tether's USDT lives than anywhere else: about $92.6 billion on November 2, 2026, per DefiLlama. Here is how its energy and bandwidth fees work, and why 27 elected block makers decide the rules.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T12:50:00-05:00",
+"image": "https://lcinsight.net/og/what-is-tron.jpg",
+"hashtags": [
+"#TRON",
+"#USDT",
+"#Tether",
+"#Stablecoins",
+"#Staking"
+]
+},
+{
+"slug": "arbitrum-stylus-activation-contract-vote",
+"url": "https://lcinsight.net/news/arbitrum-vote-could-unfreeze-stylus-rust-contracts-but-each-needs-an.html",
+"title": "Arbitrum vote could unfreeze Stylus Rust contracts, but each needs an audit and sign-off",
+"dek": "New Stylus contracts on Arbitrum have been frozen since October 2 over fears of AI-assisted attacks. A DAO poll closing November 5 weighs a way back: every new program would need an auditor's pass and an Arbitrum Foundation signature.",
+"category": "Infrastructure",
+"guide": false,
+"published": "2026-11-02T12:41:00-05:00",
+"image": "https://lcinsight.net/og/arbitrum-stylus-activation-contract-vote.jpg",
+"hashtags": [
+"#Arbitrum",
+"#Layer2",
+"#Governance",
+"#SmartContracts",
+"#Upgrades"
+]
+},
+{
+"slug": "onepay-usdc-deposits-stripe-bridge-12-blockchains",
+"url": "https://lcinsight.net/news/send-usdc-on-12-blockchains-get-dollars-onepay-adds-stripe-powered.html",
+"title": "Send USDC on 12 blockchains, get dollars: OnePay adds Stripe-powered checking deposits",
+"dek": "Since October 30, 2026, select US OnePay customers can send USDC from an outside wallet straight into OnePay Checking. Stripe's Bridge converts it to dollars with no conversion fee at launch, but the coins are not FDIC insured on the way in.",
+"category": "Infrastructure",
+"guide": false,
+"published": "2026-11-02T12:41:00-05:00",
+"image": "https://lcinsight.net/og/onepay-usdc-deposits-stripe-bridge-12-blockchains.jpg",
+"hashtags": [
+"#USDC",
+"#Stablecoins",
+"#Stripe",
+"#Payments",
+"#Base"
+]
+},
+{
+"slug": "what-is-xrp-ledger",
+"url": "https://lcinsight.net/news/what-is-the-xrp-ledger-how-xrp-works-with-no-mining-and-what-ripple.html",
+"title": "What is the XRP Ledger? How XRP works with no mining, and what Ripple holds",
+"dek": "The XRP Ledger has run since 2012 and settles a new ledger every 4 to 6 seconds without mining. XRP is its coin, Ripple is a company that does not own it but reported holding 37.66 billion XRP at midyear, and RLUSD is Ripple's stablecoin on it.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T12:41:00-05:00",
+"image": "https://lcinsight.net/og/what-is-xrp-ledger.jpg",
+"hashtags": [
+"#XRP",
+"#Ripple",
+"#RLUSD",
+"#AMM",
+"#Layer1"
+]
+},
+{
+"slug": "kenya-vasp-act-grace-period-ends-november-4",
+"url": "https://lcinsight.net/news/kenyas-crypto-grace-period-ends-november-4-ksh-25-million-fines-for.html",
+"title": "Kenya's crypto grace period ends November 4: KSh 25 million fines for unlicensed firms",
+"dek": "Crypto firms already serving Kenya had one year to get licensed under the new VASP Act, and that year ends Wednesday. From November 4, 2026, a company operating without a license risks a fine of up to KSh 25 million.",
+"category": "Policy",
+"guide": false,
+"published": "2026-11-02T12:40:00-05:00",
+"image": "https://lcinsight.net/og/kenya-vasp-act-grace-period-ends-november-4.jpg",
+"hashtags": [
+"#Licensing",
+"#CryptoRegime",
+"#AML",
+"#Exchanges",
+"#Stablecoins"
+]
+},
+{
+"slug": "token-unlocks-november-2-8-2026-hype-kite-ena",
+"url": "https://lcinsight.net/news/token-unlocks-november-2-to-8-1-05-billion-due-led-by-hype-and-kites.html",
+"title": "Token unlocks November 2 to 8: $1.05 billion due, led by HYPE, and Kite's float jumps 27%",
+"dek": "Five scheduled unlocks this week add up to about $1.05 billion at November 2 prices, according to CoinGecko's calendars. Hyperliquid's HYPE is almost 80% of the dollar total, but Kite's KITE release is the biggest relative to what already trades.",
+"category": "Markets",
+"guide": false,
+"published": "2026-11-02T12:40:00-05:00",
+"image": "https://lcinsight.net/og/token-unlocks-november-2-8-2026-hype-kite-ena.jpg",
+"hashtags": [
+"#TokenUnlocks",
+"#Hyperliquid",
+"#Ethena",
+"#Avalanche",
+"#TokenSupply"
+]
+},
+{
+"slug": "what-is-bnb-chain",
+"url": "https://lcinsight.net/news/what-is-bnb-chain-three-chains-21-block-makers-and-0-45-second-blocks.html",
+"title": "What is BNB Chain? Three chains, 21 block makers and 0.45-second blocks",
+"dek": "BNB Chain is three blockchains that all run on BNB: BNB Smart Chain (BSC) for apps, the cheaper layer 2 opBNB and the storage network Greenfield. Its speed comes from a small club: just 21 validators make BSC's blocks at any one time.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T12:35:00-05:00",
+"image": "https://lcinsight.net/og/what-is-bnb-chain.jpg",
+"hashtags": [
+"#BNBChain",
+"#BNB",
+"#BSC",
+"#Validators",
+"#Layer2"
+]
+},
+{
 "slug": "circle-aci-worldwide-usdc-settlement-colombia-bre-b",
 "url": "https://lcinsight.net/news/circle-and-aci-want-banks-to-settle-in-usdc-on-rails-they-already-run.html",
 "title": "Circle and ACI want banks to settle in USDC on rails they already run. First: Colombia",
