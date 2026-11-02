@@ -74,7 +74,14 @@ def main():
         old = {p['slug'] for p in prev} if prev is not None else None
         if old is None:
             print('No previous posts.json (first run); not posting the back catalogue.'); return
-        new = [p for p in now if p['slug'] not in old]
+        # only genuinely fresh stories: a story that drops out and comes back (rollback, restore) is not re-posted
+        from datetime import datetime, timezone, timedelta
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=36)
+        seen = set()
+        for rev in subprocess.run(['git', 'rev-list', '--max-count=40', 'HEAD~1', '--', 'posts.json'], capture_output=True, text=True).stdout.split():
+            seen |= {p['slug'] for p in (load(rev) or [])}
+        new = [p for p in now if p['slug'] not in old and p['slug'] not in seen
+               and datetime.fromisoformat(p['published']) >= cutoff]
         news = [p for p in new if not p.get('guide')][:MAX_NEWS]
         guides = [p for p in new if p.get('guide')][:MAX_GUIDES]
         todo = sorted(news + guides, key=lambda p: p['published'])
