@@ -22,7 +22,7 @@ a:hover{color:var(--red-text)}
 .mast nav{display:flex;gap:20px;font-family:var(--sans);font-weight:500;font-size:14.5px;flex-wrap:wrap;justify-content:flex-end}
 .mast nav a{color:#E9EAEC;text-decoration:none;padding:6px 0;border-bottom:2px solid transparent;transition:border-color .15s ease,color .15s ease;white-space:nowrap}
 .mast nav a:hover,.mast nav a[aria-current]{color:#fff;border-color:var(--red)}
-.menu{display:none}
+.menu-btn,.mast .mnav{display:none}
 .subbar{border-bottom:1px solid var(--rule);font-family:var(--sans);font-size:13.5px;color:var(--mute);background:var(--paper)}
 .subbar .wrap{display:flex;justify-content:space-between;height:40px;align-items:center;gap:16px}
 
@@ -202,15 +202,14 @@ footer .legal .wrap{display:flex;justify-content:space-between;padding:16px 32px
 
 @media (max-width:1100px){.mast nav{gap:14px;font-size:13.5px}}
 @media (max-width:1020px){
- .mast nav{display:none}.menu{display:block}
- .menu summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:8px}
- .menu .bars{position:relative;width:24px;height:18px;display:block}
- .menu .bars i{position:absolute;left:0;width:24px;height:2.5px;border-radius:2px;background:#fff;transform-origin:50% 50%;transition:transform .2s,opacity .2s}
- .menu .bars i:nth-child(1){top:0}.menu .bars i:nth-child(2){top:8px}.menu .bars i:nth-child(3){top:16px}
- .menu[open] .bars i:nth-child(1){transform:translateY(8px) rotate(45deg)}.menu[open] .bars i:nth-child(2){opacity:0}.menu[open] .bars i:nth-child(3){transform:translateY(-8px) rotate(-45deg)}
- .menu summary::-webkit-details-marker{display:none}
- .menu[open] nav{display:flex;position:absolute;left:0;right:0;top:84px;background:var(--slate);flex-direction:column;gap:0;padding:8px 32px 18px;z-index:5}
- .menu[open] nav a{padding:10px 0;border-bottom:1px solid #454B51}
+ .mast nav{display:none}.menu-btn{display:flex}
+ .menu-btn{align-items:center;justify-content:center;width:44px;height:44px;border:0;background:transparent;border-radius:8px;cursor:pointer;padding:0;-webkit-tap-highlight-color:transparent;touch-action:manipulation}
+ .menu-btn .bars{position:relative;width:24px;height:18px;display:block}
+ .menu-btn .bars i{position:absolute;left:0;width:24px;height:2.5px;border-radius:2px;background:#fff;transform-origin:50% 50%;transition:transform .2s,opacity .2s}
+ .menu-btn .bars i:nth-child(1){top:0}.menu-btn .bars i:nth-child(2){top:8px}.menu-btn .bars i:nth-child(3){top:16px}
+ .menu-btn[aria-expanded=true] .bars i:nth-child(1){transform:translateY(8px) rotate(45deg)}.menu-btn[aria-expanded=true] .bars i:nth-child(2){opacity:0}.menu-btn[aria-expanded=true] .bars i:nth-child(3){transform:translateY(-8px) rotate(-45deg)}
+ .mast .mnav:not([hidden]){display:flex;position:absolute;left:0;right:0;top:84px;background:var(--slate);flex-direction:column;gap:0;padding:8px 32px 18px;z-index:5}
+ .mast .mnav a{padding:10px 0;border-bottom:1px solid #454B51}
  .top{grid-template-columns:minmax(0,1fr)}
  .row4{grid-template-columns:repeat(2,minmax(0,1fr))}
  .views{grid-template-columns:minmax(0,1fr)}
@@ -221,7 +220,7 @@ footer .legal .wrap{display:flex;justify-content:space-between;padding:16px 32px
 @media (max-width:640px){
  .wrap{padding:0 20px} body{font-size:18px}
  .mast .wrap{height:68px} .brand .m{height:46px} .brand .w{height:20px}
- .menu[open] nav{top:68px;padding:8px 20px 18px}
+ .mast .mnav:not([hidden]){top:68px;padding:8px 20px 18px}
  .head{padding-top:30px} .dek{font-size:19px}
  .body h2{font-size:26px}
  .tl li{grid-template-columns:62px 1fr;gap:12px}
