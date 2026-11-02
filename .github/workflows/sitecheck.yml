@@ -1,0 +1,13 @@
+name: Site check
+on: workflow_dispatch
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          U=https://lcinsight.net/news/circle-and-aci-want-banks-to-settle-in-usdc-on-rails-they-already-run.html
+          curl -sS -o /dev/null -w "https: %{http_code} %{time_total}s ssl_verify=%{ssl_verify_result}\n" $U || true
+          curl -sS -o /dev/null -w "http: %{http_code} -> %{redirect_url}\n" http://lcinsight.net/ || true
+          curl -sS -o /dev/null -w "www: %{http_code} -> %{redirect_url}\n" https://www.lcinsight.net/ || true
+          echo | openssl s_client -connect lcinsight.net:443 -servername lcinsight.net 2>/dev/null | openssl x509 -noout -subject -issuer -dates || echo "no cert"
+          dig +short lcinsight.net A; dig +short lcinsight.net AAAA; dig +short www.lcinsight.net
