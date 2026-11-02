@@ -38,9 +38,9 @@ def api(method, data):
         raise
 
 CAT_EMOJI = {"Security": "🛡️", "Markets": "📊", "Policy": "⚖️", "Exchanges": "🏦", "DeFi": "🌊", "Infrastructure": "⚙️",
-             "Projects": "🧩", "AI & RWA": "🤖", "Culture": "🎭", "Guides": "📚", "Guide": "📚"}
+             "Projects": "🧩", "AI & RWA": "🤖", "Culture": "🎭", "Guides": "📚", "Guide": "📚", "Airdrops": "🪂"}
 HOOK = [(("hack", "exploit", "stolen", "drain", "attack", "theft", "lost"), "🚨"), (("froze", "freeze", "frozen"), "🧊"),
-        (("airdrop", "reward"), "🎁"), (("launch", "upgrade", "mainnet", "faster", "tge"), "🚀"),
+        (("airdrop", "reward", "claim", "snapshot", "points"), "🎁"), (("launch", "upgrade", "mainnet", "faster", "tge"), "🚀"),
         (("sec ", "law ", "laws ", "court", "rules ", "ban ", "bans ", "license", "tax ", "regulator"), "⚖️"), (("burn",), "🔥"),
         (("jump", "surge", "soar", "record high", "rall", "inflow"), "📈"), (("fall", "drop", "plunge", "outflow", "crash"), "📉"),
         (("billion",), "💥"), (("whale",), "🐋"), (("bitcoin", "btc"), "🟠"), (("ethereum", "eth "), "💎")]
@@ -49,10 +49,15 @@ def hook(p):
     t = p['title'].lower()
     return next((e for keys, e in HOOK if any(re.search(r'\b' + re.escape(k.strip()) + (r'\b' if k.endswith(' ') else ''), t) for k in keys)), '⚡')
 
+HOT_CATS = {"Security", "Projects", "Airdrops"}
+HOT_HOOKS = {"🔥", "🚨", "🧊", "🎁", "🚀", "💥", "🐋", "📈", "📉"}
+def is_hot(p):
+    return bool(p.get('hot')) or p.get('category') in HOT_CATS or hook(p) in HOT_HOOKS
+
 def post(p):
     label = 'Guide' if p.get('guide') else p.get('category', 'News')
     tags = ' '.join(p.get('hashtags', []))
-    head = '🔥 HOT' if label == 'Security' and not p.get('guide') else ''
+    head = '🔥 HOT' if not p.get('guide') else ''
     cap = (f"{hook(p)} <b>{esc(p['title'])}</b>\n\n"
            f"👉 {esc(p['dek'])}\n\n"
            f"{CAT_EMOJI.get(label, '📰')} <i>{esc(label)}</i> · LC Insight{(' · ' + head) if head else ''}\n{esc(tags)}")
@@ -82,8 +87,9 @@ def main():
             seen |= {p['slug'] for p in (load(rev) or [])}
         new = [p for p in now if p['slug'] not in old and p['slug'] not in seen
                and datetime.fromisoformat(p['published']) >= cutoff]
-        news = [p for p in new if not p.get('guide')][:MAX_NEWS]
-        guides = [p for p in new if p.get('guide')][:MAX_GUIDES]
+        # channel = hot news and hot new projects/airdrops only (owner, November 3, 2026). No guides.
+        news = [p for p in new if not p.get('guide') and is_hot(p)][:MAX_NEWS]
+        guides = []
         todo = sorted(news + guides, key=lambda p: p['published'])
         skipped = len(new) - len(todo)
         if skipped: print(f'{skipped} more new stories not posted this time (limit per push).')
