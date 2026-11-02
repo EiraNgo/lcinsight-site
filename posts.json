@@ -1,5 +1,73 @@
 [
 {
+"slug": "circle-aci-worldwide-usdc-settlement-colombia-bre-b",
+"url": "https://lcinsight.net/news/circle-and-aci-want-banks-to-settle-in-usdc-on-rails-they-already-run.html",
+"title": "Circle and ACI want banks to settle in USDC on rails they already run. First: Colombia",
+"dek": "ACI Worldwide, which built the core of Colombia's Bre-B instant payment system, will plug Circle's USDC into its payments platform for a Colombian pilot. The two companies gave no volumes, no bank names and no launch date.",
+"category": "AI & RWA",
+"guide": false,
+"published": "2026-11-02T07:30:00-05:00",
+"image": "https://lcinsight.net/og/circle-aci-worldwide-usdc-settlement-colombia-bre-b.jpg",
+"hashtags": [
+"#Circle",
+"#USDC",
+"#Stablecoins",
+"#Payments",
+"#Banking"
+]
+},
+{
+"slug": "bnb-37th-burn-1-2-billion-131-million-supply",
+"url": "https://lcinsight.net/news/bnb-just-burned-1-2-billion-of-itself-why-is-100-million-still-years.html",
+"title": "BNB just burned $1.2 billion of itself. Why is 100 million still years away?",
+"dek": "The 37th quarterly auto-burn destroyed 1,646,196 BNB on October 19, the most coins of any burn this year. Supply is now 131.5 million BNB, still 31.5 million above the long-term target.",
+"category": "Exchanges",
+"guide": false,
+"published": "2026-11-02T07:00:00-05:00",
+"image": "https://lcinsight.net/og/bnb-37th-burn-1-2-billion-131-million-supply.jpg",
+"hashtags": [
+"#Binance",
+"#BNB",
+"#BSC",
+"#TokenBurns",
+"#OnChainData"
+]
+},
+{
+"slug": "bstocks-binance-tokenized-stocks-1-31-billion-no-1",
+"url": "https://lcinsight.net/news/bstocks-a-binance-affiliates-stock-tokens-jumps-53-percent-to-1-31.html",
+"title": "bStocks, a Binance affiliate's stock tokens, jumps 53% to $1.31 billion and No. 1",
+"dek": "bStocks, issued on BNB Chain by a Binance group affiliate, is now the largest tokenized stock platform. By our math it added more value in 30 days than the whole $3.58 billion market did, because the rest of the market shrank.",
+"category": "AI & RWA",
+"guide": false,
+"published": "2026-11-02T07:00:00-05:00",
+"image": "https://lcinsight.net/og/bstocks-binance-tokenized-stocks-1-31-billion-no-1.jpg",
+"hashtags": [
+"#TokenizedStocks",
+"#Binance",
+"#BSC",
+"#Tokenization",
+"#OnChainData"
+]
+},
+{
+"slug": "zcash-nu7-25-second-blocks-november-5",
+"url": "https://lcinsight.net/news/zcash-nu7-makes-blocks-3x-faster-around-november-5-old-nodes-will.html",
+"title": "Zcash NU7 makes blocks 3x faster around November 5. Old nodes will split off",
+"dek": "Zcash's NU7 hard fork activates at block 3,543,405, expected around November 5, 2026. It cuts block time from 75 to 25 seconds without changing supply, sends 60% of fees to a reserve and invalidates version 4 transactions. Nodes that do not upgrade split off.",
+"category": "Infrastructure",
+"guide": false,
+"published": "2026-11-02T07:00:00-05:00",
+"image": "https://lcinsight.net/og/zcash-nu7-25-second-blocks-november-5.jpg",
+"hashtags": [
+"#Zcash",
+"#Upgrades",
+"#HardForks",
+"#Mining",
+"#Privacy"
+]
+},
+{
 "slug": "how-stolen-crypto-is-traced-and-frozen",
 "url": "https://lcinsight.net/news/how-stolen-crypto-is-traced-and-frozen-and-why-thieves-dump.html",
 "title": "How stolen crypto is traced and frozen, and why thieves dump stablecoins fast",
@@ -14,6 +82,40 @@
 "#Enforcement",
 "#Circle",
 "#ExchangeFlows"
+]
+},
+{
+"slug": "crypto-travel-rule-explained",
+"url": "https://lcinsight.net/news/crypto-travel-rule-explained-what-exchanges-must-send-with-your.html",
+"title": "Crypto travel rule explained: what exchanges must send with your transfer",
+"dek": "The travel rule requires crypto exchanges and other providers to send the sender's and recipient's details along with a transfer, as banks do with wires. In the EU it applies to every crypto transfer regardless of amount, and 83% of jurisdictions surveyed by the FATF have passed travel rule laws.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T06:30:00-05:00",
+"image": "https://lcinsight.net/og/crypto-travel-rule-explained.jpg",
+"hashtags": [
+"#TravelRule",
+"#AML",
+"#FATF",
+"#EU",
+"#Stablecoins"
+]
+},
+{
+"slug": "dubai-vara-crypto-rules-explained",
+"url": "https://lcinsight.net/news/dubai-vara-crypto-rules-explained-who-needs-a-license-and-what-it.html",
+"title": "Dubai VARA crypto rules explained: who needs a license and what it covers",
+"dek": "In Dubai, crypto businesses need a license from the Virtual Assets Regulatory Authority (VARA), which covers the emirate's mainland and free zones except the DIFC. VARA licenses seven activities, from exchanges to custody, and regulates token issuance and crypto marketing.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T06:30:00-05:00",
+"image": "https://lcinsight.net/og/dubai-vara-crypto-rules-explained.jpg",
+"hashtags": [
+"#UAE",
+"#Dubai",
+"#VARA",
+"#Licensing",
+"#Exchanges"
 ]
 },
 {
@@ -33,6 +135,57 @@
 ]
 },
 {
+"slug": "stablecoins-explained-usdt-vs-usdc",
+"url": "https://lcinsight.net/news/stablecoins-explained-usdt-vs-usdc-the-two-coins-that-hold-87-percent.html",
+"title": "Stablecoins explained: USDT vs. USDC, the two coins that hold 87% of the market",
+"dek": "Stablecoins are tokens built to stay worth $1, backed by reserves such as cash and short-term US government debt. As of November 2, 2026, Tether's USDT ($178.48 billion) and Circle's USDC ($70.68 billion) made up about 87% of a $285.89 billion market, per rwa.xyz.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T06:20:00-05:00",
+"image": "https://lcinsight.net/og/stablecoins-explained-usdt-vs-usdc.jpg",
+"hashtags": [
+"#Stablecoins",
+"#USDC",
+"#Circle",
+"#OnChainData",
+"#MiCA"
+]
+},
+{
+"slug": "what-is-sui",
+"url": "https://lcinsight.net/news/what-is-sui-the-object-based-blockchain-that-says-it-settles-in-390-ms.html",
+"title": "What is Sui? The object-based blockchain that says it settles in 390 ms",
+"dek": "Sui is a layer-1 blockchain from Mysten Labs, founded by former Meta engineers, that launched in May 2023. It stores everything as objects with clear owners, runs smart contracts in Move and, by Sui's own figure, settles transactions in roughly 390 milliseconds. SUI has a 10 billion total supply.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T06:20:00-05:00",
+"image": "https://lcinsight.net/og/what-is-sui.jpg",
+"hashtags": [
+"#Sui",
+"#Move",
+"#Layer1",
+"#Hashi",
+"#Bitcoin"
+]
+},
+{
+"slug": "copy-trading-explained-and-its-risks",
+"url": "https://lcinsight.net/news/copy-trading-explained-how-it-works-what-lead-traders-take-and-why.html",
+"title": "Copy trading explained: how it works, what lead traders take and why results differ",
+"dek": "Copy trading lets you automatically mirror another trader's positions on an exchange, in return for a share of any profit. Your results can differ from theirs because of order size, slippage and timing, and regulators warn it can encourage herd behavior and frequent trading.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T06:15:00-05:00",
+"image": "https://lcinsight.net/og/copy-trading-explained-and-its-risks.jpg",
+"hashtags": [
+"#CopyTrading",
+"#Exchanges",
+"#Binance",
+"#OKX",
+"#Perpetuals"
+]
+},
+{
 "slug": "seed-phrase-and-hardware-wallet-safety-explained",
 "url": "https://lcinsight.net/news/seed-phrase-and-hardware-wallet-safety-the-words-that-guard-your.html",
 "title": "Seed phrase and hardware wallet safety: the words that guard your crypto",
@@ -46,6 +199,23 @@
 "#HardwareWallets",
 "#Ledger",
 "#SupplyChain"
+]
+},
+{
+"slug": "what-is-deepsea-desea-io",
+"url": "https://lcinsight.net/news/what-is-deepsea-desea-io-the-onchain-app-that-labels-wallets-and.html",
+"title": "What is DeepSea (desea.io)? The onchain app that labels wallets and tracks flows",
+"dek": "DeepSea (desea.io) is a web app that labels crypto wallets and tracks what smart money, influencers, whales, exchanges and hackers do onchain. It is run by DeepTek Ltd, and its own terms say the data is information only, not financial advice.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T06:05:00-05:00",
+"image": "https://lcinsight.net/og/what-is-deepsea-desea-io.jpg",
+"hashtags": [
+"#DeepSea",
+"#OnChainData",
+"#Data",
+"#Hacks",
+"#ExchangeFlows"
 ]
 },
 {
@@ -83,6 +253,90 @@
 ]
 },
 {
+"slug": "stellar-protocol-30-bell-vote-post-quantum",
+"url": "https://lcinsight.net/news/stellar-votes-on-bell-november-3-wallets-must-learn-a-new-w-address.html",
+"title": "Stellar votes on Bell November 3: wallets must learn a new \"W\" address",
+"dek": "Stellar's Protocol 30 upgrade, Bell, faces a testnet validator vote on November 3 and a mainnet vote on November 23, 2026. It adds a new \"W\" address, post-quantum signature checks for smart contracts and millisecond ledger timing, and Stellar says apps must update their SDKs.",
+"category": "Infrastructure",
+"guide": false,
+"published": "2026-11-02T06:00:00-05:00",
+"image": "https://lcinsight.net/og/stellar-protocol-30-bell-vote-post-quantum.jpg",
+"hashtags": [
+"#Stellar",
+"#Upgrades",
+"#PostQuantum",
+"#SmartContracts",
+"#PiNetwork"
+]
+},
+{
+"slug": "bitcoin-mining-and-hashrate-explained",
+"url": "https://lcinsight.net/news/bitcoin-mining-and-hashrate-explained-difficulty-hashprice-and-data.html",
+"title": "Bitcoin mining and hashrate explained: difficulty, hashprice and data sources",
+"dek": "Bitcoin miners race to find a block hash below a target, and every 2,016 blocks (about two weeks) the network resets the difficulty so blocks keep coming about every 10 minutes. Hashrate, the total guessing power, cannot be measured directly; it is estimated from difficulty and block times.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T05:45:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-mining-and-hashrate-explained.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Mining",
+"#Hashrate",
+"#Data",
+"#OnChainData"
+]
+},
+{
+"slug": "what-are-exchange-tokens-bnb-okb-explained",
+"url": "https://lcinsight.net/news/what-are-exchange-tokens-bnb-keeps-burning-okb-froze-its-supply-at-21m.html",
+"title": "What are exchange tokens? BNB keeps burning, OKB froze its supply at 21M",
+"dek": "Exchange tokens are coins tied to a crypto exchange that give holders perks on the platform and pay gas on the exchange's own blockchain. BNB shrinks through quarterly burns toward 100 million; OKB's supply was fixed at 21 million in 2025. Both stay tied to one company.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T05:40:00-05:00",
+"image": "https://lcinsight.net/og/what-are-exchange-tokens-bnb-okb-explained.jpg",
+"hashtags": [
+"#BNB",
+"#OKB",
+"#Binance",
+"#OKX",
+"#TokenBurns"
+]
+},
+{
+"slug": "what-is-address-poisoning",
+"url": "https://lcinsight.net/news/what-is-address-poisoning-the-copy-paste-scam-hiding-in-your-wallet.html",
+"title": "What is address poisoning? The copy-paste scam hiding in your wallet history",
+"dek": "Address poisoning is a scam where an attacker plants a lookalike address in your transaction history and waits for you to copy it. No hacking is needed, only a tiny or fake transfer and a hurried user, and the payment cannot be reversed.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T05:40:00-05:00",
+"image": "https://lcinsight.net/og/what-is-address-poisoning.jpg",
+"hashtags": [
+"#Wallets",
+"#Hacks",
+"#Stablecoins",
+"#Ethereum"
+]
+},
+{
+"slug": "crypto-taxes-in-the-us-form-1099-da-explained",
+"url": "https://lcinsight.net/news/crypto-taxes-in-the-us-form-1099-da-explained-from-proceeds-to-cost.html",
+"title": "Crypto taxes in the US: Form 1099-DA explained, from proceeds to cost basis",
+"dek": "Form 1099-DA is the IRS form US crypto brokers use to report your sales. It shows gross proceeds for sales from 2025 and adds cost basis for certain sales from 2026, but you must report all crypto gains and income whether or not you get one.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T05:30:00-05:00",
+"image": "https://lcinsight.net/og/crypto-taxes-in-the-us-form-1099-da-explained.jpg",
+"hashtags": [
+"#Taxes",
+"#IRS",
+"#Form1099DA",
+"#Stablecoins",
+"#Exchanges"
+]
+},
+{
 "slug": "south-korea-crypto-rules-explained",
 "url": "https://lcinsight.net/news/south-korea-crypto-rules-explained-cold-wallets-bank-held-cash-and.html",
 "title": "South Korea crypto rules explained: cold wallets, bank-held cash and jail terms",
@@ -100,6 +354,23 @@
 ]
 },
 {
+"slug": "fdv-vs-market-cap-how-to-read-tokenomics",
+"url": "https://lcinsight.net/news/fdv-vs-market-cap-how-to-read-a-tokens-supply-with-hypes-4x-gap-as-a.html",
+"title": "FDV vs market cap: how to read a token's supply, with HYPE's 4x gap as a guide",
+"dek": "Market cap is price times the tokens circulating today. Fully diluted valuation (FDV) is price times the whole supply, including locked tokens. The gap between them shows how much supply is still to come.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T05:25:00-05:00",
+"image": "https://lcinsight.net/og/fdv-vs-market-cap-how-to-read-tokenomics.jpg",
+"hashtags": [
+"#Data",
+"#Hyperliquid",
+"#TokenSales",
+"#OnChainData",
+"#Airdrops"
+]
+},
+{
 "slug": "how-to-check-and-revoke-token-approvals",
 "url": "https://lcinsight.net/news/how-to-check-and-revoke-token-approvals-before-an-old-one-drains-your.html",
 "title": "How to check and revoke token approvals before an old one drains your wallet",
@@ -113,6 +384,40 @@
 "#Ethereum",
 "#DeFi",
 "#Hacks"
+]
+},
+{
+"slug": "cex-vs-dex-explained",
+"url": "https://lcinsight.net/news/cex-vs-dex-explained-who-holds-your-crypto-and-what-can-go-wrong.html",
+"title": "CEX vs DEX explained: who holds your crypto, and what can go wrong",
+"dek": "A centralized exchange (CEX) is a company that holds your coins and matches orders in an order book; a decentralized exchange (DEX) is blockchain software that lets you swap from your own wallet against a pool of tokens. The real trade-off is custody: convenience and support on one side, control and responsibility on the other.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T05:05:00-05:00",
+"image": "https://lcinsight.net/og/cex-vs-dex-explained.jpg",
+"hashtags": [
+"#Exchanges",
+"#DeFi",
+"#Uniswap",
+"#Binance",
+"#Wallets"
+]
+},
+{
+"slug": "what-is-a-layer-2-explained",
+"url": "https://lcinsight.net/news/what-is-a-layer-2-rollups-proofs-and-why-no-big-l2-is-stage-2-yet.html",
+"title": "What is a layer 2? Rollups, proofs and why no big L2 is Stage 2 yet",
+"dek": "A layer 2 is a separate blockchain that runs transactions cheaply and settles them on Ethereum, using fraud proofs or validity proofs to show its state is correct. L2BEAT tracks about $30 billion in L2s, and its Stages show how much control each team still holds.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T05:05:00-05:00",
+"image": "https://lcinsight.net/og/what-is-a-layer-2-explained.jpg",
+"hashtags": [
+"#Layer2",
+"#Ethereum",
+"#Base",
+"#Bridges",
+"#Data"
 ]
 },
 {
@@ -166,6 +471,88 @@
 ]
 },
 {
+"slug": "crypto-options-expiry-and-max-pain-explained",
+"url": "https://lcinsight.net/news/crypto-options-expiry-and-max-pain-explained-what-happens-at-3-a-m-et.html",
+"title": "Crypto options expiry and max pain explained: what happens at 3 a.m. ET",
+"dek": "Crypto options on Deribit, a major options exchange, expire at 3 a.m. ET (4 a.m. ET during daylight saving time) and settle in cash against a 30-minute average of an index price. Max pain is the strike price at which the most option value would expire worthless, a number traders watch but one that does not control the price.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:50:00-05:00",
+"image": "https://lcinsight.net/og/crypto-options-expiry-and-max-pain-explained.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Options",
+"#Deribit",
+"#Data"
+]
+},
+{
+"slug": "token-unlocks-explained",
+"url": "https://lcinsight.net/news/token-unlocks-explained-cliffs-vesting-and-why-unlocked-does-not-mean.html",
+"title": "Token unlocks explained: cliffs, vesting and why unlocked does not mean sold",
+"dek": "A token unlock is when tokens locked at launch, usually for the team, investors or a treasury, become free to move. Unlocks add to circulating supply and dilute holders, but an unlocked token is not a sold one: Hyperliquid insiders claimed far less HYPE than they could.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:50:00-05:00",
+"image": "https://lcinsight.net/og/token-unlocks-explained.jpg",
+"hashtags": [
+"#TokenSales",
+"#Hyperliquid",
+"#Data",
+"#Airdrops",
+"#OnChainData"
+]
+},
+{
+"slug": "what-is-a-wallet-drainer",
+"url": "https://lcinsight.net/news/what-is-a-wallet-drainer-how-one-signature-can-empty-your-crypto.html",
+"title": "What is a wallet drainer? How one signature can empty your crypto wallet",
+"dek": "A wallet drainer is a scam kit that tricks you into signing an approval or permit that lets the attacker move your tokens. Your seed phrase never leaves your hands: your own signature does the damage, sometimes days later.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:40:00-05:00",
+"image": "https://lcinsight.net/og/what-is-a-wallet-drainer.jpg",
+"hashtags": [
+"#Wallets",
+"#Hacks",
+"#Ethereum",
+"#DeFi"
+]
+},
+{
+"slug": "bitcoin-dominance-and-crypto-market-cap-explained",
+"url": "https://lcinsight.net/news/bitcoin-dominance-and-crypto-market-cap-explained-why-sites-say-58.html",
+"title": "Bitcoin dominance and crypto market cap explained: why sites say 58% or 60%",
+"dek": "Total crypto market cap adds up the market value of every tracked coin, and bitcoin dominance is bitcoin's share of it. As of November 2, 2026, the total was about $2.6 trillion to $2.7 trillion and bitcoin's share about 58% to 60%, depending on the data site.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:30:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-dominance-and-crypto-market-cap-explained.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Ethereum",
+"#Data",
+"#Stablecoins"
+]
+},
+{
+"slug": "hong-kong-crypto-licensing-explained",
+"url": "https://lcinsight.net/news/hong-kong-crypto-licensing-explained-sfc-exchange-rules-2-of-36.html",
+"title": "Hong Kong crypto licensing explained: SFC exchange rules, 2 of 36 stablecoin bids",
+"dek": "In Hong Kong, crypto exchanges need a license from the Securities and Futures Commission, and anyone issuing a fiat-backed stablecoin needs one from the Hong Kong Monetary Authority. Only two stablecoin issuers had been licensed as of April 2026: HSBC and Anchorpoint Financial.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:30:00-05:00",
+"image": "https://lcinsight.net/og/hong-kong-crypto-licensing-explained.jpg",
+"hashtags": [
+"#HongKong",
+"#SFC",
+"#HKMA",
+"#Stablecoins",
+"#Licensing"
+]
+},
+{
 "slug": "sec-vs-cftc-who-regulates-crypto",
 "url": "https://lcinsight.net/news/sec-vs-cftc-who-regulates-crypto-in-the-us-and-where-the-line-now.html",
 "title": "SEC vs. CFTC: who regulates crypto in the US, and where the line now falls",
@@ -180,6 +567,89 @@
 "#MarketStructure",
 "#Tokenization",
 "#PredictionMarkets"
+]
+},
+{
+"slug": "binance-launchpool-and-hodler-airdrops-explained",
+"url": "https://lcinsight.net/news/binance-launchpool-and-hodler-airdrops-explained-how-bnb-holders-earn.html",
+"title": "Binance Launchpool and HODLer Airdrops explained: how BNB holders earn new tokens",
+"dek": "Launchpool pays a new token hour by hour to people who lock BNB or stablecoins; HODLer Airdrops pay one after the fact to people who held BNB in Simple Earn during a past window. Both depend on your share of a pool, and both carry price risk.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:20:00-05:00",
+"image": "https://lcinsight.net/og/binance-launchpool-and-hodler-airdrops-explained.jpg",
+"hashtags": [
+"#Binance",
+"#BNB",
+"#Airdrops",
+"#TokenSales",
+"#Exchanges"
+]
+},
+{
+"slug": "ethereum-roadmap-explained",
+"url": "https://lcinsight.net/news/ethereum-roadmap-explained-pectra-fusaka-and-why-glamsterdam-has-no.html",
+"title": "Ethereum roadmap explained: Pectra, Fusaka and why Glamsterdam has no date",
+"dek": "Ethereum upgrades through named hard forks. Pectra went live on May 7, 2025, and Fusaka on December 3, 2025. Glamsterdam, the next one, is live on the Sepolia testnet but was pulled from Hoodi in October 2026, and as of November 2, 2026, it has no mainnet date.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:15:00-05:00",
+"image": "https://lcinsight.net/og/ethereum-roadmap-explained.jpg",
+"hashtags": [
+"#Ethereum",
+"#Upgrades",
+"#HardForks",
+"#Glamsterdam",
+"#Layer2"
+]
+},
+{
+"slug": "tokenized-treasuries-explained",
+"url": "https://lcinsight.net/news/tokenized-treasuries-explained-buidl-usdy-and-the-14-2b-t-bill-market.html",
+"title": "Tokenized Treasuries explained: BUIDL, USDY and the $14.2B T-bill market",
+"dek": "Tokenized Treasuries are blockchain tokens that stand for shares in funds holding US government debt, and unlike most stablecoins they pay interest. As of November 2, 2026, rwa.xyz counted $14.21 billion across 119 products, led by Ondo's USDY, Circle's USYC and BlackRock's BUIDL.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:15:00-05:00",
+"image": "https://lcinsight.net/og/tokenized-treasuries-explained.jpg",
+"hashtags": [
+"#TokenizedTreasuries",
+"#Tokenization",
+"#OnChainData",
+"#Stablecoins"
+]
+},
+{
+"slug": "what-is-a-tge-token-generation-event",
+"url": "https://lcinsight.net/news/what-is-a-tge-token-launch-day-explained-and-why-most-supply-stays.html",
+"title": "What is a TGE? Token launch day explained, and why most supply stays locked",
+"dek": "A TGE, or token generation event, is the moment a crypto project creates its token and the first slice starts to circulate. Airdrop claims and trading usually begin then, while team and investor tokens stay locked for months or years.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:15:00-05:00",
+"image": "https://lcinsight.net/og/what-is-a-tge-token-generation-event.jpg",
+"hashtags": [
+"#TokenSales",
+"#Airdrops",
+"#PointsPrograms",
+"#Exchanges",
+"#DeFi"
+]
+},
+{
+"slug": "bitcoin-halving-explained",
+"url": "https://lcinsight.net/news/bitcoin-halving-explained-what-it-is-when-the-next-one-is-and-why-it.html",
+"title": "Bitcoin halving explained: what it is, when the next one is and why it matters",
+"dek": "The bitcoin halving is a rule in bitcoin's code that cuts the reward for mining a new block in half every 210,000 blocks, about every four years. The last one happened on April 20, 2024, at block 840,000. The next is due at block 1,050,000, expected around spring 2028.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:10:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-halving-explained.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Mining",
+"#OnChainData",
+"#Data"
 ]
 },
 {
@@ -234,6 +704,40 @@
 ]
 },
 {
+"slug": "vietnam-crypto-law-explained",
+"url": "https://lcinsight.net/news/vietnam-crypto-law-explained-5-licenses-vnd-200m-fines-and-a-6-month.html",
+"title": "Vietnam crypto law explained: 5 licenses, VND 200M fines and a 6-month clock",
+"dek": "Crypto is legally defined in Vietnam, and a five-year pilot lets up to five licensed local firms run crypto markets. As of the latest official update on October 6, 2026, no provider had been licensed, so the six-month countdown for investors using unlicensed platforms has not started.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:00:00-05:00",
+"image": "https://lcinsight.net/og/vietnam-crypto-law-explained.jpg",
+"hashtags": [
+"#Vietnam",
+"#MinistryOfFinance",
+"#Decree284",
+"#Licensing",
+"#Exchanges"
+]
+},
+{
+"slug": "what-is-restaking-eigenlayer-explained",
+"url": "https://lcinsight.net/news/what-is-restaking-eigenlayer-explained-from-extra-rewards-to-slashing.html",
+"title": "What is restaking? EigenLayer explained, from extra rewards to slashing risk",
+"dek": "Restaking lets stakers put the same stake to work securing extra services for extra rewards. EigenLayer is the main protocol for it: stakers deposit assets, operators run the services, and those services can slash stake when rules are broken.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:00:00-05:00",
+"image": "https://lcinsight.net/og/what-is-restaking-eigenlayer-explained.jpg",
+"hashtags": [
+"#EigenLayer",
+"#Restaking",
+"#Ethereum",
+"#Staking",
+"#DeFi"
+]
+},
+{
 "slug": "how-crypto-liquidations-work",
 "url": "https://lcinsight.net/news/how-crypto-liquidations-work-why-a-10-percent-move-can-wipe-out-a-10x.html",
 "title": "How crypto liquidations work: why a 10% move can wipe out a 10x trade",
@@ -247,6 +751,74 @@
 "#Perpetuals",
 "#Bitcoin",
 "#Data"
+]
+},
+{
+"slug": "ai-agents-in-crypto-explained",
+"url": "https://lcinsight.net/news/ai-agents-in-crypto-explained-how-bots-get-wallets-and-pay-and-what.html",
+"title": "AI agents in crypto explained: how bots get wallets and pay, and what can go wrong",
+"dek": "An AI agent is software that takes actions on its own, not just answers questions. In crypto, agents hold wallets and pay for things in stablecoins, often through the x402 protocol, with spending limits their owners may or may not switch on.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:40:00-05:00",
+"image": "https://lcinsight.net/og/ai-agents-in-crypto-explained.jpg",
+"hashtags": [
+"#AIAgents",
+"#X402",
+"#Payments",
+"#Stablecoins",
+"#Wallets"
+]
+},
+{
+"slug": "what-are-points-programs-in-crypto",
+"url": "https://lcinsight.net/news/what-are-points-programs-in-crypto-how-they-work-and-why-points-are.html",
+"title": "What are points programs in crypto? How they work and why points are not tokens",
+"dek": "A points program scores what users do on a crypto product, such as deposits, trades or referrals, and usually hints that points will later become tokens. Points are not tokens: the project decides if, when and how they convert.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:40:00-05:00",
+"image": "https://lcinsight.net/og/what-are-points-programs-in-crypto.jpg",
+"hashtags": [
+"#PointsPrograms",
+"#Airdrops",
+"#Hyperliquid",
+"#TokenSales",
+"#DeFi"
+]
+},
+{
+"slug": "what-is-solana-and-alpenglow-explained",
+"url": "https://lcinsight.net/news/what-is-solana-alpenglow-explained-from-12-8-second-finality-to-a-150.html",
+"title": "What is Solana? Alpenglow explained, from 12.8-second finality to a 150 ms goal",
+"dek": "Alpenglow is Solana's new consensus protocol. Its first part, Votor, went live on mainnet on October 21, 2026, replacing TowerBFT and cutting the time for a transaction to become final from about 12.8 seconds to a target of about 150 milliseconds.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:40:00-05:00",
+"image": "https://lcinsight.net/og/what-is-solana-and-alpenglow-explained.jpg",
+"hashtags": [
+"#Solana",
+"#Upgrades",
+"#Alpenglow",
+"#Validators",
+"#Data"
+]
+},
+{
+"slug": "clarity-act-explained",
+"url": "https://lcinsight.net/news/clarity-act-explained-what-the-crypto-market-bill-would-do-and-why-it.html",
+"title": "CLARITY Act explained: what the crypto market bill would do and why it stalled",
+"dek": "The CLARITY Act, H.R. 3633, would write into law which crypto assets and platforms the SEC oversees and which fall to the CFTC. As of November 2, 2026, it is stuck in the Senate after a 49 to 50 vote to start debate failed on September 15.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:30:00-05:00",
+"image": "https://lcinsight.net/og/clarity-act-explained.jpg",
+"hashtags": [
+"#CLARITYAct",
+"#Congress",
+"#MarketStructure",
+"#SEC",
+"#CFTC"
 ]
 },
 {
@@ -266,6 +838,23 @@
 ]
 },
 {
+"slug": "what-is-sky-protocol-usds",
+"url": "https://lcinsight.net/news/what-is-sky-protocol-and-usds-the-former-makerdao-and-its-3-80-percent.html",
+"title": "What is Sky Protocol and USDS? The former MakerDAO and its 3.80% savings rate",
+"dek": "Sky is the protocol formerly known as MakerDAO. It issues USDS, a dollar stablecoin, and sUSDS, a savings token that earned the Sky Savings Rate of 3.80% shown on Sky.money on November 2, 2026, a rate set by vote and not guaranteed.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:30:00-05:00",
+"image": "https://lcinsight.net/og/what-is-sky-protocol-usds.jpg",
+"hashtags": [
+"#Sky",
+"#USDS",
+"#MakerDAO",
+"#DAI",
+"#Stablecoins"
+]
+},
+{
 "slug": "how-crypto-airdrops-work-and-how-to-avoid-airdrop-scams",
 "url": "https://lcinsight.net/news/how-crypto-airdrops-work-and-how-to-spot-the-scams-that-copy-them.html",
 "title": "How crypto airdrops work, and how to spot the scams that copy them",
@@ -280,6 +869,73 @@
 "#Wallets",
 "#Hacks",
 "#TokenSales"
+]
+},
+{
+"slug": "what-is-a-bitcoin-etf",
+"url": "https://lcinsight.net/news/what-is-a-bitcoin-etf-how-spot-funds-hold-coins-and-what-daily-flows.html",
+"title": "What is a bitcoin ETF? How spot funds hold coins and what daily flows mean",
+"dek": "A spot bitcoin ETF is a fund that holds real bitcoin and trades on a stock exchange like a share. Big brokers create and redeem its shares in blocks, and the daily flow numbers measure exactly those creations and redemptions.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:10:00-05:00",
+"image": "https://lcinsight.net/og/what-is-a-bitcoin-etf.jpg",
+"hashtags": [
+"#BitcoinETF",
+"#ETF",
+"#Bitcoin",
+"#ExchangeFlows"
+]
+},
+{
+"slug": "what-is-base",
+"url": "https://lcinsight.net/news/what-is-base-how-coinbases-14-7b-layer-2-works-and-who-can-change-it.html",
+"title": "What is Base? How Coinbase's $14.7B layer 2 works and who can change it",
+"dek": "Base is an Ethereum layer 2, an optimistic rollup built with the OP Stack, and the biggest by value: about $14.7 billion secured as of November 2, 2026, per L2BEAT. It runs transactions cheaply, posts the data to Ethereum, and a Coinbase multisig holds one of its two upgrade keys.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:10:00-05:00",
+"image": "https://lcinsight.net/og/what-is-base.jpg",
+"hashtags": [
+"#Base",
+"#Layer2",
+"#Coinbase",
+"#Ethereum",
+"#Upgrades"
+]
+},
+{
+"slug": "what-is-proof-of-reserves",
+"url": "https://lcinsight.net/news/what-is-proof-of-reserves-what-it-proves-about-exchanges-and-what-it.html",
+"title": "What is proof of reserves? What it proves about exchanges, and what it misses",
+"dek": "Proof of reserves is a public check that an exchange holds at least as much crypto as its customers have deposited. Merkle trees or zero-knowledge proofs let you confirm your balance was counted, but it is a one-day snapshot, not proof the company is solvent.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:10:00-05:00",
+"image": "https://lcinsight.net/og/what-is-proof-of-reserves.jpg",
+"hashtags": [
+"#ProofOfReserves",
+"#Exchanges",
+"#Binance",
+"#OKX",
+"#OnChainData"
+]
+},
+{
+"slug": "what-is-x402",
+"url": "https://lcinsight.net/news/what-is-x402-the-http-payment-protocol-that-lets-ai-agents-pay-per.html",
+"title": "What is x402? The HTTP payment protocol that lets AI agents pay per request",
+"dek": "x402 is an open protocol that uses the web's \"402 Payment Required\" status code so apps and AI agents can pay for an API call or a web page in stablecoins, inside the request itself, with no account or card form.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:10:00-05:00",
+"image": "https://lcinsight.net/og/what-is-x402.jpg",
+"hashtags": [
+"#X402",
+"#AIAgents",
+"#Payments",
+"#Coinbase",
+"#Base"
 ]
 },
 {
@@ -401,6 +1057,23 @@
 ]
 },
 {
+"slug": "what-is-hyperliquid",
+"url": "https://lcinsight.net/news/what-is-hyperliquid-how-the-188b-a-month-onchain-perps-exchange-works.html",
+"title": "What is Hyperliquid? How the $188B-a-month onchain perps exchange works",
+"dek": "Hyperliquid is a blockchain built for trading. Its HyperCore engine runs perpetual futures and spot order books fully onchain, and DefiLlama showed $188.1 billion of perp volume in the 30 days to November 2, 2026.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:00:00-05:00",
+"image": "https://lcinsight.net/og/what-is-hyperliquid.jpg",
+"hashtags": [
+"#Hyperliquid",
+"#PerpetualFutures",
+"#Perpetuals",
+"#DeFi",
+"#Exchanges"
+]
+},
+{
 "slug": "mica-explained",
 "url": "https://lcinsight.net/news/mica-explained-the-eu-crypto-law-casp-licenses-stablecoin-rules-and.html",
 "title": "MiCA explained: the EU crypto law, CASP licenses, stablecoin rules and key dates",
@@ -415,6 +1088,23 @@
 "#Stablecoins",
 "#CASPs",
 "#ESMA"
+]
+},
+{
+"slug": "what-is-ethena-usde",
+"url": "https://lcinsight.net/news/what-is-ethena-usde-how-the-hedged-synthetic-dollar-works-and-what-can.html",
+"title": "What is Ethena USDe? How the hedged synthetic dollar works and what can break it",
+"dek": "USDe is Ethena's synthetic dollar. It is backed by crypto and stablecoins, with the crypto's price risk canceled out by short futures, and its staked version, sUSDe, earns from that trade until funding rates turn against it.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T02:30:00-05:00",
+"image": "https://lcinsight.net/og/what-is-ethena-usde.jpg",
+"hashtags": [
+"#Ethena",
+"#USDe",
+"#Stablecoins",
+"#DeFi",
+"#PerpetualFutures"
 ]
 },
 {
@@ -502,6 +1192,23 @@
 ]
 },
 {
+"slug": "what-is-uniswap",
+"url": "https://lcinsight.net/news/what-is-uniswap-how-the-5-75b-dex-works-from-amm-pools-to-v4-hooks.html",
+"title": "What is Uniswap? How the $5.75B DEX works, from AMM pools to v4 hooks",
+"dek": "Uniswap is a decentralized exchange where people swap tokens against pools of liquidity instead of an order book. DefiLlama counted about $5.75 billion locked in it on November 2, 2026, and its newest version, v4, lets developers attach custom code called hooks to each pool.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T02:00:00-05:00",
+"image": "https://lcinsight.net/og/what-is-uniswap.jpg",
+"hashtags": [
+"#Uniswap",
+"#UNI",
+"#DeFi",
+"#Ethereum",
+"#FeeSwitch"
+]
+},
+{
 "slug": "deepsea-weekly-12-18-october-hyperliquid-flip-2-2b",
 "url": "https://lcinsight.net/news/asian-exchanges-lost-2-2-billion-in-one-week-and-2-12-billion-of-it.html",
 "title": "Asian exchanges lost $2.2 billion in one week, and $2.12 billion of it left Binance",
@@ -516,6 +1223,40 @@
 "#Hyperliquid",
 "#Binance",
 "#ExchangeFlows"
+]
+},
+{
+"slug": "genius-act-explained",
+"url": "https://lcinsight.net/news/genius-act-explained-what-the-us-stablecoin-law-requires-and-who.html",
+"title": "GENIUS Act explained: what the US stablecoin law requires and who enforces it",
+"dek": "The GENIUS Act is the US federal law for payment stablecoins. It requires full reserves, quick redemption and no interest for simply holding a token, and it takes effect on January 18, 2027, under the OCC's final rule.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T01:30:00-05:00",
+"image": "https://lcinsight.net/og/genius-act-explained.jpg",
+"hashtags": [
+"#GENIUSAct",
+"#Stablecoins",
+"#OCC",
+"#FederalReserve",
+"#Banking"
+]
+},
+{
+"slug": "what-is-aave",
+"url": "https://lcinsight.net/news/what-is-aave-how-the-10-9b-defi-lending-protocol-works-and-what-can-go.html",
+"title": "What is Aave? How the $10.9B DeFi lending protocol works and what can go wrong",
+"dek": "Aave is a set of smart contracts where people supply crypto to earn interest and borrow against collateral, with no bank in the middle. As of November 2, 2026, DefiLlama counted about $10.9 billion locked in it, most of it on Ethereum.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T01:30:00-05:00",
+"image": "https://lcinsight.net/og/what-is-aave.jpg",
+"hashtags": [
+"#Aave",
+"#AaveV4",
+"#DeFi",
+"#Ethereum",
+"#Stablecoins"
 ]
 },
 {
@@ -550,6 +1291,40 @@
 "#Solana",
 "#Monad",
 "#TON"
+]
+},
+{
+"slug": "aave-v3-8-reentrancy-guard-15-networks",
+"url": "https://lcinsight.net/news/aave-v3-8-vote-381-439-aave-for-zero-against-a-new-lock-on-15-networks.html",
+"title": "Aave V3.8 vote: 381,439 AAVE for, zero against, a new lock on 15 networks",
+"dek": "Aave Labs wants a reentrancy guard on every active Aave V3 market, built so flash loans and liquidations still work. AAVE holders backed it with zero AAVE against in a Snapshot vote that closed October 31; audits come before the final onchain step.",
+"category": "DeFi",
+"guide": false,
+"published": "2026-11-01T10:00:00-05:00",
+"image": "https://lcinsight.net/og/aave-v3-8-reentrancy-guard-15-networks.jpg",
+"hashtags": [
+"#Aave",
+"#Upgrades",
+"#DeFi",
+"#Ethereum",
+"#Governance"
+]
+},
+{
+"slug": "fca-cp26-36-defi-stablecoin-perimeter-consultation",
+"url": "https://lcinsight.net/news/code-is-not-a-shield-the-fcas-draft-crypto-map-covers-defi-comments.html",
+"title": "Code is not a shield: the FCA's draft crypto map covers DeFi, comments due November 18",
+"dek": "The UK regulator wants views by November 18, 2026, on draft guidance about when DeFi, stablecoin payments, market making and tech services need a license. Using smart contracts does not settle the question on its own.",
+"category": "Policy",
+"guide": false,
+"published": "2026-11-01T09:00:00-05:00",
+"image": "https://lcinsight.net/og/fca-cp26-36-defi-stablecoin-perimeter-consultation.jpg",
+"hashtags": [
+"#UK",
+"#FCA",
+"#DeFi",
+"#Stablecoins",
+"#CryptoRegime"
 ]
 },
 {
@@ -766,6 +1541,23 @@
 ]
 },
 {
+"slug": "bank-of-england-tokenised-collateral-ccps-consultation",
+"url": "https://lcinsight.net/news/tokenized-gilts-as-margin-the-bank-of-england-says-yes-stablecoins.html",
+"title": "Tokenized gilts as margin? The Bank of England says yes; stablecoins must wait",
+"dek": "The Bank of England says clearinghouses can already accept tokenized versions of collateral they take today, and set out what they must check first. Stablecoins, tokenized money funds and tokenized gold get questions, not approval.",
+"category": "Policy",
+"guide": false,
+"published": "2026-10-29T13:00:00-04:00",
+"image": "https://lcinsight.net/og/bank-of-england-tokenised-collateral-ccps-consultation.jpg",
+"hashtags": [
+"#UK",
+"#Tokenization",
+"#Stablecoins",
+"#BankOfEngland",
+"#Banking"
+]
+},
+{
 "slug": "uniswap-tjar-fee-conversion-robinhood",
 "url": "https://lcinsight.net/news/uniswap-opens-the-tool-behind-its-uni-burns-to-any-app-robinhood-takes.html",
 "title": "Uniswap opens the tool behind its UNI burns to any app. Robinhood takes USDC instead",
@@ -797,6 +1589,40 @@
 "#TradeXYZ",
 "#PerpetualFutures",
 "#CFTC"
+]
+},
+{
+"slug": "fca-htx-high-court-undertakings-uk-exit",
+"url": "https://lcinsight.net/news/one-year-in-the-high-court-htx-settles-with-the-fca-and-promises-to.html",
+"title": "One year in the High Court: HTX settles with the FCA and promises to stop UK ads",
+"dek": "HTX, formerly Huobi, has given court-backed undertakings not to unlawfully promote its crypto services to UK consumers, the UK regulator says. The case began in October 2025 and ended with a confidential settlement, no admission of wrongdoing and no announced fine.",
+"category": "Policy",
+"guide": false,
+"published": "2026-10-29T12:00:00-04:00",
+"image": "https://lcinsight.net/og/fca-htx-high-court-undertakings-uk-exit.jpg",
+"hashtags": [
+"#UK",
+"#FCA",
+"#Enforcement",
+"#Exchanges",
+"#HTX"
+]
+},
+{
+"slug": "us-gdp-3-4-percent-pce-inflation-3-6-percent-october-29",
+"url": "https://lcinsight.net/news/us-growth-hits-3-4-percent-pce-inflation-hits-3-6-percent-why-neither.html",
+"title": "US growth hits 3.4%, PCE inflation hits 3.6%: why neither helps crypto",
+"dek": "At 8:30 a.m. ET on October 29, the government said the US economy grew at a 3.4% annual rate in the third quarter and the Fed's preferred inflation gauge rose 3.6% in a year. For crypto traders hoping for cheaper money, both numbers point the wrong way.",
+"category": "Markets",
+"guide": false,
+"published": "2026-10-29T12:00:00-04:00",
+"image": "https://lcinsight.net/og/us-gdp-3-4-percent-pce-inflation-3-6-percent-october-29.jpg",
+"hashtags": [
+"#Macro",
+"#Inflation",
+"#FederalReserve",
+"#InterestRates",
+"#Bitcoin"
 ]
 },
 {
@@ -1016,6 +1842,23 @@
 ]
 },
 {
+"slug": "usat-aave-v4-avalanche-borrow-only-uncapped-mint",
+"url": "https://lcinsight.net/news/aave-weighs-a-60-million-cap-for-usat-on-avalanche-where-its-supply-is.html",
+"title": "Aave weighs a 60 million cap for USAT on Avalanche, where its supply is zero",
+"dek": "Aave Labs wants USAT, the Anchorage-issued dollar stablecoin built with Tether's technology, on Aave V4's Avalanche hub. Risk firm LlamaRisk backs it as borrow-only at a fixed $1, but flags an uncapped mint key and a bridge that is not live yet.",
+"category": "DeFi",
+"guide": false,
+"published": "2026-10-27T10:00:00-04:00",
+"image": "https://lcinsight.net/og/usat-aave-v4-avalanche-borrow-only-uncapped-mint.jpg",
+"hashtags": [
+"#Stablecoins",
+"#Aave",
+"#AaveV4",
+"#USAT",
+"#Tether"
+]
+},
+{
 "slug": "circle-usdc-1-4-billion-revenue-7-percent-profit",
 "url": "https://lcinsight.net/news/circle-earned-1-4-billion-and-kept-about-7-cents-per-dollar-where-did.html",
 "title": "Circle earned $1.4 billion and kept about 7 cents per dollar. Where did the rest go?",
@@ -1098,6 +1941,23 @@
 "#Stablecoins",
 "#Malaysia",
 "#Thailand"
+]
+},
+{
+"slug": "aave-v4-native-bitcoin-babylon-vaults",
+"url": "https://lcinsight.net/news/native-bitcoin-as-aave-collateral-babylons-plan-starts-with-a-300-btc.html",
+"title": "Native bitcoin as Aave collateral? Babylon's plan starts with a 300 BTC cap",
+"dek": "Babylon Labs wants Aave V4 to accept bitcoin that never leaves the Bitcoin chain, with no wrapper or custodian. Aave Labs says the integration works and LlamaRisk has set a 300 BTC starting cap, but a Snapshot vote is still to come.",
+"category": "DeFi",
+"guide": false,
+"published": "2026-10-23T18:00:00-04:00",
+"image": "https://lcinsight.net/og/aave-v4-native-bitcoin-babylon-vaults.jpg",
+"hashtags": [
+"#Aave",
+"#AaveV4",
+"#Bitcoin",
+"#Babylon",
+"#Bridges"
 ]
 },
 {
@@ -1432,6 +2292,23 @@
 "#Blur",
 "#NFTs",
 "#Blend"
+]
+},
+{
+"slug": "thailand-sec-crypto-etf-rules-unlicensed-exchange-block",
+"url": "https://lcinsight.net/news/thailands-sec-11-crypto-etf-rules-then-a-block-on-vcex-io-from.html",
+"title": "Thailand's SEC: 11 crypto ETF rules, then a block on Vcex.io from November 7",
+"dek": "In three October days, Thailand's Securities and Exchange Commission set rules for local Bitcoin and Ethereum ETFs, filed a criminal complaint over the unlicensed Vcex.io exchange and said access to it will be blocked from November 7. The message: use the licensed route or be shut out.",
+"category": "Policy",
+"guide": false,
+"published": "2026-10-09T18:00:00-04:00",
+"image": "https://lcinsight.net/og/thailand-sec-crypto-etf-rules-unlicensed-exchange-block.jpg",
+"hashtags": [
+"#Thailand",
+"#SECThailand",
+"#ETF",
+"#Bitcoin",
+"#Enforcement"
 ]
 },
 {
