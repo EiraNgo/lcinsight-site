@@ -32,6 +32,11 @@
   </div>
   <div class="legal"><div class="wrap"><span>© 2026 LC Insight</span><span>lcinsight.net</span></div></div>
 </footer>
+<script>(function(){var m=document.querySelector('.menu');if(!m)return;var s=m.querySelector('summary');
+s.addEventListener('click',function(e){e.preventDefault();e.stopPropagation();m.open=!m.open;});
+document.addEventListener('click',function(e){if(m.open&&!m.contains(e.target))m.open=false;});
+m.querySelectorAll('nav a').forEach(function(a){a.addEventListener('click',function(){m.open=false;});});
+document.addEventListener('keydown',function(e){if(e.key==='Escape')m.open=false;});})();</script>
 <!-- Cloudflare Web Analytics --><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "5022dbc520454edfa2c8ae18913ac97f"}'></script>
 </body>
 </html>
