@@ -2,7 +2,7 @@
 """Post new LC Insight stories to the Telegram channel.
 Compares posts.json in this push with the previous commit; sends each new story as photo + caption + button.
 Secrets: TELEGRAM_BOT_TOKEN, TELEGRAM_CHANNEL (e.g. @lcinsight). Limits: 6 news + 2 guides per push."""
-import json, os, urllib.error, subprocess, sys, time, urllib.parse, urllib.request
+import re, json, os, urllib.error, subprocess, sys, time, urllib.parse, urllib.request
 
 TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', '').strip()
 CHAT = os.environ.get('TELEGRAM_CHANNEL', '').strip()
@@ -37,11 +37,26 @@ def api(method, data):
         print(f'{method} -> HTTP {e.code}: {body}')   # Telegram's own reason (never contains the token)
         raise
 
+CAT_EMOJI = {"Security": "🛡️", "Markets": "📊", "Policy": "⚖️", "Exchanges": "🏦", "DeFi": "🌊", "Infrastructure": "⚙️",
+             "Projects": "🧩", "AI & RWA": "🤖", "Culture": "🎭", "Guides": "📚"}
+HOOK = [(("hack", "exploit", "stolen", "drain", "attack", "theft", "lost"), "🚨"), (("froze", "freeze", "frozen"), "🧊"),
+        (("airdrop", "reward"), "🎁"), (("launch", "upgrade", "mainnet", "faster", "tge"), "🚀"),
+        (("sec ", "law ", "laws ", "court", "rules ", "ban ", "bans ", "license", "tax ", "regulator"), "⚖️"), (("burn",), "🔥"),
+        (("jump", "surge", "soar", "record high", "rall", "inflow"), "📈"), (("fall", "drop", "plunge", "outflow", "crash"), "📉"),
+        (("billion",), "💥"), (("whale",), "🐋"), (("bitcoin", "btc"), "🟠"), (("ethereum", "eth "), "💎")]
+def hook(p):
+    if p.get('guide'): return '📚'
+    t = p['title'].lower()
+    return next((e for keys, e in HOOK if any(re.search(r'\b' + re.escape(k.strip()) + (r'\b' if k.endswith(' ') else ''), t) for k in keys)), '⚡')
+
 def post(p):
     label = 'Guide' if p.get('guide') else p.get('category', 'News')
     tags = ' '.join(p.get('hashtags', []))
-    cap = f"<b>{esc(p['title'])}</b>\n\n{esc(p['dek'])}\n\n<i>{esc(label)}</i> · LC Insight\n{esc(tags)}"
-    kb = json.dumps({"inline_keyboard": [[{"text": "Read the full story", "url": p['url']}]]})
+    head = ('📚 GUIDE' if p.get('guide') else '🔥 HOT') if label in ('Security',) or p.get('guide') else ''
+    cap = (f"{hook(p)} <b>{esc(p['title'])}</b>\n\n"
+           f"👉 {esc(p['dek'])}\n\n"
+           f"{CAT_EMOJI.get(label, '📰')} <i>{esc(label)}</i> · LC Insight{(' · ' + head) if head else ''}\n{esc(tags)}")
+    kb = json.dumps({"inline_keyboard": [[{"text": "📖 Read the full story", "url": p['url']}]]})
     try:
         return api('sendPhoto', {'chat_id': CHAT, 'photo': p['image'], 'caption': cap[:1024], 'parse_mode': 'HTML', 'reply_markup': kb})
     except Exception as e:
