@@ -1,5 +1,71 @@
 [
 {
+"slug": "how-stolen-crypto-is-traced-and-frozen",
+"url": "https://lcinsight.net/news/how-stolen-crypto-is-traced-and-frozen-and-why-thieves-dump.html",
+"title": "How stolen crypto is traced and frozen, and why thieves dump stablecoins fast",
+"dek": "Every blockchain transfer is public, so investigators can follow stolen funds hop by hop. Money can be stopped in two places: stablecoin issuers like Tether and Circle can freeze tokens on-chain, and exchanges can lock accounts when stolen funds arrive.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T06:40:00-05:00",
+"image": "https://lcinsight.net/og/how-stolen-crypto-is-traced-and-frozen.jpg",
+"hashtags": [
+"#Hacks",
+"#Stablecoins",
+"#Enforcement",
+"#Circle",
+"#ExchangeFlows"
+]
+},
+{
+"slug": "kalshi-midterms-democratic-sweep-70-percent-wedgewood-polls",
+"url": "https://lcinsight.net/news/kalshi-prices-a-democratic-sweep-at-a-record-70-percent-did-a-fake.html",
+"title": "Kalshi prices a Democratic sweep at a record 70%. Did a fake pollster move the odds?",
+"dek": "Two days before the November 3 vote, Kalshi's market priced Democrats winning both chambers at 70%, up more than 9 points in a month. Ten days earlier, Kalshi had to explain why a fabricated pollster barely moved its election markets.",
+"category": "Culture",
+"guide": false,
+"published": "2026-11-02T06:30:00-05:00",
+"image": "https://lcinsight.net/og/kalshi-midterms-democratic-sweep-70-percent-wedgewood-polls.jpg",
+"hashtags": [
+"#Kalshi",
+"#PredictionMarkets",
+"#Midterms",
+"#Data"
+]
+},
+{
+"slug": "seed-phrase-and-hardware-wallet-safety-explained",
+"url": "https://lcinsight.net/news/seed-phrase-and-hardware-wallet-safety-the-words-that-guard-your.html",
+"title": "Seed phrase and hardware wallet safety: the words that guard your crypto",
+"dek": "Your seed phrase is the master key to your wallet: anyone who sees it can take everything, and if you lose it, nobody can restore it. A hardware wallet keeps keys offline, but only if the phrase stays offline too and the device is genuine.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T06:10:00-05:00",
+"image": "https://lcinsight.net/og/seed-phrase-and-hardware-wallet-safety-explained.jpg",
+"hashtags": [
+"#Wallets",
+"#HardwareWallets",
+"#Ledger",
+"#SupplyChain"
+]
+},
+{
+"slug": "japan-crypto-rules-explained",
+"url": "https://lcinsight.net/news/japan-crypto-rules-explained-fsa-registration-95-percent-cold-storage.html",
+"title": "Japan crypto rules explained: FSA registration, 95% cold storage and 2x leverage",
+"dek": "Crypto exchanges in Japan must register with the Financial Services Agency under the Payment Services Act, keep at least 95% of customer coins offline, and cap retail leverage at 2x. A 2026 government bill would revise the rules again, borrowing from securities law.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T06:00:00-05:00",
+"image": "https://lcinsight.net/og/japan-crypto-rules-explained.jpg",
+"hashtags": [
+"#Japan",
+"#FSA",
+"#Licensing",
+"#Stablecoins",
+"#Exchanges"
+]
+},
+{
 "slug": "nft-blue-chips-october-2026-bored-apes-97-percent-down",
 "url": "https://lcinsight.net/news/bored-apes-are-down-96-percent-from-their-record-which-nft-blue-chip.html",
 "title": "Bored Apes are down 96% from their record. Which NFT blue chip fell least?",
@@ -17,6 +83,39 @@
 ]
 },
 {
+"slug": "south-korea-crypto-rules-explained",
+"url": "https://lcinsight.net/news/south-korea-crypto-rules-explained-cold-wallets-bank-held-cash-and.html",
+"title": "South Korea crypto rules explained: cold wallets, bank-held cash and jail terms",
+"dek": "Crypto exchanges in South Korea must register with the Financial Intelligence Unit and, since July 19, 2024, follow the Virtual Asset User Protection Act: customer cash held at banks, most coins in cold wallets, and prison terms for market manipulation.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T05:30:00-05:00",
+"image": "https://lcinsight.net/og/south-korea-crypto-rules-explained.jpg",
+"hashtags": [
+"#SouthKorea",
+"#FSC",
+"#KoFIU",
+"#Exchanges",
+"#Licensing"
+]
+},
+{
+"slug": "how-to-check-and-revoke-token-approvals",
+"url": "https://lcinsight.net/news/how-to-check-and-revoke-token-approvals-before-an-old-one-drains-your.html",
+"title": "How to check and revoke token approvals before an old one drains your wallet",
+"dek": "Look up your wallet address in an approval checker such as Etherscan's Token Approvals page or Revoke.cash, find spenders you no longer use or do not recognize, and revoke them. Each revoke is an on-chain transaction, so it costs a small network fee.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T05:10:00-05:00",
+"image": "https://lcinsight.net/og/how-to-check-and-revoke-token-approvals.jpg",
+"hashtags": [
+"#Wallets",
+"#Ethereum",
+"#DeFi",
+"#Hacks"
+]
+},
+{
 "slug": "autumn-2026-hacked-funds-flow-bitget-binance-same-address",
 "url": "https://lcinsight.net/news/one-address-two-exchange-hacks-deepsea-traces-where-this-falls-stolen.html",
 "title": "One address, two exchange hacks: DeepSea traces where this fall's stolen crypto went",
@@ -31,6 +130,73 @@
 "#Bitget",
 "#Ledger",
 "#DCENT"
+]
+},
+{
+"slug": "prediction-markets-explained-polymarket-kalshi",
+"url": "https://lcinsight.net/news/prediction-markets-explained-how-kalshi-and-polymarket-work-and-the.html",
+"title": "Prediction markets explained: how Kalshi and Polymarket work, and the real risks",
+"dek": "A prediction market lets people trade contracts that pay $1 if an event happens and $0 if it does not, so prices read like odds. Kalshi is a CFTC-regulated US exchange; most Polymarket markets settle on chain through the UMA oracle.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T05:00:00-05:00",
+"image": "https://lcinsight.net/og/prediction-markets-explained-polymarket-kalshi.jpg",
+"hashtags": [
+"#PredictionMarkets",
+"#Kalshi",
+"#Polymarket",
+"#CFTC"
+]
+},
+{
+"slug": "singapore-crypto-rules-explained",
+"url": "https://lcinsight.net/news/singapore-crypto-rules-explained-who-needs-a-mas-license-and-who-wont.html",
+"title": "Singapore crypto rules explained: who needs a MAS license, and who won't get one",
+"dek": "Crypto firms serving customers in Singapore need a license from the Monetary Authority of Singapore, mainly under the Payment Services Act 2019. Since June 30, 2025, Singapore firms that serve only overseas customers also need a license, and MAS says it will generally not grant one.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T05:00:00-05:00",
+"image": "https://lcinsight.net/og/singapore-crypto-rules-explained.jpg",
+"hashtags": [
+"#Singapore",
+"#MAS",
+"#Licensing",
+"#Stablecoins",
+"#CryptoRegime"
+]
+},
+{
+"slug": "sec-vs-cftc-who-regulates-crypto",
+"url": "https://lcinsight.net/news/sec-vs-cftc-who-regulates-crypto-in-the-us-and-where-the-line-now.html",
+"title": "SEC vs. CFTC: who regulates crypto in the US, and where the line now falls",
+"dek": "The SEC oversees crypto that counts as a security, and the CFTC oversees commodities like bitcoin and ether plus derivatives on them. Since March 2026, the two agencies share an interpretation that says most crypto assets are not securities.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:30:00-05:00",
+"image": "https://lcinsight.net/og/sec-vs-cftc-who-regulates-crypto.jpg",
+"hashtags": [
+"#SEC",
+"#CFTC",
+"#MarketStructure",
+"#Tokenization",
+"#PredictionMarkets"
+]
+},
+{
+"slug": "how-crypto-exchange-hacks-happen",
+"url": "https://lcinsight.net/news/how-crypto-exchange-hacks-happen-the-weak-spot-is-rarely-the-key.html",
+"title": "How crypto exchange hacks happen: the weak spot is rarely the key itself",
+"dek": "Most exchange hacks start in hot wallets, the online wallets that pay out withdrawals. Attackers rarely break the cryptography. They get into the systems and people that approve transactions, then rush to swap stablecoins before issuers can freeze them.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T04:10:00-05:00",
+"image": "https://lcinsight.net/og/how-crypto-exchange-hacks-happen.jpg",
+"hashtags": [
+"#Hacks",
+"#Exchanges",
+"#HotWallets",
+"#Binance",
+"#Bitget"
 ]
 },
 {
@@ -65,6 +231,55 @@
 "#XRP",
 "#Base",
 "#DeepSea"
+]
+},
+{
+"slug": "how-crypto-liquidations-work",
+"url": "https://lcinsight.net/news/how-crypto-liquidations-work-why-a-10-percent-move-can-wipe-out-a-10x.html",
+"title": "How crypto liquidations work: why a 10% move can wipe out a 10x trade",
+"dek": "A liquidation is when an exchange force-closes a leveraged trade because losses have eaten through the trader's collateral. It protects the exchange and other traders from debts the trader cannot pay.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:50:00-05:00",
+"image": "https://lcinsight.net/og/how-crypto-liquidations-work.jpg",
+"hashtags": [
+"#PerpetualFutures",
+"#Perpetuals",
+"#Bitcoin",
+"#Data"
+]
+},
+{
+"slug": "perpetual-futures-funding-rates-explained",
+"url": "https://lcinsight.net/news/perpetual-futures-funding-rates-explained-how-0-05-percent-can-cost-55.html",
+"title": "Perpetual futures funding rates explained: how 0.05% can cost 55% a year",
+"dek": "A funding rate is a small payment that traders of perpetual futures make to each other to keep the contract's price close to the real market price. When it is positive, longs pay shorts. When it is negative, shorts pay longs.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:30:00-05:00",
+"image": "https://lcinsight.net/og/perpetual-futures-funding-rates-explained.jpg",
+"hashtags": [
+"#PerpetualFutures",
+"#Perpetuals",
+"#Bitcoin",
+"#Data"
+]
+},
+{
+"slug": "how-crypto-airdrops-work-and-how-to-avoid-airdrop-scams",
+"url": "https://lcinsight.net/news/how-crypto-airdrops-work-and-how-to-spot-the-scams-that-copy-them.html",
+"title": "How crypto airdrops work, and how to spot the scams that copy them",
+"dek": "An airdrop is a free drop of tokens to wallets, usually as a reward for early users. Real airdrops never ask for your seed phrase. Most scams instead trick you into signing a transaction on a fake claim site.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T03:10:00-05:00",
+"image": "https://lcinsight.net/og/how-crypto-airdrops-work-and-how-to-avoid-airdrop-scams.jpg",
+"hashtags": [
+"#Airdrops",
+"#PointsPrograms",
+"#Wallets",
+"#Hacks",
+"#TokenSales"
 ]
 },
 {
@@ -183,6 +398,23 @@
 "#Ondo",
 "#Circle",
 "#TokenizedTreasuries"
+]
+},
+{
+"slug": "mica-explained",
+"url": "https://lcinsight.net/news/mica-explained-the-eu-crypto-law-casp-licenses-stablecoin-rules-and.html",
+"title": "MiCA explained: the EU crypto law, CASP licenses, stablecoin rules and key dates",
+"dek": "MiCA is the EU's rulebook for crypto: firms that offer crypto services need a license from a national regulator, and stablecoins face strict reserve and supervision rules. It has applied in full since December 30, 2024, and the last transition window closed on July 1, 2026.",
+"category": "Guides",
+"guide": true,
+"published": "2026-11-02T02:30:00-05:00",
+"image": "https://lcinsight.net/og/mica-explained.jpg",
+"hashtags": [
+"#MiCA",
+"#EU",
+"#Stablecoins",
+"#CASPs",
+"#ESMA"
 ]
 },
 {
@@ -354,6 +586,56 @@
 ]
 },
 {
+"slug": "lisk-chain-shutdown-october-31-lsk-burn",
+"url": "https://lcinsight.net/news/lisk-shuts-its-chain-october-31-and-burns-a-quarter-of-lsk-tokens-left.html",
+"title": "Lisk shuts its chain October 31 and burns a quarter of LSK. Tokens left behind are lost",
+"dek": "Lisk set October 31, 2026, as the last day of its own blockchain and its DAO. It is burning 100 million LSK, a quarter of supply, and is turning the token into a loyalty reward on Ethereum. Anything not bridged out in time is lost, the project says.",
+"category": "Projects",
+"guide": false,
+"published": "2026-10-31T09:00:00-04:00",
+"image": "https://lcinsight.net/og/lisk-chain-shutdown-october-31-lsk-burn.jpg",
+"hashtags": [
+"#Lisk",
+"#LSK",
+"#Layer2",
+"#Bridges",
+"#Ethereum"
+]
+},
+{
+"slug": "okx-48th-proof-of-reserves-29-billion-btc-110",
+"url": "https://lcinsight.net/news/okxs-48th-reserve-report-shows-29-4-billion-up-27-percent-in-three.html",
+"title": "OKX's 48th reserve report shows $29.4 billion, up 27% in three months, with BTC at 110%",
+"dek": "OKX marked four years of monthly proof-of-reserves reports on October 30. Its primary assets rose from $23.1 billion in July to $29.4 billion, and every listed coin is backed at least 1:1. Here is what the report proves and what it leaves out.",
+"category": "Exchanges",
+"guide": false,
+"published": "2026-10-30T19:00:00-04:00",
+"image": "https://lcinsight.net/og/okx-48th-proof-of-reserves-29-billion-btc-110.jpg",
+"hashtags": [
+"#OKX",
+"#ProofOfReserves",
+"#Exchanges",
+"#Bitcoin",
+"#Stablecoins"
+]
+},
+{
+"slug": "polymarket-hack-postmortem-3-9-million-refunds",
+"url": "https://lcinsight.net/news/polymarket-repaid-3-9-million-after-a-vendors-script-turned-on-its.html",
+"title": "Polymarket repaid $3.9 million after a vendor's script turned on its users. What broke?",
+"dek": "A hijacked performance-monitoring script on polymarket.com used logged-in sessions to sell positions and pull funds. Polymarket's postmortem says 95% of affected wallets are now fully refunded, and it paid $1.2 million more for losses during its trading pause.",
+"category": "Security",
+"guide": false,
+"published": "2026-10-30T18:00:00-04:00",
+"image": "https://lcinsight.net/og/polymarket-hack-postmortem-3-9-million-refunds.jpg",
+"hashtags": [
+"#Polymarket",
+"#Hacks",
+"#SupplyChain",
+"#PredictionMarkets"
+]
+},
+{
 "slug": "polymarket-halts-trading-3-9-million-refunds",
 "url": "https://lcinsight.net/news/polymarket-repays-3-9-million-after-a-hacked-vendor-script-hits-it-for.html",
 "title": "Polymarket repays $3.9 million after a hacked vendor script hits it for the second time",
@@ -367,6 +649,22 @@
 "#PredictionMarkets",
 "#Refunds",
 "#SupplyChain"
+]
+},
+{
+"slug": "nomad-bridge-exploit-suspect-extradited-to-us",
+"url": "https://lcinsight.net/news/four-years-after-the-nomad-bridge-hack-a-man-is-extradited-to-the-us.html",
+"title": "Four years after the Nomad Bridge hack, a man is extradited to the US over $2.89 million",
+"dek": "Prosecutors say Alexander Gurevich ran four exploit transactions against the Nomad Bridge on August 1, 2022, taking 103 WBTC and 300 WETH. It is the second old DeFi exploit case to reach a US courtroom this month, three weeks after the Uranium Finance hacker's conviction was announced.",
+"category": "Security",
+"guide": false,
+"published": "2026-10-30T15:00:00-04:00",
+"image": "https://lcinsight.net/og/nomad-bridge-exploit-suspect-extradited-to-us.jpg",
+"hashtags": [
+"#Bridges",
+"#Hacks",
+"#Enforcement",
+"#DeFi"
 ]
 },
 {
@@ -569,6 +867,23 @@
 ]
 },
 {
+"slug": "ofac-dprk-it-workers-crypto-addresses-sanctions",
+"url": "https://lcinsight.net/news/us-sanctions-north-korean-it-workers-in-russia-and-lists-8-crypto.html",
+"title": "US sanctions North Korean IT workers in Russia and lists 8 crypto addresses, 5 on Tron",
+"dek": "Treasury designated 10 people and a Russia-based center on October 28, 2026, saying they moved crypto for North Korea's IT worker schemes. One Ethereum address appears under two different men.",
+"category": "Policy",
+"guide": false,
+"published": "2026-10-28T18:00:00-04:00",
+"image": "https://lcinsight.net/og/ofac-dprk-it-workers-crypto-addresses-sanctions.jpg",
+"hashtags": [
+"#Sanctions",
+"#NorthKorea",
+"#Enforcement",
+"#OFAC",
+"#Ethereum"
+]
+},
+{
 "slug": "polymarket-us-exits-michigan-sports-contracts",
 "url": "https://lcinsight.net/news/polymarket-us-quits-sports-contracts-in-michigan-open-bets-must-close.html",
 "title": "Polymarket US quits sports contracts in Michigan. Open bets must close by November 25",
@@ -665,6 +980,23 @@
 "#Earnings",
 "#RobinhoodChain",
 "#Bitstamp"
+]
+},
+{
+"slug": "kalshi-nba-sp-dow-jones-under-21-deposit-cap",
+"url": "https://lcinsight.net/news/kalshi-signed-the-nba-and-s-and-p-dow-jones-then-capped-under-21.html",
+"title": "Kalshi signed the NBA and S&P Dow Jones, then capped under-21 deposits at $2,500 a month",
+"dek": "In five days, Kalshi became the NBA's preferred prediction market, agreed to build event-contract indexes with S&P Dow Jones Indices, launched sector data contracts and put a monthly deposit cap on its youngest traders. Then it raised $1 billion.",
+"category": "Culture",
+"guide": false,
+"published": "2026-10-27T18:00:00-04:00",
+"image": "https://lcinsight.net/og/kalshi-nba-sp-dow-jones-under-21-deposit-cap.jpg",
+"hashtags": [
+"#Kalshi",
+"#PredictionMarkets",
+"#CFTC",
+"#NBA",
+"#Data"
 ]
 },
 {
@@ -916,6 +1248,23 @@
 "#GENIUSAct",
 "#Stablecoins",
 "#Banking"
+]
+},
+{
+"slug": "japan-fsa-onchain-finance-forum-defi-study-group",
+"url": "https://lcinsight.net/news/japans-fsa-wants-an-on-chain-finance-roadmap-by-early-2027-who-is-at.html",
+"title": "Japan's FSA wants an on-chain finance roadmap by early 2027. Who is at the table?",
+"dek": "Japan's Financial Services Agency has opened two new tracks in three weeks: a cross-ministry forum on on-chain finance in the AI era, and a study group on digital and decentralized finance that heard from Nomura and Securitize first.",
+"category": "Policy",
+"guide": false,
+"published": "2026-10-21T09:00:00-04:00",
+"image": "https://lcinsight.net/og/japan-fsa-onchain-finance-forum-defi-study-group.jpg",
+"hashtags": [
+"#Japan",
+"#FSA",
+"#Stablecoins",
+"#Tokenization",
+"#DeFi"
 ]
 },
 {
