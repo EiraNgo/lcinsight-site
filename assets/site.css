@@ -253,11 +253,12 @@ footer .legal .wrap{display:flex;justify-content:space-between;padding:16px 32px
  .hc-r{grid-template-columns:minmax(0,1fr);gap:4px;padding:7px 0}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
-.tags{margin:36px 0 0;padding-top:20px;border-top:1px solid var(--rule)}
-.tags ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
-.tags a,.tags span{display:inline-block;font-family:var(--sans);font-size:14px;font-weight:600;padding:6px 12px;border:1px solid var(--rule);border-radius:999px;color:var(--ink);text-decoration:none}
-.tags a:hover{border-color:var(--red-text);color:var(--red-text)}
-.tags span{color:var(--mute)}
+.tags{margin:28px 0 0;padding-top:14px;border-top:1px solid var(--rule)}
+.tags ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:nowrap;gap:14px;overflow-x:auto;white-space:nowrap;scrollbar-width:none}
+.tags ul::-webkit-scrollbar{display:none}
+.tags li{margin:0;flex:none}
+.tags a,.tags span{font-family:var(--sans);font-size:13px;font-weight:500;color:var(--mute);text-decoration:none}
+.tags a:hover{color:var(--red-text)}
 
 .rail{border-left:1px solid var(--rule);padding-left:32px}
 .rail-in{position:sticky;top:24px}
