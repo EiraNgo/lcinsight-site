@@ -38,7 +38,7 @@ def api(method, data):
         raise
 
 CAT_EMOJI = {"Security": "🛡️", "Markets": "📊", "Policy": "⚖️", "Exchanges": "🏦", "DeFi": "🌊", "Infrastructure": "⚙️",
-             "Projects": "🧩", "AI & RWA": "🤖", "Culture": "🎭", "Guides": "📚"}
+             "Projects": "🧩", "AI & RWA": "🤖", "Culture": "🎭", "Guides": "📚", "Guide": "📚"}
 HOOK = [(("hack", "exploit", "stolen", "drain", "attack", "theft", "lost"), "🚨"), (("froze", "freeze", "frozen"), "🧊"),
         (("airdrop", "reward"), "🎁"), (("launch", "upgrade", "mainnet", "faster", "tge"), "🚀"),
         (("sec ", "law ", "laws ", "court", "rules ", "ban ", "bans ", "license", "tax ", "regulator"), "⚖️"), (("burn",), "🔥"),
@@ -52,7 +52,7 @@ def hook(p):
 def post(p):
     label = 'Guide' if p.get('guide') else p.get('category', 'News')
     tags = ' '.join(p.get('hashtags', []))
-    head = ('📚 GUIDE' if p.get('guide') else '🔥 HOT') if label in ('Security',) or p.get('guide') else ''
+    head = '🔥 HOT' if label == 'Security' and not p.get('guide') else ''
     cap = (f"{hook(p)} <b>{esc(p['title'])}</b>\n\n"
            f"👉 {esc(p['dek'])}\n\n"
            f"{CAT_EMOJI.get(label, '📰')} <i>{esc(label)}</i> · LC Insight{(' · ' + head) if head else ''}\n{esc(tags)}")
