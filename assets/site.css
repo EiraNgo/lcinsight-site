@@ -297,3 +297,6 @@ footer .legal .wrap{display:flex;justify-content:space-between;padding:16px 32px
 .subbar .tagline{font-weight:600;font-style:italic;color:var(--red);letter-spacing:.2px}
 .ftag{font-weight:700;font-style:italic;color:#fff;margin-bottom:4px}
 .subbar span{white-space:nowrap}@media(max-width:640px){.subbar .wrap span{font-size:11.5px}.subbar .tagline{font-size:11.5px}}
+.reels{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:28px;margin:28px 0 60px}
+.reel video{width:100%;aspect-ratio:9/16;background:#20252b;border-radius:16px;display:block}
+.reel figcaption{font-size:15px;margin-top:8px;line-height:1.35}
