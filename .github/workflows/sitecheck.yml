@@ -5,8 +5,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          P=http://lcinsight.net/news/bnb-just-burned-1-2-billion-of-itself-why-is-100-million-still-years.html
-          curl -sS -A "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X)" $P -o p.html -w "page %{http_code}\n" || true
-          grep -o '<video[^>]*>.\{0,200\}' p.html | head -2
-          curl -sSI http://lcinsight.net/art/bnb-37th-burn-1-2-billion-131-million-supply-banner.mp4 | head -8 || true
-          echo | openssl s_client -connect lcinsight.net:443 -servername lcinsight.net 2>/dev/null | openssl x509 -noout -subject || true
+          for u in https://lcinsight.net/ https://lcinsight.net/news/bnb-just-burned-1-2-billion-of-itself-why-is-100-million-still-years.html https://www.lcinsight.net/ http://lcinsight.net/ https://lcinsight.net/art/bnb-37th-burn-1-2-billion-131-million-supply-banner.mp4 https://lcinsight.net/posts.json; do
+            curl -sS -o /dev/null -w "RES $u -> %{http_code} %{redirect_url} ssl=%{ssl_verify_result}\n" "$u" || echo "RES $u FAILED"
+          done
+          curl -sSL -o /dev/null -w "RES follow http -> %{http_code} %{url_effective} hops=%{num_redirects}\n" http://lcinsight.net/ || true
+          echo | openssl s_client -connect lcinsight.net:443 -servername lcinsight.net 2>/dev/null | openssl x509 -noout -subject -issuer | sed 's/^/RES /' || true
