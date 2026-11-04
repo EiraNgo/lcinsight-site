@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Post new LC Insight stories to the Telegram channel.
-Compares posts.json in this push with the previous commit; sends each new story as photo + caption + button.
+Drip mode: queues new hot stories and posts one every ~35-40 minutes (07:00-23:30 VN), photo + caption + button.
 Secrets: TELEGRAM_BOT_TOKEN, TELEGRAM_CHANNEL (e.g. @lcinsight). Limits: 6 news + 2 guides per push."""
 import re, json, os, urllib.error, subprocess, sys, time, urllib.parse, urllib.request
 
@@ -68,42 +68,61 @@ def post(p):
         print('photo failed, sending text:', e)
         return api('sendMessage', {'chat_id': CHAT, 'text': cap + f"\n\n{p['url']}", 'parse_mode': 'HTML', 'reply_markup': kb})
 
+STATE_BRANCH = 'tg-state'
+GAP_MIN = 38                      # at least this many minutes between two channel posts
+def vn_now():
+    from datetime import datetime, timezone, timedelta
+    return datetime.now(timezone.utc) + timedelta(hours=7)
+def load_state():
+    subprocess.run(['git', 'fetch', '-q', 'origin', STATE_BRANCH], capture_output=True)
+    r = subprocess.run(['git', 'show', f'origin/{STATE_BRANCH}:posted.json'], capture_output=True, text=True)
+    return json.loads(r.stdout) if r.returncode == 0 else None
+def save_state(st):
+    import tempfile
+    d = tempfile.mkdtemp()
+    g = lambda *a: subprocess.run(['git', '-C', d, *a], check=True, capture_output=True)
+    url = subprocess.run(['git', 'remote', 'get-url', 'origin'], capture_output=True, text=True).stdout.strip()
+    hdr = subprocess.run(['git', 'config', '--get-regexp', 'http.*extraheader'], capture_output=True, text=True).stdout.split(' ', 1)
+    g('init', '-q'); g('remote', 'add', 'origin', url)
+    if len(hdr) == 2: g('config', hdr[0], hdr[1].strip())
+    g('config', 'user.name', 'lc-telegram'); g('config', 'user.email', 'actions@users.noreply.github.com')
+    g('checkout', '-q', '-b', STATE_BRANCH)
+    open(f'{d}/posted.json', 'w').write(json.dumps(st, indent=0))
+    g('add', 'posted.json'); g('commit', '-q', '-m', 'Telegram state'); g('push', '-q', '-f', 'origin', STATE_BRANCH)
+
 def main():
+    """Drip mode (owner, November 4, 2026): Telegram readers want fresh news all day, so new hot stories are queued
+    and posted one at a time, at least GAP_MIN minutes apart, 07:00-23:30 Vietnam time, freshest hot story first."""
     if not TOKEN or not CHAT:
         print('Telegram secrets not set; skipping.'); return
     now = load('HEAD') or []
-    if MODE == 'test':
-        todo = now[:1]
-    else:
-        prev = load(BEFORE) if BEFORE and set(BEFORE) != {'0'} else None
-        old = {p['slug'] for p in prev} if prev is not None else None
-        if old is None:
-            print('No previous posts.json (first run); not posting the back catalogue.'); return
-        # only genuinely fresh stories: a story that drops out and comes back (rollback, restore) is not re-posted
-        from datetime import datetime, timezone, timedelta
-        cutoff = datetime.now(timezone.utc) - timedelta(hours=36)
-        seen = set()
-        for rev in subprocess.run(['git', 'rev-list', '--max-count=40', 'HEAD~1', '--', 'posts.json'], capture_output=True, text=True).stdout.split():
-            seen |= {p['slug'] for p in (load(rev) or [])}
-        new = [p for p in now if p['slug'] not in old and p['slug'] not in seen
-               and datetime.fromisoformat(p['published']) >= cutoff]
-        # channel = hot news and hot new projects/airdrops only (owner, November 3, 2026). No guides.
-        news = [p for p in new if not p.get('guide') and is_hot(p)][:MAX_NEWS]
-        guides = []
-        todo = sorted(news + guides, key=lambda p: p['published'])
-        skipped = len(new) - len(todo)
-        if skipped: print(f'{skipped} more new stories not posted this time (limit per push).')
-    if not todo: print('Nothing new to post.'); return
     ch = CHAT if CHAT.startswith('@') or CHAT.lstrip('-').isdigit() else '@' + CHAT.rsplit('/', 1)[-1]
     globals()['CHAT'] = ch
+    if MODE == 'test':
+        r = post(now[0]); print('posted' if r.get('ok') else 'FAILED', now[0]['slug']); return
+    from datetime import datetime, timezone, timedelta
+    st = load_state()
+    if st is None:   # first run of drip mode: everything already live counts as posted (no back catalogue flood)
+        st = {'posted': [p['slug'] for p in now], 'last': 0}
+        save_state(st); print('state created with', len(st['posted']), 'stories'); return
+    vn = vn_now(); mins = vn.hour * 60 + vn.minute
+    if not (7 * 60 <= mins <= 23 * 60 + 30): print('quiet hours (VN)', vn.strftime('%H:%M')); return
+    if time.time() - st.get('last', 0) < GAP_MIN * 60: print('too soon since last post'); return
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=36)
+    done = set(st['posted'])
+    queue = [p for p in now if p['slug'] not in done and not p.get('guide') and is_hot(p)
+             and datetime.fromisoformat(p['published']) >= cutoff]
+    if not queue: print('queue empty'); return
+    queue.sort(key=lambda p: (bool(p.get('hot')), p['published']), reverse=True)
+    p = queue[0]
     try:
         info = api('getChat', {'chat_id': ch}); print('channel ok:', info['result'].get('title'))
     except Exception:
         print('Channel check failed. TELEGRAM_CHANNEL must be the public @username of the channel, and the bot must be an admin there.'); sys.exit(1)
-    print('site reachable:', wait_live(todo[-1]['url']))
-    for p in todo:
-        r = post(p); print('posted' if r.get('ok') else 'FAILED', p['slug'], '' if r.get('ok') else r)
-        time.sleep(4)
+    if not wait_live(p['url'], tries=4): print('page not live yet, retry next run'); return
+    r = post(p); ok = bool(r.get('ok')); print('posted' if ok else 'FAILED', p['slug'], f'({len(queue) - 1} left in queue)')
+    if ok:
+        st['posted'] = (st['posted'] + [p['slug']])[-3000:]; st['last'] = time.time(); save_state(st)
 
 if __name__ == '__main__':
     main()

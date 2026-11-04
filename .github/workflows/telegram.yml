@@ -1,5 +1,7 @@
 name: Post new stories to Telegram
 on:
+  schedule:
+    - cron: '2,22,42 * * * *'   # drip: at most one post per run, 38+ min apart
   push:
     branches: [main]
     paths: [posts.json]
@@ -9,7 +11,8 @@ on:
         description: "test = post the latest story once"
         default: test
 permissions:
-  contents: read
+  contents: write
+concurrency: {group: telegram, cancel-in-progress: false}
 jobs:
   post:
     runs-on: ubuntu-latest
