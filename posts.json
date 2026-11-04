@@ -1,5 +1,95 @@
 [
 {
+"slug": "deepsea-2615-new-wallets-2790-smart-money-zero-bots",
+"url": "https://lcinsight.net/news/deepsea-tagged-2-790-new-smart-money-wallets-in-a-week-and-not-a.html",
+"title": "DeepSea tagged 2,790 new smart money wallets in a week, and not a single new bot",
+"dek": "DeepSea's weekly report counts 2,615 wallets seen for the first time from October 26 to November 1, plus 652 new DeFi borrowers and 93 new influencer (KOL) wallets. Here is what the labels mean.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-04T07:26:00-05:00",
+"image": "https://lcinsight.net/og/deepsea-2615-new-wallets-2790-smart-money-zero-bots.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#SmartMoney",
+"#KOLs",
+"#DeFi"
+]
+},
+{
+"slug": "okx-451000-transfers-241m-net-outflow-asia",
+"url": "https://lcinsight.net/news/okx-logged-three-times-binances-transfer-count-last-week-and-lost-a.html",
+"title": "OKX logged three times Binance's transfer count last week and lost a net $241.6 million",
+"dek": "DeepSea's exchange data shows 451,046 transfers at OKX from October 26 to November 1, with almost twice as many withdrawals as deposits. Bybit went the other way, with a net $478.2 million coming in.",
+"category": "Exchanges",
+"guide": false,
+"hot": false,
+"published": "2026-11-04T07:25:00-05:00",
+"image": "https://lcinsight.net/og/okx-451000-transfers-241m-net-outflow-asia.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#OKX",
+"#Bybit",
+"#ExchangeFlows"
+]
+},
+{
+"slug": "asian-local-exchanges-1-3-percent-korea-hong-kong",
+"url": "https://lcinsight.net/news/asias-local-exchanges-handled-just-1-3-percent-of-flows-as-binance.html",
+"title": "Asia's local exchanges handled just 1.3% of flows as Binance took in a net $5.04 billion",
+"dek": "South Korea led the local markets with $12.5 million net in. Upbit, HashKey, Bitkub and other home-market exchanges together handled about $538 million of deposits and withdrawals from October 26 to November 1, DeepSea's data shows.",
+"category": "Exchanges",
+"guide": false,
+"hot": false,
+"published": "2026-11-04T07:24:00-05:00",
+"image": "https://lcinsight.net/og/asian-local-exchanges-1-3-percent-korea-hong-kong.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#ExchangeFlows",
+"#SouthKorea",
+"#HongKong"
+]
+},
+{
+"slug": "sharks-sold-3-5m-op-optimism-24h",
+"url": "https://lcinsight.net/news/shark-wallets-sold-3-55-million-of-optimisms-op-in-a-day-and-bought.html",
+"title": "Shark wallets sold $3.55 million of Optimism's OP in a day and bought just $486,000",
+"dek": "DeepSea's live feed shows big wallets selling Optimism's token while still parking dollars on the chain. On Berachain, a heavy seller of USD₮0 turned buyer in the last hour.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-04T07:21:00-05:00",
+"image": "https://lcinsight.net/og/sharks-sold-3-5m-op-optimism-24h.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Whales",
+"#OnChainData",
+"#Layer2"
+]
+},
+{
+"slug": "machibigbrother-eth-longs-145k-25-seconds",
+"url": "https://lcinsight.net/news/machibigbrother-opened-145-405-of-eth-longs-in-25-seconds-six-hours.html",
+"title": "MachiBigBrother opened $145,405 of ETH longs in 25 seconds, six hours after the last burst",
+"dek": "DeepSea's live feed caught the crypto influencer opening six ether long positions on Hyperliquid at 6:33 a.m. ET, after nine more just past midnight.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-04T07:20:00-05:00",
+"image": "https://lcinsight.net/og/machibigbrother-eth-longs-145k-25-seconds.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#KOLs",
+"#Hyperliquid",
+"#Ethereum"
+]
+},
+{
 "slug": "deepsea-risk-list-32175-addresses-ransomware",
 "url": "https://lcinsight.net/news/32-175-crypto-addresses-are-on-deepseas-risk-list-ransomware-is-the.html",
 "title": "32,175 crypto addresses are on DeepSea's risk list. Ransomware is the biggest category",
@@ -3478,94 +3568,6 @@
 "#FCA",
 "#Licensing",
 "#CryptoRegime"
-]
-},
-{
-"slug": "sec-staff-crypto-faq-token-buybacks",
-"url": "https://lcinsight.net/news/can-a-token-buyback-make-a-coin-a-security-sec-staff-say-it-hinges-on.html",
-"title": "Can a token buyback make a coin a security? SEC staff say it hinges on one word",
-"dek": "New SEC staff FAQs say a buyback on a working, \"functional\" network is not a promise of managerial effort. Projects that are not yet functional are warned off marketing buybacks as yield.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-09-26T09:00:00+02:00",
-"image": "https://lcinsight.net/og/sec-staff-crypto-faq-token-buybacks.jpg",
-"hashtags": [
-"#SEC",
-"#TokenBuybacks",
-"#Howey",
-"#RegulationCryptoAssets"
-]
-},
-{
-"slug": "aave-v4-coinbase-tokenized-stocks-usdc-loans",
-"url": "https://lcinsight.net/news/borrow-dollars-against-nvidia-stock-even-on-a-sunday-aaves-first-month.html",
-"title": "Borrow dollars against Nvidia stock, even on a Sunday: Aave's first month, $5.2M lent",
-"dek": "Aave V4 on Base now takes seven Coinbase tokenized tech stocks as collateral for USDC loans. A month in, $11.5 million of stock is deposited, ten tiny liquidations have hit, and there is no bad debt. US users are shut out.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-09-25T20:00:00+02:00",
-"image": "https://lcinsight.net/og/aave-v4-coinbase-tokenized-stocks-usdc-loans.jpg",
-"hashtags": [
-"#Aave",
-"#AaveV4",
-"#Coinbase",
-"#Base",
-"#TokenizedStocks"
-]
-},
-{
-"slug": "duelbits-7-million-hot-wallet-hack-relaunch",
-"url": "https://lcinsight.net/news/duelbits-lost-7-million-from-its-hot-wallets-five-weeks-later-still-no.html",
-"title": "Duelbits lost $7 million from its hot wallets. Five weeks later, still no explanation",
-"dek": "The crypto casino went offline on September 24, said user funds were safe and has since relaunched. On-chain data show the stolen value was swapped into ETH, which can't be frozen, and moved on.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-09-25T12:00:00+02:00",
-"image": "https://lcinsight.net/og/duelbits-7-million-hot-wallet-hack-relaunch.jpg",
-"hashtags": [
-"#Duelbits",
-"#Hacks",
-"#HotWallets",
-"#CryptoCasinos"
-]
-},
-{
-"slug": "bitget-hack-388-million-forged-withdrawals",
-"url": "https://lcinsight.net/news/bitget-lost-388-million-with-no-keys-stolen-how-did-fake-withdrawals.html",
-"title": "Bitget lost $388 million with no keys stolen. How did fake withdrawals get through?",
-"dek": "Attackers used an unpatched flaw in a third-party security tool, took real staff logins and wrote fake withdrawal orders into Bitget's wallet servers. Bitget says its Protection Fund covers the loss and user balances were not touched.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-09-25T10:00:00+02:00",
-"image": "https://lcinsight.net/og/bitget-hack-388-million-forged-withdrawals.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Bitget",
-"#Hacks",
-"#Exchanges"
-]
-},
-{
-"slug": "polygon-11-million-payments-per-second-agent-channels",
-"url": "https://lcinsight.net/news/polygon-claims-11-million-payments-per-second-almost-none-of-them.html",
-"title": "Polygon claims 11 million payments per second. Almost none of them touch the chain",
-"dek": "Polygon Labs says its new agent pay channels processed more than 11 million payment updates per second in tests. The number is real, but it measures offchain hubs on a devnet, not Polygon's blockchain.",
-"category": "Infrastructure",
-"guide": false,
-"hot": false,
-"published": "2026-09-25T09:00:00+02:00",
-"image": "https://lcinsight.net/og/polygon-11-million-payments-per-second-agent-channels.jpg",
-"hashtags": [
-"#Polygon",
-"#Payments",
-"#AIAgents",
-"#X402",
-"#Scaling"
 ]
 }
 ]
