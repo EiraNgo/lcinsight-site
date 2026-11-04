@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search LC Insight</title>
+<meta name="description" content="Search LC Insight crypto news and on-chain analysis by keyword.">
+<meta name="theme-color" content="#2E3338">
+<meta property="og:site_name" content="LC Insight"><meta property="og:type" content="website"><meta property="og:url" content="https://lcinsight.net/search.html">
+<meta property="og:title" content="Search LC Insight"><meta property="og:description" content="Search LC Insight crypto news and on-chain analysis by keyword."><meta property="og:image" content="https://lcinsight.net/assets/og.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:image" content="https://lcinsight.net/assets/og.png">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Search LC Insight"><meta name="twitter:description" content="Search LC Insight crypto news and on-chain analysis by keyword.">
+<link rel="canonical" href="https://lcinsight.net/search.html">
+<link rel="icon" href="assets/favicon.ico"><link rel="apple-touch-icon" href="assets/icon-180.png">
+<link rel="alternate" type="application/rss+xml" title="LC Insight" href="feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,600;6..72,700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+<script>(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z7x7i837ur");</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a><header class="mast"><div class="wrap">
+  <a class="brand" href="index.html" aria-label="LC Insight home"><img class="m" src="assets/mark.png" alt="" width="63" height="60"><img class="w" src="assets/word.png" alt="LC Insight" width="122" height="26"></a>
+  <nav aria-label="Sections"><a href="category/markets.html">Markets</a><a href="category/security.html">Security</a><a href="category/policy.html">Policy</a><a href="category/exchanges.html">Exchanges</a><a href="category/defi.html">DeFi</a><a href="category/infrastructure.html">Infrastructure</a><a href="category/projects.html">Projects</a><a href="category/airdrops.html">Airdrops</a><a href="category/ai-rwa.html">AI &amp; RWA</a><a href="category/culture.html">Culture</a><a href="category/guides.html">Guides</a></nav>
+  <form class="sbox" action="search.html" role="search"><input type="search" name="q" placeholder="Search" aria-label="Search LC Insight"><button type="submit" aria-label="Search">&#9906;</button></form>
+  <button class="menu-btn" type="button" aria-label="Menu" aria-expanded="false" aria-controls="mnav"><span class="bars" aria-hidden="true"><i></i><i></i><i></i></span></button>
+  <nav class="mnav" id="mnav" aria-label="Sections, mobile" hidden><form class="sbox m" action="search.html" role="search"><input type="search" name="q" placeholder="Search stories, tokens, wallets" aria-label="Search LC Insight"></form><a href="category/markets.html">Markets</a><a href="category/security.html">Security</a><a href="category/policy.html">Policy</a><a href="category/exchanges.html">Exchanges</a><a href="category/defi.html">DeFi</a><a href="category/infrastructure.html">Infrastructure</a><a href="category/projects.html">Projects</a><a href="category/airdrops.html">Airdrops</a><a href="category/ai-rwa.html">AI &amp; RWA</a><a href="category/culture.html">Culture</a><a href="category/guides.html">Guides</a></nav>
+</div></header>
+<div class="subbar"><div class="wrap"><span>Wednesday, November 4, 2026</span><span class="tagline">Read the chain, not the rumors.</span></div></div><main id="main" class="wrap"><div class="chead"><h1>Search</h1></div>
+<form class="sfull" role="search" onsubmit="return false"><input id="q" type="search" placeholder="Try: Binance, airdrop, whale, KOL, Solana" aria-label="Search" autofocus></form>
+<p id="sc" class="smeta"></p><ul id="sr" class="sres"></ul></main>
+<script>(function(){var q=document.getElementById('q'),r=document.getElementById('sr'),c=document.getElementById('sc'),D=[];
+function e(t){return t.replace(/[&<>"]/g,function(m){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]})}
+function run(){var v=q.value.trim().toLowerCase();if(!v){r.innerHTML='';c.textContent='';return}var w=v.split(/\s+/);
+var hits=D.map(function(d){var t=d.t.toLowerCase(),k=(d.d+' '+d.g+' '+d.c).toLowerCase(),s=0;for(var i=0;i<w.length;i++){if(t.indexOf(w[i])>=0)s+=3;else if(k.indexOf(w[i])>=0)s+=1;else return null}return [s,d]}).filter(Boolean);
+hits.sort(function(a,b){return b[0]-a[0]||(a[1].p<b[1].p?1:-1)});c.textContent=hits.length+' result'+(hits.length==1?'':'s');
+r.innerHTML=hits.slice(0,60).map(function(h){var d=h[1];return '<li><a href="'+d.u+'">'+e(d.t)+'</a><p>'+e(d.d)+'</p><span>'+e(d.c)+' &middot; '+d.p.slice(0,10)+'</span></li>'}).join('');
+history.replaceState(null,'','?q='+encodeURIComponent(q.value))}
+fetch('search.json').then(function(x){return x.json()}).then(function(j){D=j;var m=location.search.match(/[?&]q=([^&]*)/);if(m){q.value=decodeURIComponent(m[1].replace(/\+/g,' '))}run()});
+q.addEventListener('input',run)})();</script><footer>
+  <div class="wrap">
+    <div><a class="brand" href="index.html"><img class="m" src="assets/mark.png" alt="" width="48" height="46" loading="lazy"><img class="w" src="assets/word.png" alt="LC Insight" width="94" height="20" loading="lazy"></a>
+      <p class="ftag">Read the chain, not the rumors.</p><p>Crypto market news and on-chain analysis.</p></div>
+    <div><h2>Sections</h2><ul><li><a href="category/markets.html">Markets</a></li><li><a href="category/security.html">Security</a></li><li><a href="category/policy.html">Policy</a></li><li><a href="category/exchanges.html">Exchanges</a></li><li><a href="category/defi.html">DeFi</a></li><li><a href="category/infrastructure.html">Infrastructure</a></li><li><a href="category/projects.html">Projects</a></li><li><a href="category/airdrops.html">Airdrops</a></li><li><a href="category/ai-rwa.html">AI &amp; RWA</a></li><li><a href="category/culture.html">Culture</a></li><li><a href="category/guides.html">Guides</a></li></ul></div>
+    <div><h2>LC Insight</h2><p style="margin-top:0"><a href="about.html">About and editorial standards</a><br><a href="#x-account-coming-soon" rel="noopener">LC Insight on X</a><br><a href="feed.xml">RSS feed</a></p>
+      <p>For information only. Not investment or legal advice.</p></div>
+  </div>
+  <div class="legal"><div class="wrap"><span>© 2026 LC Insight</span><span>lcinsight.net</span></div></div>
+</footer>
+<script>(function(){var b=document.querySelector('.menu-btn'),n=document.getElementById('mnav');if(!b||!n)return;
+function set(o){n.hidden=!o;b.setAttribute('aria-expanded',o?'true':'false');document.documentElement.classList.toggle('menu-open',o);}
+b.addEventListener('click',function(e){e.stopPropagation();set(n.hidden);});
+document.addEventListener('click',function(e){if(!n.hidden&&!n.contains(e.target)&&!b.contains(e.target))set(false);});
+n.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){set(false);});});
+document.addEventListener('keydown',function(e){if(e.key==='Escape')set(false);});})();</script>
+<!-- Cloudflare Web Analytics --><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "5022dbc520454edfa2c8ae18913ac97f"}'></script>
+</body>
+</html>

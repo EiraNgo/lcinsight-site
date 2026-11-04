@@ -300,3 +300,18 @@ footer .legal .wrap{display:flex;justify-content:space-between;padding:16px 32px
 .reels{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:28px;margin:28px 0 60px}
 .reel video{width:100%;aspect-ratio:16/9;background:#20252b;border-radius:16px;display:block}
 .reel figcaption{font-size:15px;margin-top:8px;line-height:1.35}
+
+/* search (owner, Nov 5 2026) */
+.mast .sbox{display:flex;align-items:center;margin-left:auto;margin-right:8px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.18);border-radius:999px;padding:2px 4px 2px 14px}
+.mast .sbox input{background:transparent;border:0;color:#fff;font:inherit;font-size:14px;width:150px;outline:0}
+.mast .sbox input::placeholder{color:rgba(255,255,255,.6)}
+.mast .sbox button{background:transparent;border:0;color:#fff;font-size:18px;cursor:pointer;padding:4px 8px;transform:rotate(-45deg)}
+.mnav .sbox.m{margin:8px 0 12px;padding:8px 14px;width:auto}
+.mnav .sbox.m input{width:100%}
+@media (max-width:900px){.mast > .wrap > .sbox{display:none}}
+.sfull input{width:100%;font:inherit;font-size:20px;padding:14px 18px;border:2px solid #2E3338;border-radius:14px;box-sizing:border-box}
+.smeta{color:#6b737b;margin:10px 0}
+.sres{list-style:none;padding:0;margin:0 0 40px}.sres li{padding:16px 0;border-bottom:1px solid #e4e1dc}
+.sres a{font-weight:700;font-size:19px;color:inherit;text-decoration:none}.sres a:hover{color:#e23b3f}
+.sres p{margin:6px 0;color:#444}.sres span{font-size:13px;color:#8a9096}
+@media (max-width:1440px){.mast > .wrap > .sbox input{display:none}.mast > .wrap > .sbox{padding:2px}}
