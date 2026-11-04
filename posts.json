@@ -1,5 +1,167 @@
 [
 {
+"slug": "zama-tops-whale-buying-3-million-deepsea-week",
+"url": "https://lcinsight.net/news/whales-and-smart-money-put-3-million-into-zama-as-it-fell-14-percent.html",
+"title": "Whales and smart money put $3 million into ZAMA as it fell 14% in a week",
+"dek": "ZAMA drew the heaviest combined buying in DeepSea's weekly data, with coins moving to cold storage. Two USD.AI tokens, CHIP and sUSDai, came next.",
+"category": "Projects",
+"guide": false,
+"hot": true,
+"published": "2026-11-03T18:44:00-05:00",
+"image": "https://lcinsight.net/og/zama-tops-whale-buying-3-million-deepsea-week.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Ethereum",
+"#Arbitrum",
+"#Whales"
+]
+},
+{
+"slug": "defi-lenders-added-12-7b-morpho-liquidations",
+"url": "https://lcinsight.net/news/defi-lenders-supplied-12-7-billion-in-a-week-morpho-blue-had-84.html",
+"title": "DeFi lenders supplied $12.7 billion in a week. Morpho Blue had 84% of liquidations",
+"dek": "DeepSea's lending data for October 26 to November 1 shows deposits far ahead of withdrawals, borrowing almost exactly matched by repayments, and $12.69 million liquidated, most of it on Morpho Blue.",
+"category": "DeFi",
+"guide": false,
+"hot": false,
+"published": "2026-11-03T18:43:00-05:00",
+"image": "https://lcinsight.net/og/defi-lenders-added-12-7b-morpho-liquidations.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#DeFi",
+"#Aave",
+"#Morpho"
+]
+},
+{
+"slug": "whales-sold-28-9m-lbtc-smart-money-bought",
+"url": "https://lcinsight.net/news/whales-cut-28-9-million-of-lbtc-in-a-week-smart-money-bought-just-127.html",
+"title": "Whales cut $28.9 million of LBTC in a week. Smart money bought just $127,900",
+"dek": "Lombard's bitcoin token on Ethereum was the most sold token in DeepSea's weekly data, by a wide margin. Whales also cut $6.47 million of ARB, with DeepSea flagging moves to cold storage.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-03T18:43:00-05:00",
+"image": "https://lcinsight.net/og/whales-sold-28-9m-lbtc-smart-money-bought.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Bitcoin",
+"#Ethereum",
+"#Arbitrum"
+]
+},
+{
+"slug": "pepe-shib-deposits-us-europe-exchanges-btc-leaves",
+"url": "https://lcinsight.net/news/pepe-and-shib-flowed-into-us-and-european-exchanges-as-120-million-in.html",
+"title": "PEPE and SHIB flowed into US and European exchanges as $120 million in bitcoin left",
+"dek": "DeepSea's weekly data shows Western exchanges nearly flat overall, at minus $54.98 million. Under the surface, memecoins were deposited, bitcoin was withdrawn, Kraken lost 1,526 BTC and one $399.78 million USDC transfer left Coinbase.",
+"category": "Exchanges",
+"guide": false,
+"hot": false,
+"published": "2026-11-03T18:42:00-05:00",
+"image": "https://lcinsight.net/og/pepe-shib-deposits-us-europe-exchanges-btc-leaves.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#ExchangeFlows",
+"#Memecoins",
+"#Bitcoin"
+]
+},
+{
+"slug": "solana-kols-lost-395k-week-zeropnl-7-green-days",
+"url": "https://lcinsight.net/news/448-of-617-solana-influencers-lost-money-last-week-the-best-one-won.html",
+"title": "448 of 617 Solana influencers lost money last week. The best one won all seven days",
+"dek": "DeepSea's tracked crypto influencers on Solana closed the week $395,600 down. A trader called zeropnl made $82,900 with seven green days, while one smart money wallet lost $1.81 million in a single day.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-03T18:42:00-05:00",
+"image": "https://lcinsight.net/og/solana-kols-lost-395k-week-zeropnl-7-green-days.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Solana",
+"#KOLs",
+"#SmartMoney"
+]
+},
+{
+"slug": "hyperliquid-traders-3-78b-short-126m-hype-long",
+"url": "https://lcinsight.net/news/hyperliquids-big-traders-bet-3-78-billion-on-a-drop-one-put-126.html",
+"title": "Hyperliquid's big traders bet $3.78 billion on a drop. One put $126 million on HYPE rising",
+"dek": "DeepSea's tracked traders held six dollars of shorts for every dollar of longs last week. Against that tide, one wallet opened a $126.62 million HYPE long, and a 40x bitcoin bet sat 2.4% from liquidation.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-03T18:41:00-05:00",
+"image": "https://lcinsight.net/og/hyperliquid-traders-3-78b-short-126m-hype-long.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Hyperliquid",
+"#Perpetuals",
+"#Bitcoin"
+]
+},
+{
+"slug": "usdt-left-asian-exchanges-xaut-rlusd-usde-arrived",
+"url": "https://lcinsight.net/news/255-million-in-usdt-left-asian-exchanges-in-a-week-gold-tokens-usde.html",
+"title": "$255 million in USDT left Asian exchanges in a week. Gold tokens, USDe and RLUSD moved in",
+"dek": "DeepSea's weekly data shows Asian exchanges losing USDT and USDT0 while tokenized gold and smaller dollar tokens arrived. In the last 24 hours, one shark wallet traded $47.8 million of RLUSD on Ethereum.",
+"category": "Exchanges",
+"guide": false,
+"hot": true,
+"published": "2026-11-03T18:41:00-05:00",
+"image": "https://lcinsight.net/og/usdt-left-asian-exchanges-xaut-rlusd-usde-arrived.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Stablecoins",
+"#ExchangeFlows",
+"#RLUSD"
+]
+},
+{
+"slug": "binance-66386-btc-net-inflow-hack-week",
+"url": "https://lcinsight.net/news/binance-took-in-a-net-66-386-bitcoin-worth-5-2-billion-in-the-week-it.html",
+"title": "Binance took in a net 66,386 bitcoin, worth $5.2 billion, in the week it was hacked",
+"dek": "DeepSea's data shows a net $5.04 billion flowing into Binance from October 26 to November 1, almost all of Asia's net inflow. Who sent it? The data cannot say.",
+"category": "Exchanges",
+"guide": false,
+"hot": false,
+"published": "2026-11-03T18:40:00-05:00",
+"image": "https://lcinsight.net/og/binance-66386-btc-net-inflow-hack-week.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Bitcoin",
+"#Binance",
+"#ExchangeFlows"
+]
+},
+{
+"slug": "hack-funds-307m-btc-reached-exchanges-okx-binance",
+"url": "https://lcinsight.net/news/307-million-in-hack-linked-bitcoin-hit-exchanges-in-one-week-okx-got.html",
+"title": "$307 million in hack-linked bitcoin hit exchanges in one week. OKX got the biggest share",
+"dek": "DeepSea counted 680 deposits of tainted funds into exchanges from October 26 to November 1, nearly all in BTC. OKX took $139.96 million in just 55 of them, including a run of near-identical $15.47 million transfers.",
+"category": "Security",
+"guide": false,
+"hot": false,
+"published": "2026-11-03T18:40:00-05:00",
+"image": "https://lcinsight.net/og/hack-funds-307m-btc-reached-exchanges-okx-binance.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Hacks",
+"#Bitcoin",
+"#OKX"
+]
+},
+{
 "slug": "binance-hack-report-fake-job-interview-pyenv",
 "url": "https://lcinsight.net/news/a-fake-job-interview-opened-the-door-to-binances-6-34-billion-hack-its.html",
 "title": "A fake job interview opened the door to Binance's $6.34 billion hack, its own report says",
@@ -3398,148 +3560,6 @@
 "#Arc",
 "#USDC",
 "#Layer1"
-]
-},
-{
-"slug": "robinhood-engineers-charged-hyperliquid-trades",
-"url": "https://lcinsight.net/news/prosecutors-say-a-robinhood-engineer-bought-hyperliquid-perps-before-9.html",
-"title": "Prosecutors say a Robinhood engineer bought Hyperliquid perps before 9 coin listings",
-"dek": "Federal prosecutors in Manhattan charged two former Robinhood engineers with fraud, alleging they used secret listing plans to bet on Hyperliquid. Each allegedly made more than $50,000, and both are presumed innocent.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-09-16T10:00:00+02:00",
-"image": "https://lcinsight.net/og/robinhood-engineers-charged-hyperliquid-trades.jpg",
-"hashtags": [
-"#Robinhood",
-"#Hyperliquid",
-"#DOJ",
-"#InsiderTrading",
-"#Enforcement"
-]
-},
-{
-"slug": "senate-clarity-act-fails-49-50",
-"url": "https://lcinsight.net/news/49-to-50-why-not-one-democrat-voted-to-start-debate-on-the-clarity-act.html",
-"title": "49 to 50: why not one Democrat voted to start debate on the CLARITY Act",
-"dek": "The Senate fell 11 votes short of the 60 needed to take up America's crypto market structure bill on September 15. Democrats who backed it in committee said the ethics rules for the president were too thin.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-09-16T08:30:00+02:00",
-"image": "https://lcinsight.net/og/senate-clarity-act-fails-49-50.jpg",
-"hashtags": [
-"#CLARITYAct",
-"#USSenate",
-"#MarketStructure",
-"#Congress"
-]
-},
-{
-"slug": "august-cpi-bitcoin-dip-76037-rebound-78700",
-"url": "https://lcinsight.net/news/inflation-stuck-at-3-4-percent-in-august-bitcoin-jumped-2-8-percent-in.html",
-"title": "Inflation stuck at 3.4% in August. Bitcoin jumped 2.8% in two hours, then faded",
-"dek": "Gasoline drove US prices up in August while core inflation cooled on the year. Bitcoin hit about $79,160 within two hours of the September 11 report and ether gained almost 7%, but both gave most of it back later in the day.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-09-11T18:30:00+02:00",
-"image": "https://lcinsight.net/og/august-cpi-bitcoin-dip-76037-rebound-78700.jpg",
-"hashtags": [
-"#Inflation",
-"#CPI",
-"#Bitcoin",
-"#FederalReserve"
-]
-},
-{
-"slug": "nasdaq-invests-100-million-kraken-payward-21-billion",
-"url": "https://lcinsight.net/news/nasdaq-will-put-100-million-into-krakens-parent-with-tokenized-stocks.html",
-"title": "Nasdaq will put $100 million into Kraken's parent, with tokenized stocks due in 2027",
-"dek": "Nasdaq's venture arm is backing Payward, and the two plan to link Nasdaq Equity Tokens, due in the second quarter of 2027, with Kraken's xStocks. Payward will also adopt Nasdaq's market surveillance technology.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-09-11T09:00:00+02:00",
-"image": "https://lcinsight.net/og/nasdaq-invests-100-million-kraken-payward-21-billion.jpg",
-"hashtags": [
-"#Kraken",
-"#Payward",
-"#Nasdaq",
-"#TokenizedStocks",
-"#IPO"
-]
-},
-{
-"slug": "liquid-network-4000-btc-exploit-600-btc-gap",
-"url": "https://lcinsight.net/news/a-liquid-bug-minted-4-000-unbacked-l-btc-eight-weeks-on-the-reserve-is.html",
-"title": "A Liquid bug minted 4,000 unbacked L-BTC. Eight weeks on, the reserve is 550 BTC short",
-"dek": "An attacker used a flaw in Liquid's software to create unbacked tokens and redeem them for about $319 million in real bitcoin, then sent 85% back. The reserve is still 550 BTC short and direct redemptions stay paused.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-09-08T09:00:00+02:00",
-"image": "https://lcinsight.net/og/liquid-network-4000-btc-exploit-600-btc-gap.jpg",
-"hashtags": [
-"#LiquidNetwork",
-"#Blockstream",
-"#Bitcoin",
-"#Hacks",
-"#Bridges"
-]
-},
-{
-"slug": "sofi-payward-kraken-24-7-dollar-settlement-sofiusd",
-"url": "https://lcinsight.net/news/krakens-parent-plugs-into-sofi-24-7-dollar-settlement-and-a-bank.html",
-"title": "Kraken's parent plugs into SoFi: 24/7 dollar settlement and a bank-issued stablecoin",
-"dek": "SoFi will route some crypto trades for its 15.8 million members through Kraken Prime, and Kraken will list SoFiUSD, a stablecoin issued by SoFi Bank. Kraken's institutional clients also get dollars that settle at any hour, weekends included.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-09-04T09:00:00+02:00",
-"image": "https://lcinsight.net/og/sofi-payward-kraken-24-7-dollar-settlement-sofiusd.jpg",
-"hashtags": [
-"#Kraken",
-"#Payward",
-"#SoFi",
-"#Stablecoins",
-"#SoFiUSD"
-]
-},
-{
-"slug": "vietnam-decree-284-crypto-fines-in-force",
-"url": "https://lcinsight.net/news/vietnams-crypto-fines-are-live-up-to-vnd-200-million-for-firms-a.html",
-"title": "Vietnam's crypto fines are live: up to VND 200 million for firms, a reprieve for traders",
-"dek": "Decree 284/2026/ND-CP took effect on September 1, with fines for unlicensed exchanges, crypto advertising, weak identity checks and data leaks. For ordinary investors who trade on offshore exchanges, the Ministry of Finance says fines only start six months after the first local provider is licensed, and none had been by early October.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-09-02T10:00:00+02:00",
-"image": "https://lcinsight.net/og/vietnam-decree-284-crypto-fines-in-force.jpg",
-"hashtags": [
-"#Vietnam",
-"#Decree284",
-"#MinistryOfFinance",
-"#StateSecuritiesCommission",
-"#Enforcement"
-]
-},
-{
-"slug": "cronos-halts-chain-tectonic-74-million-exploit",
-"url": "https://lcinsight.net/news/cronos-halted-its-whole-chain-to-undo-a-120-million-tectonic-drain-9.html",
-"title": "Cronos halted its whole chain to undo a $120 million Tectonic drain. $9 million got away",
-"dek": "An attacker pumped the TONIC token about 195 times and borrowed $120.4 million against it from Tectonic, the biggest lender on Crypto.com's Cronos chain. Validators stopped the network and rewound it, but about $9.19 million had already left.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-08-31T18:00:00+02:00",
-"image": "https://lcinsight.net/og/cronos-halts-chain-tectonic-74-million-exploit.jpg",
-"hashtags": [
-"#Cronos",
-"#Tectonic",
-"#Cryptocom",
-"#DeFi",
-"#Hacks"
 ]
 }
 ]
