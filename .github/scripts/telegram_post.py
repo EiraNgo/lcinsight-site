@@ -21,7 +21,7 @@ def esc(s): return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&g
 def wait_live(url, tries=12):
     for _ in range(tries):
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, method='HEAD'), timeout=15) as r:
+            with urllib.request.urlopen(urllib.request.Request(url, method='HEAD', headers={'User-Agent': 'LCInsight-Telegram/1.0'}), timeout=15) as r:
                 if r.status == 200: return True
         except Exception:
             pass
@@ -90,12 +90,13 @@ def save_state(st):
     open(f'{d}/posted.json', 'w').write(json.dumps(st, indent=0))
     g('add', 'posted.json'); g('commit', '-q', '-m', 'Telegram state'); g('push', '-q', '-f', 'origin', STATE_BRANCH)
 
-def main():
+def step():
     """Drip mode (owner, November 4, 2026): Telegram readers want fresh news all day, so new hot stories are queued
     and posted one at a time, at least GAP_MIN minutes apart, 07:00-23:30 Vietnam time, freshest hot story first."""
     if not TOKEN or not CHAT:
         print('Telegram secrets not set; skipping.'); return
-    now = load('HEAD') or []
+    subprocess.run(['git', 'fetch', '-q', 'origin', 'main'], capture_output=True)
+    now = load('origin/main') or load('HEAD') or []
     ch = CHAT if CHAT.startswith('@') or CHAT.lstrip('-').isdigit() else '@' + CHAT.rsplit('/', 1)[-1]
     globals()['CHAT'] = ch
     if MODE == 'test':
@@ -107,22 +108,30 @@ def main():
         save_state(st); print('state created with', len(st['posted']), 'stories'); return
     vn = vn_now(); mins = vn.hour * 60 + vn.minute
     if not (7 * 60 <= mins <= 23 * 60 + 30): print('quiet hours (VN)', vn.strftime('%H:%M')); return
-    if time.time() - st.get('last', 0) < GAP_MIN * 60: print('too soon since last post'); return
+    if time.time() - st.get('last', 0) < GAP_MIN * 60: print('too soon since last post'); return 'soon'
     cutoff = datetime.now(timezone.utc) - timedelta(hours=36)
     done = set(st['posted'])
     queue = [p for p in now if p['slug'] not in done and not p.get('guide') and is_hot(p)
              and datetime.fromisoformat(p['published']) >= cutoff]
-    if not queue: print('queue empty'); return
+    if not queue: print('queue empty'); return 'empty'
     queue.sort(key=lambda p: (bool(p.get('hot')), p['published']), reverse=True)
     p = queue[0]
     try:
         info = api('getChat', {'chat_id': ch}); print('channel ok:', info['result'].get('title'))
     except Exception:
         print('Channel check failed. TELEGRAM_CHANNEL must be the public @username of the channel, and the bot must be an admin there.'); sys.exit(1)
-    if not wait_live(p['url'], tries=4): print('page not live yet, retry next run'); return
+    if not wait_live(p['url'], tries=4): print('page not live yet, retry soon'); return 'wait'
     r = post(p); ok = bool(r.get('ok')); print('posted' if ok else 'FAILED', p['slug'], f'({len(queue) - 1} left in queue)')
     if ok:
-        st['posted'] = (st['posted'] + [p['slug']])[-3000:]; st['last'] = time.time(); save_state(st)
+        st['posted'] = (st['posted'] + [p['slug']])[-3000:]; st['last'] = time.time(); save_state(st); return 'posted'
+
+def main():
+    # one job keeps dripping: post, wait GAP_MIN, repeat, until the queue is empty, quiet hours, or ~5.5 h
+    t0 = time.time()
+    while True:
+        r = step()
+        if r not in ('posted', 'soon', 'wait') or time.time() - t0 > 5.5 * 3600: break
+        time.sleep(GAP_MIN * 60 + 30 if r == 'posted' else 300)
 
 if __name__ == '__main__':
     main()
