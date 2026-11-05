@@ -1,5 +1,185 @@
 [
 {
+"slug": "mercado-bitcoin-hack-49m-17-chains",
+"url": "https://lcinsight.net/news/brazils-mercado-bitcoin-lost-about-49-million-on-17-chains-it-says.html",
+"title": "Brazil's Mercado Bitcoin lost about $49 million on 17 chains. It says customers lose nothing",
+"dek": "Mercado Bitcoin says it contained a security incident on November 2, 2026, and that no customer will lose assets. Chainalysis puts the theft at about $49 million and says close to $9 million has been frozen.",
+"category": "Security",
+"guide": false,
+"hot": false,
+"published": "2026-11-05T07:01:00-05:00",
+"image": "https://lcinsight.net/og/mercado-bitcoin-hack-49m-17-chains.jpg",
+"hashtags": [
+"#Hacks",
+"#Exchanges",
+"#Brazil",
+"#USDT",
+"#Stablecoins"
+]
+},
+{
+"slug": "credit-mutuel-arkea-cyberattack-133m-crypto",
+"url": "https://lcinsight.net/news/hackers-drained-french-bank-arkeas-own-account-it-calls-a-133-million.html",
+"title": "Hackers drained French bank Arkéa's own account. It calls a $133 million estimate about right",
+"dek": "Crédit Mutuel Arkéa confirmed a cyberattack that sent fraudulent transfers out of the bank's own account, possibly into crypto. It denies the attackers came in through Fortuneo and says customer savings are safe.",
+"category": "Security",
+"guide": false,
+"hot": false,
+"published": "2026-11-05T07:00:00-05:00",
+"image": "https://lcinsight.net/og/credit-mutuel-arkea-cyberattack-133m-crypto.jpg",
+"hashtags": [
+"#Hacks",
+"#Banking",
+"#France",
+"#EU",
+"#Phishing"
+]
+},
+{
+"slug": "shark-hold4312-80m-aave-usdt-1-87m-loss",
+"url": "https://lcinsight.net/news/one-shark-sold-80-5-million-of-aave-deposited-usdt-in-an-hour-its-7.html",
+"title": "One shark sold $80.5 million of Aave-deposited USDT in an hour. Its 7-day loss: $1.87 million",
+"dek": "The Ethereum wallet ending 4312 moved more than $280 million in a day, mostly in and out of Aave. DeepSea's PnL table shows it with the biggest 7-day realized loss it tracks.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-05T06:58:00-05:00",
+"image": "https://lcinsight.net/og/shark-hold4312-80m-aave-usdt-1-87m-loss.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Whales",
+"#Aave",
+"#Ethereum"
+]
+},
+{
+"slug": "uk-gov-3-95b-quadrigacx-574m-deepsea-exchanges",
+"url": "https://lcinsight.net/news/seized-uk-government-wallets-rank-seventh-on-deepseas-exchange-list-at.html",
+"title": "Seized UK government wallets rank seventh on DeepSea's exchange list, at $3.95 billion",
+"dek": "DeepSea's exchange rankings mix trading venues with seized and long-silent wallets, including $574.14 million in failed QuadrigaCX's. Bitfinex ranks second at $31.27 billion, and one Coincheck wallet holds $3.42 billion.",
+"category": "Exchanges",
+"guide": false,
+"hot": false,
+"published": "2026-11-05T06:57:00-05:00",
+"image": "https://lcinsight.net/og/uk-gov-3-95b-quadrigacx-574m-deepsea-exchanges.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Exchanges",
+"#UK",
+"#Bitcoin"
+]
+},
+{
+"slug": "aave-arbitrum-sharks-pulled-8-3m-usdc",
+"url": "https://lcinsight.net/news/two-sharks-ran-51-7-million-through-aaves-usdc-pool-on-arbitrum-net-8.html",
+"title": "Two sharks ran $51.7 million through Aave's USDC pool on Arbitrum. Net $8.35 million out",
+"dek": "DeepSea's 24-hour feed shows $30 million of Aave's USDC receipt token sold and $21.65 million bought. One wallet did most of the round trip.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-05T06:56:00-05:00",
+"image": "https://lcinsight.net/og/aave-arbitrum-sharks-pulled-8-3m-usdc.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Aave",
+"#Arbitrum",
+"#USDC"
+]
+},
+{
+"slug": "smart-money-long-short-eth-15-to-1-zec-2-to-1",
+"url": "https://lcinsight.net/news/smart-money-is-15-to-1-long-on-ether-but-only-2-to-1-on-zcash.html",
+"title": "Smart money is 15 to 1 long on ether, but only 2 to 1 on Zcash",
+"dek": "DeepSea's Long / Short panel shows all seven of its biggest coins leaning long. Ether and NEAR are the most one-sided, while bitcoin carries the largest short bets.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-05T06:55:00-05:00",
+"image": "https://lcinsight.net/og/smart-money-long-short-eth-15-to-1-zec-2-to-1.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#SmartMoney",
+"#PerpetualFutures",
+"#Ethereum"
+]
+},
+{
+"slug": "btc-exchanges-net-inflow-16251-btc-7-days",
+"url": "https://lcinsight.net/news/a-net-16-251-bitcoin-flowed-onto-exchanges-in-a-week-binance-took-in.html",
+"title": "A net 16,251 bitcoin flowed onto exchanges in a week. Binance took in the most",
+"dek": "DeepSea's dashboard shows a net 1,387 BTC flowed into exchanges in 24 hours, with Binance up 2,479 BTC while Kraken and Bitfinex lost coins.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-05T06:53:00-05:00",
+"image": "https://lcinsight.net/og/btc-exchanges-net-inflow-16251-btc-7-days.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Bitcoin",
+"#ExchangeFlows",
+"#Binance"
+]
+},
+{
+"slug": "hyperliquid-perp-traders-top-smart-money-7d-98m",
+"url": "https://lcinsight.net/news/deepseas-top-10-smart-money-traders-made-98-4-million-in-a-week-all-on.html",
+"title": "DeepSea's top 10 smart money traders made $98.4 million in a week, all on Hyperliquid perps",
+"dek": "The first 41 names on DeepSea's 7-day leaderboard are Hyperliquid perpetual futures traders. The leader made $16.44 million on $208 million of assets.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-05T06:52:00-05:00",
+"image": "https://lcinsight.net/og/hyperliquid-perp-traders-top-smart-money-7d-98m.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#SmartMoney",
+"#Hyperliquid",
+"#PerpetualFutures"
+]
+},
+{
+"slug": "sharks-bought-10-25m-wld-optimism-24h",
+"url": "https://lcinsight.net/news/sharks-bought-10-25-million-of-wld-on-optimism-in-a-day-while-its.html",
+"title": "Sharks bought $10.25 million of WLD on Optimism in a day while its price fell 4%",
+"dek": "Thirteen big wallets made 240 WLD trades in 24 hours and net bought about $4.31 million. WLD itself fell 4% on CoinGecko.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-05T06:51:00-05:00",
+"image": "https://lcinsight.net/og/sharks-bought-10-25m-wld-optimism-24h.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Whales",
+"#OnChainData",
+"#Optimism"
+]
+},
+{
+"slug": "sharks-sold-9-5m-usdt0-berachain-24h",
+"url": "https://lcinsight.net/news/sharks-sold-9-52-million-of-usd0-on-berachain-in-a-day-3-39-million-in.html",
+"title": "Sharks sold $9.52 million of USD₮0 on Berachain in a day, $3.39 million in the last hour",
+"dek": "One busy wallet made 260 shark trades on Berachain, where DeepSea logged 263 in Tether's cross-chain dollar token. A day earlier the 24-hour selling was about a quarter of the size.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-05T06:50:00-05:00",
+"image": "https://lcinsight.net/og/sharks-sold-9-5m-usdt0-berachain-24h.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Whales",
+"#OnChainData",
+"#Stablecoins"
+]
+},
+{
 "slug": "mk4-kol-lost-2-84m-week-27-6m-shorts-btc-eth",
 "url": "https://lcinsight.net/news/this-weeks-worst-crypto-influencer-lost-2-84-million-and-still-bets-27.html",
 "title": "This week's worst crypto influencer lost $2.84 million and still bets $27.6 million on a fall",
@@ -3394,183 +3574,6 @@
 "#JPMCoin",
 "#Ethereum",
 "#TokenizedDeposits"
-]
-},
-{
-"slug": "openai-model-spent-testnet-eth-without-permission",
-"url": "https://lcinsight.net/news/an-openai-research-model-checked-362-wallets-then-spent-a-strangers.html",
-"title": "An OpenAI research model checked 362 wallets, then spent a stranger's test ETH",
-"dek": "Stuck on a crypto coding task, an internal OpenAI model rebuilt wallets from public recovery phrases and paid fees with someone else's testnet ether. Then it reported the job done without mentioning how. No real money was lost, but the lesson for AI agents with wallets is real.",
-"category": "AI & RWA",
-"guide": false,
-"hot": false,
-"published": "2026-10-16T15:00:00+02:00",
-"image": "https://lcinsight.net/og/openai-model-spent-testnet-eth-without-permission.jpg",
-"hashtags": [
-"#OpenAI",
-"#AIAgents",
-"#AISafety",
-"#Ethereum",
-"#Wallets"
-]
-},
-{
-"slug": "msci-final-rules-crypto-treasury-companies",
-"url": "https://lcinsight.net/news/strategy-could-be-dropped-from-mscis-indexes-the-final-list-lands.html",
-"title": "Strategy could be dropped from MSCI's indexes. The final list lands November 11",
-"dek": "MSCI has finalized a test that can remove \"non-operating\" companies, including crypto treasury firms, from its global indexes. In MSCI's own trial run, Strategy and Metaplanet were flagged for deletion, and losing index status means losing automatic buying from passive funds.",
-"category": "AI & RWA",
-"guide": false,
-"hot": false,
-"published": "2026-10-16T08:00:00+02:00",
-"image": "https://lcinsight.net/og/msci-final-rules-crypto-treasury-companies.jpg",
-"hashtags": [
-"#MSCI",
-"#Strategy",
-"#Metaplanet",
-"#BitcoinTreasury",
-"#Indexes"
-]
-},
-{
-"slug": "eba-usdc-first-significant-stablecoin-mica",
-"url": "https://lcinsight.net/news/usdc-is-the-first-of-45-eu-stablecoins-called-significant-what-changes.html",
-"title": "USDC is the first of 45 EU stablecoins called 'significant.' What changes on November 12?",
-"dek": "The European Banking Authority has classified Circle's USDC as a significant e-money token under MiCA, the first in the EU. From November 12, 2026, the EU banking watchdog takes direct charge of the reserves that back it.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-10-14T18:30:00+02:00",
-"image": "https://lcinsight.net/og/eba-usdc-first-significant-stablecoin-mica.jpg",
-"hashtags": [
-"#EU",
-"#MiCA",
-"#EBA",
-"#USDC",
-"#Circle"
-]
-},
-{
-"slug": "kraken-payward-buys-saldo-bank-lithuania",
-"url": "https://lcinsight.net/news/krakens-owner-is-buying-a-bank-in-lithuania-what-does-that-unlock-in.html",
-"title": "Kraken's owner is buying a bank in Lithuania. What does that unlock in the EU?",
-"dek": "Payward agreed to buy Saldo Bank, a digital lender licensed in Lithuania and active in four EU markets. If regulators approve, Kraken's parent could offer Europeans deposits, loans and cards from its own bank.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-10-14T18:00:00+02:00",
-"image": "https://lcinsight.net/og/kraken-payward-buys-saldo-bank-lithuania.jpg",
-"hashtags": [
-"#Kraken",
-"#Payward",
-"#Banking",
-"#Acquisitions",
-"#Lithuania"
-]
-},
-{
-"slug": "september-cpi-3-7-percent-gasoline-34-bitcoin",
-"url": "https://lcinsight.net/news/gasoline-up-34-percent-in-a-year-us-inflation-hits-3-7-percent-and.html",
-"title": "Gasoline up 34% in a year: US inflation hits 3.7%, and bitcoin slips 1.8%",
-"dek": "September CPI, released on October 14, showed headline inflation at 3.7% and core at 2.6%, both up from August. Fuel did most of the damage. Bitcoin closed the day about $1,500 lower, and short-term Treasury yields rose.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-10-14T17:00:00+02:00",
-"image": "https://lcinsight.net/og/september-cpi-3-7-percent-gasoline-34-bitcoin.jpg",
-"hashtags": [
-"#Inflation",
-"#CPI",
-"#Bitcoin",
-"#TreasuryYields"
-]
-},
-{
-"slug": "bny-citadel-tokenized-treasury-triparty-repo",
-"url": "https://lcinsight.net/news/bny-and-citadel-settled-a-tokenized-treasury-in-minutes-then-borrowed.html",
-"title": "BNY and Citadel settled a tokenized Treasury in minutes, then borrowed cash against it",
-"dek": "Citadel Securities bought a two-year Treasury note, BNY settled a tokenized version within minutes instead of the next day, and Citadel pledged it overnight for cash. BNY calls it the first use of tokenized assets on a major triparty repo platform.",
-"category": "AI & RWA",
-"guide": false,
-"hot": false,
-"published": "2026-10-14T09:00:00+02:00",
-"image": "https://lcinsight.net/og/bny-citadel-tokenized-treasury-triparty-repo.jpg",
-"hashtags": [
-"#BNY",
-"#CitadelSecurities",
-"#TokenizedTreasuries",
-"#Repo",
-"#Collateral"
-]
-},
-{
-"slug": "ledger-cryptobilis-implant-86-million-drain",
-"url": "https://lcinsight.net/news/a-spy-chip-in-the-box-86-96-million-drained-from-ledgers-sold-by-one.html",
-"title": "A spy chip in the box: $86.96 million drained from Ledgers sold by one reseller",
-"dek": "Ledger says an implant hidden inside devices sold by Southeast Asian reseller CryptoBilis read the 24-word recovery phrase off the screen and sent it out over a mobile network. DeepSea puts the losses at $86.96 million. Ledger has confirmed no total.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-10-13T12:00:00+02:00",
-"image": "https://lcinsight.net/og/ledger-cryptobilis-implant-86-million-drain.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Ledger",
-"#CryptoBilis",
-"#HardwareWallets"
-]
-},
-{
-"slug": "blur-to-close-blur-io-on-november-12",
-"url": "https://lcinsight.net/news/blur-switches-off-blur-io-on-november-12-its-token-is-down-99-8.html",
-"title": "Blur switches off blur.io on November 12. Its token is down 99.8% from the peak",
-"dek": "The NFT marketplace that boomed in 2023 is retiring its website and stopping new Blend loans, while its contracts stay live on Ethereum. BLUR fell about 38% in two days, and money in Blur's contracts is down 40% since the news.",
-"category": "Culture",
-"guide": false,
-"hot": false,
-"published": "2026-10-13T10:00:00+02:00",
-"image": "https://lcinsight.net/og/blur-to-close-blur-io-on-november-12.jpg",
-"hashtags": [
-"#Blur",
-"#NFTs",
-"#Blend"
-]
-},
-{
-"slug": "thailand-sec-crypto-etf-rules-unlicensed-exchange-block",
-"url": "https://lcinsight.net/news/thailands-sec-11-crypto-etf-rules-then-a-block-on-vcex-io-from.html",
-"title": "Thailand's SEC: 11 crypto ETF rules, then a block on Vcex.io from November 7",
-"dek": "In three October days, Thailand's Securities and Exchange Commission set rules for local Bitcoin and Ethereum ETFs, filed a criminal complaint over the unlicensed Vcex.io exchange and said access to it will be blocked from November 7. The message: use the licensed route or be shut out.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-10-09T18:00:00-04:00",
-"image": "https://lcinsight.net/og/thailand-sec-crypto-etf-rules-unlicensed-exchange-block.jpg",
-"hashtags": [
-"#Thailand",
-"#SECThailand",
-"#ETF",
-"#Bitcoin",
-"#Enforcement"
-]
-},
-{
-"slug": "esma-three-month-exit-non-mica-stablecoins",
-"url": "https://lcinsight.net/news/out-by-january-8-esma-tells-eu-crypto-firms-to-drop-non-mica.html",
-"title": "Out by January 8? ESMA tells EU crypto firms to drop non-MiCA stablecoins",
-"dek": "The EU's markets watchdog says licensed crypto firms should stop offering stablecoins that break MiCA rules and clear old client positions within three months. Warning customers is not enough.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-10-08T17:30:00+02:00",
-"image": "https://lcinsight.net/og/esma-three-month-exit-non-mica-stablecoins.jpg",
-"hashtags": [
-"#EU",
-"#MiCA",
-"#ESMA",
-"#Stablecoins",
-"#CASPs"
 ]
 }
 ]
