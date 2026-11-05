@@ -329,3 +329,25 @@ footer .legal .wrap{display:flex;justify-content:space-between;padding:16px 32px
  .mast .mnav a{color:#E9EAEC;text-decoration:none;padding:10px 0;border-bottom:1px solid #454B51;font-family:var(--sans);font-size:14.5px}.mast .mnav a:hover{color:var(--red)}
  .mnav .sbox.m{display:none}}
 @media (max-width:1100px){.mast > .wrap > nav a:nth-child(n+5){display:none}}
+
+/* UI/UX fixes (owner review, Nov 5 2026) */
+/* 1. X post card: no black bar on the left */
+.xpost{border-left:1px solid var(--rule);border-radius:12px}
+/* 2. image zoom only on real hover devices, never stuck after a tap */
+a.thumb:hover img{transform:none}
+@media (hover:hover) and (pointer:fine){a.thumb:hover img{transform:scale(1.025)}}
+a.thumb{-webkit-tap-highlight-color:transparent}
+/* 3. search inputs 16px (no iPhone auto-zoom) + visible focus ring */
+.mast .sbox input,.mnav .sbox.m input,.sfull input{font-size:16px}
+.mast .sbox:focus-within{border-color:#fff;box-shadow:0 0 0 3px rgba(255,75,82,.45)}
+.sfull input:focus{outline:none;border-color:var(--red);box-shadow:0 0 0 4px rgba(226,59,63,.18)}
+/* 4. HOT dot pulses 3 times, then stays still; mascot bounces 3 times */
+.hotdot{animation-iteration-count:3}
+.hotmas{animation-iteration-count:3}
+/* 5. text selection in brand colors */
+::selection{background:rgba(226,59,63,.22);color:inherit}
+.mast ::selection,footer ::selection{background:rgba(255,255,255,.3);color:#fff}
+/* 6. buttons and button-like links press in when tapped */
+button,.menu-btn,.sbox button,.rail-all,.btn,a.more,.pager a{transition:transform .08s ease,filter .08s ease}
+button:active,.menu-btn:active,.sbox button:active,.rail-all:active,.btn:active,a.more:active,.pager a:active{transform:scale(.96);filter:brightness(.92)}
+.sbox button:active,.mast .sbox button:active{transform:rotate(-45deg) scale(.9)}
