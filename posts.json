@@ -1,5 +1,23 @@
 [
 {
+"slug": "trump-media-moves-4259-btc-to-crypto-com-collateral-wallets",
+"url": "https://lcinsight.net/news/trump-media-moved-4-259-btc-to-crypto-com-from-its-collateral-wallets.html",
+"title": "Trump Media moved 4,259 BTC to Crypto.com from its collateral wallets. A move is not a sale",
+"dek": "Two transfers worth about $344 million left wallets that Arkham labels as collateral for Trump Media's $1 billion convertible notes, weeks before holders can ask for their money back.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-05T19:28:00-05:00",
+"image": "https://lcinsight.net/og/trump-media-moves-4259-btc-to-crypto-com-collateral-wallets.jpg",
+"hashtags": [
+"#Bitcoin",
+"#TrumpMedia",
+"#Cryptocom",
+"#CorporateTreasury",
+"#Arkham"
+]
+},
+{
 "slug": "mercado-bitcoin-hack-49m-17-chains",
 "url": "https://lcinsight.net/news/brazils-mercado-bitcoin-lost-about-49-million-on-17-chains-it-says.html",
 "title": "Brazil's Mercado Bitcoin lost about $49 million on 17 chains. It says customers lose nothing",
@@ -3556,24 +3574,6 @@
 "#X402",
 "#Base",
 "#Stablecoins"
-]
-},
-{
-"slug": "jpmorgan-jpm-coin-ethereum-deposit-token",
-"url": "https://lcinsight.net/news/jpmorgan-puts-jpm-coin-on-ethereum-a-bank-deposit-on-a-public-chain.html",
-"title": "JPMorgan puts JPM Coin on Ethereum: a bank deposit on a public chain, not a stablecoin",
-"dek": "JPMorgan's dollar deposit token is now live on Ethereum for institutional clients, 11 months after starting on Base. Its Kinexys unit already moves about $7 billion a day, and banks and stablecoins are now chasing the same job.",
-"category": "AI & RWA",
-"guide": false,
-"hot": false,
-"published": "2026-10-19T12:00:00+02:00",
-"image": "https://lcinsight.net/og/jpmorgan-jpm-coin-ethereum-deposit-token.jpg",
-"hashtags": [
-"#JPMorgan",
-"#Kinexys",
-"#JPMCoin",
-"#Ethereum",
-"#TokenizedDeposits"
 ]
 }
 ]
