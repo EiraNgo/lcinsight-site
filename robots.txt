@@ -48,6 +48,7 @@ Allow: /
 
 User-agent: *
 Allow: /
+Disallow: /studio/
 
 Sitemap: https://lcinsight.net/sitemap.xml
 Sitemap: https://lcinsight.net/news-sitemap.xml
