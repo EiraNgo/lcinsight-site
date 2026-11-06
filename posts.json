@@ -1,5 +1,238 @@
 [
 {
+"slug": "lido-aave-tvl-fell-crash-price-not-withdrawals-defillama",
+"url": "https://lcinsight.net/news/lido-lost-1-8-billion-in-value-in-a-day-did-anyone-actually-leave.html",
+"title": "Lido lost $1.8 billion in value in a day. Did anyone actually leave?",
+"dek": "DefiLlama shows DeFi's biggest protocols shrank 4% to 8% in 24 hours. Compared with CoinGecko prices, most of that looks like falling prices, not withdrawals.",
+"category": "DeFi",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T01:13:00-05:00",
+"image": "https://lcinsight.net/og/lido-aave-tvl-fell-crash-price-not-withdrawals-defillama.jpg",
+"hashtags": [
+"#DeFi",
+"#Staking",
+"#Aave",
+"#Ethereum",
+"#Data"
+]
+},
+{
+"slug": "bitcoin-fees-peaked-12-sats-during-sell-off-mempool",
+"url": "https://lcinsight.net/news/bitcoin-fell-5-percent-in-four-hours-fees-peaked-at-just-12-sats-after.html",
+"title": "Bitcoin fell 5% in four hours. Fees peaked at just 12 sats after a 67-minute wait",
+"dek": "mempool.space data shows the November 5 sell-off barely stressed the Bitcoin network. The biggest fee jumps came when blocks were slow, not when panic peaked.",
+"category": "Infrastructure",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T01:12:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-fees-peaked-12-sats-during-sell-off-mempool.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Mining",
+"#OnChainData",
+"#Data"
+]
+},
+{
+"slug": "curve-volume-nearly-quadrupled-831-million-sell-off",
+"url": "https://lcinsight.net/news/curves-trading-volume-nearly-quadrupled-to-831-million-as-crypto-sold.html",
+"title": "Curve's trading volume nearly quadrupled to $831 million as crypto sold off",
+"dek": "DefiLlama shows the stablecoin swap venue went from $215 million to $831 million in a day, while total DEX volume rose less than 3% and several big DEXs slowed. Its fees jumped about eightfold.",
+"category": "DeFi",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T01:11:00-05:00",
+"image": "https://lcinsight.net/og/curve-volume-nearly-quadrupled-831-million-sell-off.jpg",
+"hashtags": [
+"#DeFi",
+"#Stablecoins",
+"#Ethereum",
+"#Data",
+"#OnChainData"
+]
+},
+{
+"slug": "stablecoin-supply-fell-5-billion-in-six-days-defillama",
+"url": "https://lcinsight.net/news/stablecoin-supply-shrank-5-billion-in-six-days-usdt-fell-the-most.html",
+"title": "Stablecoin supply shrank $5 billion in six days. USDT fell the most",
+"dek": "DefiLlama shows the total supply of dollar stablecoins fell every day from October 30 to November 5, the day bitcoin dropped below $76,000. Tether's USDT supply fell $2.76 billion in a week.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T01:10:00-05:00",
+"image": "https://lcinsight.net/og/stablecoin-supply-fell-5-billion-in-six-days-defillama.jpg",
+"hashtags": [
+"#Stablecoins",
+"#USDT",
+"#USDC",
+"#OnChainData",
+"#Data"
+]
+},
+{
+"slug": "exchange-wallets-lost-11-45b-value-18-hours-crash",
+"url": "https://lcinsight.net/news/exchange-wallets-lost-11-45-billion-in-18-hours-mostly-price-not.html",
+"title": "Exchange wallets lost $11.45 billion in 18 hours. Mostly price, not withdrawals",
+"dek": "DeepSea's exchange list shrank 4.7% as bitcoin fell about 6%. Binance's holdings dropped $6.84 billion, and MEXC fell 15.8%, the steepest among large exchanges.",
+"category": "Exchanges",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T01:03:00-05:00",
+"image": "https://lcinsight.net/og/exchange-wallets-lost-11-45b-value-18-hours-crash.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Exchanges",
+"#Binance",
+"#MEXC"
+]
+},
+{
+"slug": "sharks-71-of-100-lost-5-85m-crash-week",
+"url": "https://lcinsight.net/news/71-of-100-shark-wallets-lost-money-on-closed-trades-in-crash-week-5-85.html",
+"title": "71 of 100 shark wallets lost money on closed trades in crash week, $5.85 million in all",
+"dek": "DeepSea's realized profit table shows large traders came out behind as bitcoin fell. Three wallets made up 63% of the loss, and one Optimism wallet won 3 of 61 trades.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-06T01:02:00-05:00",
+"image": "https://lcinsight.net/og/sharks-71-of-100-lost-5-85m-crash-week.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Whales",
+"#Aave"
+]
+},
+{
+"slug": "kol-slingoor-9-38m-week-2-freres-12-72m-crash",
+"url": "https://lcinsight.net/news/influencer-slingoor-turned-a-686-000-week-into-9-38-million-as-bitcoin.html",
+"title": "Influencer slingoor turned a $686,000 week into $9.38 million as bitcoin fell",
+"dek": "DeepSea's 7-day KOL board changed fast in the November 5 sell-off. The top two influencers now hold 91% of the profit shown in the top 100.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-06T01:01:00-05:00",
+"image": "https://lcinsight.net/og/kol-slingoor-9-38m-week-2-freres-12-72m-crash.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#KOLs",
+"#Hyperliquid",
+"#SmartMoney"
+]
+},
+{
+"slug": "smart-money-top-10-7d-256m-after-crash",
+"url": "https://lcinsight.net/news/bitcoin-fell-6-percent-deepseas-top-10-smart-money-traders-went-from.html",
+"title": "Bitcoin fell 6%. DeepSea's top 10 smart money traders went from $98M to $256M",
+"dek": "In about 18 hours, the 7-day profit of DeepSea's ten best wallets more than doubled. All ten trade perps on Hyperliquid, and the leader alone added $47.9 million.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-06T01:00:00-05:00",
+"image": "https://lcinsight.net/og/smart-money-top-10-7d-256m-after-crash.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#SmartMoney",
+"#Hyperliquid",
+"#PerpetualFutures"
+]
+},
+{
+"slug": "greece-crypto-tax-bill-10-percent-gains-final-vote",
+"url": "https://lcinsight.net/news/greece-puts-a-10-percent-crypto-gains-tax-to-a-final-vote-staking.html",
+"title": "Greece puts a 10% crypto gains tax to a final vote. Staking income would pay 15%",
+"dek": "Greece's finance minister brought a bill with dedicated crypto tax rules to a final vote in parliament on November 4. Gains up to 500 euros a year would be tax free.",
+"category": "Policy",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T00:56:00-05:00",
+"image": "https://lcinsight.net/og/greece-crypto-tax-bill-10-percent-gains-final-vote.jpg",
+"hashtags": [
+"#Taxes",
+"#Greece",
+"#EU",
+"#Staking",
+"#MinistryOfFinance"
+]
+},
+{
+"slug": "gl1-org-hsbc-jpmorgan-tokenized-market-infrastructure",
+"url": "https://lcinsight.net/news/gl1-org-launches-with-hsbc-and-jpmorgan-on-its-member-list-what-will.html",
+"title": "GL1 Org launches with HSBC and JPMorgan on its member list. What will it build?",
+"dek": "Global financial institutions have formed the Global Layer One Organisation to push shared rules for tokenized markets. Its site lists HSBC, JPMorgan, MUFG, Forge and Standard Chartered as members. The project began at Singapore's central bank in 2024.",
+"category": "AI & RWA",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T00:55:00-05:00",
+"image": "https://lcinsight.net/og/gl1-org-hsbc-jpmorgan-tokenized-market-infrastructure.jpg",
+"hashtags": [
+"#Tokenization",
+"#Banking",
+"#Singapore",
+"#HSBC",
+"#JPMorgan"
+]
+},
+{
+"slug": "base-denim-upgrade-200ms-blocks-mainnet",
+"url": "https://lcinsight.net/news/base-now-aims-for-five-blocks-a-second-what-does-the-denim-upgrade.html",
+"title": "Base now aims for five blocks a second. What does the Denim upgrade break for apps?",
+"dek": "Base's Denim upgrade was set to switch mainnet from one block every 2 seconds to one every 200 milliseconds on November 5. Anything that counts blocks to measure time now runs 10 times faster.",
+"category": "Infrastructure",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T00:52:00-05:00",
+"image": "https://lcinsight.net/og/base-denim-upgrade-200ms-blocks-mainnet.jpg",
+"hashtags": [
+"#Base",
+"#Upgrades",
+"#Layer2",
+"#Ethereum",
+"#Developers"
+]
+},
+{
+"slug": "canary-staked-inj-etf-injc-nasdaq-final-prospectus",
+"url": "https://lcinsight.net/news/canarys-staked-inj-etf-heads-to-nasdaq-as-injc-fees-will-take-up-to-30.html",
+"title": "Canary's staked INJ ETF heads to Nasdaq as INJC. Fees will take up to 30% of rewards",
+"dek": "Canary's Staked INJ ETF filed its final prospectus on November 4. The fund plans to stake most of its Injective tokens and keep 70% of the rewards. INJ rose 2.5% in a day the rest of the market fell.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T00:51:00-05:00",
+"image": "https://lcinsight.net/og/canary-staked-inj-etf-injc-nasdaq-final-prospectus.jpg",
+"hashtags": [
+"#Injective",
+"#INJ",
+"#ETFs",
+"#Staking",
+"#CanaryCapital"
+]
+},
+{
+"slug": "bitcoin-falls-below-76000-eth-xrp-drop-8-percent-nov-5",
+"url": "https://lcinsight.net/news/bitcoin-lost-4-400-in-four-hours-why-did-eth-and-xrp-fall-even-harder.html",
+"title": "Bitcoin lost $4,400 in four hours. Why did ETH and XRP fall even harder?",
+"dek": "Bitcoin slid from about $80,300 to under $76,000 on November 5, most of it between 9 a.m. and 11 a.m. ET. Ether, Solana and XRP dropped 7% to 9%, and the whole crypto market shed about 8% in a day.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-06T00:50:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-falls-below-76000-eth-xrp-drop-8-percent-nov-5.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Ethereum",
+"#Solana",
+"#XRP",
+"#Markets"
+]
+},
+{
 "slug": "trump-media-moves-4259-btc-to-crypto-com-collateral-wallets",
 "url": "https://lcinsight.net/news/trump-media-moved-4-259-btc-to-crypto-com-from-its-collateral-wallets.html",
 "title": "Trump Media moved 4,259 BTC to Crypto.com from its collateral wallets. A move is not a sale",
@@ -3342,238 +3575,6 @@
 "#Airdrops",
 "#Testnet",
 "#TokenSupply"
-]
-},
-{
-"slug": "singapore-stablecoin-law-no-interest-bloom-malaysia-thailand",
-"url": "https://lcinsight.net/news/no-interest-par-redemption-stress-tests-singapore-drafts-its.html",
-"title": "No interest, par redemption, stress tests: Singapore drafts its stablecoin law",
-"dek": "MAS wants to ban interest on MAS-regulated stablecoins and recognize a few foreign ones. Seven weeks later, the central banks of Malaysia and Thailand joined its BLOOM project for cross-border digital money.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-10-24T09:00:00+02:00",
-"image": "https://lcinsight.net/og/singapore-stablecoin-law-no-interest-bloom-malaysia-thailand.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Singapore",
-"#MAS",
-"#Stablecoins"
-]
-},
-{
-"slug": "aave-v4-native-bitcoin-babylon-vaults",
-"url": "https://lcinsight.net/news/native-bitcoin-as-aave-collateral-babylons-plan-starts-with-a-300-btc.html",
-"title": "Native bitcoin as Aave collateral? Babylon's plan starts with a 300 BTC cap",
-"dek": "Babylon Labs wants Aave V4 to accept bitcoin that never leaves the Bitcoin chain, with no wrapper or custodian. Aave Labs says the integration works and LlamaRisk has set a 300 BTC starting cap, but a Snapshot vote is still to come.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-10-23T18:00:00-04:00",
-"image": "https://lcinsight.net/og/aave-v4-native-bitcoin-babylon-vaults.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Aave",
-"#AaveV4",
-"#Bitcoin"
-]
-},
-{
-"slug": "lightning-labs-wavelength-mainnet-ai-agents",
-"url": "https://lcinsight.net/news/lightning-labs-puts-bitcoin-wallets-for-ai-agents-on-mainnet-capped.html",
-"title": "Lightning Labs puts bitcoin wallets for AI agents on mainnet, capped near $244 each",
-"dek": "Wavelength lets any app or AI agent send and receive bitcoin without running a node. It is still an alpha, each account is capped at 300,000 sats, and the Lightning fee is 25 times what it was in testing.",
-"category": "AI & RWA",
-"guide": false,
-"hot": false,
-"published": "2026-10-23T20:00:00+02:00",
-"image": "https://lcinsight.net/og/lightning-labs-wavelength-mainnet-ai-agents.jpg",
-"hashtags": [
-"#LightningLabs",
-"#Bitcoin",
-"#LightningNetwork",
-"#AIAgents",
-"#L402"
-]
-},
-{
-"slug": "bitcoin-etf-636m-outflow-tech-selloff-oil-113",
-"url": "https://lcinsight.net/news/bitcoin-etfs-lost-636-million-in-one-day-as-chip-stocks-sank-6-7.html",
-"title": "Bitcoin ETFs lost $636 million in one day as chip stocks sank 6.7% and oil jumped",
-"dek": "A tech sell-off and a 7% oil spike on October 22 erased most of a $1.07 billion, three-day inflow streak into US spot bitcoin funds. It was their worst day since late June, and it tipped October into the red.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-10-23T09:00:00+02:00",
-"image": "https://lcinsight.net/og/bitcoin-etf-636m-outflow-tech-selloff-oil-113.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#BitcoinETF",
-"#Bitcoin",
-"#Oil"
-]
-},
-{
-"slug": "ethereum-glamsterdam-hoodi-delay-eip-8037",
-"url": "https://lcinsight.net/news/ethereum-pulls-glamsterdam-from-its-last-testnet-four-days-out-is-gas.html",
-"title": "Ethereum pulls Glamsterdam from its last testnet four days out. Is gas pricing the problem?",
-"dek": "Client teams removed the October 26 Glamsterdam fork from the Hoodi testnet after security concerns were raised on a core developer call. No new date is set, mainnet users need to do nothing, and the mainnet date now waits on Hoodi.",
-"category": "Infrastructure",
-"guide": false,
-"hot": false,
-"published": "2026-10-23T09:00:00+02:00",
-"image": "https://lcinsight.net/og/ethereum-glamsterdam-hoodi-delay-eip-8037.jpg",
-"hashtags": [
-"#Ethereum",
-"#Glamsterdam",
-"#HardForks",
-"#EIP8037",
-"#Testnets"
-]
-},
-{
-"slug": "aave-v4-sentora-first-curated-markets",
-"url": "https://lcinsight.net/news/aave-lets-an-outsider-set-the-risk-sentora-opens-the-first-curated-v4.html",
-"title": "Aave lets an outsider set the risk: Sentora opens the first curated V4 markets",
-"dek": "Sentora, not Aave's usual risk providers, now picks the collateral and rules for three Ethereum lending markets on Aave V4. Users can borrow RLUSD, OUSD and PYUSD, and the DAO keeps half the revenue under Sentora's proposal.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-10-22T21:00:00+02:00",
-"image": "https://lcinsight.net/og/aave-v4-sentora-first-curated-markets.jpg",
-"hashtags": [
-"#Aave",
-"#AaveV4",
-"#Sentora",
-"#RLUSD",
-"#OUSD"
-]
-},
-{
-"slug": "sofi-sofie-tokenized-deposit-consumers",
-"url": "https://lcinsight.net/news/4-40-percent-on-a-token-sofi-launches-the-first-national-bank-issued.html",
-"title": "4.40% on a token: SoFi launches the first national bank-issued tokenized deposit for consumers",
-"dek": "SoFi Earn (SOFIE) turns a dollar on deposit at SoFi Bank into a token that pays 4.40% and keeps FDIC coverage. Swap it for SoFi's stablecoin to spend or send, and that coverage ends.",
-"category": "AI & RWA",
-"guide": false,
-"hot": false,
-"published": "2026-10-22T15:30:00+02:00",
-"image": "https://lcinsight.net/og/sofi-sofie-tokenized-deposit-consumers.jpg",
-"hashtags": [
-"#SoFi",
-"#TokenizedDeposits",
-"#SoFiUSD",
-"#Stablecoins",
-"#Banks"
-]
-},
-{
-"slug": "meteora-met-lp-stimulus-season-2-closes",
-"url": "https://lcinsight.net/news/meteora-paid-solana-lps-20-million-met-for-the-fees-they-earned-that.html",
-"title": "Meteora paid Solana LPs 20 million MET for the fees they earned. That was the last season",
-"dek": "Meteora handed about 2% of its token supply to liquidity providers, based on a year of trading fees. Claims closed on October 21, the points system is over, and MET has fallen to about half its peak.",
-"category": "Projects",
-"guide": false,
-"hot": false,
-"published": "2026-10-22T10:00:00+02:00",
-"image": "https://lcinsight.net/og/meteora-met-lp-stimulus-season-2-closes.jpg",
-"hashtags": [
-"#Meteora",
-"#MET",
-"#Solana",
-"#Liquidity",
-"#PointsPrograms"
-]
-},
-{
-"slug": "solana-alpenglow-mainnet-150ms-finality",
-"url": "https://lcinsight.net/news/solana-swapped-its-consensus-engine-mid-flight-finality-fell-from-12-8.html",
-"title": "Solana swapped its consensus engine mid-flight: finality fell from 12.8 seconds to 150 ms",
-"dek": "Alpenglow went live on Solana's main network on October 21, 2026, replacing the voting system the chain had run since day one. Payments now settle for good in a fraction of a second, validators pay a new fee, and the second half of the upgrade has no date.",
-"category": "Infrastructure",
-"guide": false,
-"hot": false,
-"published": "2026-10-22T10:00:00+02:00",
-"image": "https://lcinsight.net/og/solana-alpenglow-mainnet-150ms-finality.jpg",
-"hashtags": [
-"#Solana",
-"#Alpenglow",
-"#Anza",
-"#Consensus",
-"#Upgrades"
-]
-},
-{
-"slug": "bitget-buys-gmo-thai-exchange-cryptonomics",
-"url": "https://lcinsight.net/news/why-is-bitget-buying-a-thai-exchange-that-lost-74-million-baht-last.html",
-"title": "Why is Bitget buying a Thai exchange that lost 74 million baht last year?",
-"dek": "Bitget wants GMO-Z.com Cryptonomics, a tiny Bangkok platform with 11 million baht in yearly sales but a Thai license. The price is secret, and GMO filed the sale on the same day Bitget was hacked.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-10-22T09:00:00+02:00",
-"image": "https://lcinsight.net/og/bitget-buys-gmo-thai-exchange-cryptonomics.jpg",
-"hashtags": [
-"#Bitget",
-"#Thailand",
-"#Acquisitions",
-"#GMO"
-]
-},
-{
-"slug": "occ-genius-act-final-rule-stablecoins",
-"url": "https://lcinsight.net/news/stablecoin-issuers-need-occ-approval-by-january-18-2027-applications.html",
-"title": "Stablecoin issuers need OCC approval by January 18, 2027. Applications are not open yet",
-"dek": "The US bank regulator finalized its GENIUS Act rule on October 21, 2026. Issuing a US payment stablecoin without approval becomes a crime in January, and existing issuers will lean on waivers.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-10-22T09:00:00+02:00",
-"image": "https://lcinsight.net/og/occ-genius-act-final-rule-stablecoins.jpg",
-"hashtags": [
-"#OCC",
-"#GENIUSAct",
-"#Stablecoins",
-"#Banking"
-]
-},
-{
-"slug": "japan-fsa-onchain-finance-forum-defi-study-group",
-"url": "https://lcinsight.net/news/japans-fsa-wants-an-on-chain-finance-roadmap-by-early-2027-who-is-at.html",
-"title": "Japan's FSA wants an on-chain finance roadmap by early 2027. Who is at the table?",
-"dek": "Japan's Financial Services Agency has opened two new tracks in three weeks: a cross-ministry forum on on-chain finance in the AI era, and a study group on digital and decentralized finance that heard from Nomura and Securitize first.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-10-21T09:00:00-04:00",
-"image": "https://lcinsight.net/og/japan-fsa-onchain-finance-forum-defi-study-group.jpg",
-"hashtags": [
-"#Japan",
-"#FSA",
-"#Stablecoins",
-"#Tokenization",
-"#DeFi"
-]
-},
-{
-"slug": "mastercard-agent-pay-for-machines-x402-early-access",
-"url": "https://lcinsight.net/news/mastercard-lets-ai-agents-pay-their-own-way-nine-payments-one-budget.html",
-"title": "Mastercard lets AI agents pay their own way: nine payments, one budget, no invoices",
-"dek": "Mastercard opened early access to Agent Pay for Machines, which lets AI agents buy services on their own within a spending limit set by a human. It runs on the x402 standard and can settle in cash or stablecoins on Base.",
-"category": "AI & RWA",
-"guide": false,
-"hot": false,
-"published": "2026-10-20T19:30:00+02:00",
-"image": "https://lcinsight.net/og/mastercard-agent-pay-for-machines-x402-early-access.jpg",
-"hashtags": [
-"#Mastercard",
-"#AIAgents",
-"#X402",
-"#Base",
-"#Stablecoins"
 ]
 }
 ]
