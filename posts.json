@@ -1,5 +1,185 @@
 [
 {
+"slug": "onchain-analytics-tools-what-9-are-built-for",
+"url": "https://lcinsight.net/news/what-9-on-chain-analytics-tools-are-built-for-from-block-explorers-to.html",
+"title": "What 9 on-chain analytics tools are built for, from block explorers to compliance suites",
+"dek": "Arkham, Nansen, Chainalysis, TRM Labs, Dune, Glassnode, DefiLlama, block explorers and DeepSea all read public blockchain data, but each is built for a different job. Here is what each one does, what is free and who uses it, from each tool's own site.",
+"category": "Guides",
+"guide": true,
+"hot": false,
+"published": "2026-11-06T07:10:00-05:00",
+"image": "https://lcinsight.net/og/onchain-analytics-tools-what-9-are-built-for.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#OnChainData",
+"#Data",
+"#Arkham"
+]
+},
+{
+"slug": "chainalysis-security-incident-tokens-exposed-reactor-offline",
+"url": "https://lcinsight.net/news/chainalysis-now-says-login-tokens-for-every-user-were-exposed-all-must.html",
+"title": "Chainalysis now says login tokens for every user were exposed. All must reset passwords",
+"dek": "The crypto tracing firm first said only names and emails were reached. Its latest update says live tokens for every user and password hashes were exposed, and its Reactor and Data Solutions products are still offline.",
+"category": "Security",
+"guide": false,
+"hot": true,
+"published": "2026-11-06T07:01:00-05:00",
+"image": "https://lcinsight.net/og/chainalysis-security-incident-tokens-exposed-reactor-offline.jpg",
+"hashtags": [
+"#Chainalysis",
+"#Hacks",
+"#AML",
+"#AIAgents",
+"#Data"
+]
+},
+{
+"slug": "hyperliquid-strategies-fcm-application-38-9m-hype",
+"url": "https://lcinsight.net/news/a-nasdaq-listed-hype-holder-wants-to-be-a-us-futures-broker-hype-is.html",
+"title": "A Nasdaq-listed HYPE holder wants to be a US futures broker. HYPE is down 15% in a week",
+"dek": "Nasdaq-listed Hyperliquid Strategies says a subsidiary has applied to become a futures commission merchant, a step toward offering Hyperliquid perps to US customers. It also booked a $620.6 million quarterly profit, nearly all of it paper gains on HYPE.",
+"category": "Exchanges",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T07:00:00-05:00",
+"image": "https://lcinsight.net/og/hyperliquid-strategies-fcm-application-38-9m-hype.jpg",
+"hashtags": [
+"#Hyperliquid",
+"#CFTC",
+"#PerpetualFutures",
+"#Earnings",
+"#Nasdaq"
+]
+},
+{
+"slug": "ether-perps-lean-short-22-percent-negative-funding",
+"url": "https://lcinsight.net/news/shorts-are-paying-longs-on-21-5-percent-of-ethers-open-futures-bets.html",
+"title": "Shorts are paying longs on 21.5% of ether's open futures bets, against 1.4% for bitcoin",
+"dek": "CoinGecko's data on 287 bitcoin and ether perp markets shows short sellers paying to hold their bets on 21.5% of ether's open interest, against 1.4% for bitcoin, a day after the sell-off.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T06:57:00-05:00",
+"image": "https://lcinsight.net/og/ether-perps-lean-short-22-percent-negative-funding.jpg",
+"hashtags": [
+"#Ether",
+"#Bitcoin",
+"#Funding",
+"#PerpetualFutures",
+"#Derivatives"
+]
+},
+{
+"slug": "hyperliquid-open-interest-second-only-to-binance-coingecko",
+"url": "https://lcinsight.net/news/hyperliquid-holds-14-9-billion-in-open-bets-second-only-to-binance-on.html",
+"title": "Hyperliquid holds $14.9 billion in open bets, second only to Binance on CoinGecko",
+"dek": "CoinGecko ranks Hyperliquid second of all derivatives exchanges by open interest, about $14.9 billion. Its traders also churn their positions far less than on centralized rivals.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T06:56:00-05:00",
+"image": "https://lcinsight.net/og/hyperliquid-open-interest-second-only-to-binance-coingecko.jpg",
+"hashtags": [
+"#Hyperliquid",
+"#PerpetualFutures",
+"#Binance",
+"#Bybit",
+"#OKX"
+]
+},
+{
+"slug": "hyperliquid-stock-oil-perps-outtraded-crypto-9-96b",
+"url": "https://lcinsight.net/news/stock-and-oil-bets-outtraded-crypto-on-hyperliquid-9-96-billion-vs-9.html",
+"title": "Stock and oil bets outtraded crypto on Hyperliquid: $9.96 billion vs. $9.67 billion",
+"dek": "CoinGecko's market data for Hyperliquid shows its 165 builder-run markets, almost all on stocks, indexes and commodities, did more volume than its 179 crypto perps as bitcoin fell 5%.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-06T06:55:00-05:00",
+"image": "https://lcinsight.net/og/hyperliquid-stock-oil-perps-outtraded-crypto-9-96b.jpg",
+"hashtags": [
+"#Hyperliquid",
+"#Perpetuals",
+"#TokenizedStocks",
+"#TradeXYZ",
+"#Oil"
+]
+},
+{
+"slug": "aave-arbitrum-shark-put-8-32m-usdc-back",
+"url": "https://lcinsight.net/news/the-shark-that-took-10-million-out-of-aave-on-arbitrum-put-8-32.html",
+"title": "The shark that took $10 million out of Aave on Arbitrum put $8.32 million back",
+"dek": "A day after one wallet drove an $8.35 million net outflow from Aave's USDC pool, it bought back almost all of it. The 7-day net is now just minus $27,800.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-06T06:53:00-05:00",
+"image": "https://lcinsight.net/og/aave-arbitrum-shark-put-8-32m-usdc-back.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Aave",
+"#Arbitrum",
+"#USDC"
+]
+},
+{
+"slug": "shark-sold-2-59m-lyk-pool-holds-396-linea",
+"url": "https://lcinsight.net/news/one-shark-sold-2-59-million-of-lyk-the-tokens-arbitrum-pool-holds-396.html",
+"title": "One shark sold $2.59 million of LYK. The token's Arbitrum pool holds $396",
+"dek": "DeepSea logged big shark selling in two layer 2 tokens, LayerK's LYK and Linea's LINEA. LYK's public markets were far too small to absorb what was counted.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-06T06:52:00-05:00",
+"image": "https://lcinsight.net/og/shark-sold-2-59m-lyk-pool-holds-396-linea.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Whales",
+"#Layer2",
+"#Arbitrum"
+]
+},
+{
+"slug": "sharks-bought-3-74m-usdt0-unichain",
+"url": "https://lcinsight.net/news/two-sharks-bought-3-74-million-of-usd0-on-unichain-in-a-day-and-sold.html",
+"title": "Two sharks bought $3.74 million of USD₮0 on Unichain in a day and sold just $75,000",
+"dek": "A day after sharks were net sellers of the dollar token on Unichain, two wallets flipped to heavy buying. One of them also bought $4 million on Optimism.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-06T06:51:00-05:00",
+"image": "https://lcinsight.net/og/sharks-bought-3-74m-usdt0-unichain.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Whales",
+"#Stablecoins",
+"#USDT"
+]
+},
+{
+"slug": "sharks-bought-3m-tokenized-spacex-circle-arbitrum",
+"url": "https://lcinsight.net/news/sharks-bought-3-08-million-of-tokenized-spacex-on-arbitrum-its-dex.html",
+"title": "Sharks bought $3.08 million of tokenized SpaceX on Arbitrum. Its DEX pool traded $56,000",
+"dek": "Two shark wallets kept buying rSPCX and rCRCL, tokens CoinGecko lists as tokenized SpaceX and Circle stock, even as both fell. Almost none of it went through the public pool.",
+"category": "AI & RWA",
+"guide": false,
+"hot": true,
+"published": "2026-11-06T06:50:00-05:00",
+"image": "https://lcinsight.net/og/sharks-bought-3m-tokenized-spacex-circle-arbitrum.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#TokenizedStocks",
+"#Arbitrum",
+"#Whales"
+]
+},
+{
 "slug": "lido-aave-tvl-fell-crash-price-not-withdrawals-defillama",
 "url": "https://lcinsight.net/news/lido-lost-1-8-billion-in-value-in-a-day-did-anyone-actually-leave.html",
 "title": "Lido lost $1.8 billion in value in a day. Did anyone actually leave?",
@@ -3398,183 +3578,6 @@
 "#Ripple",
 "#RLUSD",
 "#Moodys"
-]
-},
-{
-"slug": "galaxy-q3-2026-323-million-profit-200-million-buyback",
-"url": "https://lcinsight.net/news/galaxy-earned-323-million-in-q3-mostly-on-its-own-holdings-trading.html",
-"title": "Galaxy earned $323 million in Q3, mostly on its own holdings. Trading still lost money",
-"dek": "Mike Novogratz's Galaxy turned an $85 million Q2 loss into a $323 million Q3 profit and approved another $200 million buyback. Most of the gain came from its own investments, while data centers became a steady earner.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-10-28T10:00:00+01:00",
-"image": "https://lcinsight.net/og/galaxy-q3-2026-323-million-profit-200-million-buyback.jpg",
-"hashtags": [
-"#Galaxy",
-"#Earnings",
-"#DataCenters",
-"#Buyback"
-]
-},
-{
-"slug": "cftc-sues-utah-prediction-markets",
-"url": "https://lcinsight.net/news/washington-sues-utah-the-cftcs-10th-state-fight-over-prediction.html",
-"title": "Washington sues Utah: the CFTC's 10th state fight over prediction markets",
-"dek": "The US derivatives regulator went to court to stop Utah from shutting down federally registered prediction markets under state law. It is already fighting nine other states, and the outcome decides whether these markets are one national product or 50 local ones.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-10-28T09:00:00+01:00",
-"image": "https://lcinsight.net/og/cftc-sues-utah-prediction-markets.jpg",
-"hashtags": [
-"#CFTC",
-"#PredictionMarkets",
-"#Kalshi",
-"#Coinbase",
-"#States"
-]
-},
-{
-"slug": "robinhood-q3-2026-crypto-revenue-down-55-chain-26-million",
-"url": "https://lcinsight.net/news/robinhoods-crypto-revenue-fell-55-percent-prediction-markets-now-earn.html",
-"title": "Robinhood's crypto revenue fell 55%. Prediction markets now earn it more",
-"dek": "Robinhood posted record revenue of $1.42 billion in Q3 2026, but crypto revenue sank to $120 million. Bets on events brought in $173 million, and its new blockchain says it collected more than $50 million in fees in its first quarter.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-10-28T08:00:00+01:00",
-"image": "https://lcinsight.net/og/robinhood-q3-2026-crypto-revenue-down-55-chain-26-million.jpg",
-"hashtags": [
-"#Robinhood",
-"#Earnings",
-"#RobinhoodChain",
-"#Bitstamp"
-]
-},
-{
-"slug": "kalshi-nba-sp-dow-jones-under-21-deposit-cap",
-"url": "https://lcinsight.net/news/kalshi-signed-the-nba-and-s-and-p-dow-jones-then-capped-under-21.html",
-"title": "Kalshi signed the NBA and S&P Dow Jones, then capped under-21 deposits at $2,500 a month",
-"dek": "In five days, Kalshi became the NBA's preferred prediction market, agreed to build event-contract indexes with S&P Dow Jones Indices, launched sector data contracts and put a monthly deposit cap on its youngest traders. Then it raised $1 billion.",
-"category": "Culture",
-"guide": false,
-"hot": false,
-"published": "2026-10-27T18:00:00-04:00",
-"image": "https://lcinsight.net/og/kalshi-nba-sp-dow-jones-under-21-deposit-cap.jpg",
-"hashtags": [
-"#Kalshi",
-"#PredictionMarkets",
-"#CFTC",
-"#NBA",
-"#Data"
-]
-},
-{
-"slug": "bitcoin-core-32-1-release-32-0-never-shipped",
-"url": "https://lcinsight.net/news/bitcoin-core-32-0-never-shipped-version-32-1-is-out-with-200-peer.html",
-"title": "Bitcoin Core 32.0 never shipped. Version 32.1 is out with 200 peer slots and a wallet fix",
-"dek": "The new major release of Bitcoin's main node software arrived on October 27 under a different number than planned. It raises default peer slots to 200, speeds up block checks and closes a wallet bug that could run commands on a node. Nodes on 29.x or older are now out of support.",
-"category": "Infrastructure",
-"guide": false,
-"hot": false,
-"published": "2026-10-27T15:00:00+01:00",
-"image": "https://lcinsight.net/og/bitcoin-core-32-1-release-32-0-never-shipped.jpg",
-"hashtags": [
-"#Bitcoin",
-"#BitcoinCore",
-"#ClientReleases",
-"#Nodes"
-]
-},
-{
-"slug": "usat-aave-v4-avalanche-borrow-only-uncapped-mint",
-"url": "https://lcinsight.net/news/aave-weighs-a-60-million-cap-for-usat-on-avalanche-where-its-supply-is.html",
-"title": "Aave weighs a 60 million cap for USAT on Avalanche, where its supply is zero",
-"dek": "Aave Labs wants USAT, the Anchorage-issued dollar stablecoin built with Tether's technology, on Aave V4's Avalanche hub. Risk firm LlamaRisk backs it as borrow-only at a fixed $1, but flags an uncapped mint key and a bridge that is not live yet.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-10-27T10:00:00-04:00",
-"image": "https://lcinsight.net/og/usat-aave-v4-avalanche-borrow-only-uncapped-mint.jpg",
-"hashtags": [
-"#Stablecoins",
-"#Aave",
-"#AaveV4",
-"#USAT",
-"#Tether"
-]
-},
-{
-"slug": "circle-usdc-1-4-billion-revenue-7-percent-profit",
-"url": "https://lcinsight.net/news/circle-earned-1-4-billion-and-kept-about-7-cents-per-dollar-where-did.html",
-"title": "Circle earned $1.4 billion and kept about 7 cents per dollar. Where did the rest go?",
-"dek": "Circle says 59% of its first-half 2026 revenue went to the exchanges and apps that distribute USDC. A September filing shows how one of those deals, with Binance, works.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-10-27T12:00:00+01:00",
-"image": "https://lcinsight.net/og/circle-usdc-1-4-billion-revenue-7-percent-profit.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Circle",
-"#USDC",
-"#Stablecoins"
-]
-},
-{
-"slug": "ritual-mainnet-ritual-token-launch",
-"url": "https://lcinsight.net/news/rituals-ai-blockchain-is-live-but-82-percent-of-its-token-is-locked.html",
-"title": "Ritual's AI blockchain is live, but 82% of its token is locked. RITUAL sits near 2 cents",
-"dek": "The AI-focused layer 1 launched on October 26, 2026, with 10 billion RITUAL tokens and no supply cap. Only 18% is unlocked, the airdrop is just 0.5%, and a week later the token trades near $0.0203.",
-"category": "Projects",
-"guide": false,
-"hot": false,
-"published": "2026-10-27T11:00:00+01:00",
-"image": "https://lcinsight.net/og/ritual-mainnet-ritual-token-launch.jpg",
-"hashtags": [
-"#Ritual",
-"#RITUAL",
-"#AI",
-"#Mainnet",
-"#Coinbase"
-]
-},
-{
-"slug": "hong-kong-tokenised-funds-24-7-trading-ensembletx",
-"url": "https://lcinsight.net/news/hong-kongs-sfc-calls-it-a-world-first-tokenized-money-market-funds-now.html",
-"title": "Hong Kong's SFC calls it a world first: tokenized money market funds now trade 24/7",
-"dek": "The SFC let two ChinaAMC tokenized funds trade around the clock on a licensed crypto platform. A week later the HKMA moved its own tokenized settlement rail to 24/7 and said regulated stablecoins are next.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-10-27T09:00:00+01:00",
-"image": "https://lcinsight.net/og/hong-kong-tokenised-funds-24-7-trading-ensembletx.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#HongKong",
-"#SFC",
-"#HKMA"
-]
-},
-{
-"slug": "pharos-pros-airdrop-claim-closes",
-"url": "https://lcinsight.net/news/pharos-pros-airdrop-is-closed-unclaimed-tokens-go-to-the-foundation.html",
-"title": "Pharos' PROS airdrop is closed. Unclaimed tokens go to the foundation, not a burn",
-"dek": "The 180-day claim window ended on October 25, 2026. Unclaimed PROS returns to the Pharos Foundation, only 13.6% of the 1 billion supply circulates, and Pharos has not said how many tokens came back.",
-"category": "Projects",
-"guide": false,
-"hot": false,
-"published": "2026-10-26T10:00:00+01:00",
-"image": "https://lcinsight.net/og/pharos-pros-airdrop-claim-closes.jpg",
-"hashtags": [
-"#Pharos",
-"#PROS",
-"#Airdrops",
-"#Testnet",
-"#TokenSupply"
 ]
 }
 ]
