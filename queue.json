@@ -14,5 +14,25 @@
   "source": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
   "data": {},
   "found": "2026-11-06T16:15:34Z"
+ },
+ {
+  "id": "trend:reboot-2:20261106",
+  "kind": "trending",
+  "hint": "Reboot (REBOOT) trending #1 on CoinGecko, +15.7% 24h",
+  "source": "https://www.coingecko.com/en/coins/reboot-2",
+  "data": {
+   "ch24": 15.653502611407314
+  },
+  "found": "2026-11-06T16:55:40Z"
+ },
+ {
+  "id": "trend:denim:20261106",
+  "kind": "trending",
+  "hint": "DENIM (DENIM) trending #3 on CoinGecko, +51.2% 24h",
+  "source": "https://www.coingecko.com/en/coins/denim",
+  "data": {
+   "ch24": 51.21315352856601
+  },
+  "found": "2026-11-06T16:55:40Z"
  }
 ]
