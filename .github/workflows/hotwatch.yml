@@ -1,0 +1,16 @@
+name: Hot-news watcher (tips for the hourly breaking run)
+on:
+  schedule:
+    - cron: '2 0,5,10,15,20 * * *'   # each start keeps checking every 10 min for ~5.5 h (GitHub cron is unreliable)
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: {group: hotwatch, cancel-in-progress: false}
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 1}
+      - run: python3 .github/scripts/hot_watch.py
