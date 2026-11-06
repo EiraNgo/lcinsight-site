@@ -328,7 +328,7 @@ footer .legal .wrap{display:flex;justify-content:space-between;padding:16px 32px
 @media (min-width:901px){.mast .mnav:not([hidden]){display:flex;flex-direction:column;position:absolute;right:20px;left:auto;top:84px;width:260px;background:var(--slate);padding:8px 22px 14px;z-index:5;border-radius:0 0 14px 14px;box-shadow:0 14px 30px rgba(0,0,0,.25)}
  .mast .mnav a{color:#E9EAEC;text-decoration:none;padding:10px 0;border-bottom:1px solid #454B51;font-family:var(--sans);font-size:14.5px}.mast .mnav a:hover{color:var(--red)}
  .mnav .sbox.m{display:none}}
-@media (max-width:1100px){.mast > .wrap > nav a:nth-child(n+5){display:none}}
+@media (max-width:1100px){.mast > .wrap > nav:not(.mnav) a:nth-child(n+5){display:none}}
 
 /* UI/UX fixes (owner review, Nov 5 2026) */
 /* 1. X post card: no black bar on the left */
