@@ -351,3 +351,6 @@ a.thumb{-webkit-tap-highlight-color:transparent}
 button,.menu-btn,.sbox button,.rail-all,.btn,a.more,.pager a{transition:transform .08s ease,filter .08s ease}
 button:active,.menu-btn:active,.sbox button:active,.rail-all:active,.btn:active,a.more:active,.pager a:active{transform:scale(.96);filter:brightness(.92)}
 .sbox button:active,.mast .sbox button:active{transform:rotate(-45deg) scale(.9)}
+/* menu scrolls on small screens (owner, Nov 6: "Ko kéo đc lên") */
+.mast .mnav:not([hidden]){max-height:calc(100vh - 84px);max-height:calc(100dvh - 84px);overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
+@media (max-width:900px){.mast .mnav:not([hidden]){max-height:calc(100vh - 68px);max-height:calc(100dvh - 68px);padding-bottom:40px}}
