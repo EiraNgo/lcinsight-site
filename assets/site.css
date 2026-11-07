@@ -365,3 +365,11 @@ button:active,.menu-btn:active,.sbox button:active,.rail-all:active,.btn:active,
 .rumor td{border-bottom:1px solid #e3ded3;padding:10px 6px;vertical-align:top}.rumor td.cl{font-weight:700;width:36%}
 .rumor .vd{display:inline-block;color:#fff;font:800 12px Inter,sans-serif;padding:4px 9px;border-radius:999px;white-space:nowrap}
 @media (max-width:640px){.rumor td.cl{width:auto}.rumor th:nth-child(3){display:none}.rumor td{display:block;border:0;padding:4px 6px}.rumor tr{display:block;border-bottom:1px solid #e3ded3;padding:6px 0}}
+
+/* X link (owner, Nov 7 2026) */
+.mast .xlink{display:flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:50%;color:#fff;border:1.5px solid rgba(255,255,255,.35);flex:none;margin-left:8px}
+.mast .xlink:hover{background:#fff;color:#111}
+.xfoot svg,.mnav a svg{vertical-align:-4px;margin-right:4px}
+.xcard{display:inline-flex;align-items:center;gap:12px;background:#111;color:#fff!important;text-decoration:none!important;border-radius:14px;padding:12px 20px;font-weight:800}
+.xcard svg{width:26px;height:26px}.xcard.big{padding:18px 26px;margin:10px 0 18px}.xcard.big svg{width:40px;height:40px}
+.xcard span{display:flex;flex-direction:column}.xcard b{font-size:22px}.xcard small{font-weight:500;opacity:.8}
