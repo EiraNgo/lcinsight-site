@@ -59,7 +59,7 @@ def signals(seen):
     except Exception as e: print('defillama hacks:', e)
     # government / regulator channels: U.S. + countries where many people use crypto (owner, Nov 7 2026)
     KW = (r'crypto|virtual (asset|currenc)|digital (asset|currenc)|stablecoin|bitcoin|blockchain|\btokeni[sz]|\bVASP|'
-          r'\\b(spot )?(bitcoin|ether|ethereum|solana|xrp|dogecoin|litecoin|cardano|avalanche|hedera|polkadot|sui|chainlink|injective|staked)\\b.*\\b(ETF|trust|fund)\\b|ransomware|darknet|Garantex|mixer|DPRK|North Korea|tiền mã hóa|tài sản mã hóa|tài sản số|kripto|cripto|'
+          r'\b(spot )?(bitcoin|ether|ethereum|solana|xrp|dogecoin|litecoin|cardano|avalanche|hedera|polkadot|sui|chainlink|injective|staked)\b.*\b(ETF|trust|fund)\b|ransomware|darknet|Garantex|mixer|DPRK|North Korea|tiền mã hóa|tài sản mã hóa|tài sản số|kripto|cripto|'
           r'暗号資産|가상자산|虛擬資產|虚拟资产|数字货币|aset kripto|криптовалют|цифров')
     src = json.load(open(os.path.join(os.path.dirname(__file__), 'gov_sources.json')))['sources']
     for name, kind, url in src:
