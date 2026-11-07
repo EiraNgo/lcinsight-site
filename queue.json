@@ -88,5 +88,15 @@
    "ch24": 101.9001197285068
   },
   "found": "2026-11-07T03:33:33Z"
+ },
+ {
+  "id": "trend:harmony:20261107",
+  "kind": "trending",
+  "hint": "Harmony (ONE) trending #2 on CoinGecko, +70.8% 24h",
+  "source": "https://www.coingecko.com/en/coins/harmony",
+  "data": {
+   "ch24": 70.78815842710351
+  },
+  "found": "2026-11-07T05:38:01Z"
  }
 ]
