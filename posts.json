@@ -1,5 +1,23 @@
 [
 {
+"slug": "fincen-fed-withdraw-250-travel-rule-threshold-crypto",
+"url": "https://lcinsight.net/news/fincen-and-the-fed-drop-the-2020-plan-to-cut-the-travel-rule-threshold.html",
+"title": "FinCEN and the Fed drop the 2020 plan to cut the travel rule threshold to $250",
+"dek": "The 2020 proposal would have lowered the cross-border threshold from $3,000 to $250 and written crypto into the definition of \"money.\" FinCEN pulled it on November 6, 2026.",
+"category": "Policy",
+"guide": false,
+"hot": true,
+"published": "2026-11-06T23:15:00-05:00",
+"image": "https://lcinsight.net/og/fincen-fed-withdraw-250-travel-rule-threshold-crypto.jpg",
+"hashtags": [
+"#FinCEN",
+"#TravelRule",
+"#AML",
+"#Regulation",
+"#US"
+]
+},
+{
 "slug": "rumor-vs-record-mexc-fincen-viral-claims",
 "url": "https://lcinsight.net/news/rumor-vs-record-what-viral-posts-got-right-and-wrong-about-the-u-s.html",
 "title": "Rumor vs record: what viral posts got right and wrong about the U.S. move against MEXC",
@@ -3560,23 +3578,6 @@
 "#Enforcement",
 "#OFAC",
 "#Ethereum"
-]
-},
-{
-"slug": "polymarket-us-exits-michigan-sports-contracts",
-"url": "https://lcinsight.net/news/polymarket-us-quits-sports-contracts-in-michigan-open-bets-must-close.html",
-"title": "Polymarket US quits sports contracts in Michigan. Open bets must close by November 25",
-"dek": "After losing two bids in federal court, Polymarket's US arm agreed to stop selling new sports event contracts to Michigan residents. It is the fourth big platform, after Coinbase, Robinhood and Kalshi, that the state has halted.",
-"category": "Culture",
-"guide": false,
-"hot": false,
-"published": "2026-10-28T21:00:00+01:00",
-"image": "https://lcinsight.net/og/polymarket-us-exits-michigan-sports-contracts.jpg",
-"hashtags": [
-"#Polymarket",
-"#PredictionMarkets",
-"#Michigan",
-"#Sports"
 ]
 }
 ]
