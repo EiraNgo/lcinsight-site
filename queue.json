@@ -118,5 +118,15 @@
    "ch24": 16.480460778217005
   },
   "found": "2026-11-07T12:02:03Z"
+ },
+ {
+  "id": "trend:stonk-3:20261107",
+  "kind": "trending",
+  "hint": "STONK (STONK) trending #3 on CoinGecko, -32.5% 24h",
+  "source": "https://www.coingecko.com/en/coins/stonk-3",
+  "data": {
+   "ch24": -32.46235435618008
+  },
+  "found": "2026-11-07T23:42:55Z"
  }
 ]
