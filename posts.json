@@ -399,17 +399,17 @@
 "url": "https://lcinsight.net/news/canarys-staked-inj-etf-heads-to-nasdaq-as-injc-fees-will-take-up-to-30.html",
 "title": "Canary's staked INJ ETF heads to Nasdaq as INJC. Fees will take up to 30% of rewards",
 "dek": "Canary's Staked INJ ETF filed its final prospectus on November 4. The fund plans to stake most of its Injective tokens and keep 70% of the rewards. INJ rose 2.5% in a day the rest of the market fell.",
-"category": "Markets",
+"category": "ETFs",
 "guide": false,
 "hot": false,
 "published": "2026-11-06T00:51:00-05:00",
 "image": "https://lcinsight.net/og/canary-staked-inj-etf-injc-nasdaq-final-prospectus.jpg",
 "hashtags": [
+"#ETF",
 "#Injective",
 "#INJ",
 "#ETFs",
-"#Staking",
-"#CanaryCapital"
+"#Staking"
 ]
 },
 {
@@ -2661,7 +2661,7 @@
 "url": "https://lcinsight.net/news/what-is-a-bitcoin-etf-how-spot-funds-hold-coins-and-what-daily-flows.html",
 "title": "What is a bitcoin ETF? How spot funds hold coins and what daily flows mean",
 "dek": "A spot bitcoin ETF is a fund that holds real bitcoin and trades on a stock exchange like a share. Big brokers create and redeem its shares in blocks, and the daily flow numbers measure exactly those creations and redemptions.",
-"category": "Guides",
+"category": "ETFs",
 "guide": true,
 "hot": false,
 "published": "2026-11-02T03:10:00-05:00",
@@ -2804,7 +2804,7 @@
 "url": "https://lcinsight.net/news/ether-etfs-lost-a-record-1-61-billion-in-october-wiping-out-all-of.html",
 "title": "Ether ETFs lost a record $1.61 billion in October, wiping out all of 2026's inflows",
 "dek": "US spot ether funds had their worst month since launch, beating November 2025's record outflow. October erased August and September's gains and left the funds slightly negative for the year, while ETH slid to about $2,270.",
-"category": "Markets",
+"category": "ETFs",
 "guide": false,
 "hot": false,
 "published": "2026-11-02T09:00:00+01:00",
