@@ -34,5 +34,15 @@
    "ch24": 51.21315352856601
   },
   "found": "2026-11-06T16:55:40Z"
+ },
+ {
+  "id": "trend:denim:20261107",
+  "kind": "trending",
+  "hint": "DENIM (DENIM) trending #2 on CoinGecko, +45.7% 24h",
+  "source": "https://www.coingecko.com/en/coins/denim",
+  "data": {
+   "ch24": 45.65332926979996
+  },
+  "found": "2026-11-07T00:04:34Z"
  }
 ]
