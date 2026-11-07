@@ -1,5 +1,113 @@
 [
 {
+"slug": "rumor-vs-record-binance-hack-15-dollar-20-minutes",
+"url": "https://lcinsight.net/news/rumor-vs-record-did-hackers-pay-15-to-drain-2-5-billion-from-binance.html",
+"title": "Rumor vs record: did hackers pay $15 to drain $2.5 billion from Binance in 20 minutes?",
+"dek": "Headlines about the Binance hack keep spreading. We checked the most shared claims against Binance's own report, DeepSea's hack tracker and CoinGecko prices. The single-transaction part holds up. The \"$15\" and \"20 minutes\" framing misses the story.",
+"category": "Security",
+"guide": false,
+"hot": true,
+"published": "2026-11-07T07:22:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-binance-hack-15-dollar-20-minutes.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#RumorCheck",
+"#Binance",
+"#Hacks"
+]
+},
+{
+"slug": "harmony-one-85-percent-36-hours-volume-3x-market-cap",
+"url": "https://lcinsight.net/news/harmonys-one-jumped-85-percent-in-a-day-and-a-half-trading-hit-3-4.html",
+"title": "Harmony's ONE jumped 85% in a day and a half. Trading hit 3.4 times its market value",
+"dek": "ONE went from about $0.00106 to $0.00196 on CoinGecko as daily trading rose from about $2 million to $97 million. We could not confirm an official reason for it.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-07T07:21:00-05:00",
+"image": "https://lcinsight.net/og/harmony-one-85-percent-36-hours-volume-3x-market-cap.jpg",
+"hashtags": [
+"#Harmony",
+"#Altcoins",
+"#Data",
+"#Binance",
+"#Exchanges"
+]
+},
+{
+"slug": "mantle-shark-208-trades-a-day-meth-weth-down-2400",
+"url": "https://lcinsight.net/news/one-mantle-shark-swapped-ether-tokens-208-times-in-a-day-its-30-day.html",
+"title": "One Mantle shark swapped ether tokens 208 times in a day. Its 30-day result: minus $2,400",
+"dek": "The wallet traded about $314,000 between WETH and Mantle's staked ether token in 24 hours. After 2,219 closed trades in 30 days, it is slightly in the red.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-07T07:13:00-05:00",
+"image": "https://lcinsight.net/og/mantle-shark-208-trades-a-day-meth-weth-down-2400.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Ethereum",
+"#Staking",
+"#Sharks"
+]
+},
+{
+"slug": "ethereum-shark-30-day-loss-159k-flipped-to-18k-profit",
+"url": "https://lcinsight.net/news/an-ethereum-shark-was-down-159-600-for-the-month-two-days-later-its-up.html",
+"title": "An Ethereum shark was down $159,600 for the month. Two days later it's up $18,100",
+"dek": "DeepSea's PnL table shows one wallet's 30-day result swing by $130,000 in less than a day of closed trades, while ether went nowhere for the week. It now has the best 7-day result of any Ethereum shark with a 7-day figure.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-07T07:12:00-05:00",
+"image": "https://lcinsight.net/og/ethereum-shark-30-day-loss-159k-flipped-to-18k-profit.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Ethereum",
+"#Sharks",
+"#Whales"
+]
+},
+{
+"slug": "avalanche-shark-moved-1-45m-usdc-aave-to-benqi",
+"url": "https://lcinsight.net/news/an-avalanche-shark-swapped-1-45-million-of-aave-usdc-deposits-for.html",
+"title": "An Avalanche shark swapped $1.45 million of Aave USDC deposits for Benqi's in two trades",
+"dek": "DeepSea logged the switch as both the second-largest net shark buy and the second-largest net shark sell of the day across all chains. The wallet's closed trades in the last 30 days: five, all winners.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-07T07:11:00-05:00",
+"image": "https://lcinsight.net/og/avalanche-shark-moved-1-45m-usdc-aave-to-benqi.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Avalanche",
+"#Aave",
+"#USDC"
+]
+},
+{
+"slug": "cyber-jumped-53-pct-then-fell-20-sharks-bought-668k",
+"url": "https://lcinsight.net/news/cyber-jumped-53-percent-in-about-a-day-then-gave-back-20-percent.html",
+"title": "CYBER jumped 53% in about a day, then gave back 20%. Sharks on Optimism bought $668,000",
+"dek": "CoinGecko shows the small-cap CYBER token trading four times its market value in 24 hours, with South Korea's Upbit the busiest market. DeepSea's shark wallets were net buyers on Optimism over a day in which the price fell.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-07T07:10:00-05:00",
+"image": "https://lcinsight.net/og/cyber-jumped-53-pct-then-fell-20-sharks-bought-668k.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Optimism",
+"#Sharks",
+"#Exchanges"
+]
+},
+{
 "slug": "smart-money-top-10-256m-to-110m-kols-halved",
 "url": "https://lcinsight.net/news/deepseas-top-10-smart-money-traders-256-million-in-weekly-profit-then.html",
 "title": "DeepSea's top 10 smart money traders: $256 million in weekly profit, then $110 million",
@@ -3473,112 +3581,6 @@
 "#BitcoinTreasury",
 "#Earnings",
 "#STRC"
-]
-},
-{
-"slug": "kalshi-1-billion-series-g-40-billion-valuation",
-"url": "https://lcinsight.net/news/kalshi-raises-1-billion-at-a-40-billion-valuation-can-it-outrun-the.html",
-"title": "Kalshi raises $1 billion at a $40 billion valuation. Can it outrun the states?",
-"dek": "The prediction market says it now runs at more than $1 trillion in annualized volume and wants to sell perps, indices and compute markets. Two days earlier, its federal regulator sued Utah to stop the state from shutting such markets down.",
-"category": "Culture",
-"guide": false,
-"hot": false,
-"published": "2026-10-29T20:00:00+01:00",
-"image": "https://lcinsight.net/og/kalshi-1-billion-series-g-40-billion-valuation.jpg",
-"hashtags": [
-"#Kalshi",
-"#PredictionMarkets",
-"#Funding"
-]
-},
-{
-"slug": "bank-of-england-tokenised-collateral-ccps-consultation",
-"url": "https://lcinsight.net/news/tokenized-gilts-as-margin-the-bank-of-england-says-yes-stablecoins.html",
-"title": "Tokenized gilts as margin? The Bank of England says yes; stablecoins must wait",
-"dek": "The Bank of England says clearinghouses can already accept tokenized versions of collateral they take today, and set out what they must check first. Stablecoins, tokenized money funds and tokenized gold get questions, not approval.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-10-29T13:00:00-04:00",
-"image": "https://lcinsight.net/og/bank-of-england-tokenised-collateral-ccps-consultation.jpg",
-"hashtags": [
-"#UK",
-"#Tokenization",
-"#Stablecoins",
-"#BankOfEngland",
-"#Banking"
-]
-},
-{
-"slug": "uniswap-tjar-fee-conversion-robinhood",
-"url": "https://lcinsight.net/news/uniswap-opens-the-tool-behind-its-uni-burns-to-any-app-robinhood-takes.html",
-"title": "Uniswap opens the tool behind its UNI burns to any app. Robinhood takes USDC instead",
-"dek": "TJAR, the system that turns Uniswap's protocol fees into UNI and burns it, is now open to everyone. It handled more than $15.3 million in a month, and its first outside user wants stablecoins, not UNI.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-10-29T18:00:00+01:00",
-"image": "https://lcinsight.net/og/uniswap-tjar-fee-conversion-robinhood.jpg",
-"hashtags": [
-"#Uniswap",
-"#TJAR",
-"#Robinhood",
-"#FeeSwitch",
-"#UNI"
-]
-},
-{
-"slug": "ice-trade-xyz-hyperliquid-perps-us",
-"url": "https://lcinsight.net/news/nyse-owner-ice-wants-hyperliquid-perps-in-america-what-stands-in-the.html",
-"title": "NYSE owner ICE wants Hyperliquid perps in America. What stands in the way?",
-"dek": "Intercontinental Exchange plans to run Hyperliquid-based perpetual futures markets for US retail traders with Trade[XYZ], and is taking a minority stake. HYPE jumped almost 20% on the day, but nothing goes live until US regulators approve it.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-10-29T17:30:00+01:00",
-"image": "https://lcinsight.net/og/ice-trade-xyz-hyperliquid-perps-us.jpg",
-"hashtags": [
-"#Hyperliquid",
-"#ICE",
-"#TradeXYZ",
-"#PerpetualFutures",
-"#CFTC"
-]
-},
-{
-"slug": "fca-htx-high-court-undertakings-uk-exit",
-"url": "https://lcinsight.net/news/one-year-in-the-high-court-htx-settles-with-the-fca-and-promises-to.html",
-"title": "One year in the High Court: HTX settles with the FCA and promises to stop UK ads",
-"dek": "HTX, formerly Huobi, has given court-backed undertakings not to unlawfully promote its crypto services to UK consumers, the UK regulator says. The case began in October 2025 and ended with a confidential settlement, no admission of wrongdoing and no announced fine.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-10-29T12:00:00-04:00",
-"image": "https://lcinsight.net/og/fca-htx-high-court-undertakings-uk-exit.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#UK",
-"#FCA",
-"#Enforcement"
-]
-},
-{
-"slug": "us-gdp-3-4-percent-pce-inflation-3-6-percent-october-29",
-"url": "https://lcinsight.net/news/us-growth-hits-3-4-percent-pce-inflation-hits-3-6-percent-why-neither.html",
-"title": "US growth hits 3.4%, PCE inflation hits 3.6%: why neither helps crypto",
-"dek": "At 8:30 a.m. ET on October 29, the government said the US economy grew at a 3.4% annual rate in the third quarter and the Fed's preferred inflation gauge rose 3.6% in a year. For crypto traders hoping for cheaper money, both numbers point the wrong way.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-10-29T12:00:00-04:00",
-"image": "https://lcinsight.net/og/us-gdp-3-4-percent-pce-inflation-3-6-percent-october-29.jpg",
-"hashtags": [
-"#Macro",
-"#Inflation",
-"#FederalReserve",
-"#InterestRates",
-"#Bitcoin"
 ]
 }
 ]
