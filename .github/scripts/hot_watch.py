@@ -8,7 +8,7 @@ the story, and records handled tip ids in done.json (this script never touches d
 Signals:
   - price: BTC/ETH move >= 3% in 1h, a top-100 coin >= 10% in 1h or >= 25% in 24h (CoinGecko)
   - hack: a new DefiLlama hacks entry >= $1M
-  - regulator: new SEC / CFTC press release that mentions crypto
+  - regulator: new SEC / CFTC press release, FinCEN news, Treasury press release or OFAC action that mentions crypto
   - trending: a coin new to CoinGecko's trending top 3 with >= 15% 24h move
 """
 import json, os, re, subprocess, sys, time, urllib.request, xml.etree.ElementTree as ET
@@ -65,6 +65,19 @@ def signals(seen):
                 t = (it.findtext('title') or '').strip(); link = (it.findtext('link') or '').strip()
                 desc = (it.findtext('description') or '')
                 if re.search(r'crypto|digital asset|bitcoin|stablecoin|token|blockchain|prediction market', t + ' ' + desc, re.I):
+                    add(f"reg:{link}", 'regulator', f"{name}: {t}", link, {})
+        except Exception as e: print(name, e)
+    # Treasury / FinCEN / OFAC news pages (owner, Nov 7 2026: the FinCEN-MEXC order came out and we were late)
+    KW = r'crypto|virtual currenc|digital asset|stablecoin|bitcoin|exchange|blockchain|token|DPRK|North Korea|ransomware|darknet|Garantex|mixer'
+    for name, url, base in [('FinCEN', 'https://www.fincen.gov/news', 'https://www.fincen.gov'),
+                            ('Treasury', 'https://home.treasury.gov/news/press-releases', 'https://home.treasury.gov'),
+                            ('OFAC', 'https://ofac.treasury.gov/recent-actions', 'https://ofac.treasury.gov')]:
+        try:
+            page = get(url, js=False).decode('utf-8', 'ignore')
+            for href, txt in re.findall(r'<a[^>]+href="([^"#]+)"[^>]*>\s*([^<]{25,220}?)\s*</a>', page):
+                t = re.sub(r'\s+', ' ', txt).strip()
+                if re.search(KW, t, re.I) and not re.search(r'cookie|subscribe|privacy', t, re.I):
+                    link = href if href.startswith('http') else base + href
                     add(f"reg:{link}", 'regulator', f"{name}: {t}", link, {})
         except Exception as e: print(name, e)
     return out
