@@ -8,7 +8,7 @@ the story, and records handled tip ids in done.json (this script never touches d
 Signals:
   - price: BTC/ETH move >= 3% in 1h, a top-100 coin >= 10% in 1h or >= 25% in 24h (CoinGecko)
   - hack: a new DefiLlama hacks entry >= $1M
-  - regulator: new SEC / CFTC press release, FinCEN news, Treasury press release or OFAC action that mentions crypto
+  - regulator: new item on any government / regulator channel in gov_sources.json that mentions crypto (many languages)
   - trending: a coin new to CoinGecko's trending top 3 with >= 15% 24h move
 """
 import json, os, re, subprocess, sys, time, urllib.request, xml.etree.ElementTree as ET
@@ -57,29 +57,37 @@ def signals(seen):
             add(f"hack:{h.get('name')}:{h['date']}", 'hack', f"{h.get('name')} hacked/exploited, ~${h['amount']/1e6:.1f}M ({h.get('classification') or h.get('technique') or ''})",
                 h.get('source') or 'https://defillama.com/hacks', {'amount': h['amount'], 'chain': h.get('chain'), 'technique': h.get('technique')})
     except Exception as e: print('defillama hacks:', e)
-    # regulators
-    for name, url in [('SEC', 'https://www.sec.gov/news/pressreleases.rss'), ('CFTC', 'https://www.cftc.gov/RSS/RSSGP/rssgp.xml')]:
+    # government / regulator channels: U.S. + countries where many people use crypto (owner, Nov 7 2026)
+    KW = (r'crypto|virtual (asset|currenc)|digital (asset|currenc)|stablecoin|bitcoin|blockchain|\btokeni[sz]|\bVASP|'
+          r'ransomware|darknet|Garantex|mixer|DPRK|North Korea|tiền mã hóa|tài sản mã hóa|tài sản số|kripto|cripto|'
+          r'暗号資産|가상자산|虛擬資產|虚拟资产|数字货币|aset kripto|криптовалют|цифров')
+    src = json.load(open(os.path.join(os.path.dirname(__file__), 'gov_sources.json')))['sources']
+    for name, kind, url in src:
         try:
-            root = ET.fromstring(get(url, js=False))
-            for it in root.iter('item'):
-                t = (it.findtext('title') or '').strip(); link = (it.findtext('link') or '').strip()
-                desc = (it.findtext('description') or '')
-                if re.search(r'crypto|digital asset|bitcoin|stablecoin|token|blockchain|prediction market', t + ' ' + desc, re.I):
-                    add(f"reg:{link}", 'regulator', f"{name}: {t}", link, {})
-        except Exception as e: print(name, e)
-    # Treasury / FinCEN / OFAC news pages (owner, Nov 7 2026: the FinCEN-MEXC order came out and we were late)
-    KW = r'crypto|virtual currenc|digital asset|stablecoin|bitcoin|exchange|blockchain|token|DPRK|North Korea|ransomware|darknet|Garantex|mixer'
-    for name, url, base in [('FinCEN', 'https://www.fincen.gov/news', 'https://www.fincen.gov'),
-                            ('Treasury', 'https://home.treasury.gov/news/press-releases', 'https://home.treasury.gov'),
-                            ('OFAC', 'https://ofac.treasury.gov/recent-actions', 'https://ofac.treasury.gov')]:
-        try:
-            page = get(url, js=False).decode('utf-8', 'ignore')
-            for href, txt in re.findall(r'<a[^>]+href="([^"#]+)"[^>]*>\s*([^<]{25,220}?)\s*</a>', page):
-                t = re.sub(r'\s+', ' ', txt).strip()
-                if re.search(KW, t, re.I) and not re.search(r'cookie|subscribe|privacy', t, re.I):
-                    link = href if href.startswith('http') else base + href
-                    add(f"reg:{link}", 'regulator', f"{name}: {t}", link, {})
-        except Exception as e: print(name, e)
+            raw = get(url, js=False)
+            found = []
+            if kind == 'fedreg':
+                for d in json.loads(raw).get('results', []): found.append((d.get('title', ''), d.get('html_url', '')))
+            elif kind == 'rss' or raw[:200].lstrip().startswith(b'<?xml') or b'<rss' in raw[:300]:
+                root = ET.fromstring(raw)
+                for it in list(root.iter('item'))[:25] + list(root.iter('{http://www.w3.org/2005/Atom}entry'))[:25]:
+                    t = it.findtext('title') or it.findtext('{http://www.w3.org/2005/Atom}title') or ''
+                    l = it.findtext('link') or ''
+                    if not l:
+                        le = it.find('{http://www.w3.org/2005/Atom}link'); l = le.get('href') if le is not None else ''
+                    d = it.findtext('description') or ''
+                    found.append((t + ' ' + re.sub('<[^>]+>', ' ', d)[:300], l.strip()))
+            else:
+                page = raw.decode('utf-8', 'ignore'); base = re.match(r'(https?://[^/]+)', url).group(1)
+                for href, txt in re.findall(r'<a[^>]+href="([^"#]+)"[^>]*>\s*([^<]{20,240}?)\s*</a>', page):
+                    found.append((re.sub(r'\s+', ' ', txt).strip(), href if href.startswith('http') else base + ('' if href.startswith('/') else '/') + href))
+            if f'_warm:{name}' not in seen:   # first look at a channel: remember what is already there, don't flood the queue
+                for text, link in found: seen[f"reg:{link}"] = now()
+                seen[f'_warm:{name}'] = now(); print(name, 'warmed up with', len(found), 'links'); continue
+            for text, link in found:
+                if link and re.search(KW, text, re.I) and not re.search(r'cookie|subscribe|privacy policy', text, re.I):
+                    add(f"reg:{link}", 'regulator', f"{name}: {text.strip()[:200]}", link, {'source': name})
+        except Exception as e: print(name, type(e).__name__, str(e)[:120])
     return out
 
 def git(*a, cwd=STATE): return subprocess.run(['git', *a], cwd=cwd, capture_output=True, text=True)
@@ -100,7 +108,7 @@ def step():
     new = signals(seen)
     if not new: print(now(), 'no new tips'); return
     q = [x for x in q if (time.time() - datetime.strptime(x['found'], '%Y-%m-%dT%H:%M:%SZ').replace(tzinfo=timezone.utc).timestamp()) < 3 * 86400] + new
-    seen = {k: v for k, v in seen.items() if (time.time() - datetime.strptime(v, '%Y-%m-%dT%H:%M:%SZ').replace(tzinfo=timezone.utc).timestamp()) < 14 * 86400}
+    seen = {k: v for k, v in seen.items() if k.startswith('_warm:') or (time.time() - datetime.strptime(v, '%Y-%m-%dT%H:%M:%SZ').replace(tzinfo=timezone.utc).timestamp()) < 14 * 86400}
     json.dump(q, open(f'{STATE}/queue.json', 'w'), indent=1); json.dump(seen, open(f'{STATE}/seen.json', 'w'), indent=0)
     git('add', '-A'); git('commit', '-qm', f'{len(new)} hot tips'); r = git('push', '-q', 'origin', 'hot-queue')
     print(now(), len(new), 'tips:', '; '.join(x['hint'] for x in new), r.stderr[-200:])
