@@ -380,3 +380,5 @@ footer .soc svg{width:20px;height:20px}footer .soc:hover{background:#E5484D;colo
 
 .social.big{display:flex;gap:16px;margin:14px 0 22px}.social.big .soc{display:flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:50%;background:#111;color:#fff!important}
 .social.big .soc svg{width:30px;height:30px}.social.big .soc:hover{background:#E5484D}
+
+.follow{margin:28px 0 8px;padding:18px 20px;border:1px solid var(--line,#e5e7eb);border-radius:14px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}.follow p{margin:0;font-weight:700}.follow .social{display:flex;gap:12px}.follow .soc{width:44px;height:44px}.mostread{padding-left:20px}.mostread li{margin:8px 0}
