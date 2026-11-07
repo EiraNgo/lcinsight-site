@@ -373,3 +373,10 @@ button:active,.menu-btn:active,.sbox button:active,.rail-all:active,.btn:active,
 .xcard{display:inline-flex;align-items:center;gap:12px;background:#111;color:#fff!important;text-decoration:none!important;border-radius:14px;padding:12px 20px;font-weight:800}
 .xcard svg{width:26px;height:26px}.xcard.big{padding:18px 26px;margin:10px 0 18px}.xcard.big svg{width:40px;height:40px}
 .xcard span{display:flex;flex-direction:column}.xcard b{font-size:22px}.xcard small{font-weight:500;opacity:.8}
+
+footer .social{display:flex;gap:12px;margin-bottom:14px}
+footer .soc{display:flex;align-items:center;justify-content:center;width:42px;height:42px;border-radius:50%;background:#fff;color:#111!important;text-decoration:none!important}
+footer .soc svg{width:20px;height:20px}footer .soc:hover{background:#E5484D;color:#fff!important}
+
+.social.big{display:flex;gap:16px;margin:14px 0 22px}.social.big .soc{display:flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:50%;background:#111;color:#fff!important}
+.social.big .soc svg{width:30px;height:30px}.social.big .soc:hover{background:#E5484D}
