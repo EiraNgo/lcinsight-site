@@ -1,5 +1,23 @@
 [
 {
+"slug": "fincen-cuts-mexc-off-us-financial-system-16-7-billion",
+"url": "https://lcinsight.net/news/fincen-cuts-mexc-off-from-u-s-banks-over-16-7-billion-in-likely.html",
+"title": "FinCEN cuts MEXC off from U.S. banks over $16.7 billion in likely illicit flows",
+"dek": "The U.S. Treasury's FinCEN ordered U.S. financial institutions on November 6, 2026, to stop sending funds to or receiving funds from MEXC Global. The ban starts 30 days after the order runs in the Federal Register.",
+"category": "Exchanges",
+"guide": false,
+"hot": true,
+"published": "2026-11-06T21:45:00-05:00",
+"image": "https://lcinsight.net/og/fincen-cuts-mexc-off-us-financial-system-16-7-billion.jpg",
+"hashtags": [
+"#MEXC",
+"#FinCEN",
+"#Regulation",
+"#Sanctions",
+"#Exchanges"
+]
+},
+{
 "slug": "onchain-analytics-tools-what-9-are-built-for",
 "url": "https://lcinsight.net/news/what-9-on-chain-analytics-tools-are-built-for-from-block-explorers-to.html",
 "title": "What 9 on-chain analytics tools are built for, from block explorers to compliance suites",
@@ -3560,24 +3578,6 @@
 "#Aave",
 "#Avalanche",
 "#USDe"
-]
-},
-{
-"slug": "ripple-rlusd-moodys-a2-occ-trust-bank",
-"url": "https://lcinsight.net/news/rlusds-big-week-a-federal-trust-bank-on-monday-an-a2-moodys-rating-on.html",
-"title": "RLUSD's big week: a federal trust bank on Monday, an A2 Moody's rating on Tuesday",
-"dek": "Ripple's $2.5 billion stablecoin won final OCC approval for a national trust bank to hold its reserves, then got an investment-grade A2 rating from Moody's a day later. It still trails PayPal's PYUSD.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-10-28T12:00:00+01:00",
-"image": "https://lcinsight.net/og/ripple-rlusd-moodys-a2-occ-trust-bank.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Ripple",
-"#RLUSD",
-"#Moodys"
 ]
 }
 ]
