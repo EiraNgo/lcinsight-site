@@ -78,5 +78,15 @@
    "ch24": 538.8376555124366
   },
   "found": "2026-11-07T02:46:56Z"
+ },
+ {
+  "id": "trend:akedo:20261107",
+  "kind": "trending",
+  "hint": "Akedo (AKE) trending #3 on CoinGecko, +101.9% 24h",
+  "source": "https://www.coingecko.com/en/coins/akedo",
+  "data": {
+   "ch24": 101.9001197285068
+  },
+  "found": "2026-11-07T03:33:33Z"
  }
 ]
