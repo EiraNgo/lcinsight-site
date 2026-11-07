@@ -1,5 +1,95 @@
 [
 {
+"slug": "smart-money-top-10-256m-to-110m-kols-halved",
+"url": "https://lcinsight.net/news/deepseas-top-10-smart-money-traders-256-million-in-weekly-profit-then.html",
+"title": "DeepSea's top 10 smart money traders: $256 million in weekly profit, then $110 million",
+"dek": "The 7-day profit shown for the crash-week winners on DeepSea's boards fell by more than half in 24 hours. The top two influencers' figures halved, and sharks are still down $3.15 million on closed trades.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-07T01:02:00-05:00",
+"image": "https://lcinsight.net/og/smart-money-top-10-256m-to-110m-kols-halved.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#SmartMoney",
+"#KOLs",
+"#Sharks"
+]
+},
+{
+"slug": "unibtc-berachain-16-31m-sold-591-volume",
+"url": "https://lcinsight.net/news/sharks-sold-16-31-million-of-unibtc-on-berachain-coingecko-saw-591-of.html",
+"title": "Sharks \"sold\" $16.31 million of uniBTC on Berachain. CoinGecko saw $591 of trading",
+"dek": "DeepSea's live feed logged two wallets moving about 212 uniBTC out on Berachain in 24 hours. One of them is a DEX pool, and CoinGecko counted less than $600 of uniBTC trading worldwide in the same day.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-07T01:01:00-05:00",
+"image": "https://lcinsight.net/og/unibtc-berachain-16-31m-sold-591-volume.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Whales",
+"#Bitcoin",
+"#Berachain"
+]
+},
+{
+"slug": "rumor-vs-record-chainalysis-breach-viral-claims",
+"url": "https://lcinsight.net/news/rumor-vs-record-was-chainalysis-hit-by-ai-and-did-attackers-see-case.html",
+"title": "Rumor vs record: was Chainalysis hit by AI, and did attackers see case files?",
+"dek": "Claims about the Chainalysis breach kept spreading as the company posted its November 6 update. We checked eight of them against Chainalysis's own incident page: two are wrong or out of date, and two have no evidence behind them yet.",
+"category": "Security",
+"guide": false,
+"hot": true,
+"published": "2026-11-07T00:52:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-chainalysis-breach-viral-claims.jpg",
+"hashtags": [
+"#RumorCheck",
+"#Chainalysis",
+"#Hacks",
+"#AIAgents",
+"#Data"
+]
+},
+{
+"slug": "a7a5-still-trades-uniswap-15-months-after-sanctions",
+"url": "https://lcinsight.net/news/ruble-token-a7a5-still-trades-on-uniswap-15-months-after-sanctions-for.html",
+"title": "Ruble token A7A5 still trades on Uniswap 15 months after sanctions, for about $1,500 a day",
+"dek": "In August 2025, Treasury sanctioned A7A5's issuer along with Garantex and its successor, Grinex. FinCEN's November 6, 2026, MEXC order put new numbers on all three. Public data shows the token still trades in tiny amounts, but it cannot show the transfers between agents.",
+"category": "Policy",
+"guide": false,
+"hot": false,
+"published": "2026-11-07T00:51:00-05:00",
+"image": "https://lcinsight.net/og/a7a5-still-trades-uniswap-15-months-after-sanctions.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sanctions",
+"#OFAC",
+"#FinCEN"
+]
+},
+{
+"slug": "mexc-wallets-down-166m-mx-falls-6-after-fincen-order",
+"url": "https://lcinsight.net/news/mexcs-tracked-wallets-shed-166-million-before-fincens-order-then-mx.html",
+"title": "MEXC's tracked wallets shed $166 million before FinCEN's order. Then MX fell 6%",
+"dek": "DeepSea's MEXC wallets fell from $1.08 billion to about $918 million between November 5 and early November 6, before FinCEN moved against the exchange. They have barely moved since, and the data does not show why.",
+"category": "Exchanges",
+"guide": false,
+"hot": true,
+"published": "2026-11-07T00:50:00-05:00",
+"image": "https://lcinsight.net/og/mexc-wallets-down-166m-mx-falls-6-after-fincen-order.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#MEXC",
+"#FinCEN",
+"#Exchanges"
+]
+},
+{
 "slug": "fincen-fed-withdraw-250-travel-rule-threshold-crypto",
 "url": "https://lcinsight.net/news/fincen-and-the-fed-drop-the-2020-plan-to-cut-the-travel-rule-threshold.html",
 "title": "FinCEN and the Fed drop the 2020 plan to cut the travel rule threshold to $250",
@@ -3489,95 +3579,6 @@
 "#FederalReserve",
 "#InterestRates",
 "#Bitcoin"
-]
-},
-{
-"slug": "bnb-chain-jenner-hard-fork-payment-lane",
-"url": "https://lcinsight.net/news/bnb-chains-jenner-hard-fork-walls-off-5-percent-of-every-block-for.html",
-"title": "BNB Chain's Jenner hard fork walls off 5% of every block for payments. Who gets in?",
-"dek": "Jenner went live on the BSC testnet on October 28, 2026. It reserves block space for payments, adds a native token standard with freeze and seizure powers, and gives smart contracts millisecond time. Mainnet has no date yet.",
-"category": "Infrastructure",
-"guide": false,
-"hot": false,
-"published": "2026-10-29T10:00:00+01:00",
-"image": "https://lcinsight.net/og/bnb-chain-jenner-hard-fork-payment-lane.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#BNBChain",
-"#BSC",
-"#HardFork"
-]
-},
-{
-"slug": "ethos-network-whuf-unlock-8-4-million-auction",
-"url": "https://lcinsight.net/news/ethos-promised-whuf-buyers-85-percent-back-it-has-paid-1-6-million-as.html",
-"title": "Ethos promised WHUF buyers 85% back. It has paid $1.6 million as the token halved",
-"dek": "The reputation protocol on Base sold 20% of its token at $4.20 and guaranteed qualifying buyers $3.57. WHUF unlocked on October 8 and fell to about $1.93, so buyers are cashing in the floor while the Ethos Foundation burns the returned tokens.",
-"category": "Projects",
-"guide": false,
-"hot": false,
-"published": "2026-10-29T10:00:00+01:00",
-"image": "https://lcinsight.net/og/ethos-network-whuf-unlock-8-4-million-auction.jpg",
-"hashtags": [
-"#EthosNetwork",
-"#WHUF",
-"#Base",
-"#TokenSales",
-"#Reputation"
-]
-},
-{
-"slug": "dubai-vara-proof-of-reserves-audit-crackdown",
-"url": "https://lcinsight.net/news/dubais-vara-reviewed-every-2025-reserve-report-now-auditors-face-seven.html",
-"title": "Dubai's VARA reviewed every 2025 reserve report. Now auditors face seven checks",
-"dek": "Two VARA circulars in October tell licensed crypto firms what a real reserve audit must prove, and warn that vague website claims like \"protected\" and \"segregated\" are not enough.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-10-29T09:00:00+01:00",
-"image": "https://lcinsight.net/og/dubai-vara-proof-of-reserves-audit-crackdown.jpg",
-"hashtags": [
-"#UAE",
-"#Dubai",
-"#VARA",
-"#ProofOfReserves",
-"#Exchanges"
-]
-},
-{
-"slug": "fed-holds-rates-10-2-vote-december-hike-odds-85",
-"url": "https://lcinsight.net/news/two-fed-officials-voted-for-a-hike-and-lost-10-to-2-is-december-next.html",
-"title": "Two Fed officials voted for a hike and lost 10 to 2. Is December next?",
-"dek": "The Fed held rates at 3.75% to 4% on October 28, but Lisa Cook and Beth Hammack wanted a quarter-point rise. With September inflation at 3.7%, the December meeting is now the one to watch.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-10-29T08:00:00+01:00",
-"image": "https://lcinsight.net/og/fed-holds-rates-10-2-vote-december-hike-odds-85.jpg",
-"hashtags": [
-"#FederalReserve",
-"#InterestRates",
-"#Bitcoin",
-"#Macro"
-]
-},
-{
-"slug": "ofac-dprk-it-workers-crypto-addresses-sanctions",
-"url": "https://lcinsight.net/news/us-sanctions-north-korean-it-workers-in-russia-and-lists-8-crypto.html",
-"title": "US sanctions North Korean IT workers in Russia and lists 8 crypto addresses, 5 on Tron",
-"dek": "Treasury designated 10 people and a Russia-based center on October 28, 2026, saying they moved crypto for North Korea's IT worker schemes. One Ethereum address appears under two different men.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-10-28T18:00:00-04:00",
-"image": "https://lcinsight.net/og/ofac-dprk-it-workers-crypto-addresses-sanctions.jpg",
-"hashtags": [
-"#Sanctions",
-"#NorthKorea",
-"#Enforcement",
-"#OFAC",
-"#Ethereum"
 ]
 }
 ]
