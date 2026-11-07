@@ -354,3 +354,14 @@ button:active,.menu-btn:active,.sbox button:active,.rail-all:active,.btn:active,
 /* menu scrolls on small screens (owner, Nov 6: "Ko kéo đc lên") */
 .mast .mnav:not([hidden]){max-height:calc(100vh - 84px);max-height:calc(100dvh - 84px);overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
 @media (max-width:900px){.mast .mnav:not([hidden]){max-height:calc(100vh - 68px);max-height:calc(100dvh - 68px);padding-bottom:40px}}
+
+/* receipts + rumor vs record (owner, Nov 7 2026: be different) */
+.receipts{margin:22px 0;border:2px solid #231F20;border-radius:14px;padding:14px 18px;background:#fffdf7;box-shadow:0 4px 0 #231F20}
+.receipts .rh{font:900 13px Inter,sans-serif;letter-spacing:2px;color:#C0392B;margin-bottom:8px}
+.receipts .rc{display:flex;flex-wrap:wrap;gap:8px 18px;font:600 15px Inter,sans-serif;color:#231F20}
+.receipts .rc b{font-size:18px}.receipts .rf{margin-top:8px;font:500 13.5px Inter,sans-serif;color:#555}
+.rumor{margin:26px 0}.rumor table{width:100%;border-collapse:collapse;font:15px/1.4 Inter,sans-serif}
+.rumor th{text-align:left;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#666;border-bottom:2px solid #231F20;padding:8px 6px}
+.rumor td{border-bottom:1px solid #e3ded3;padding:10px 6px;vertical-align:top}.rumor td.cl{font-weight:700;width:36%}
+.rumor .vd{display:inline-block;color:#fff;font:800 12px Inter,sans-serif;padding:4px 9px;border-radius:999px;white-space:nowrap}
+@media (max-width:640px){.rumor td.cl{width:auto}.rumor th:nth-child(3){display:none}.rumor td{display:block;border:0;padding:4px 6px}.rumor tr{display:block;border-bottom:1px solid #e3ded3;padding:6px 0}}

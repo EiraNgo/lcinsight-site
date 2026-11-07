@@ -1,5 +1,22 @@
 [
 {
+"slug": "rumor-vs-record-mexc-fincen-viral-claims",
+"url": "https://lcinsight.net/news/rumor-vs-record-what-viral-posts-got-right-and-wrong-about-the-u-s.html",
+"title": "Rumor vs record: what viral posts got right and wrong about the U.S. move against MEXC",
+"dek": "Posts about FinCEN's MEXC order spread fast on November 6 and 7, 2026. We checked each claim against FinCEN's own order. Most numbers hold up; two points do not.",
+"category": "Exchanges",
+"guide": false,
+"hot": true,
+"published": "2026-11-06T22:30:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-mexc-fincen-viral-claims.jpg",
+"hashtags": [
+"#RumorCheck",
+"#MEXC",
+"#FinCEN",
+"#Regulation"
+]
+},
+{
 "slug": "fincen-cuts-mexc-off-us-financial-system-16-7-billion",
 "url": "https://lcinsight.net/news/fincen-cuts-mexc-off-from-u-s-banks-over-16-7-billion-in-likely.html",
 "title": "FinCEN cuts MEXC off from U.S. banks over $16.7 billion in likely illicit flows",
@@ -3560,24 +3577,6 @@
 "#PredictionMarkets",
 "#Michigan",
 "#Sports"
-]
-},
-{
-"slug": "ethena-pay-earn-plus-aave-v4-avalanche",
-"url": "https://lcinsight.net/news/ethena-pay-adds-earn-a-leveraged-usde-strategy-on-aave-v4-without.html",
-"title": "Ethena Pay adds Earn+, a leveraged USDe strategy on Aave V4, without publishing a rate",
-"dek": "Two months after launching a money app on Avalanche, Ethena added Earn+, which supplies USDe and borrows USDT through a vault on Aave V4. There is no stated rate, and deposits are capped at $20,000 to $200,000 by tier.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-10-28T18:00:00+01:00",
-"image": "https://lcinsight.net/og/ethena-pay-earn-plus-aave-v4-avalanche.jpg",
-"hashtags": [
-"#Ethena",
-"#EthenaPay",
-"#Aave",
-"#Avalanche",
-"#USDe"
 ]
 }
 ]
