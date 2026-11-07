@@ -68,5 +68,15 @@
   "source": "https://ofac.treasury.gov/recent-actions/20261021",
   "data": {},
   "found": "2026-11-07T02:36:55Z"
+ },
+ {
+  "id": "trend:coge-coin-2:20261107",
+  "kind": "trending",
+  "hint": "COGE COIN (COGE) trending #1 on CoinGecko, +538.8% 24h",
+  "source": "https://www.coingecko.com/en/coins/coge-coin-2",
+  "data": {
+   "ch24": 538.8376555124366
+  },
+  "found": "2026-11-07T02:46:56Z"
  }
 ]
