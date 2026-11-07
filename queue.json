@@ -108,5 +108,15 @@
    "ch24": 133.40211793835846
   },
   "found": "2026-11-07T09:27:26Z"
+ },
+ {
+  "id": "trend:reboot-2:20261107",
+  "kind": "trending",
+  "hint": "Reboot (REBOOT) trending #1 on CoinGecko, +16.5% 24h",
+  "source": "https://www.coingecko.com/en/coins/reboot-2",
+  "data": {
+   "ch24": 16.480460778217005
+  },
+  "found": "2026-11-07T12:02:03Z"
  }
 ]
