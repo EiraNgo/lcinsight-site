@@ -128,5 +128,25 @@
    "ch24": -32.46235435618008
   },
   "found": "2026-11-07T23:42:55Z"
+ },
+ {
+  "id": "trend:dacity-coin-4:20261108",
+  "kind": "trending",
+  "hint": "Dacity Coin (DACITY) trending #1 on CoinGecko, +42.6% 24h",
+  "source": "https://www.coingecko.com/en/coins/dacity-coin-4",
+  "data": {
+   "ch24": 42.55788371776414
+  },
+  "found": "2026-11-08T00:05:40Z"
+ },
+ {
+  "id": "trend:stonk-3:20261108",
+  "kind": "trending",
+  "hint": "STONK (STONK) trending #2 on CoinGecko, -31.9% 24h",
+  "source": "https://www.coingecko.com/en/coins/stonk-3",
+  "data": {
+   "ch24": -31.875466476030212
+  },
+  "found": "2026-11-08T00:05:40Z"
  }
 ]
