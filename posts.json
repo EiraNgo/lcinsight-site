@@ -18,6 +18,24 @@
 ]
 },
 {
+"slug": "janction-jct-up-285-percent-record-high-november-8",
+"url": "https://lcinsight.net/news/janction-jct-jumps-285-percent-in-a-day-to-a-record-high-as-volume.html",
+"title": "Janction (JCT) jumps 285% in a day to a record high as volume tops its market cap",
+"dek": "JCT climbed from about $0.0025 to a new all-time high near $0.0107 on Sunday morning. About $175 million changed hands in a day, more than the token's $120 million market cap, and three venues handled 86% of it.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-08T07:15:00-05:00",
+"image": "https://lcinsight.net/og/janction-jct-up-285-percent-record-high-november-8.jpg",
+"hashtags": [
+"#Janction",
+"#JCT",
+"#PriceMoves",
+"#Trending",
+"#Altcoins"
+]
+},
+{
 "slug": "hyperliquid-zcash-open-interest-626m-tops-binance",
 "url": "https://lcinsight.net/news/hyperliquid-holds-626-million-of-open-zcash-bets-more-than-binances.html",
 "title": "Hyperliquid holds $626 million of open Zcash bets, more than Binance's $556.9 million",
@@ -33,6 +51,24 @@
 "#PerpetualFutures",
 "#Binance",
 "#Data"
+]
+},
+{
+"slug": "rumor-vs-record-japan-128-shinkin-banks-outage-november-6",
+"url": "https://lcinsight.net/news/rumor-vs-record-128-japanese-banks-went-dark-on-november-6-notices.html",
+"title": "Rumor vs record: 128 Japanese banks went dark on November 6. Notices blame broken equipment",
+"dek": "A viral reel says 128 banks in Japan were taken down all at once. The outage was real. The official notices we could read point to a failed piece of communications equipment, and none of them mention an attack.",
+"category": "Security",
+"guide": false,
+"hot": true,
+"published": "2026-11-08T07:10:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-japan-128-shinkin-banks-outage-november-6.jpg",
+"hashtags": [
+"#RumorCheck",
+"#Japan",
+"#Banks",
+"#Outages",
+"#Security"
 ]
 },
 {
@@ -3551,42 +3587,6 @@
 "#Pumpfun",
 "#Memecoins",
 "#Solana"
-]
-},
-{
-"slug": "aave-v3-8-reentrancy-guard-15-networks",
-"url": "https://lcinsight.net/news/aave-v3-8-vote-381-439-aave-for-zero-against-a-new-lock-on-15-networks.html",
-"title": "Aave V3.8 vote: 381,439 AAVE for, zero against, a new lock on 15 networks",
-"dek": "Aave Labs wants a reentrancy guard on every active Aave V3 market, built so flash loans and liquidations still work. AAVE holders backed it with zero AAVE against in a Snapshot vote that closed October 31; audits come before the final onchain step.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-11-01T10:00:00-05:00",
-"image": "https://lcinsight.net/og/aave-v3-8-reentrancy-guard-15-networks.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Aave",
-"#Upgrades",
-"#DeFi"
-]
-},
-{
-"slug": "fca-cp26-36-defi-stablecoin-perimeter-consultation",
-"url": "https://lcinsight.net/news/code-is-not-a-shield-the-fcas-draft-crypto-map-covers-defi-comments.html",
-"title": "Code is not a shield: the FCA's draft crypto map covers DeFi, comments due November 18",
-"dek": "The UK regulator wants views by November 18, 2026, on draft guidance about when DeFi, stablecoin payments, market making and tech services need a license. Using smart contracts does not settle the question on its own.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-11-01T09:00:00-05:00",
-"image": "https://lcinsight.net/og/fca-cp26-36-defi-stablecoin-perimeter-consultation.jpg",
-"hashtags": [
-"#UK",
-"#FCA",
-"#DeFi",
-"#Stablecoins",
-"#CryptoRegime"
 ]
 }
 ]
