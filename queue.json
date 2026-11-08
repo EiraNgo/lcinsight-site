@@ -240,5 +240,15 @@
    "ch24": 93.86174688361059
   },
   "found": "2026-11-08T10:11:43Z"
+ },
+ {
+  "id": "trend:janction:20261108",
+  "kind": "trending",
+  "hint": "Janction (JCT) trending #3 on CoinGecko, +162.6% 24h",
+  "source": "https://www.coingecko.com/en/coins/janction",
+  "data": {
+   "ch24": 162.61615057757524
+  },
+  "found": "2026-11-08T11:20:03Z"
  }
 ]
