@@ -258,5 +258,18 @@
   "hint": "Rumor vs record + map video: '128 Japan banks hacked' was an equipment failure (Shinkin Joint System, Nov 6). World map of verified 2026 bank hacks vs outages. NEWSROOM.md ASSIGNMENT Nov 8 item 11",
   "source": "site/NEWSROOM.md",
   "found": "2026-11-08T11:55:00Z"
+ },
+ {
+  "id": "price:ethereum:20261108:down",
+  "kind": "price",
+  "hint": "Ethereum (ETH) -4.5% in 1h, -4.8% in 24h, now $2,122.79",
+  "source": "https://www.coingecko.com/en/coins/ethereum",
+  "data": {
+   "h1": -4.5321,
+   "h24": -4.79749,
+   "price": 2122.79,
+   "mcap_rank": 2
+  },
+  "found": "2026-11-08T22:08:35Z"
  }
 ]
