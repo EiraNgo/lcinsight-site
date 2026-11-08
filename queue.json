@@ -230,5 +230,15 @@
    "ch24": -44.03193364865265
   },
   "found": "2026-11-08T04:05:05Z"
+ },
+ {
+  "id": "trend:wasted-2:20261108",
+  "kind": "trending",
+  "hint": "WASTED (WASTED) trending #1 on CoinGecko, +93.9% 24h",
+  "source": "https://www.coingecko.com/en/coins/wasted-2",
+  "data": {
+   "ch24": 93.86174688361059
+  },
+  "found": "2026-11-08T10:11:43Z"
  }
 ]
