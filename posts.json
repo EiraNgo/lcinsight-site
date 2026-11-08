@@ -1,5 +1,113 @@
 [
 {
+"slug": "blackrock-ibit-shrank-105m-friday-shares-flat-since-sept",
+"url": "https://lcinsight.net/news/blackrocks-ibit-shrank-105-million-on-friday-yet-its-share-count-is.html",
+"title": "BlackRock's IBIT shrank $105 million on Friday, yet its share count is flat since September",
+"dek": "IBIT, BlackRock's spot bitcoin fund, cut 2.44 million shares on November 6, about 1,380 BTC. Yet it has slightly more shares than on September 30, so nearly all of its $6.4 billion drop in assets since then came from bitcoin's price.",
+"category": "ETFs",
+"guide": false,
+"hot": false,
+"published": "2026-11-08T07:20:00-05:00",
+"image": "https://lcinsight.net/og/blackrock-ibit-shrank-105m-friday-shares-flat-since-sept.jpg",
+"hashtags": [
+"#ETF",
+"#BitcoinETF",
+"#BlackRock",
+"#Bitcoin",
+"#FundFlows"
+]
+},
+{
+"slug": "hyperliquid-zcash-open-interest-626m-tops-binance",
+"url": "https://lcinsight.net/news/hyperliquid-holds-626-million-of-open-zcash-bets-more-than-binances.html",
+"title": "Hyperliquid holds $626 million of open Zcash bets, more than Binance's $556.9 million",
+"dek": "On a quiet Sunday, Zcash was the second most traded market on Hyperliquid, ahead of ether. CoinGecko's data shows the on-chain exchange now carries the largest pile of open ZEC futures of any venue.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-08T07:10:00-05:00",
+"image": "https://lcinsight.net/og/hyperliquid-zcash-open-interest-626m-tops-binance.jpg",
+"hashtags": [
+"#Zcash",
+"#Hyperliquid",
+"#PerpetualFutures",
+"#Binance",
+"#Data"
+]
+},
+{
+"slug": "optimism-shark-bought-612k-op-one-trade-down-98-from-high",
+"url": "https://lcinsight.net/news/a-shark-bought-612-100-of-op-in-one-trade-nine-hours-later-its-wallet.html",
+"title": "A shark bought $612,100 of OP in one trade. Nine hours later its wallet held no OP",
+"dek": "An Optimism wallet DeepSea calls Hold9675 bought 6.03 million OP on Saturday night, about 3% of the token's daily trading. Its page now shows no OP among its holdings.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-08T07:03:00-05:00",
+"image": "https://lcinsight.net/og/optimism-shark-bought-612k-op-one-trade-down-98-from-high.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Optimism",
+"#OnChainData"
+]
+},
+{
+"slug": "cbbtc-whale-216m-shows-291k-loss-trades-look-like-loans",
+"url": "https://lcinsight.net/news/a-216-million-bitcoin-whale-shows-a-291-600-weekly-loss-but-its-moves.html",
+"title": "A $216 million bitcoin whale shows a $291,600 weekly loss, but its moves look like loans",
+"dek": "DeepSea counts an 82% win rate and a 7-day loss for an Ethereum wallet holding only cbBTC. Its trade list reads like a borrower moving collateral in and out of a lending market.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-08T07:02:00-05:00",
+"image": "https://lcinsight.net/og/cbbtc-whale-216m-shows-291k-loss-trades-look-like-loans.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Whales",
+"#Bitcoin",
+"#OnChainData"
+]
+},
+{
+"slug": "shark-5488-trades-30-days-lost-1-64m-bought-155k-debit",
+"url": "https://lcinsight.net/news/a-shark-lost-1-64-million-on-5-488-trades-in-30-days-then-bought-155.html",
+"title": "A shark lost $1.64 million on 5,488 trades in 30 days, then bought $155,000 of DEBIT",
+"dek": "DeepSea's page for a shark wallet ending in 1f17 shows losses on BNB Chain, Ethereum and Optimism. On Sunday morning it kept trading: gold tokens out, small caps in.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-08T07:01:00-05:00",
+"image": "https://lcinsight.net/og/shark-5488-trades-30-days-lost-1-64m-bought-155k-debit.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#OnChainData",
+"#BSC"
+]
+},
+{
+"slug": "kol-loopierr-lost-44k-sunday-31-winners-made-54k",
+"url": "https://lcinsight.net/news/one-kol-lost-44-400-on-sunday-wiping-out-82-percent-of-what-31-winning.html",
+"title": "One KOL lost $44,400 on Sunday, wiping out 82% of what 31 winning KOLs made",
+"dek": "DeepSea's one-day board lists 58 crypto influencers with a result on November 8. Most made money, but Loopierr's single loss pulled the whole group about $20,900 into the red.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-08T07:00:00-05:00",
+"image": "https://lcinsight.net/og/kol-loopierr-lost-44k-sunday-31-winners-made-54k.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#KOLs",
+"#OnChainData",
+"#Memecoins"
+]
+},
+{
 "slug": "russia-retail-crypto-bitcoin-ether-usdt-300000-ruble-cap",
 "url": "https://lcinsight.net/news/russia-lets-ordinary-investors-buy-only-btc-eth-and-usdt-capped-at.html",
 "title": "Russia lets ordinary investors buy only BTC, ETH and USDT, capped at about $3,665 a year",
@@ -3479,111 +3587,6 @@
 "#DeFi",
 "#Stablecoins",
 "#CryptoRegime"
-]
-},
-{
-"slug": "b14g-zero-amount-withdrawal-97-million-core",
-"url": "https://lcinsight.net/news/how-99-requests-to-withdraw-zero-drained-97-million-core-1-47-million.html",
-"title": "How 99 requests to withdraw zero drained 97 million CORE ($1.47 million) from b14g",
-"dek": "A new wallet asked b14g, a Bitcoin staking app on Core, to withdraw zero tokens 99 times. Core's staking code read each one as \"withdraw everything.\" About 70% of the coins had still not moved by that evening.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-11-01T12:00:00+01:00",
-"image": "https://lcinsight.net/og/b14g-zero-amount-withdrawal-97-million-core.jpg",
-"hashtags": [
-"#B14g",
-"#Core",
-"#Staking",
-"#Hacks"
-]
-},
-{
-"slug": "standx-cancels-token-winds-down-dusd-payout",
-"url": "https://lcinsight.net/news/standx-cancels-its-token-and-shuts-down-users-get-one-dusd-payout-of.html",
-"title": "StandX cancels its token and shuts down. Users get one DUSD payout of unknown size",
-"dek": "The perpetuals exchange on BNB Chain and Solana dropped its token plans, switched trading to close-only and opened a one-time DUSD airdrop claim on October 31, 2026. It has not said how big the pool is, and the claim closes on December 31.",
-"category": "Projects",
-"guide": false,
-"hot": false,
-"published": "2026-11-01T09:00:00+01:00",
-"image": "https://lcinsight.net/og/standx-cancels-token-winds-down-dusd-payout.jpg",
-"hashtags": [
-"#StandX",
-"#DUSD",
-"#Perpetuals",
-"#PointsPrograms",
-"#Airdrops"
-]
-},
-{
-"slug": "lisk-chain-shutdown-october-31-lsk-burn",
-"url": "https://lcinsight.net/news/lisk-shuts-its-chain-october-31-and-burns-a-quarter-of-lsk-tokens-left.html",
-"title": "Lisk shuts its chain October 31 and burns a quarter of LSK. Tokens left behind are lost",
-"dek": "Lisk set October 31, 2026, as the last day of its own blockchain and its DAO. It is burning 100 million LSK, a quarter of supply, and is turning the token into a loyalty reward on Ethereum. Anything not bridged out in time is lost, the project says.",
-"category": "Projects",
-"guide": false,
-"hot": false,
-"published": "2026-10-31T09:00:00-04:00",
-"image": "https://lcinsight.net/og/lisk-chain-shutdown-october-31-lsk-burn.jpg",
-"hashtags": [
-"#Lisk",
-"#LSK",
-"#Layer2",
-"#Bridges",
-"#Ethereum"
-]
-},
-{
-"slug": "okx-48th-proof-of-reserves-29-billion-btc-110",
-"url": "https://lcinsight.net/news/okxs-48th-reserve-report-shows-29-4-billion-up-27-percent-in-three.html",
-"title": "OKX's 48th reserve report shows $29.4 billion, up 27% in three months, with BTC at 110%",
-"dek": "OKX marked four years of monthly proof-of-reserves reports on October 30. Its primary assets rose from $23.1 billion in July to $29.4 billion, and every listed coin is backed at least 1:1. Here is what the report proves and what it leaves out.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-10-30T19:00:00-04:00",
-"image": "https://lcinsight.net/og/okx-48th-proof-of-reserves-29-billion-btc-110.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#OKX",
-"#ProofOfReserves",
-"#Exchanges"
-]
-},
-{
-"slug": "polymarket-hack-postmortem-3-9-million-refunds",
-"url": "https://lcinsight.net/news/polymarket-repaid-3-9-million-after-a-vendors-script-turned-on-its.html",
-"title": "Polymarket repaid $3.9 million after a vendor's script turned on its users. What broke?",
-"dek": "A hijacked performance-monitoring script on polymarket.com used logged-in sessions to sell positions and pull funds. Polymarket's postmortem says 95% of affected wallets are now fully refunded, and it paid $1.2 million more for losses during its trading pause.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-10-30T18:00:00-04:00",
-"image": "https://lcinsight.net/og/polymarket-hack-postmortem-3-9-million-refunds.jpg",
-"hashtags": [
-"#Polymarket",
-"#Hacks",
-"#SupplyChain",
-"#PredictionMarkets"
-]
-},
-{
-"slug": "polymarket-halts-trading-3-9-million-refunds",
-"url": "https://lcinsight.net/news/polymarket-repays-3-9-million-after-a-hacked-vendor-script-hits-it-for.html",
-"title": "Polymarket repays $3.9 million after a hacked vendor script hits it for the second time",
-"dek": "On October 29, a compromised outside script on polymarket.com used logged-in sessions to sell positions and drain 726 wallets. Polymarket paused trading, repaid 689 of them in full within a day, and is covering pause losses too. It was the second vendor script attack in four months.",
-"category": "Culture",
-"guide": false,
-"hot": false,
-"published": "2026-10-30T21:00:00+01:00",
-"image": "https://lcinsight.net/og/polymarket-halts-trading-3-9-million-refunds.jpg",
-"hashtags": [
-"#Polymarket",
-"#PredictionMarkets",
-"#Refunds",
-"#SupplyChain"
 ]
 }
 ]
