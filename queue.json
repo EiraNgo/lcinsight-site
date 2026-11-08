@@ -250,5 +250,13 @@
    "ch24": 162.61615057757524
   },
   "found": "2026-11-08T11:20:03Z"
+ },
+ {
+  "id": "owner:japan-shinkin-outage-map",
+  "kind": "owner",
+  "priority": -1,
+  "hint": "Rumor vs record + map video: '128 Japan banks hacked' was an equipment failure (Shinkin Joint System, Nov 6). World map of verified 2026 bank hacks vs outages. NEWSROOM.md ASSIGNMENT Nov 8 item 11",
+  "source": "site/NEWSROOM.md",
+  "found": "2026-11-08T11:55:00Z"
  }
 ]
