@@ -220,5 +220,15 @@
   "hint": "Rumor vs record: viral claim 'Barron Trump opened a $15M 40x BTC long' (Hyperliquid screenshot: 200.65 BTC long, entry ~$75,587, equity ~$1.51M, total positions ~$27.79M). Item 10",
   "source": "site/NEWSROOM.md ASSIGNMENT Nov 8 2026",
   "found": "2026-11-08T00:45:00Z"
+ },
+ {
+  "id": "trend:unifai-network:20261108",
+  "kind": "trending",
+  "hint": "UnifAI Network (UAI) trending #3 on CoinGecko, -44.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/unifai-network",
+  "data": {
+   "ch24": -44.03193364865265
+  },
+  "found": "2026-11-08T04:05:05Z"
  }
 ]
