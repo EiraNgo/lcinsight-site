@@ -148,5 +148,77 @@
    "ch24": -31.875466476030212
   },
   "found": "2026-11-08T00:05:40Z"
+ },
+ {
+  "id": "owner:musk-binance-fake",
+  "kind": "owner",
+  "priority": 0,
+  "hint": "Rumor vs record: viral claim 'Elon Musk says Binance 80% share holds crypto back' - Community Note says Musk never said it, CZ replied 'don't be that guy that spreads false info'. NEWSROOM.md ASSIGNMENT Nov 8 item 1",
+  "source": "site/NEWSROOM.md ASSIGNMENT Nov 8 2026",
+  "found": "2026-11-08T00:45:00Z"
+ },
+ {
+  "id": "owner:ansem-said-did",
+  "kind": "owner",
+  "priority": 1,
+  "hint": "Said vs did: Ansem early Oct 'ATH by Christmas' vs Nov 7 '60k 1500 60'. Item 2",
+  "source": "site/NEWSROOM.md ASSIGNMENT Nov 8 2026",
+  "found": "2026-11-08T00:45:00Z"
+ },
+ {
+  "id": "owner:ansem-mother-scamsem",
+  "kind": "owner",
+  "priority": 2,
+  "hint": "Rumor vs record: 'Ansem took $100K to promote $MOTHER' + $scamsem pump. Item 4 (no private photos, unverified stays Unverified)",
+  "source": "site/NEWSROOM.md ASSIGNMENT Nov 8 2026",
+  "found": "2026-11-08T00:45:00Z"
+ },
+ {
+  "id": "owner:chain-migrations",
+  "kind": "owner",
+  "priority": 3,
+  "hint": "9 projects leaving own chains (Akash, ZetaChain->Solana; Harmony, Gnosis, Scroll->Ethereum; Moonriver->Base; BounceBit->BNB; DATA->Sui; Extended->Arc). Item 5",
+  "source": "site/NEWSROOM.md ASSIGNMENT Nov 8 2026",
+  "found": "2026-11-08T00:45:00Z"
+ },
+ {
+  "id": "owner:binance-uid",
+  "kind": "owner",
+  "priority": 4,
+  "hint": "Rumor vs record: 'Binance UIDs can collide' (10,398.77 USDT) vs Yi He reply. Item 6",
+  "source": "site/NEWSROOM.md ASSIGNMENT Nov 8 2026",
+  "found": "2026-11-08T00:45:00Z"
+ },
+ {
+  "id": "owner:eth-whale-0x4ab7",
+  "kind": "owner",
+  "priority": 5,
+  "hint": "Whale 0x4AB785F639D3437298d780d15FD4... withdrew 13,077 ETH (~$29.95M) from Binance in 7 days. Item 7",
+  "source": "site/NEWSROOM.md ASSIGNMENT Nov 8 2026",
+  "found": "2026-11-08T00:45:00Z"
+ },
+ {
+  "id": "owner:pumpfun-sol-sales",
+  "kind": "owner",
+  "priority": 6,
+  "hint": "pump.fun sold ~76K SOL (~$6.9M), ~$883M total. Item 8",
+  "source": "site/NEWSROOM.md ASSIGNMENT Nov 8 2026",
+  "found": "2026-11-08T00:45:00Z"
+ },
+ {
+  "id": "owner:memecoin-data",
+  "kind": "owner",
+  "priority": 7,
+  "hint": "Is the memecoin easy-money era over? Numbers only: pump.fun launches, revenue, meme volume vs peak. Item 9",
+  "source": "site/NEWSROOM.md ASSIGNMENT Nov 8 2026",
+  "found": "2026-11-08T00:45:00Z"
+ },
+ {
+  "id": "owner:barron-btc-long",
+  "kind": "owner",
+  "priority": 8,
+  "hint": "Rumor vs record: viral claim 'Barron Trump opened a $15M 40x BTC long' (Hyperliquid screenshot: 200.65 BTC long, entry ~$75,587, equity ~$1.51M, total positions ~$27.79M). Item 10",
+  "source": "site/NEWSROOM.md ASSIGNMENT Nov 8 2026",
+  "found": "2026-11-08T00:45:00Z"
  }
 ]
