@@ -1,5 +1,77 @@
 [
 {
+"slug": "russia-retail-crypto-bitcoin-ether-usdt-300000-ruble-cap",
+"url": "https://lcinsight.net/news/russia-lets-ordinary-investors-buy-only-btc-eth-and-usdt-capped-at.html",
+"title": "Russia lets ordinary investors buy only BTC, ETH and USDT, capped at about $3,665 a year",
+"dek": "The Bank of Russia's directive 7441-U, published November 6, 2026, names just three assets that non-qualified investors may buy through a broker, with a yearly limit of 300,000 rubles. It enters into force 10 days after publication.",
+"category": "Policy",
+"guide": false,
+"hot": true,
+"published": "2026-11-08T01:10:00-05:00",
+"image": "https://lcinsight.net/og/russia-retail-crypto-bitcoin-ether-usdt-300000-ruble-cap.jpg",
+"hashtags": [
+"#Russia",
+"#Regulation",
+"#Bitcoin",
+"#Ethereum",
+"#USDT"
+]
+},
+{
+"slug": "bsc-kols-kurtz-tech-18-same-memecoin-trades",
+"url": "https://lcinsight.net/news/two-bnb-chain-influencers-made-18-of-the-same-memecoin-trades-within.html",
+"title": "Two BNB Chain influencers made 18 of the same memecoin trades within hours. Both are up this week",
+"dek": "DeepSea's KOL wallets for kurtz and tech bought and sold the same tokens, in the same direction and within about an hour, over two days. DeepSea counts every closed trade of theirs this week as a win.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-08T01:02:00-05:00",
+"image": "https://lcinsight.net/og/bsc-kols-kurtz-tech-18-same-memecoin-trades.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#KOLs",
+"#BSC",
+"#Memecoins"
+]
+},
+{
+"slug": "ethereum-shark-100m-traded-450m-30-days-profit-26k",
+"url": "https://lcinsight.net/news/a-100-million-ethereum-shark-traded-450-million-in-30-days-its-profit.html",
+"title": "A $100 million Ethereum shark traded $450 million in 30 days. Its profit: $26,100",
+"dek": "Three quarters of the wallet sits in three dollar tokens. In four minutes from 12:30 a.m. ET it bought $340,000 of Ripple's RLUSD, sold $131,000 of LINK and made 18 buys of under $10 each.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-08T01:01:00-05:00",
+"image": "https://lcinsight.net/og/ethereum-shark-100m-traded-450m-30-days-profit-26k.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Ethereum",
+"#Stablecoins",
+"#RLUSD"
+]
+},
+{
+"slug": "bsc-shark-sold-13-4m-btc-eth-jct-buyer-81836-trades",
+"url": "https://lcinsight.net/news/a-shark-sold-13-4-million-of-bitcoin-ether-and-jct-in-minutes-the.html",
+"title": "A shark sold $13.4 million of bitcoin, ether and JCT in minutes. The buyer made 81,836 trades in a month",
+"dek": "A BNB Chain wallet that DeepSea shows down $1.75 million in 30 days sold three tokens just after midnight ET and now holds $28.7 million in a dollar token. DeepSea logs the buyer of its ether and JCT as one of the most active wallets it tracks.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-08T01:00:00-05:00",
+"image": "https://lcinsight.net/og/bsc-shark-sold-13-4m-btc-eth-jct-buyer-81836-trades.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#BSC",
+"#Bitcoin",
+"#Ethereum"
+]
+},
+{
 "slug": "memecoin-easy-money-numbers-top-12-memes-44-to-98-below-highs",
 "url": "https://lcinsight.net/news/is-the-memecoin-easy-money-era-over-the-12-biggest-memecoins-sit-44.html",
 "title": "Is the memecoin easy-money era over? The 12 biggest memecoins sit 44% to 98% below their highs",
@@ -3512,76 +3584,6 @@
 "#PredictionMarkets",
 "#Refunds",
 "#SupplyChain"
-]
-},
-{
-"slug": "nomad-bridge-exploit-suspect-extradited-to-us",
-"url": "https://lcinsight.net/news/four-years-after-the-nomad-bridge-hack-a-man-is-extradited-to-the-us.html",
-"title": "Four years after the Nomad Bridge hack, a man is extradited to the US over $2.89 million",
-"dek": "Prosecutors say Alexander Gurevich ran four exploit transactions against the Nomad Bridge on August 1, 2022, taking 103 WBTC and 300 WETH. It is the second old DeFi exploit case to reach a US courtroom this month, three weeks after the Uranium Finance hacker's conviction was announced.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-10-30T15:00:00-04:00",
-"image": "https://lcinsight.net/og/nomad-bridge-exploit-suspect-extradited-to-us.jpg",
-"hashtags": [
-"#Bridges",
-"#Hacks",
-"#Enforcement",
-"#DeFi"
-]
-},
-{
-"slug": "predict-fun-predict-token-launch-postponed",
-"url": "https://lcinsight.net/news/predict-sale-done-trading-on-hold-binance-postpones-predict-funs.html",
-"title": "PREDICT sale done, trading on hold: Binance postpones Predict.fun's launch, no new date",
-"dek": "The BNB Chain prediction market sold PREDICT on Binance Wallet on October 29, then Binance Alpha and spot trading were postponed hours before launch. The airdrop claim is frozen too, and nobody has said why.",
-"category": "Projects",
-"guide": false,
-"hot": false,
-"published": "2026-10-30T14:00:00+01:00",
-"image": "https://lcinsight.net/og/predict-fun-predict-token-launch-postponed.jpg",
-"hashtags": [
-"#Predictfun",
-"#PREDICT",
-"#BinanceAlpha",
-"#PredictionMarkets",
-"#Airdrops"
-]
-},
-{
-"slug": "bitcoin-hashrate-back-above-1-zettahash-difficulty",
-"url": "https://lcinsight.net/news/bitcoin-hashrate-is-back-above-1-zettahash-two-difficulty-jumps-in-13.html",
-"title": "Bitcoin hashrate is back above 1 zettahash: two difficulty jumps in 13 days",
-"dek": "Mining difficulty rose 5.92% on October 16 and another 5.54% on October 29, ending seven months below the 1 ZH/s line. A new record is about 5% away, but miners earn far less per machine than a year ago.",
-"category": "Infrastructure",
-"guide": false,
-"hot": false,
-"published": "2026-10-30T12:00:00+01:00",
-"image": "https://lcinsight.net/og/bitcoin-hashrate-back-above-1-zettahash-difficulty.jpg",
-"hashtags": [
-"#Bitcoin",
-"#Mining",
-"#Hashrate",
-"#Difficulty"
-]
-},
-{
-"slug": "binance-hack-6-3-billion",
-"url": "https://lcinsight.net/news/binance-lost-a-record-6-3-billion-who-froze-2-7-billion-of-it.html",
-"title": "Binance lost a record $6.3 billion. Who froze $2.7 billion of it?",
-"dek": "Attackers emptied Binance's hot wallets on October 29 in the biggest crypto theft on record. Stablecoin issuers froze about $2.7 billion, the FBI blames North Korea, and Binance says users will not pay.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-10-30T09:00:00+01:00",
-"image": "https://lcinsight.net/og/binance-hack-6-3-billion.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Binance",
-"#Hacks",
-"#NorthKorea"
 ]
 }
 ]
