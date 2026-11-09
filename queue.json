@@ -297,5 +297,15 @@
    "ch24": 226.49901121309952
   },
   "found": "2026-11-09T04:49:29Z"
+ },
+ {
+  "id": "trend:kinetiq:20261109",
+  "kind": "trending",
+  "hint": "Kinetiq (KNTQ) trending #3 on CoinGecko, -17.8% 24h",
+  "source": "https://www.coingecko.com/en/coins/kinetiq",
+  "data": {
+   "ch24": -17.761242740581533
+  },
+  "found": "2026-11-09T05:57:19Z"
  }
 ]
