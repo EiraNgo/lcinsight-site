@@ -317,5 +317,15 @@
    "ch24": -30.682262835132445
   },
   "found": "2026-11-09T08:38:12Z"
+ },
+ {
+  "id": "trend:dacity-coin-4:20261109",
+  "kind": "trending",
+  "hint": "Dacity Coin (DACITY) trending #1 on CoinGecko, -15.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/dacity-coin-4",
+  "data": {
+   "ch24": -15.025414272862362
+  },
+  "found": "2026-11-09T13:31:16Z"
  }
 ]
