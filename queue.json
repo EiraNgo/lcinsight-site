@@ -271,5 +271,21 @@
    "mcap_rank": 2
   },
   "found": "2026-11-08T22:08:35Z"
+ },
+ {
+  "id": "owner:nvidia-ceo-memo",
+  "kind": "owner",
+  "priority": -3,
+  "hint": "Nvidia CEO memo + market angle (tokenized NVDA 24/7, AI tokens, ETF exposure). NEWSROOM.md ASSIGNMENT Nov 9 item 1",
+  "source": "site/NEWSROOM.md",
+  "found": "2026-11-09T02:30:00Z"
+ },
+ {
+  "id": "owner:nvidia-ceo-us-open",
+  "kind": "owner",
+  "priority": -2,
+  "hint": "Follow-up after US open Mon Nov 9 9:30 a.m. ET: NVDA, SMH/QQQ, AI tokens. Do NOT handle before 21:30 VN (14:30 UTC); leave in queue until then. NEWSROOM.md ASSIGNMENT Nov 9 item 1 FOLLOW-UP",
+  "source": "site/NEWSROOM.md",
+  "found": "2026-11-09T02:30:00Z"
  }
 ]
