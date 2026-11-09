@@ -1,21 +1,5 @@
 [
  {
-  "id": "reg:https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
-  "kind": "regulator",
-  "hint": "SEC: SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
-  "source": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
-  "data": {},
-  "found": "2026-11-06T16:15:34Z"
- },
- {
-  "id": "reg:https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
-  "kind": "regulator",
-  "hint": "SEC: SEC Issues \u201cInnovation Exemption\u201d to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
-  "source": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
-  "data": {},
-  "found": "2026-11-06T16:15:34Z"
- },
- {
   "id": "trend:reboot-2:20261106",
   "kind": "trending",
   "hint": "Reboot (REBOOT) trending #1 on CoinGecko, +15.7% 24h",
@@ -340,5 +324,15 @@
    "mcap_rank": 100
   },
   "found": "2026-11-09T15:25:46Z"
+ },
+ {
+  "id": "reg:https://www.sec.gov/Archives/edgar/data/2074409/000119312526452988/0001193125-26-452988-index.htm",
+  "kind": "regulator",
+  "hint": "US SEC EDGAR 424B: 424B3 - Invesco Galaxy Solana ETF (0002074409) (Filer)",
+  "source": "https://www.sec.gov/Archives/edgar/data/2074409/000119312526452988/0001193125-26-452988-index.htm",
+  "data": {
+   "source": "US SEC EDGAR 424B"
+  },
+  "found": "2026-11-09T16:47:17Z"
  }
 ]
