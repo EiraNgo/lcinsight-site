@@ -1,5 +1,23 @@
 [
 {
+"slug": "ether-drops-4-6-percent-20-minutes-2122-november-8",
+"url": "https://lcinsight.net/news/ether-drops-4-6-percent-in-20-minutes-to-2-122-on-sunday-afternoon.html",
+"title": "Ether drops 4.6% in 20 minutes to $2,122 on Sunday afternoon, twice bitcoin's fall",
+"dek": "ETH slid from about $2,224 to $2,122 between 4:40 and 5:00 p.m. ET on November 8, 2026, per CoinGecko. Bitcoin fell 2.2% in the same window. Ether is now down about 5% on the day and 14.5% over 30 days.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-08T19:10:00-05:00",
+"image": "https://lcinsight.net/og/ether-drops-4-6-percent-20-minutes-2122-november-8.jpg",
+"hashtags": [
+"#Ethereum",
+"#ETH",
+"#Bitcoin",
+"#PriceMoves",
+"#Markets"
+]
+},
+{
 "slug": "blackrock-ibit-shrank-105m-friday-shares-flat-since-sept",
 "url": "https://lcinsight.net/news/blackrocks-ibit-shrank-105-million-on-friday-yet-its-share-count-is.html",
 "title": "BlackRock's IBIT shrank $105 million on Friday, yet its share count is flat since September",
@@ -3569,24 +3587,6 @@
 "#SmartMoney",
 "#Concrete",
 "#AUSD"
-]
-},
-{
-"slug": "pump-fun-adds-perps-and-four-chains-in-two-weeks",
-"url": "https://lcinsight.net/news/pump-fun-added-monad-and-ton-and-is-pushing-perps-so-why-is-pump-down.html",
-"title": "Pump.fun added Monad and TON and is pushing perps. So why is PUMP down 25% since October 12?",
-"dek": "The Solana memecoin app now lets users trade Monad and TON tokens from one USDC balance and is pushing leveraged perps. Its PUMP token kept sliding, and daily revenue fell about 35% in 11 days.",
-"category": "Culture",
-"guide": false,
-"hot": false,
-"published": "2026-11-01T23:30:00+01:00",
-"image": "https://lcinsight.net/og/pump-fun-adds-perps-and-four-chains-in-two-weeks.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Pumpfun",
-"#Memecoins",
-"#Solana"
 ]
 }
 ]
