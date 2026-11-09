@@ -287,5 +287,15 @@
   "hint": "Follow-up after US open Mon Nov 9 9:30 a.m. ET: NVDA, SMH/QQQ, AI tokens. Do NOT handle before 21:30 VN (14:30 UTC); leave in queue until then. NEWSROOM.md ASSIGNMENT Nov 9 item 1 FOLLOW-UP",
   "source": "site/NEWSROOM.md",
   "found": "2026-11-09T02:30:00Z"
+ },
+ {
+  "id": "trend:janction:20261109",
+  "kind": "trending",
+  "hint": "Janction (JCT) trending #1 on CoinGecko, +226.5% 24h",
+  "source": "https://www.coingecko.com/en/coins/janction",
+  "data": {
+   "ch24": 226.49901121309952
+  },
+  "found": "2026-11-09T04:49:29Z"
  }
 ]
