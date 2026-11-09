@@ -1,5 +1,184 @@
 [
 {
+"slug": "stonk-fell-32-percent-day-57-percent-two-days-dex-pools",
+"url": "https://lcinsight.net/news/solana-launchpad-token-stonk-fell-32-percent-in-a-day-and-lost-45.html",
+"title": "Solana launchpad token STONK fell 32% in a day and lost $45 million in under two days",
+"dek": "StonkFun's STONK token dropped from about $0.10 to $0.044 between Saturday and Sunday evening, now 88% below its September record. Most of the trading ran through Solana DEX pools, CoinGecko's market list shows, and one Meteora pool handled nearly half of all trading.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-09T01:21:00-05:00",
+"image": "https://lcinsight.net/og/stonk-fell-32-percent-day-57-percent-two-days-dex-pools.jpg",
+"hashtags": [
+"#STONK",
+"#Solana",
+"#Memecoins",
+"#PriceMoves",
+"#Trending"
+]
+},
+{
+"slug": "rumor-vs-record-xrp-whales-bought-slide-to-1-10",
+"url": "https://lcinsight.net/news/rumor-vs-record-did-whales-really-load-up-on-xrp-as-it-slid-to-1-10.html",
+"title": "Rumor vs record: did whales really load up on XRP as it slid to $1.10?",
+"dek": "XRP fell 5.4% in a day and hit its lowest price since August. Posts say whales are buying the dip. We checked six viral claims. The price claims mostly hold up; the whale claims cannot be confirmed yet.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-09T01:20:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-xrp-whales-bought-slide-to-1-10.jpg",
+"hashtags": [
+"#RumorCheck",
+"#XRP",
+"#Whales",
+"#OnChainData"
+]
+},
+{
+"slug": "blackrock-ether-etf-etha-lost-fifth-of-shares-since-sept",
+"url": "https://lcinsight.net/news/blackrocks-ether-etf-lost-19-percent-of-its-shares-since-september-its.html",
+"title": "BlackRock's ether ETF lost 19% of its shares since September. Its bitcoin ETF held steady",
+"dek": "ETHA, BlackRock's spot ether fund, held about 131.8 million shares on November 6, down from 162.4 million on September 30. That is roughly 693,000 ETH handed back, by our calculation, while the firm's bitcoin fund kept its share count flat.",
+"category": "ETFs",
+"guide": false,
+"hot": false,
+"published": "2026-11-09T01:10:00-05:00",
+"image": "https://lcinsight.net/og/blackrock-ether-etf-etha-lost-fifth-of-shares-since-sept.jpg",
+"hashtags": [
+"#ETF",
+"#Ether",
+"#BlackRock",
+"#Ethereum",
+"#FundFlows"
+]
+},
+{
+"slug": "ether-price-in-bitcoin-lowest-since-july-0-0286",
+"url": "https://lcinsight.net/news/one-ether-now-buys-0-0286-bitcoin-the-least-since-mid-july.html",
+"title": "One ether now buys 0.0286 bitcoin, the least since mid-July",
+"dek": "Ether lost 2.7% against bitcoin in a day after Sunday's sell-off. CoinGecko's daily data shows no lower close since July 14.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-09T01:03:00-05:00",
+"image": "https://lcinsight.net/og/ether-price-in-bitcoin-lowest-since-july-0-0286.jpg",
+"hashtags": [
+"#Ether",
+"#Bitcoin",
+"#Ethereum",
+"#PriceMoves",
+"#Data"
+]
+},
+{
+"slug": "hyperliquid-crypto-bets-shrank-640m-eth-funding-negative",
+"url": "https://lcinsight.net/news/hyperliquids-crypto-bets-shrank-640-million-since-friday-and-ether.html",
+"title": "Hyperliquid's crypto bets shrank $640 million since Friday, and ether shorts now pay",
+"dek": "CoinGecko's per-market data puts Hyperliquid's open bets at $14.0 billion after Sunday's ether drop. Its $1.93 billion ether market now has negative funding, while bitcoin's does not.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-09T01:02:00-05:00",
+"image": "https://lcinsight.net/og/hyperliquid-crypto-bets-shrank-640m-eth-funding-negative.jpg",
+"hashtags": [
+"#Hyperliquid",
+"#PerpDEX",
+"#Ether",
+"#Funding",
+"#TradeXYZ"
+]
+},
+{
+"slug": "stablecoins-shrank-1-5b-since-nov-6-usds-down-921m",
+"url": "https://lcinsight.net/news/big-stablecoins-shrank-another-1-5-billion-since-friday-skys-usds-lost.html",
+"title": "Big stablecoins shrank another $1.5 billion since Friday. Sky's USDS lost $921 million",
+"dek": "Eleven of the largest dollar tokens lost $1.54 billion in market value in three days, CoinGecko data shows. Ethena's USDe went the other way, up $412 million.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-09T01:01:00-05:00",
+"image": "https://lcinsight.net/og/stablecoins-shrank-1-5b-since-nov-6-usds-down-921m.jpg",
+"hashtags": [
+"#Stablecoins",
+"#USDS",
+"#USDe",
+"#USDT",
+"#Sky"
+]
+},
+{
+"slug": "ether-perps-77-percent-negative-funding-after-sunday-drop",
+"url": "https://lcinsight.net/news/shorts-now-pay-longs-on-77-percent-of-ethers-open-futures-bets-on.html",
+"title": "Shorts now pay longs on 77% of ether's open futures bets. On Friday it was 21.5%",
+"dek": "After Sunday's 4.6% drop, funding turned negative on Binance's biggest ether market. Bitcoin barely moved: 1.4% of its bets lean short.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-09T01:00:00-05:00",
+"image": "https://lcinsight.net/og/ether-perps-77-percent-negative-funding-after-sunday-drop.jpg",
+"hashtags": [
+"#Ether",
+"#Funding",
+"#PerpetualFutures",
+"#Derivatives",
+"#Solana"
+]
+},
+{
+"slug": "monad-wsteth-2-46m-shark-buy-pool-116-liquidity",
+"url": "https://lcinsight.net/news/a-shark-bought-2-46-million-of-staked-ether-on-monad-deepsea-sees-116.html",
+"title": "A shark bought $2.46 million of staked ether on Monad. DeepSea sees $116 of liquidity",
+"dek": "The largest single shark buy of the last day came in three trades on ether's down day. The token's pools on Monad that DeepSea tracks hold only $116, so the buy did not run through them.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-09T00:52:00-05:00",
+"image": "https://lcinsight.net/og/monad-wsteth-2-46m-shark-buy-pool-116-liquidity.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Ethereum",
+"#Staking"
+]
+},
+{
+"slug": "smart-money-smc060-back-to-no-2-top-10-129m",
+"url": "https://lcinsight.net/news/a-smart-money-trader-fell-from-no-1-to-no-6-two-days-later-it-is-no-2.html",
+"title": "A smart money trader fell from No. 1 to No. 6. Two days later it is No. 2 with $23 million",
+"dek": "SMc060's 7-day profit on DeepSea went from $59.67 million to $9.49 million and back up to $23.24 million. The top 10 now show $129.55 million, all on Hyperliquid.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-09T00:51:00-05:00",
+"image": "https://lcinsight.net/og/smart-money-smc060-back-to-no-2-top-10-129m.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#SmartMoney",
+"#Hyperliquid",
+"#PerpetualFutures"
+]
+},
+{
+"slug": "sharks-sold-12-85m-bought-7-98m-as-ether-fell-4-7",
+"url": "https://lcinsight.net/news/sharks-sold-12-85-million-of-tokens-and-bought-7-98-million-as-ether.html",
+"title": "Sharks sold $12.85 million of tokens and bought $7.98 million as ether fell 4.7%",
+"dek": "DeepSea's live feed shows big wallets were net sellers on ether's down day. A dollar token on Optimism took most of the selling, and one Monad wallet bought $2.46 million of staked ether.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-09T00:50:00-05:00",
+"image": "https://lcinsight.net/og/sharks-sold-12-85m-bought-7-98m-as-ether-fell-4-7.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Ethereum",
+"#Optimism"
+]
+},
+{
 "slug": "nvidia-ceo-memo-tokenized-nvda-falls-weekend",
 "url": "https://lcinsight.net/news/nvidias-ceo-told-staff-he-was-unfaithful-tokenized-nvidia-stock-fell-4.html",
 "title": "Nvidia's CEO told staff he was unfaithful. Tokenized Nvidia stock fell 4.7% before Wall Street opened",
@@ -3408,185 +3587,6 @@
 "#Stablecoins",
 "#CASPs",
 "#ESMA"
-]
-},
-{
-"slug": "what-is-ethena-usde",
-"url": "https://lcinsight.net/news/what-is-ethena-usde-how-the-hedged-synthetic-dollar-works-and-what-can.html",
-"title": "What is Ethena USDe? How the hedged synthetic dollar works and what can break it",
-"dek": "USDe is Ethena's synthetic dollar. It is backed by crypto and stablecoins, with the crypto's price risk canceled out by short futures, and its staked version, sUSDe, earns from that trade until funding rates turn against it.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T02:30:00-05:00",
-"image": "https://lcinsight.net/og/what-is-ethena-usde.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Ethena",
-"#USDe",
-"#Stablecoins"
-]
-},
-{
-"slug": "base-cobalt-live-denim-200ms-blocks-5-november",
-"url": "https://lcinsight.net/news/bases-next-upgrade-makes-blocks-10-times-faster-the-code-says-november.html",
-"title": "Base's next upgrade makes blocks 10 times faster. The code says November 5",
-"dek": "Coinbase's layer 2 switched on its Cobalt upgrade on September 30. Next is Denim, which cuts block times from 2 seconds to 200 milliseconds and could break contracts that count time in blocks. Base's code sets November 5, 1:00 p.m. ET, though Base still calls November only a target.",
-"category": "Infrastructure",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T08:00:00+01:00",
-"image": "https://lcinsight.net/og/base-cobalt-live-denim-200ms-blocks-5-november.jpg",
-"hashtags": [
-"#Base",
-"#Layer2",
-"#Coinbase",
-"#HardForks",
-"#B20"
-]
-},
-{
-"slug": "brazil-central-bank-crypto-license-deadline",
-"url": "https://lcinsight.net/news/brazils-crypto-license-deadline-has-passed-from-november-6-banks-must.html",
-"title": "Brazil's crypto license deadline has passed. From November 6, banks must drop unlicensed firms",
-"dek": "Crypto firms already operating in Brazil had until October 30, 2026, to file for central bank authorization. From November 6, banks and payment firms may no longer deal with unauthorized providers, and late filers get 30 days at most.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T08:00:00+01:00",
-"image": "https://lcinsight.net/og/brazil-central-bank-crypto-license-deadline.jpg",
-"hashtags": [
-"#Brazil",
-"#BancoCentralDoBrasil",
-"#Licensing",
-"#LatinAmerica"
-]
-},
-{
-"slug": "deepsea-whales-sold-uni-pepe-rlusd-bought-link-arb",
-"url": "https://lcinsight.net/news/whales-sold-22-8-million-of-uni-while-it-rose-7-percent-and-bought.html",
-"title": "Whales sold $22.8 million of UNI while it rose 7%, and bought LINK and ARB",
-"dek": "Big wallets used the late October bounce to sell, not buy. DeepSea's 7-day data shows whales net selling RLUSD, UNI and PEPE and making only small purchases of LINK and ARB, as bitcoin closed below $78,000 on October 29.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T08:00:00+01:00",
-"image": "https://lcinsight.net/og/deepsea-whales-sold-uni-pepe-rlusd-bought-link-arb.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Whales",
-"#Uniswap",
-"#Pepe"
-]
-},
-{
-"slug": "hyperliquid-traders-flip-4-2x-long-to-net-short",
-"url": "https://lcinsight.net/news/hyperliquids-big-traders-flipped-from-4-2x-long-to-net-short-then.html",
-"title": "Hyperliquid's big traders flipped from 4.2x long to net short, then swung back to 86% long",
-"dek": "In mid-October, traders tracked by DeepSea dumped their bullish bets and piled into ETH and BTC shorts worth more than $200 million apiece. Two weeks later they were leaning long again, even as prices kept sliding.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T08:00:00+01:00",
-"image": "https://lcinsight.net/og/hyperliquid-traders-flip-4-2x-long-to-net-short.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Hyperliquid",
-"#PerpetualFutures",
-"#Bitcoin"
-]
-},
-{
-"slug": "october-2026-hacks-beyond-binance-19-incidents",
-"url": "https://lcinsight.net/news/beyond-binance-19-more-crypto-hacks-in-octobers-last-11-days-about-24.html",
-"title": "Beyond Binance: 19 more crypto hacks in October's last 11 days, about $24.6 million lost",
-"dek": "Binance's $6.3 billion breach dominated October, but SlowMist logged 19 other attacks from October 21 to 31, close to two a day. They range from a $7.45 million multisig mistake to supply chain and DNS attacks.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T08:00:00+01:00",
-"image": "https://lcinsight.net/og/october-2026-hacks-beyond-binance-19-incidents.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Hacks",
-"#SlowMist",
-"#Bitquery"
-]
-},
-{
-"slug": "what-is-uniswap",
-"url": "https://lcinsight.net/news/what-is-uniswap-how-the-5-75b-dex-works-from-amm-pools-to-v4-hooks.html",
-"title": "What is Uniswap? How the $5.75B DEX works, from AMM pools to v4 hooks",
-"dek": "Uniswap is a decentralized exchange where people swap tokens against pools of liquidity instead of an order book. DefiLlama counted about $5.75 billion locked in it on November 2, 2026, and its newest version, v4, lets developers attach custom code called hooks to each pool.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T02:00:00-05:00",
-"image": "https://lcinsight.net/og/what-is-uniswap.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Uniswap",
-"#UNI",
-"#DeFi"
-]
-},
-{
-"slug": "deepsea-weekly-12-18-october-hyperliquid-flip-2-2b",
-"url": "https://lcinsight.net/news/asian-exchanges-lost-2-2-billion-in-one-week-and-2-12-billion-of-it.html",
-"title": "Asian exchanges lost $2.2 billion in one week, and $2.12 billion of it left Binance",
-"dek": "DeepSea's report for October 12 to 18 shows stablecoins, mostly USDT on Tron, pouring out of Binance while bitcoin flowed in. The same week, hack-linked funds flooded exchange deposit addresses and a few big Hyperliquid traders turned short.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T07:30:00+01:00",
-"image": "https://lcinsight.net/og/deepsea-weekly-12-18-october-hyperliquid-flip-2-2b.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#WeeklyReport",
-"#Hyperliquid",
-"#Binance"
-]
-},
-{
-"slug": "genius-act-explained",
-"url": "https://lcinsight.net/news/genius-act-explained-what-the-us-stablecoin-law-requires-and-who.html",
-"title": "GENIUS Act explained: what the US stablecoin law requires and who enforces it",
-"dek": "The GENIUS Act is the US federal law for payment stablecoins. It requires full reserves, quick redemption and no interest for simply holding a token, and it takes effect on January 18, 2027, under the OCC's final rule.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T01:30:00-05:00",
-"image": "https://lcinsight.net/og/genius-act-explained.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#GENIUSAct",
-"#Stablecoins",
-"#OCC"
-]
-},
-{
-"slug": "what-is-aave",
-"url": "https://lcinsight.net/news/what-is-aave-how-the-10-9b-defi-lending-protocol-works-and-what-can-go.html",
-"title": "What is Aave? How the $10.9B DeFi lending protocol works and what can go wrong",
-"dek": "Aave is a set of smart contracts where people supply crypto to earn interest and borrow against collateral, with no bank in the middle. As of November 2, 2026, DefiLlama counted about $10.9 billion locked in it, most of it on Ethereum.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T01:30:00-05:00",
-"image": "https://lcinsight.net/og/what-is-aave.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Aave",
-"#AaveV4",
-"#DeFi"
 ]
 }
 ]
