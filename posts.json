@@ -1,5 +1,23 @@
 [
 {
+"slug": "nvidia-ceo-memo-tokenized-nvda-falls-weekend",
+"url": "https://lcinsight.net/news/nvidias-ceo-told-staff-he-was-unfaithful-tokenized-nvidia-stock-fell-4.html",
+"title": "Nvidia's CEO told staff he was unfaithful. Tokenized Nvidia stock fell 4.7% before Wall Street opened",
+"dek": "Nvidia posted a memo from Jensen Huang on Sunday, November 8, and its board opened an independent investigation. Wall Street was closed, but on-chain Nvidia tokens trade around the clock, and they fell from about $188 to $179 that evening.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-08T21:45:00-05:00",
+"image": "https://lcinsight.net/og/nvidia-ceo-memo-tokenized-nvda-falls-weekend.jpg",
+"hashtags": [
+"#Nvidia",
+"#TokenizedStocks",
+"#NVDAx",
+"#AITokens",
+"#ETFs"
+]
+},
+{
 "slug": "ether-drops-4-6-percent-20-minutes-2122-november-8",
 "url": "https://lcinsight.net/news/ether-drops-4-6-percent-in-20-minutes-to-2-122-on-sunday-afternoon.html",
 "title": "Ether drops 4.6% in 20 minutes to $2,122 on Sunday afternoon, twice bitcoin's fall",
@@ -3569,24 +3587,6 @@
 "#Aave",
 "#AaveV4",
 "#DeFi"
-]
-},
-{
-"slug": "deepsea-smart-money-week-concrete-bought-ausd-sold",
-"url": "https://lcinsight.net/news/smart-money-net-bought-1-09-million-of-concrete-as-it-slid-17-percent.html",
-"title": "Smart money net bought $1.09 million of Concrete as it slid 17%. Its top sale: AUSD",
-"dek": "DeepSea's seven-day flow data to November 2 shows tracked smart money wallets building a position in Concrete (CT) while its price fell, and pulling $3.77 million out of the AUSD stablecoin. Selling signals outnumbered buying ones.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T07:00:00+01:00",
-"image": "https://lcinsight.net/og/deepsea-smart-money-week-concrete-bought-ausd-sold.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#SmartMoney",
-"#Concrete",
-"#AUSD"
 ]
 }
 ]
