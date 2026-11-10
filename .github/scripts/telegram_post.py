@@ -110,9 +110,11 @@ def step():
     if not (7 * 60 <= mins <= 23 * 60 + 30): print('quiet hours (VN)', vn.strftime('%H:%M')); return
     if time.time() - st.get('last', 0) < GAP_MIN * 60: print('too soon since last post'); return 'soon'
     cutoff = datetime.now(timezone.utc) - timedelta(hours=36)
+    NEW_ART = datetime(2026, 11, 10, 5, 0, tzinfo=timezone.utc)
     done = set(st['posted'])
     queue = [p for p in now if p['slug'] not in done and not p.get('guide') and is_hot(p)
-             and datetime.fromisoformat(p['published']) >= cutoff]
+             and datetime.fromisoformat(p['published']) >= cutoff
+             and datetime.fromisoformat(p['published']) >= NEW_ART]   # owner, Nov 10: only stories with the new 3D scene art
     if not queue: print('queue empty'); return 'empty'
     queue.sort(key=lambda p: (bool(p.get('hot')), p['published']), reverse=True)
     p = queue[0]
