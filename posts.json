@@ -1,5 +1,167 @@
 [
 {
+"slug": "rumor-vs-record-binance-80-percent-musk-post",
+"url": "https://lcinsight.net/news/rumor-vs-record-a-viral-post-credited-to-musk-said-binance-holds-80.html",
+"title": "Rumor vs record: a viral post credited to Musk said Binance holds 80% of crypto. It does not",
+"dek": "A viral post credited to Elon Musk said Binance holds about 80% of the crypto market and urged users to leave. We checked each line against CoinGecko's exchange data and DeepSea's wallet tracker. The 80% figure does not hold up.",
+"category": "Exchanges",
+"guide": false,
+"hot": true,
+"published": "2026-11-10T00:58:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-binance-80-percent-musk-post.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#RumorCheck",
+"#Binance",
+"#ElonMusk"
+]
+},
+{
+"slug": "zcash-futures-bets-shrink-40-percent-in-two-days",
+"url": "https://lcinsight.net/news/zcash-fell-9-percent-in-two-days-open-bets-on-its-six-biggest-futures.html",
+"title": "Zcash fell 9% in two days. Open bets on its six biggest futures markets fell 40%",
+"dek": "ZEC slid from $1,279 to about $1,160 since November 8. Over the same stretch, open interest on Hyperliquid, OrangeX, CoinW, Gate, OKX and Bybit dropped from $2.51 billion to $1.50 billion, CoinGecko data show.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-10T00:57:00-05:00",
+"image": "https://lcinsight.net/og/zcash-futures-bets-shrink-40-percent-in-two-days.jpg",
+"hashtags": [
+"#Zcash",
+"#Hyperliquid",
+"#PerpetualFutures",
+"#OpenInterest",
+"#Data"
+]
+},
+{
+"slug": "initia-init-jumps-70-percent-volume-double-market-cap",
+"url": "https://lcinsight.net/news/initias-init-jumped-about-70-percent-in-a-day-and-traders-swapped.html",
+"title": "Initia's INIT jumped about 70% in a day, and traders swapped twice its market value",
+"dek": "INIT climbed from about $0.12 to $0.22 in 24 hours, with $98 million to $102 million of trading against a market value under $50 million. Binance carried 43% of it, and a Turkish lira pair led every market.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-10T00:56:00-05:00",
+"image": "https://lcinsight.net/og/initia-init-jumps-70-percent-volume-double-market-cap.jpg",
+"hashtags": [
+"#Initia",
+"#Altcoins",
+"#Binance",
+"#TradingVolume",
+"#Data"
+]
+},
+{
+"slug": "cbbtc-gained-2921-btc-in-30-days-lombard-lbtc-lost-39-percent",
+"url": "https://lcinsight.net/news/coinbases-cbbtc-gained-2-921-bitcoin-in-30-days-lombards-lbtc-lost-39.html",
+"title": "Coinbase's cbBTC gained 2,921 bitcoin in 30 days. Lombard's LBTC lost 39% of its supply",
+"dek": "Bitcoin is leaving most wrapped tokens on other chains, CoinGecko supply data shows. Coinbase's version was the exception, until it gave back 891 BTC in a day.",
+"category": "DeFi",
+"guide": false,
+"hot": false,
+"published": "2026-11-10T00:55:00-05:00",
+"image": "https://lcinsight.net/og/cbbtc-gained-2921-btc-in-30-days-lombard-lbtc-lost-39-percent.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Coinbase",
+"#CbBTC",
+"#LBTC",
+"#OnChainData"
+]
+},
+{
+"slug": "hyperliquid-oil-bets-fell-7-percent-chip-bets-up-21-crypto-420m",
+"url": "https://lcinsight.net/news/hyperliquids-oil-market-fell-7-percent-and-a-chip-stock-market-rose-21.html",
+"title": "Hyperliquid's oil market fell 7% and a chip-stock market rose 21%. Crypto bets shrank $420M",
+"dek": "Hyperliquid's crypto markets held $9.18 billion of open bets, down from $9.60 billion a day earlier. Its stock and commodity markets now hold a third of the total.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-10T00:54:00-05:00",
+"image": "https://lcinsight.net/og/hyperliquid-oil-bets-fell-7-percent-chip-bets-up-21-crypto-420m.jpg",
+"hashtags": [
+"#Hyperliquid",
+"#PerpetualFutures",
+"#Oil",
+"#TokenizedStocks",
+"#Funding"
+]
+},
+{
+"slug": "usd1-shrank-22-percent-in-30-days-usdc-lost-205m-monday",
+"url": "https://lcinsight.net/news/world-libertys-usd1-shrank-22-percent-in-30-days-and-usdc-lost-another.html",
+"title": "World Liberty's USD1 shrank 22% in 30 days, and USDC lost another $205 million on Monday",
+"dek": "USD1 fell from $4.26 billion to $3.32 billion in a month, CoinGecko data shows. USDC kept leaking too, while USDT held flat for a second day.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-10T00:53:00-05:00",
+"image": "https://lcinsight.net/og/usd1-shrank-22-percent-in-30-days-usdc-lost-205m-monday.jpg",
+"hashtags": [
+"#Stablecoins",
+"#USD1",
+"#USDC",
+"#USDT",
+"#Data"
+]
+},
+{
+"slug": "shark-hold91cc-28847-trades-162k-loss-gold-doubled",
+"url": "https://lcinsight.net/news/a-93-million-shark-made-28-847-trades-in-30-days-lost-162-000-and.html",
+"title": "A $93 million shark made 28,847 trades in 30 days, lost $162,000 and doubled its gold",
+"dek": "Two days ago Hold91cc was up $26,100 on 12,787 trades. Now it has more than twice the trades, a loss, $18.77 million in Tether Gold and a $173,000 AAVE sale.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-10T00:52:00-05:00",
+"image": "https://lcinsight.net/og/shark-hold91cc-28847-trades-162k-loss-gold-doubled.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Whales",
+"#Ethereum",
+"#Aave"
+]
+},
+{
+"slug": "smart-money-sm2b00-13b-volume-22m-profit-15-shorts",
+"url": "https://lcinsight.net/news/smart-money-sm2b00-made-22-million-on-13-29-billion-of-trades-now-it.html",
+"title": "Smart money SM2b00 made $22 million on $13.29 billion of trades. Now it holds 15 shorts",
+"dek": "SM2b00 is No. 4 on DeepSea's 7-day board at +$10.26 million. Its biggest bets are against ETH, SOL and HYPE, and CoinGecko prices show most of them in profit.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-10T00:51:00-05:00",
+"image": "https://lcinsight.net/og/smart-money-sm2b00-13b-volume-22m-profit-15-shorts.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#SmartMoney",
+"#Hyperliquid",
+"#PerpetualFutures"
+]
+},
+{
+"slug": "kol-panceramic-sold-351k-silver-bets-now-all-cash",
+"url": "https://lcinsight.net/news/influencer-panceramic-sold-351-000-of-silver-bets-in-20-orders-and.html",
+"title": "Influencer panceramic sold $351,000 of silver bets in 20 orders and went all cash",
+"dek": "DeepSea shows 20 silver sell orders on Hyperliquid, then a wallet of $353,200 in USDC and no open bets. Ninety percent of the influencer's 30-day profit came this week.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-10T00:50:00-05:00",
+"image": "https://lcinsight.net/og/kol-panceramic-sold-351k-silver-bets-now-all-cash.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#KOLs",
+"#Hyperliquid",
+"#TradeXYZ"
+]
+},
+{
 "slug": "hong-kong-sfc-bans-crypto-exchange-names-unlicensed",
 "url": "https://lcinsight.net/news/hong-kong-moves-to-ban-crypto-exchange-in-the-names-of-unlicensed.html",
 "title": "Hong Kong moves to ban \"crypto exchange\" in the names of unlicensed firms",
@@ -3424,167 +3586,6 @@
 "#Airdrops",
 "#PointsPrograms",
 "#Exchanges",
-"#DeFi"
-]
-},
-{
-"slug": "bitcoin-halving-explained",
-"url": "https://lcinsight.net/news/bitcoin-halving-explained-what-it-is-when-the-next-one-is-and-why-it.html",
-"title": "Bitcoin halving explained: what it is, when the next one is and why it matters",
-"dek": "The bitcoin halving is a rule in bitcoin's code that cuts the reward for mining a new block in half every 210,000 blocks, about every four years. The last one happened on April 20, 2024, at block 840,000. The next is due at block 1,050,000, expected around spring 2028.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T04:10:00-05:00",
-"image": "https://lcinsight.net/og/bitcoin-halving-explained.jpg",
-"hashtags": [
-"#Bitcoin",
-"#Mining",
-"#OnChainData",
-"#Data"
-]
-},
-{
-"slug": "how-crypto-exchange-hacks-happen",
-"url": "https://lcinsight.net/news/how-crypto-exchange-hacks-happen-the-weak-spot-is-rarely-the-key.html",
-"title": "How crypto exchange hacks happen: the weak spot is rarely the key itself",
-"dek": "Most exchange hacks start in hot wallets, the online wallets that pay out withdrawals. Attackers rarely break the cryptography. They get into the systems and people that approve transactions, then rush to swap stablecoins before issuers can freeze them.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T04:10:00-05:00",
-"image": "https://lcinsight.net/og/how-crypto-exchange-hacks-happen.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Hacks",
-"#Exchanges",
-"#HotWallets"
-]
-},
-{
-"slug": "binance-took-in-18435-bitcoin-two-weeks-kraken-outflow",
-"url": "https://lcinsight.net/news/binance-took-in-18-435-btc-in-two-weeks-while-6-81-billion-in.html",
-"title": "Binance took in 18,435 BTC in two weeks while $6.81 billion in stablecoins walked out",
-"dek": "DeepSea's data shows about $1.5 billion in bitcoin flowing into Binance in early October, just as billions in USDT left. Kraken saw the opposite, and the price fell anyway.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T10:00:00+01:00",
-"image": "https://lcinsight.net/og/binance-took-in-18435-bitcoin-two-weeks-kraken-outflow.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Bitcoin",
-"#Binance",
-"#Kraken"
-]
-},
-{
-"slug": "doppler-finance-xdp-trending-deepsea-volume-down",
-"url": "https://lcinsight.net/news/dopplers-xdp-is-trending-again-with-daily-volume-95-percent-below.html",
-"title": "Doppler's XDP is trending again, with daily volume 95% below launch week. What is it?",
-"dek": "Doppler Finance's XDP token sat fourth on DeepSea's 24-hour trending list late on November 1 (ET), a month after launch. CoinGecko shows it hit a record low on October 30, and DeepSea finds the top 10 wallets hold 95% of supply.",
-"category": "Projects",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T10:00:00+01:00",
-"image": "https://lcinsight.net/og/doppler-finance-xdp-trending-deepsea-volume-down.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#DopplerFinance",
-"#XDP",
-"#XRP"
-]
-},
-{
-"slug": "vietnam-crypto-law-explained",
-"url": "https://lcinsight.net/news/vietnam-crypto-law-explained-5-licenses-vnd-200m-fines-and-a-6-month.html",
-"title": "Vietnam crypto law explained: 5 licenses, VND 200M fines and a 6-month clock",
-"dek": "Crypto is legally defined in Vietnam, and a five-year pilot lets up to five licensed local firms run crypto markets. As of the latest official update on October 6, 2026, no provider had been licensed, so the six-month countdown for investors using unlicensed platforms has not started.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T04:00:00-05:00",
-"image": "https://lcinsight.net/og/vietnam-crypto-law-explained.jpg",
-"hashtags": [
-"#Vietnam",
-"#MinistryOfFinance",
-"#Decree284",
-"#Licensing",
-"#Exchanges"
-]
-},
-{
-"slug": "what-is-restaking-eigenlayer-explained",
-"url": "https://lcinsight.net/news/what-is-restaking-eigenlayer-explained-from-extra-rewards-to-slashing.html",
-"title": "What is restaking? EigenLayer explained, from extra rewards to slashing risk",
-"dek": "Restaking lets stakers put the same stake to work securing extra services for extra rewards. EigenLayer is the main protocol for it: stakers deposit assets, operators run the services, and those services can slash stake when rules are broken.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T04:00:00-05:00",
-"image": "https://lcinsight.net/og/what-is-restaking-eigenlayer-explained.jpg",
-"hashtags": [
-"#EigenLayer",
-"#Restaking",
-"#Ethereum",
-"#Staking",
-"#DeFi"
-]
-},
-{
-"slug": "how-crypto-liquidations-work",
-"url": "https://lcinsight.net/news/how-crypto-liquidations-work-why-a-10-percent-move-can-wipe-out-a-10x.html",
-"title": "How crypto liquidations work: why a 10% move can wipe out a 10x trade",
-"dek": "A liquidation is when an exchange force-closes a leveraged trade because losses have eaten through the trader's collateral. It protects the exchange and other traders from debts the trader cannot pay.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T03:50:00-05:00",
-"image": "https://lcinsight.net/og/how-crypto-liquidations-work.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#PerpetualFutures",
-"#Perpetuals",
-"#Bitcoin"
-]
-},
-{
-"slug": "ai-agents-in-crypto-explained",
-"url": "https://lcinsight.net/news/ai-agents-in-crypto-explained-how-bots-get-wallets-and-pay-and-what.html",
-"title": "AI agents in crypto explained: how bots get wallets and pay, and what can go wrong",
-"dek": "An AI agent is software that takes actions on its own, not just answers questions. In crypto, agents hold wallets and pay for things in stablecoins, often through the x402 protocol, with spending limits their owners may or may not switch on.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T03:40:00-05:00",
-"image": "https://lcinsight.net/og/ai-agents-in-crypto-explained.jpg",
-"hashtags": [
-"#AIAgents",
-"#X402",
-"#Payments",
-"#Stablecoins",
-"#Wallets"
-]
-},
-{
-"slug": "what-are-points-programs-in-crypto",
-"url": "https://lcinsight.net/news/what-are-points-programs-in-crypto-how-they-work-and-why-points-are.html",
-"title": "What are points programs in crypto? How they work and why points are not tokens",
-"dek": "A points program scores what users do on a crypto product, such as deposits, trades or referrals, and usually hints that points will later become tokens. Points are not tokens: the project decides if, when and how they convert.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T03:40:00-05:00",
-"image": "https://lcinsight.net/og/what-are-points-programs-in-crypto.jpg",
-"hashtags": [
-"#PointsPrograms",
-"#Airdrops",
-"#Hyperliquid",
-"#TokenSales",
 "#DeFi"
 ]
 }
