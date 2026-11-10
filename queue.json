@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:dacity-coin-4:20261107",
-  "kind": "trending",
-  "hint": "Dacity Coin (DACITY) trending #1 on CoinGecko, +133.4% 24h",
-  "source": "https://www.coingecko.com/en/coins/dacity-coin-4",
-  "data": {
-   "ch24": 133.40211793835846
-  },
-  "found": "2026-11-07T09:27:26Z"
- },
- {
   "id": "trend:reboot-2:20261107",
   "kind": "trending",
   "hint": "Reboot (REBOOT) trending #1 on CoinGecko, +16.5% 24h",
@@ -306,5 +296,15 @@
    "ch24": -28.02104015975952
   },
   "found": "2026-11-10T08:36:06Z"
+ },
+ {
+  "id": "trend:super-inu-3:20261110",
+  "kind": "trending",
+  "hint": "Super Inu (SI) trending #2 on CoinGecko, +168.3% 24h",
+  "source": "https://www.coingecko.com/en/coins/super-inu-3",
+  "data": {
+   "ch24": 168.28351394146534
+  },
+  "found": "2026-11-10T09:55:38Z"
  }
 ]
