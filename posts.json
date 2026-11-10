@@ -1,5 +1,23 @@
 [
 {
+"slug": "super-inu-si-up-164-percent-after-97-percent-crash-november-10",
+"url": "https://lcinsight.net/news/super-inu-si-jumps-164-percent-in-a-day-a-week-after-a-97-percent.html",
+"title": "Super Inu (SI) jumps 164% in a day, a week after a 97% crash",
+"dek": "The Ethereum meme coin traded near $0.016 early Tuesday, about 23 times its November 5 low, yet still 45% below its October 31 record. Almost all trading runs through one Uniswap pool.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-10T05:15:00-05:00",
+"image": "https://lcinsight.net/og/super-inu-si-up-164-percent-after-97-percent-crash-november-10.jpg",
+"hashtags": [
+"#SuperInu",
+"#SI",
+"#Memecoins",
+"#PriceMoves",
+"#Trending"
+]
+},
+{
 "slug": "janction-jct-down-65-percent-from-record-november-10",
 "url": "https://lcinsight.net/news/janction-jct-gives-back-most-of-its-rally-down-65-percent-from-sundays.html",
 "title": "Janction (JCT) gives back most of its rally: down 65% from Sunday's record",
@@ -3570,23 +3588,6 @@
 "#HardForks",
 "#Glamsterdam",
 "#Layer2"
-]
-},
-{
-"slug": "tokenized-treasuries-explained",
-"url": "https://lcinsight.net/news/tokenized-treasuries-explained-buidl-usdy-and-the-14-2b-t-bill-market.html",
-"title": "Tokenized Treasuries explained: BUIDL, USDY and the $14.2B T-bill market",
-"dek": "Tokenized Treasuries are blockchain tokens that stand for shares in funds holding US government debt, and unlike most stablecoins they pay interest. As of November 2, 2026, rwa.xyz counted $14.21 billion across 119 products, led by Ondo's USDY, Circle's USYC and BlackRock's BUIDL.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T04:15:00-05:00",
-"image": "https://lcinsight.net/og/tokenized-treasuries-explained.jpg",
-"hashtags": [
-"#TokenizedTreasuries",
-"#Tokenization",
-"#OnChainData",
-"#Stablecoins"
 ]
 }
 ]
