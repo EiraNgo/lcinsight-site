@@ -296,5 +296,15 @@
    "mcap_rank": 98
   },
   "found": "2026-11-10T07:05:17Z"
+ },
+ {
+  "id": "trend:janction:20261110",
+  "kind": "trending",
+  "hint": "Janction (JCT) trending #3 on CoinGecko, -28.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/janction",
+  "data": {
+   "ch24": -28.02104015975952
+  },
+  "found": "2026-11-10T08:36:06Z"
  }
 ]
