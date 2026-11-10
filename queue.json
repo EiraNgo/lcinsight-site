@@ -1,79 +1,5 @@
 [
  {
-  "id": "trend:reboot-2:20261106",
-  "kind": "trending",
-  "hint": "Reboot (REBOOT) trending #1 on CoinGecko, +15.7% 24h",
-  "source": "https://www.coingecko.com/en/coins/reboot-2",
-  "data": {
-   "ch24": 15.653502611407314
-  },
-  "found": "2026-11-06T16:55:40Z"
- },
- {
-  "id": "trend:denim:20261106",
-  "kind": "trending",
-  "hint": "DENIM (DENIM) trending #3 on CoinGecko, +51.2% 24h",
-  "source": "https://www.coingecko.com/en/coins/denim",
-  "data": {
-   "ch24": 51.21315352856601
-  },
-  "found": "2026-11-06T16:55:40Z"
- },
- {
-  "id": "trend:denim:20261107",
-  "kind": "trending",
-  "hint": "DENIM (DENIM) trending #2 on CoinGecko, +45.7% 24h",
-  "source": "https://www.coingecko.com/en/coins/denim",
-  "data": {
-   "ch24": 45.65332926979996
-  },
-  "found": "2026-11-07T00:04:34Z"
- },
- {
-  "id": "reg:https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/withdrawal-proposed-rule-related",
-  "kind": "regulator",
-  "hint": "FinCEN: Withdrawal of Proposed Rule Related to Recordkeeping and Travel Rule Obligations, Including Those Involving Convertible Virtual Currencies and Certain Digital Assets",
-  "source": "https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/withdrawal-proposed-rule-related",
-  "data": {},
-  "found": "2026-11-07T02:36:36Z"
- },
- {
-  "id": "reg:https://ofac.treasury.gov/recent-actions/20261028",
-  "kind": "regulator",
-  "hint": "OFAC: North Korea Designations; Democratic Republic of the Congo-related Designations",
-  "source": "https://ofac.treasury.gov/recent-actions/20261028",
-  "data": {},
-  "found": "2026-11-07T02:36:55Z"
- },
- {
-  "id": "reg:https://ofac.treasury.gov/recent-actions/20261021",
-  "kind": "regulator",
-  "hint": "OFAC: Iran-related Designations; Belarus and North Korea Designations Removals; Issuance of Iran-related and Russia-related General Licenses and Amended Frequently Asked Questions",
-  "source": "https://ofac.treasury.gov/recent-actions/20261021",
-  "data": {},
-  "found": "2026-11-07T02:36:55Z"
- },
- {
-  "id": "trend:coge-coin-2:20261107",
-  "kind": "trending",
-  "hint": "COGE COIN (COGE) trending #1 on CoinGecko, +538.8% 24h",
-  "source": "https://www.coingecko.com/en/coins/coge-coin-2",
-  "data": {
-   "ch24": 538.8376555124366
-  },
-  "found": "2026-11-07T02:46:56Z"
- },
- {
-  "id": "trend:akedo:20261107",
-  "kind": "trending",
-  "hint": "Akedo (AKE) trending #3 on CoinGecko, +101.9% 24h",
-  "source": "https://www.coingecko.com/en/coins/akedo",
-  "data": {
-   "ch24": 101.9001197285068
-  },
-  "found": "2026-11-07T03:33:33Z"
- },
- {
   "id": "trend:harmony:20261107",
   "kind": "trending",
   "hint": "Harmony (ONE) trending #2 on CoinGecko, +70.8% 24h",
@@ -334,5 +260,38 @@
    "source": "US SEC EDGAR 424B"
   },
   "found": "2026-11-09T16:47:17Z"
+ },
+ {
+  "id": "price:pieverse:20261110:up",
+  "kind": "price",
+  "hint": "Pieverse (PIEVERSE) +3.3% in 1h, +29.6% in 24h, now $2.08",
+  "source": "https://www.coingecko.com/en/coins/pieverse",
+  "data": {
+   "h1": 3.3413,
+   "h24": 29.57833,
+   "price": 2.08,
+   "mcap_rank": 99
+  },
+  "found": "2026-11-10T05:33:24Z"
+ },
+ {
+  "id": "trend:dacity-coin-4:20261110",
+  "kind": "trending",
+  "hint": "Dacity Coin (DACITY) trending #2 on CoinGecko, +34.4% 24h",
+  "source": "https://www.coingecko.com/en/coins/dacity-coin-4",
+  "data": {
+   "ch24": 34.425362967319906
+  },
+  "found": "2026-11-10T05:33:24Z"
+ },
+ {
+  "id": "trend:initia:20261110",
+  "kind": "trending",
+  "hint": "Initia (INIT) trending #3 on CoinGecko, +70.5% 24h",
+  "source": "https://www.coingecko.com/en/coins/initia",
+  "data": {
+   "ch24": 70.53049295702645
+  },
+  "found": "2026-11-10T05:33:24Z"
  }
 ]
