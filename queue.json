@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:harmony:20261107",
-  "kind": "trending",
-  "hint": "Harmony (ONE) trending #2 on CoinGecko, +70.8% 24h",
-  "source": "https://www.coingecko.com/en/coins/harmony",
-  "data": {
-   "ch24": 70.78815842710351
-  },
-  "found": "2026-11-07T05:38:01Z"
- },
- {
   "id": "trend:dacity-coin-4:20261107",
   "kind": "trending",
   "hint": "Dacity Coin (DACITY) trending #1 on CoinGecko, +133.4% 24h",
@@ -293,5 +283,18 @@
    "ch24": 70.53049295702645
   },
   "found": "2026-11-10T05:33:24Z"
+ },
+ {
+  "id": "price:pieverse:20261110:down",
+  "kind": "price",
+  "hint": "Pieverse (PIEVERSE) -0.7% in 1h, +30.2% in 24h, now $2.08",
+  "source": "https://www.coingecko.com/en/coins/pieverse",
+  "data": {
+   "h1": -0.7072,
+   "h24": 30.16138,
+   "price": 2.08,
+   "mcap_rank": 98
+  },
+  "found": "2026-11-10T07:05:17Z"
  }
 ]
