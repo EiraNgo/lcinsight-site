@@ -309,5 +309,15 @@
    "mcap_rank": 52
   },
   "found": "2026-11-10T20:04:47Z"
+ },
+ {
+  "id": "reg:https://www.sec.gov/Archives/edgar/data/2089855/000119312526455398/0001193125-26-455398-index.htm",
+  "kind": "regulator",
+  "hint": "US SEC EDGAR 424B: 424B3 - T. Rowe Price Active Crypto ETF (0002089855) (Filer)",
+  "source": "https://www.sec.gov/Archives/edgar/data/2089855/000119312526455398/0001193125-26-455398-index.htm",
+  "data": {
+   "source": "US SEC EDGAR 424B"
+  },
+  "found": "2026-11-10T21:03:41Z"
  }
 ]
