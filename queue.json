@@ -319,5 +319,15 @@
    "source": "US SEC EDGAR 424B"
   },
   "found": "2026-11-10T21:03:41Z"
+ },
+ {
+  "id": "reg:https://www.sec.gov/Archives/edgar/data/2028835/000121390026118093/0001213900-26-118093-index.htm",
+  "kind": "regulator",
+  "hint": "US SEC EDGAR 424B: 424B3 - 21Shares XRP ETF (0002028835) (Filer)",
+  "source": "https://www.sec.gov/Archives/edgar/data/2028835/000121390026118093/0001213900-26-118093-index.htm",
+  "data": {
+   "source": "US SEC EDGAR 424B"
+  },
+  "found": "2026-11-10T22:12:22Z"
  }
 ]
