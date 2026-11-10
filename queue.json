@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:reboot-2:20261107",
-  "kind": "trending",
-  "hint": "Reboot (REBOOT) trending #1 on CoinGecko, +16.5% 24h",
-  "source": "https://www.coingecko.com/en/coins/reboot-2",
-  "data": {
-   "ch24": 16.480460778217005
-  },
-  "found": "2026-11-07T12:02:03Z"
- },
- {
   "id": "trend:stonk-3:20261107",
   "kind": "trending",
   "hint": "STONK (STONK) trending #3 on CoinGecko, -32.5% 24h",
@@ -306,5 +296,18 @@
    "ch24": 168.28351394146534
   },
   "found": "2026-11-10T09:55:38Z"
+ },
+ {
+  "id": "price:bitway:20261110:down",
+  "kind": "price",
+  "hint": "Bitway (BTW) -10.6% in 1h, +10.2% in 24h, now $1.13",
+  "source": "https://www.coingecko.com/en/coins/bitway",
+  "data": {
+   "h1": -10.6028,
+   "h24": 10.21477,
+   "price": 1.13,
+   "mcap_rank": 52
+  },
+  "found": "2026-11-10T20:04:47Z"
  }
 ]
