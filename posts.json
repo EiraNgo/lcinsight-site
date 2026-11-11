@@ -1,5 +1,23 @@
 [
 {
+"slug": "kinetiq-kntq-fell-25-percent-day-50-percent-below-record",
+"url": "https://lcinsight.net/news/kinetiqs-kntq-fell-25-percent-in-a-day-and-now-trades-at-half-its.html",
+"title": "Kinetiq's KNTQ fell 25% in a day and now trades at half its October 30 record",
+"dek": "The token of Hyperliquid staking project Kinetiq slid from about $0.40 to $0.30 in two sharp drops on Tuesday, November 10, while HYPE and bitcoin moved less than 3%. More than half of the trading ran through Hyperliquid's own spot market, CoinGecko data shows.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-10T22:20:00-05:00",
+"image": "https://lcinsight.net/og/kinetiq-kntq-fell-25-percent-day-50-percent-below-record.jpg",
+"hashtags": [
+"#Kinetiq",
+"#KNTQ",
+"#Hyperliquid",
+"#PriceMoves",
+"#Trending"
+]
+},
+{
 "slug": "canada-bars-banks-issuing-stablecoins-directly-subsidiaries",
 "url": "https://lcinsight.net/news/canada-proposes-barring-banks-from-issuing-stablecoins-directly.html",
 "title": "Canada proposes barring banks from issuing stablecoins directly. Subsidiaries only",
@@ -3570,24 +3588,6 @@
 "#Bitcoin",
 "#Options",
 "#Deribit"
-]
-},
-{
-"slug": "token-unlocks-explained",
-"url": "https://lcinsight.net/news/token-unlocks-explained-cliffs-vesting-and-why-unlocked-does-not-mean.html",
-"title": "Token unlocks explained: cliffs, vesting and why unlocked does not mean sold",
-"dek": "A token unlock is when tokens locked at launch, usually for the team, investors or a treasury, become free to move. Unlocks add to circulating supply and dilute holders, but an unlocked token is not a sold one: Hyperliquid insiders claimed far less HYPE than they could.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T04:50:00-05:00",
-"image": "https://lcinsight.net/og/token-unlocks-explained.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#TokenSales",
-"#Hyperliquid",
-"#Data"
 ]
 }
 ]
