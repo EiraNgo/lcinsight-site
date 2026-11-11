@@ -261,5 +261,15 @@
    "technique": "Withdrawal Logic Flaw"
   },
   "found": "2026-11-11T00:58:13Z"
+ },
+ {
+  "id": "trend:kinetiq:20261111",
+  "kind": "trending",
+  "hint": "Kinetiq (KNTQ) trending #3 on CoinGecko, -21.7% 24h",
+  "source": "https://www.coingecko.com/en/coins/kinetiq",
+  "data": {
+   "ch24": -21.715478496640497
+  },
+  "found": "2026-11-11T02:22:36Z"
  }
 ]
