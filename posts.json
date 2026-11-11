@@ -1,5 +1,41 @@
 [
 {
+"slug": "sec-fy2026-enforcement-348-actions-1-1-billion-crypto-cases",
+"url": "https://lcinsight.net/news/sec-cases-fall-to-348-from-456-as-crypto-examples-include-a-95-6.html",
+"title": "SEC cases fall to 348 from 456 as crypto examples include a $95.6 million mining fraud",
+"dek": "The SEC's fiscal 2026 enforcement results, released November 10, show 348 actions and $1.095 billion in ordered money. The crypto cases it highlights are retail frauds, from a $14 million fake platform scheme to an FTX audit case.",
+"category": "Policy",
+"guide": false,
+"hot": false,
+"published": "2026-11-11T07:05:00-05:00",
+"image": "https://lcinsight.net/og/sec-fy2026-enforcement-348-actions-1-1-billion-crypto-cases.jpg",
+"hashtags": [
+"#SEC",
+"#Enforcement",
+"#Regulation",
+"#ScamAlerts",
+"#Mining"
+]
+},
+{
+"slug": "rex-osprey-21-altcoin-etfs-delayed-to-november-20",
+"url": "https://lcinsight.net/news/21-rex-osprey-altcoin-etfs-get-a-new-start-date-november-20-after-13.html",
+"title": "21 REX-Osprey altcoin ETFs get a new start date, November 20, after 13 months of waiting",
+"dek": "An October 22 SEC filing pushes back the effective date for 21 planned REX-Osprey funds, from AAVE to XLM. Most of their tokens fell 15% to 38% in the past 30 days.",
+"category": "ETFs",
+"guide": false,
+"hot": false,
+"published": "2026-11-11T06:55:00-05:00",
+"image": "https://lcinsight.net/og/rex-osprey-21-altcoin-etfs-delayed-to-november-20.jpg",
+"hashtags": [
+"#ETF",
+"#ETFs",
+"#SEC",
+"#Altcoins",
+"#Staking"
+]
+},
+{
 "slug": "midnight-night-thaw-ends-december-4-final-installments",
 "url": "https://lcinsight.net/news/midnights-night-airdrop-thaw-ends-december-4-the-last-25-percent.html",
 "title": "Midnight's NIGHT airdrop thaw ends December 4. The last 25% installments are landing now",
@@ -3553,42 +3589,6 @@
 "#Stellar",
 "#Upgrades",
 "#PostQuantum"
-]
-},
-{
-"slug": "bitcoin-mining-and-hashrate-explained",
-"url": "https://lcinsight.net/news/bitcoin-mining-and-hashrate-explained-difficulty-hashprice-and-data.html",
-"title": "Bitcoin mining and hashrate explained: difficulty, hashprice and data sources",
-"dek": "Bitcoin miners race to find a block hash below a target, and every 2,016 blocks (about two weeks) the network resets the difficulty so blocks keep coming about every 10 minutes. Hashrate, the total guessing power, cannot be measured directly; it is estimated from difficulty and block times.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T05:45:00-05:00",
-"image": "https://lcinsight.net/og/bitcoin-mining-and-hashrate-explained.jpg",
-"hashtags": [
-"#Bitcoin",
-"#Mining",
-"#Hashrate",
-"#Data",
-"#OnChainData"
-]
-},
-{
-"slug": "what-are-exchange-tokens-bnb-okb-explained",
-"url": "https://lcinsight.net/news/what-are-exchange-tokens-bnb-keeps-burning-okb-froze-its-supply-at-21m.html",
-"title": "What are exchange tokens? BNB keeps burning, OKB froze its supply at 21M",
-"dek": "Exchange tokens are coins tied to a crypto exchange that give holders perks on the platform and pay gas on the exchange's own blockchain. BNB shrinks through quarterly burns toward 100 million; OKB's supply was fixed at 21 million in 2025. Both stay tied to one company.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T05:40:00-05:00",
-"image": "https://lcinsight.net/og/what-are-exchange-tokens-bnb-okb-explained.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#BNB",
-"#OKB",
-"#Binance"
 ]
 }
 ]
