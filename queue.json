@@ -1,35 +1,5 @@
 [
  {
-  "id": "trend:stonk-3:20261107",
-  "kind": "trending",
-  "hint": "STONK (STONK) trending #3 on CoinGecko, -32.5% 24h",
-  "source": "https://www.coingecko.com/en/coins/stonk-3",
-  "data": {
-   "ch24": -32.46235435618008
-  },
-  "found": "2026-11-07T23:42:55Z"
- },
- {
-  "id": "trend:dacity-coin-4:20261108",
-  "kind": "trending",
-  "hint": "Dacity Coin (DACITY) trending #1 on CoinGecko, +42.6% 24h",
-  "source": "https://www.coingecko.com/en/coins/dacity-coin-4",
-  "data": {
-   "ch24": 42.55788371776414
-  },
-  "found": "2026-11-08T00:05:40Z"
- },
- {
-  "id": "trend:stonk-3:20261108",
-  "kind": "trending",
-  "hint": "STONK (STONK) trending #2 on CoinGecko, -31.9% 24h",
-  "source": "https://www.coingecko.com/en/coins/stonk-3",
-  "data": {
-   "ch24": -31.875466476030212
-  },
-  "found": "2026-11-08T00:05:40Z"
- },
- {
   "id": "owner:musk-binance-fake",
   "kind": "owner",
   "priority": 0,
@@ -329,5 +299,25 @@
    "source": "US SEC EDGAR 424B"
   },
   "found": "2026-11-10T22:12:22Z"
+ },
+ {
+  "id": "trend:dacity-coin-4:20261111",
+  "kind": "trending",
+  "hint": "Dacity Coin (DACITY) trending #1 on CoinGecko, -33.6% 24h",
+  "source": "https://www.coingecko.com/en/coins/dacity-coin-4",
+  "data": {
+   "ch24": -33.619388692611786
+  },
+  "found": "2026-11-11T00:22:32Z"
+ },
+ {
+  "id": "trend:super-inu-3:20261111",
+  "kind": "trending",
+  "hint": "Super Inu (SI) trending #2 on CoinGecko, +85.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/super-inu-3",
+  "data": {
+   "ch24": 84.97151124913958
+  },
+  "found": "2026-11-11T00:22:32Z"
  }
 ]
