@@ -1,43 +1,5 @@
 [
  {
-  "id": "trend:unifai-network:20261108",
-  "kind": "trending",
-  "hint": "UnifAI Network (UAI) trending #3 on CoinGecko, -44.0% 24h",
-  "source": "https://www.coingecko.com/en/coins/unifai-network",
-  "data": {
-   "ch24": -44.03193364865265
-  },
-  "found": "2026-11-08T04:05:05Z"
- },
- {
-  "id": "trend:wasted-2:20261108",
-  "kind": "trending",
-  "hint": "WASTED (WASTED) trending #1 on CoinGecko, +93.9% 24h",
-  "source": "https://www.coingecko.com/en/coins/wasted-2",
-  "data": {
-   "ch24": 93.86174688361059
-  },
-  "found": "2026-11-08T10:11:43Z"
- },
- {
-  "id": "trend:janction:20261108",
-  "kind": "trending",
-  "hint": "Janction (JCT) trending #3 on CoinGecko, +162.6% 24h",
-  "source": "https://www.coingecko.com/en/coins/janction",
-  "data": {
-   "ch24": 162.61615057757524
-  },
-  "found": "2026-11-08T11:20:03Z"
- },
- {
-  "id": "owner:japan-shinkin-outage-map",
-  "kind": "owner",
-  "priority": -1,
-  "hint": "Rumor vs record + map video: '128 Japan banks hacked' was an equipment failure (Shinkin Joint System, Nov 6). World map of verified 2026 bank hacks vs outages. NEWSROOM.md ASSIGNMENT Nov 8 item 11",
-  "source": "site/NEWSROOM.md",
-  "found": "2026-11-08T11:55:00Z"
- },
- {
   "id": "price:ethereum:20261108:down",
   "kind": "price",
   "hint": "Ethereum (ETH) -4.5% in 1h, -4.8% in 24h, now $2,122.79",
@@ -271,5 +233,15 @@
    "ch24": -21.715478496640497
   },
   "found": "2026-11-11T02:22:36Z"
+ },
+ {
+  "id": "trend:zcash:20261111",
+  "kind": "trending",
+  "hint": "Zcash (ZEC) trending #2 on CoinGecko, -15.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/zcash",
+  "data": {
+   "ch24": -15.042038567705179
+  },
+  "found": "2026-11-11T12:43:13Z"
  }
 ]
