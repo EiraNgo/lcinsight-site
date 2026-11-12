@@ -227,5 +227,15 @@
    "ch24": 15.715430538653028
   },
   "found": "2026-11-12T07:33:32Z"
+ },
+ {
+  "id": "reg:https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261112-3/",
+  "kind": "regulator",
+  "hint": "Hong Kong HKMA: HKMA and SFC co-host seminar to advance tokenisation in Hong Kong and promote collaborative opportunities within Project Ensemble",
+  "source": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261112-3/",
+  "data": {
+   "source": "Hong Kong HKMA"
+  },
+  "found": "2026-11-12T08:19:22Z"
  }
 ]
