@@ -214,5 +214,15 @@
    "ch24": 318.9151938572997
   },
   "found": "2026-11-12T17:49:56Z"
+ },
+ {
+  "id": "trend:audacity-4:20261112",
+  "kind": "trending",
+  "hint": "AudaCity (DACITYCOIN) trending #2 on CoinGecko, +19.6% 24h",
+  "source": "https://www.coingecko.com/en/coins/audacity-4",
+  "data": {
+   "ch24": 19.569620612974827
+  },
+  "found": "2026-11-12T18:47:30Z"
  }
 ]
