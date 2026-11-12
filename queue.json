@@ -1,34 +1,5 @@
 [
  {
-  "id": "price:ethereum:20261108:down",
-  "kind": "price",
-  "hint": "Ethereum (ETH) -4.5% in 1h, -4.8% in 24h, now $2,122.79",
-  "source": "https://www.coingecko.com/en/coins/ethereum",
-  "data": {
-   "h1": -4.5321,
-   "h24": -4.79749,
-   "price": 2122.79,
-   "mcap_rank": 2
-  },
-  "found": "2026-11-08T22:08:35Z"
- },
- {
-  "id": "owner:nvidia-ceo-memo",
-  "kind": "owner",
-  "priority": -3,
-  "hint": "Nvidia CEO memo + market angle (tokenized NVDA 24/7, AI tokens, ETF exposure). NEWSROOM.md ASSIGNMENT Nov 9 item 1",
-  "source": "site/NEWSROOM.md",
-  "found": "2026-11-09T02:30:00Z"
- },
- {
-  "id": "owner:nvidia-ceo-us-open",
-  "kind": "owner",
-  "priority": -2,
-  "hint": "Follow-up after US open Mon Nov 9 9:30 a.m. ET: NVDA, SMH/QQQ, AI tokens. Do NOT handle before 21:30 VN (14:30 UTC); leave in queue until then. NEWSROOM.md ASSIGNMENT Nov 9 item 1 FOLLOW-UP",
-  "source": "site/NEWSROOM.md",
-  "found": "2026-11-09T02:30:00Z"
- },
- {
   "id": "trend:janction:20261109",
   "kind": "trending",
   "hint": "Janction (JCT) trending #1 on CoinGecko, +226.5% 24h",
@@ -256,5 +227,15 @@
    "mcap_rank": 36
   },
   "found": "2026-11-11T16:08:29Z"
+ },
+ {
+  "id": "trend:initia:20261112",
+  "kind": "trending",
+  "hint": "Initia (INIT) trending #3 on CoinGecko, -56.3% 24h",
+  "source": "https://www.coingecko.com/en/coins/initia",
+  "data": {
+   "ch24": -56.33289417073738
+  },
+  "found": "2026-11-12T03:00:05Z"
  }
 ]
