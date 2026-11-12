@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:stonk-3:20261109",
-  "kind": "trending",
-  "hint": "STONK (STONK) trending #3 on CoinGecko, -30.7% 24h",
-  "source": "https://www.coingecko.com/en/coins/stonk-3",
-  "data": {
-   "ch24": -30.682262835132445
-  },
-  "found": "2026-11-09T08:38:12Z"
- },
- {
   "id": "trend:dacity-coin-4:20261109",
   "kind": "trending",
   "hint": "Dacity Coin (DACITY) trending #1 on CoinGecko, -15.0% 24h",
@@ -237,5 +227,15 @@
    "source": "Hong Kong HKMA"
   },
   "found": "2026-11-12T08:19:22Z"
+ },
+ {
+  "id": "trend:seppuku:20261112",
+  "kind": "trending",
+  "hint": "Seppuku (SEPPUKU) trending #1 on CoinGecko, +17.6% 24h",
+  "source": "https://www.coingecko.com/en/coins/seppuku",
+  "data": {
+   "ch24": 17.60959327545811
+  },
+  "found": "2026-11-12T10:46:43Z"
  }
 ]
