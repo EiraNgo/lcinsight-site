@@ -244,5 +244,15 @@
    "source": "US SEC EDGAR 424B"
   },
   "found": "2026-11-12T19:58:08Z"
+ },
+ {
+  "id": "reg:https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web",
+  "kind": "regulator",
+  "hint": "US DOJ: International Law Enforcement Operation Targeting Opioid and Fentanyl Traffickers on the Dark Web Results in over 350 Arrests Worldwide and the Seizure of Drugs, Weapons, and over $234 Million Today, ",
+  "source": "https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web",
+  "data": {
+   "source": "US DOJ"
+  },
+  "found": "2026-11-12T20:31:45Z"
  }
 ]
