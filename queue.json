@@ -234,5 +234,15 @@
    "ch24": 37.210309087485285
   },
   "found": "2026-11-12T19:33:33Z"
+ },
+ {
+  "id": "reg:https://www.sec.gov/Archives/edgar/data/2035053/000203505326000029/0002035053-26-000029-index.htm",
+  "kind": "regulator",
+  "hint": "US SEC EDGAR 424B: 424B3 - Grayscale Avalanche Staking ETF (0002035053) (Filer)",
+  "source": "https://www.sec.gov/Archives/edgar/data/2035053/000203505326000029/0002035053-26-000029-index.htm",
+  "data": {
+   "source": "US SEC EDGAR 424B"
+  },
+  "found": "2026-11-12T19:58:08Z"
  }
 ]
