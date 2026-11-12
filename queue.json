@@ -254,5 +254,15 @@
    "source": "US DOJ"
   },
   "found": "2026-11-12T20:31:45Z"
+ },
+ {
+  "id": "reg:https://www.sec.gov/Archives/edgar/data/2074409/000119312526458432/0001193125-26-458432-index.htm",
+  "kind": "regulator",
+  "hint": "US SEC EDGAR 424B: 424B3 - Invesco Galaxy Solana ETF (0002074409) (Filer)",
+  "source": "https://www.sec.gov/Archives/edgar/data/2074409/000119312526458432/0001193125-26-458432-index.htm",
+  "data": {
+   "source": "US SEC EDGAR 424B"
+  },
+  "found": "2026-11-12T21:19:12Z"
  }
 ]
