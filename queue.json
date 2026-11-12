@@ -224,5 +224,15 @@
    "ch24": 19.569620612974827
   },
   "found": "2026-11-12T18:47:30Z"
+ },
+ {
+  "id": "trend:rocco:20261112",
+  "kind": "trending",
+  "hint": "Rocco (ROCCO) trending #3 on CoinGecko, +37.2% 24h",
+  "source": "https://www.coingecko.com/en/coins/rocco",
+  "data": {
+   "ch24": 37.210309087485285
+  },
+  "found": "2026-11-12T19:33:33Z"
  }
 ]
