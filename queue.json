@@ -264,5 +264,15 @@
    "source": "US SEC EDGAR 424B"
   },
   "found": "2026-11-12T21:19:12Z"
+ },
+ {
+  "id": "reg:https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+  "kind": "regulator",
+  "hint": "US DOJ: Justice Department Announces Actions to Disrupt North Korea\u2019s Massive Theft of Cryptocurrency Today the Department of Justice announced coordinated actions against the Democratic People\u2019s Republic of ",
+  "source": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+  "data": {
+   "source": "US DOJ"
+  },
+  "found": "2026-11-12T21:41:00Z"
  }
 ]
