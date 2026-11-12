@@ -1,38 +1,5 @@
 [
  {
-  "id": "trend:dacity-coin-4:20261109",
-  "kind": "trending",
-  "hint": "Dacity Coin (DACITY) trending #1 on CoinGecko, -15.0% 24h",
-  "source": "https://www.coingecko.com/en/coins/dacity-coin-4",
-  "data": {
-   "ch24": -15.025414272862362
-  },
-  "found": "2026-11-09T13:31:16Z"
- },
- {
-  "id": "price:pieverse:20261109:up",
-  "kind": "price",
-  "hint": "Pieverse (PIEVERSE) +3.9% in 1h, +31.8% in 24h, now $1.93",
-  "source": "https://www.coingecko.com/en/coins/pieverse",
-  "data": {
-   "h1": 3.9046,
-   "h24": 31.78335,
-   "price": 1.93,
-   "mcap_rank": 100
-  },
-  "found": "2026-11-09T15:25:46Z"
- },
- {
-  "id": "reg:https://www.sec.gov/Archives/edgar/data/2074409/000119312526452988/0001193125-26-452988-index.htm",
-  "kind": "regulator",
-  "hint": "US SEC EDGAR 424B: 424B3 - Invesco Galaxy Solana ETF (0002074409) (Filer)",
-  "source": "https://www.sec.gov/Archives/edgar/data/2074409/000119312526452988/0001193125-26-452988-index.htm",
-  "data": {
-   "source": "US SEC EDGAR 424B"
-  },
-  "found": "2026-11-09T16:47:17Z"
- },
- {
   "id": "price:pieverse:20261110:up",
   "kind": "price",
   "hint": "Pieverse (PIEVERSE) +3.3% in 1h, +29.6% in 24h, now $2.08",
@@ -237,5 +204,15 @@
    "ch24": 17.60959327545811
   },
   "found": "2026-11-12T10:46:43Z"
+ },
+ {
+  "id": "trend:ni-hao-cat:20261112",
+  "kind": "trending",
+  "hint": "ni hao cat (MIHAO) trending #1 on CoinGecko, +318.9% 24h",
+  "source": "https://www.coingecko.com/en/coins/ni-hao-cat",
+  "data": {
+   "ch24": 318.9151938572997
+  },
+  "found": "2026-11-12T17:49:56Z"
  }
 ]
