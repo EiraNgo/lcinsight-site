@@ -1,5 +1,23 @@
 [
 {
+"slug": "initia-init-falls-71-percent-from-day-high-below-rally-start",
+"url": "https://lcinsight.net/news/initias-init-falls-71-percent-from-its-day-high-to-0-113-below-where.html",
+"title": "Initia's INIT falls 71% from its day high to $0.113, below where its rally began",
+"dek": "INIT touched $0.392 in the past 24 hours, then slid to about $0.113 by 10:05 p.m. ET on November 11. That is lower than its price before the November 9 surge, with traders swapping three times its market value in a day.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-11T22:25:00-05:00",
+"image": "https://lcinsight.net/og/initia-init-falls-71-percent-from-day-high-below-rally-start.jpg",
+"hashtags": [
+"#Initia",
+"#INIT",
+"#PriceMoves",
+"#Trending",
+"#Altcoins"
+]
+},
+{
 "slug": "sec-fy2026-enforcement-348-actions-1-1-billion-crypto-cases",
 "url": "https://lcinsight.net/news/sec-cases-fall-to-348-from-456-as-crypto-examples-include-a-95-6.html",
 "title": "SEC cases fall to 348 from 456 as crypto examples include a $95.6 million mining fraud",
@@ -3571,24 +3589,6 @@
 "#BoredApeYachtClub",
 "#Marketplaces",
 "#Data"
-]
-},
-{
-"slug": "stellar-protocol-30-bell-vote-post-quantum",
-"url": "https://lcinsight.net/news/stellar-votes-on-bell-november-3-wallets-must-learn-a-new-w-address.html",
-"title": "Stellar votes on Bell November 3: wallets must learn a new \"W\" address",
-"dek": "Stellar's Protocol 30 upgrade, Bell, faces a testnet validator vote on November 3 and a mainnet vote on November 23, 2026. It adds a new \"W\" address, post-quantum signature checks for smart contracts and millisecond ledger timing, and Stellar says apps must update their SDKs.",
-"category": "Infrastructure",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T06:00:00-05:00",
-"image": "https://lcinsight.net/og/stellar-protocol-30-bell-vote-post-quantum.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Stellar",
-"#Upgrades",
-"#PostQuantum"
 ]
 }
 ]
