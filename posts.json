@@ -1,5 +1,23 @@
 [
 {
+"slug": "us-moves-to-seize-1-2-billion-binance-hack-funds-north-korea",
+"url": "https://lcinsight.net/news/us-moves-to-seize-1-2-billion-of-the-binance-hack-haul-and-shuts-down.html",
+"title": "US moves to seize $1.2 billion of the Binance hack haul and shuts down North Korea's deepfake call trap",
+"dek": "The Justice Department says it won court approval to seize or restrain more than $1.2 billion stolen from Binance on October 29. It also took down servers behind \"FaceStealer,\" a fake video call scheme it ties to more than $400 million in thefts.",
+"category": "Security",
+"guide": false,
+"hot": true,
+"published": "2026-11-12T19:15:00-05:00",
+"image": "https://lcinsight.net/og/us-moves-to-seize-1-2-billion-binance-hack-funds-north-korea.jpg",
+"hashtags": [
+"#Binance",
+"#Hacks",
+"#NorthKorea",
+"#Regulation",
+"#WalletSecurity"
+]
+},
+{
 "slug": "64-of-90-bitcoin-treasury-companies-below-cost-72857",
 "url": "https://lcinsight.net/news/64-of-90-bitcoin-treasury-companies-are-below-cost-at-72-857-strategy.html",
 "title": "64 of 90 bitcoin treasury companies are below cost at $72,857, Strategy by $2.21 billion",
@@ -3571,24 +3589,6 @@
 "#Validators",
 "#Uniswap",
 "#Explainer"
-]
-},
-{
-"slug": "what-is-tron",
-"url": "https://lcinsight.net/news/what-is-tron-how-the-chain-holding-92-6-billion-of-usdt-really-works.html",
-"title": "What is TRON? How the chain holding $92.6 billion of USDT really works",
-"dek": "TRON is the blockchain where more of Tether's USDT lives than anywhere else: about $92.6 billion on November 2, 2026, per DefiLlama. Here is how its energy and bandwidth fees work, and why 27 elected block makers decide the rules.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T12:50:00-05:00",
-"image": "https://lcinsight.net/og/what-is-tron.jpg",
-"hashtags": [
-"#TRON",
-"#USDT",
-"#Tether",
-"#Stablecoins",
-"#Staking"
 ]
 }
 ]
