@@ -304,5 +304,15 @@
    "ch24": -54.33208648847494
   },
   "found": "2026-11-13T02:10:41Z"
+ },
+ {
+  "id": "trend:sanctum-2:20261113",
+  "kind": "trending",
+  "hint": "Sanctum (SANC) trending #2 on CoinGecko, +121.4% 24h",
+  "source": "https://www.coingecko.com/en/coins/sanctum-2",
+  "data": {
+   "ch24": 121.4221915196128
+  },
+  "found": "2026-11-13T02:44:53Z"
  }
 ]
