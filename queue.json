@@ -274,5 +274,15 @@
    "source": "US DOJ"
   },
   "found": "2026-11-12T21:41:00Z"
+ },
+ {
+  "id": "trend:audacity-4:20261113",
+  "kind": "trending",
+  "hint": "AudaCity (DACITYCOIN) trending #2 on CoinGecko, +47.9% 24h",
+  "source": "https://www.coingecko.com/en/coins/audacity-4",
+  "data": {
+   "ch24": 47.93652768431333
+  },
+  "found": "2026-11-13T00:50:45Z"
  }
 ]
