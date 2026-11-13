@@ -1,5 +1,22 @@
 [
 {
+"slug": "bitway-btw-down-29-percent-74-percent-below-record-november-13",
+"url": "https://lcinsight.net/news/bitway-btw-drops-29-percent-in-a-day-now-74-percent-below-its-october.html",
+"title": "Bitway (BTW) drops 29% in a day, now 74% below its October record",
+"dek": "BTW fell from $1.06 to about $0.71 in 24 hours on thin volume of about $7.3 million, with Gate handling more than a third of the trading.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-13T01:10:00-05:00",
+"image": "https://lcinsight.net/og/bitway-btw-down-29-percent-74-percent-below-record-november-13.jpg",
+"hashtags": [
+"#Bitway",
+"#BTW",
+"#PriceMoves",
+"#Altcoins"
+]
+},
+{
 "slug": "bitcoin-68k-ibit-sheds-22-7m-shares-four-sessions",
 "url": "https://lcinsight.net/news/blackrocks-ibit-shed-22-7-million-shares-in-four-sessions-as-bitcoin.html",
 "title": "BlackRock's IBIT shed 22.7 million shares in four sessions as bitcoin fell to $68,393",
@@ -3569,24 +3586,6 @@
 "#TON",
 "#Wallets",
 "#Layer1"
-]
-},
-{
-"slug": "compound-unichain-reserves-withdrawal-vote",
-"url": "https://lcinsight.net/news/compounds-fourth-retreat-in-a-month-a-vote-to-pull-90-eth-and-42-000.html",
-"title": "Compound's fourth retreat in a month: a vote to pull 90 ETH and 42,000 USDC off Unichain",
-"dek": "A Compound DAO vote closing November 3, with no votes against so far, would send reserves from its deprecated Unichain markets back to Ethereum. A bigger 534,530 USDT withdrawal from Polygon was filed and canceled within an hour.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T13:07:00-05:00",
-"image": "https://lcinsight.net/og/compound-unichain-reserves-withdrawal-vote.jpg",
-"hashtags": [
-"#DeFi",
-"#Governance",
-"#Layer2",
-"#USDC",
-"#Ether"
 ]
 }
 ]
