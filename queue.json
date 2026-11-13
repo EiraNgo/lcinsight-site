@@ -284,5 +284,15 @@
    "ch24": 47.93652768431333
   },
   "found": "2026-11-13T00:50:45Z"
+ },
+ {
+  "id": "trend:ni-hao-cat-2:20261113",
+  "kind": "trending",
+  "hint": "ni hao cat (MIHAO) trending #1 on CoinGecko, -19.6% 24h",
+  "source": "https://www.coingecko.com/en/coins/ni-hao-cat-2",
+  "data": {
+   "ch24": -19.640879624226944
+  },
+  "found": "2026-11-13T01:59:10Z"
  }
 ]
