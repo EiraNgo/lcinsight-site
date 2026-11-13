@@ -314,5 +314,18 @@
    "ch24": 121.4221915196128
   },
   "found": "2026-11-13T02:44:53Z"
+ },
+ {
+  "id": "price:bitway:20261113:down",
+  "kind": "price",
+  "hint": "Bitway (BTW) -1.2% in 1h, -27.6% in 24h, now $0.731501",
+  "source": "https://www.coingecko.com/en/coins/bitway",
+  "data": {
+   "h1": -1.2123,
+   "h24": -27.58278,
+   "price": 0.731501,
+   "mcap_rank": 67
+  },
+  "found": "2026-11-13T05:00:37Z"
  }
 ]
