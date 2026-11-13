@@ -1,5 +1,129 @@
 [
 {
+"slug": "bitcoin-68k-ibit-sheds-22-7m-shares-four-sessions",
+"url": "https://lcinsight.net/news/blackrocks-ibit-shed-22-7-million-shares-in-four-sessions-as-bitcoin.html",
+"title": "BlackRock's IBIT shed 22.7 million shares in four sessions as bitcoin fell to $68,393",
+"dek": "iShares data shows IBIT's share count down 1.6% since November 6, roughly $919 million at Thursday's NAV. Bitcoin lost 7% in 24 hours.",
+"category": "ETFs",
+"guide": false,
+"hot": false,
+"published": "2026-11-13T00:45:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-68k-ibit-sheds-22-7m-shares-four-sessions.jpg",
+"hashtags": [
+"#ETF",
+"#BitcoinETF",
+"#Bitcoin",
+"#BlackRock",
+"#ETFs"
+]
+},
+{
+"slug": "eth-staking-queue-912k-eth-waits-sharplink-staked-128",
+"url": "https://lcinsight.net/news/ether-fell-14-percent-in-a-week-yet-912-000-eth-is-waiting-in-line-to.html",
+"title": "Ether fell 14% in a week, yet 912,000 ETH is waiting in line to be staked",
+"dek": "Ethereum's entry queue holds 3.5 times more ether than its exit queue, Validator Queue data show. SharpLink's labeled wallet staked another 128 ETH on November 12 as the price slid.",
+"category": "Infrastructure",
+"guide": false,
+"hot": true,
+"published": "2026-11-13T00:45:00-05:00",
+"image": "https://lcinsight.net/og/eth-staking-queue-912k-eth-waits-sharplink-staked-128.jpg",
+"hashtags": [
+"#Ethereum",
+"#Staking",
+"#SharpLink",
+"#TreasuryCompanies",
+"#Data"
+]
+},
+{
+"slug": "hyperscale-data-sold-last-bitcoin-strategy-bought-1036",
+"url": "https://lcinsight.net/news/one-company-sold-its-last-211-bitcoin-at-76-000-strategy-bought-1-036.html",
+"title": "One company sold its last 211 bitcoin at $76,000. Strategy bought 1,036 at $79,012",
+"dek": "Hyperscale Data says it has sold all its bitcoin, about 1,113 BTC since July. Strategy kept buying, but spent more than twice as much buying back its own preferred stock. Bitcoin now trades at $68,521.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-13T00:45:00-05:00",
+"image": "https://lcinsight.net/og/hyperscale-data-sold-last-bitcoin-strategy-bought-1036.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Strategy",
+"#TreasuryCompanies",
+"#HyperscaleData",
+"#Data"
+]
+},
+{
+"slug": "rumor-vs-record-nvidia-huang-resignation-claims",
+"url": "https://lcinsight.net/news/rumor-vs-record-nvidia-says-huang-resigned-but-gives-no-reason-was-he.html",
+"title": "Rumor vs record: Nvidia says Huang resigned but gives no reason. Was he ousted?",
+"dek": "Nvidia announced its CEO's resignation on November 12, 2026, and crypto feeds filled with claims about why and what it did to prices. We checked six of them against Nvidia's own filing.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-13T00:45:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-nvidia-huang-resignation-claims.jpg",
+"hashtags": [
+"#RumorCheck",
+"#Nvidia",
+"#TokenizedStocks",
+"#Bitcoin"
+]
+},
+{
+"slug": "tether-gold-xaut-kpmg-audit-520089-ounces",
+"url": "https://lcinsight.net/news/kpmg-counted-tether-golds-bars-520-089-ounces-for-520-089-tokens.html",
+"title": "KPMG counted Tether Gold's bars: 520,089 ounces for 520,089 tokens",
+"dek": "Tether says KPMG gave Tether Gold (XAU₮) a clean audit for 2025, its second Big Four audit after USDT. The gold matched the tokens almost to the ounce.",
+"category": "AI & RWA",
+"guide": false,
+"hot": false,
+"published": "2026-11-13T00:45:00-05:00",
+"image": "https://lcinsight.net/og/tether-gold-xaut-kpmg-audit-520089-ounces.jpg",
+"hashtags": [
+"#Tether",
+"#Gold",
+"#Tokenization",
+"#Stablecoins",
+"#ProofOfReserves"
+]
+},
+{
+"slug": "tether-treasury-holds-4-65b-usdt-supply-fell-2-69b",
+"url": "https://lcinsight.net/news/usdt-shrank-2-69-billion-in-8-days-but-tethers-ethereum-treasury-still.html",
+"title": "USDT shrank $2.69 billion in 8 days, but Tether's Ethereum treasury still holds $4.65 billion",
+"dek": "Etherscan shows 4.65 billion USDT parked in the wallet it labels Tether: Treasury, which kept sending tokens out through November 12. CoinGecko counts $5.47 billion of USDT as not circulating.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-13T00:45:00-05:00",
+"image": "https://lcinsight.net/og/tether-treasury-holds-4-65b-usdt-supply-fell-2-69b.jpg",
+"hashtags": [
+"#Stablecoins",
+"#USDT",
+"#Tether",
+"#Ethereum",
+"#Data"
+]
+},
+{
+"slug": "waller-half-point-hike-test-core-cpi-0-3-percent",
+"url": "https://lcinsight.net/news/feds-waller-set-a-0-3-percent-test-for-a-half-point-hike-octobers-core.html",
+"title": "Fed's Waller set a 0.3% test for a half-point hike. October's core CPI hit it",
+"dek": "Fed Governor Christopher Waller said a 25 basis point hike in December could hurt the Fed's credibility if core inflation stayed near 0.3%. Hours later, October's core reading came in at 0.3%.",
+"category": "Policy",
+"guide": false,
+"hot": false,
+"published": "2026-11-13T00:45:00-05:00",
+"image": "https://lcinsight.net/og/waller-half-point-hike-test-core-cpi-0-3-percent.jpg",
+"hashtags": [
+"#FederalReserve",
+"#InterestRates",
+"#Inflation",
+"#Macro"
+]
+},
+{
 "slug": "us-moves-to-seize-1-2-billion-binance-hack-funds-north-korea",
 "url": "https://lcinsight.net/news/us-moves-to-seize-1-2-billion-of-the-binance-hack-haul-and-shuts-down.html",
 "title": "US moves to seize $1.2 billion of the Binance hack haul and shuts down North Korea's deepfake call trap",
@@ -3463,132 +3587,6 @@
 "#Layer2",
 "#USDC",
 "#Ether"
-]
-},
-{
-"slug": "polymarket-chainlink-15-minute-gold-silver-markets",
-"url": "https://lcinsight.net/news/polymarket-adds-15-minute-gold-and-silver-bets-one-early-window-traded.html",
-"title": "Polymarket adds 15-minute gold and silver bets. One early window traded just $100",
-"dek": "Polymarket has added 15-minute and one-hour Up or Down markets on gold and silver, settled by Chainlink price streams. The format began with crypto, where Chainlink says it has passed $9 billion in volume, but the metal markets start almost empty.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T13:07:00-05:00",
-"image": "https://lcinsight.net/og/polymarket-chainlink-15-minute-gold-silver-markets.jpg",
-"hashtags": [
-"#Polymarket",
-"#Chainlink",
-"#PredictionMarkets",
-"#Data",
-"#Gold"
-]
-},
-{
-"slug": "what-is-bitcoin",
-"url": "https://lcinsight.net/news/what-is-bitcoin-how-it-works-why-only-21-million-exist-and-the-risks.html",
-"title": "What is Bitcoin? How it works, why only 21 million exist and the risks",
-"dek": "Bitcoin is a digital currency that moves directly between users on a public network, with no bank or company in the middle. Miners secure it with computing power, its supply is capped at 21 million coins, and BTC traded near $77,323 as of November 2, 2026.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T13:07:00-05:00",
-"image": "https://lcinsight.net/og/what-is-bitcoin.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Bitcoin",
-"#Mining",
-"#BitcoinCore"
-]
-},
-{
-"slug": "fincen-a7-network-a7a5-special-measure-comments-november-4",
-"url": "https://lcinsight.net/news/a7a5-stablecoin-network-moved-179-billion-fincen-wants-us-banks-and.html",
-"title": "A7A5 stablecoin network moved $179 billion. FinCEN wants US banks and crypto firms out",
-"dek": "A Treasury proposal would bar about 347,926 US financial institutions, crypto exchanges included, from moving money for the Russia-linked A7 network's front companies. Public comments close November 4, 2026.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-11-02T13:05:00-05:00",
-"image": "https://lcinsight.net/og/fincen-a7-network-a7a5-special-measure-comments-november-4.jpg",
-"hashtags": [
-"#Sanctions",
-"#OFAC",
-"#AML",
-"#Stablecoins",
-"#Enforcement"
-]
-},
-{
-"slug": "what-is-staking",
-"url": "https://lcinsight.net/news/what-is-staking-how-proof-of-stake-rewards-work-and-how-you-can-lose.html",
-"title": "What is staking? How proof-of-stake rewards work and how you can lose money",
-"dek": "Staking means locking tokens to help run a proof-of-stake blockchain, in return for rewards paid in that token. The stake is collateral: validators that go offline lose a little, and on Ethereum those that break the rules can be slashed.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T13:05:00-05:00",
-"image": "https://lcinsight.net/og/what-is-staking.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Staking",
-"#Ethereum",
-"#Validators"
-]
-},
-{
-"slug": "what-is-chainlink",
-"url": "https://lcinsight.net/news/what-is-chainlink-how-defi-gets-its-prices-plus-ccip-and-link-staking.html",
-"title": "What is Chainlink? How DeFi gets its prices, plus CCIP and LINK staking",
-"dek": "Smart contracts cannot see the outside world, so lending apps rely on oracles like Chainlink to tell them what ether is worth. Chainlink also moves tokens between chains through CCIP, and LINK pays and backs the node operators who do the work.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T12:57:00-05:00",
-"image": "https://lcinsight.net/og/what-is-chainlink.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Chainlink",
-"#Staking",
-"#Interop"
-]
-},
-{
-"slug": "what-is-ethereum",
-"url": "https://lcinsight.net/news/what-is-ethereum-how-the-global-computer-works-what-eth-does-and-the.html",
-"title": "What is Ethereum? How the global computer works, what ETH does and the risks",
-"dek": "Ethereum is a public blockchain that runs programs called smart contracts, and ether (ETH) is the coin that pays for using it and secures it through staking. It launched in July 2015, switched from mining to proof of stake on September 15, 2022, and ETH traded near $2,267 as of November 2, 2026.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T12:52:00-05:00",
-"image": "https://lcinsight.net/og/what-is-ethereum.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Ethereum",
-"#Ether",
-"#Staking"
-]
-},
-{
-"slug": "what-is-mev",
-"url": "https://lcinsight.net/news/what-is-mev-how-sandwich-bots-profit-from-your-swap-and-how-to-cut-the.html",
-"title": "What is MEV? How sandwich bots profit from your swap, and how to cut the risk",
-"dek": "MEV, or maximal extractable value, is the profit made by choosing which transactions go into a block and in what order. Some of it keeps prices in line across exchanges. Sandwich attacks take it straight out of ordinary traders' swaps.",
-"category": "Guides",
-"guide": true,
-"hot": false,
-"published": "2026-11-02T12:52:00-05:00",
-"image": "https://lcinsight.net/og/what-is-mev.jpg",
-"hashtags": [
-"#Ethereum",
-"#DeFi",
-"#Validators",
-"#Uniswap",
-"#Explainer"
 ]
 }
 ]
