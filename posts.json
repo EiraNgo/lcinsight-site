@@ -1,5 +1,23 @@
 [
 {
+"slug": "two-ni-hao-cat-tokens-one-fell-90-percent-then-jumped-9x",
+"url": "https://lcinsight.net/news/two-tokens-named-ni-hao-cat-one-fell-90-percent-overnight-then-jumped.html",
+"title": "Two tokens named ni hao cat: one fell 90% overnight, then jumped 9x in a day",
+"dek": "CoinGecko lists two \"ni hao cat\" tokens with the same MIHAO ticker, one on Ethereum and one on Solana. The Ethereum one went from a record to a 90% loss and back up 9x in 24 hours, all in a single Uniswap pool.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-13T19:25:00-05:00",
+"image": "https://lcinsight.net/og/two-ni-hao-cat-tokens-one-fell-90-percent-then-jumped-9x.jpg",
+"hashtags": [
+"#MIHAO",
+"#SEPPUKU",
+"#Memecoins",
+"#PriceMoves",
+"#Trending"
+]
+},
+{
 "slug": "hype-rose-4-percent-as-bitcoin-fell-5-longs-pay-on-84-percent",
 "url": "https://lcinsight.net/news/hype-rose-4-percent-as-bitcoin-fell-5-percent-longs-pay-on-84-percent.html",
 "title": "HYPE rose 4% as bitcoin fell 5%. Longs pay on 84% of its $2.6 billion in futures bets",
@@ -3568,24 +3586,6 @@
 "#Hacks",
 "#Bitcoin",
 "#OKX"
-]
-},
-{
-"slug": "binance-hack-report-fake-job-interview-pyenv",
-"url": "https://lcinsight.net/news/a-fake-job-interview-opened-the-door-to-binances-6-34-billion-hack-its.html",
-"title": "A fake job interview opened the door to Binance's $6.34 billion hack, its own report says",
-"dek": "Binance's first incident report traces the October 29 theft to a staged hiring process, a poisoned coding test and a developer tool swapped for malware. Then nine minutes of hot-wallet transfers did the rest.",
-"category": "Security",
-"guide": false,
-"hot": true,
-"published": "2026-11-03T12:21:00-05:00",
-"image": "https://lcinsight.net/og/binance-hack-report-fake-job-interview-pyenv.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Binance",
-"#Hacks",
-"#NorthKorea"
 ]
 }
 ]
