@@ -271,5 +271,15 @@
    "technique": "Arithmetic Error"
   },
   "found": "2026-11-14T20:59:09Z"
+ },
+ {
+  "id": "trend:aster-2:20261114",
+  "kind": "trending",
+  "hint": "Aster (ASTER) trending #2 on CoinGecko, -22.5% 24h",
+  "source": "https://www.coingecko.com/en/coins/aster-2",
+  "data": {
+   "ch24": -22.45466363794954
+  },
+  "found": "2026-11-14T22:54:05Z"
  }
 ]
