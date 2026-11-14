@@ -1,18 +1,5 @@
 [
  {
-  "id": "price:rain:20261111:down",
-  "kind": "price",
-  "hint": "Rain (RAIN) -11.8% in 1h, -0.9% in 24h, now $0.0037298",
-  "source": "https://www.coingecko.com/en/coins/rain",
-  "data": {
-   "h1": -11.8026,
-   "h24": -0.85068,
-   "price": 0.0037298,
-   "mcap_rank": 36
-  },
-  "found": "2026-11-11T16:08:29Z"
- },
- {
   "id": "trend:initia:20261112",
   "kind": "trending",
   "hint": "Initia (INIT) trending #3 on CoinGecko, -56.3% 24h",
@@ -257,5 +244,18 @@
    "mcap_rank": 70
   },
   "found": "2026-11-14T12:50:39Z"
+ },
+ {
+  "id": "price:aster-2:20261114:down",
+  "kind": "price",
+  "hint": "Aster (ASTER) -11.0% in 1h, -16.4% in 24h, now $0.549405",
+  "source": "https://www.coingecko.com/en/coins/aster-2",
+  "data": {
+   "h1": -10.9567,
+   "h24": -16.36351,
+   "price": 0.549405,
+   "mcap_rank": 56
+  },
+  "found": "2026-11-14T20:01:45Z"
  }
 ]
