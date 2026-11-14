@@ -18,6 +18,150 @@
 ]
 },
 {
+"slug": "unlabeled-128m-wallet-sold-677k-aster-bought-991k-usdt0",
+"url": "https://lcinsight.net/news/a-128-7-million-wallet-sold-677-000-of-aster-and-bought-991-000-of.html",
+"title": "A $128.7 million wallet sold $677,000 of ASTER and bought $991,000 of USDT0 as bitcoin slid",
+"dek": "The address has no public label on DeepSea. DeepSea saw it trade on four networks in a day, cut ASTER and ARB, and win 28% of its trades in 30 days.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-14T07:04:00-05:00",
+"image": "https://lcinsight.net/og/unlabeled-128m-wallet-sold-677k-aster-bought-991k-usdt0.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Whales",
+"#Sharks",
+"#OnChainData"
+]
+},
+{
+"slug": "usdt0-added-115m-in-a-day-sharks-bought-2-57m-on-optimism",
+"url": "https://lcinsight.net/news/usdt0-added-115-million-in-a-day-most-since-may-sharks-bought-2-57.html",
+"title": "USDT0 added $115 million in a day, most since May. Sharks bought $2.57 million on Optimism",
+"dek": "Tether's cross-chain token grew while USDT shrank, CoinGecko data show. DeepSea's data show large wallets swapping into it on Optimism and Berachain, and out of it on Unichain.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-14T07:03:00-05:00",
+"image": "https://lcinsight.net/og/usdt0-added-115m-in-a-day-sharks-bought-2-57m-on-optimism.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Stablecoins",
+"#USDT",
+"#Tether"
+]
+},
+{
+"slug": "rlusd-record-2-79b-up-83m-in-a-day-as-usdt-shrank-323m",
+"url": "https://lcinsight.net/news/ripples-rlusd-hit-2-79-billion-its-highest-in-a-year-up-83-million-in.html",
+"title": "Ripple's RLUSD hit $2.79 billion, its highest in a year, up $83 million in a day. USDT shrank $323 million",
+"dek": "While bitcoin slid and the biggest stablecoin lost supply, Ripple's dollar token kept growing, CoinGecko data show. DefiLlama counts a much smaller total.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-14T07:02:00-05:00",
+"image": "https://lcinsight.net/og/rlusd-record-2-79b-up-83m-in-a-day-as-usdt-shrank-323m.jpg",
+"hashtags": [
+"#Stablecoins",
+"#RLUSD",
+"#Ripple",
+"#USDT",
+"#Tether"
+]
+},
+{
+"slug": "falcon-usdf-shrank-104m-in-a-day-biggest-drop-since-may",
+"url": "https://lcinsight.net/news/falcons-usdf-shrank-104-million-in-a-day-its-biggest-one-day-drop.html",
+"title": "Falcon's USDf shrank $104 million in a day, its biggest one-day drop since at least May",
+"dek": "The synthetic dollar lost 5.7% of its market value in 24 hours as bitcoin slid, CoinGecko data show. It still trades just under $1, as it has for months.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-14T07:01:00-05:00",
+"image": "https://lcinsight.net/og/falcon-usdf-shrank-104m-in-a-day-biggest-drop-since-may.jpg",
+"hashtags": [
+"#Stablecoins",
+"#DeFi",
+"#Data",
+"#PriceMoves",
+"#OnChainData"
+]
+},
+{
+"slug": "monad-shark-holdeaee-traded-167m-30-days-musd-1m-hour",
+"url": "https://lcinsight.net/news/a-monad-wallet-bought-1-million-of-metamasks-musd-in-an-hour-and.html",
+"title": "A Monad wallet bought $1 million of MetaMask's mUSD in an hour and traded $167 million in 30 days",
+"dek": "DeepSea counts 13,802 mUSD trades by one Monad shark in a month, more mUSD bought than DefiLlama counts on all of Monad. Who runs it is unknown.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-14T07:00:00-05:00",
+"image": "https://lcinsight.net/og/monad-shark-holdeaee-traded-167m-30-days-musd-1m-hour.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Monad",
+"#Stablecoins"
+]
+},
+{
+"slug": "rumor-vs-record-xrp-below-1-dollar-claims",
+"url": "https://lcinsight.net/news/rumor-vs-record-xrp-fell-below-1-3-of-7-viral-claims-hold-up-3-cannot.html",
+"title": "Rumor vs record: XRP fell below $1. 3 of 7 viral claims hold up, 3 cannot be checked",
+"dek": "XRP slipped under $1 late Friday and posts about it spread fast. We checked seven of the most shared claims against CoinGecko's price record. Three are true, one is partly true and three cannot be checked.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-14T06:58:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-xrp-below-1-dollar-claims.jpg",
+"hashtags": [
+"#RumorCheck",
+"#XRP",
+"#PriceMoves",
+"#Liquidations",
+"#Bitcoin"
+]
+},
+{
+"slug": "cftc-sues-arkansas-louisiana-kalshi-prediction-markets",
+"url": "https://lcinsight.net/news/cftc-sued-arkansas-and-louisiana-in-one-day-arkansas-seeks-up-to-10.html",
+"title": "CFTC sued Arkansas and Louisiana in one day. Arkansas seeks up to $10,000 per Kalshi violation",
+"dek": "On November 13, 2026, the U.S. derivatives regulator said it had sued Arkansas and Louisiana to stop state actions against federally regulated prediction markets. Arkansas is the 11th state it has taken to court.",
+"category": "Policy",
+"guide": false,
+"hot": false,
+"published": "2026-11-14T06:57:00-05:00",
+"image": "https://lcinsight.net/og/cftc-sues-arkansas-louisiana-kalshi-prediction-markets.jpg",
+"hashtags": [
+"#CFTC",
+"#PredictionMarkets",
+"#Kalshi",
+"#Regulation",
+"#States"
+]
+},
+{
+"slug": "bitcoin-66492-sol-hype-fall-twice-as-fast",
+"url": "https://lcinsight.net/news/bitcoin-hit-66-492-its-lowest-since-august-19-solana-and-hype-fell.html",
+"title": "Bitcoin hit $66,492, its lowest since August 19. Solana and HYPE fell twice as fast",
+"dek": "Bitcoin set a new low for this slide overnight, $1,430 under the low in our Friday report, and is down 11.5% in a week, CoinGecko data show. Solana, Hyperliquid's HYPE and ether all fell to levels last seen in mid-August, and XRP slipped below $1.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-14T06:56:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-66492-sol-hype-fall-twice-as-fast.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Solana",
+"#Hyperliquid",
+"#Ethereum",
+"#PriceMoves"
+]
+},
+{
 "slug": "pearl-rose-18-percent-in-a-day-37-percent-below-record",
 "url": "https://lcinsight.net/news/pearl-rose-18-percent-in-a-day-while-bitcoin-slipped-it-is-still-37.html",
 "title": "Pearl rose 18% in a day while bitcoin slipped. It is still 37% below its October record",
@@ -3442,150 +3586,6 @@
 "#BSC",
 "#SmartMoney",
 "#OnChainData"
-]
-},
-{
-"slug": "cftc-equity-perps-approved-cboe-citadel-sue",
-"url": "https://lcinsight.net/news/the-cftc-cleared-perpetual-futures-on-us-stocks-cboe-and-citadel-filed.html",
-"title": "The CFTC cleared perpetual futures on US stocks. Cboe and Citadel filed legal action that day",
-"dek": "On November 3, CFTC Chairman Michael Selig said perpetual futures on single US stocks can trade on CFTC-registered exchanges for the first time. The same day, Cboe, Citadel Securities and Healthy Markets Association took legal action to stop it.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-11-04T00:50:00-05:00",
-"image": "https://lcinsight.net/og/cftc-equity-perps-approved-cboe-citadel-sue.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#CFTC",
-"#PerpetualFutures",
-"#Kalshi"
-]
-},
-{
-"slug": "sharks-24h-optimism-wld-monad-10m-aave-exit",
-"url": "https://lcinsight.net/news/sharks-bought-3-05-million-of-wld-on-optimism-in-a-day-one-monad.html",
-"title": "Sharks bought $3.05 million of WLD on Optimism in a day. One Monad wallet traded $15.7 million",
-"dek": "DeepSea's live feed shows big wallets loading up on USD₮0 and WLD on Optimism, one wallet churning $15.7 million on Monad and a single $10 million Aave USDC exit on Arbitrum.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-04T00:50:00-05:00",
-"image": "https://lcinsight.net/og/sharks-24h-optimism-wld-monad-10m-aave-exit.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Whales",
-"#OnChainData",
-"#Layer2"
-]
-},
-{
-"slug": "tron-wallet-751m-usdt-binance-two-hours",
-"url": "https://lcinsight.net/news/one-tron-wallet-moved-751-million-of-usdt-through-binance-in-about-two.html",
-"title": "One Tron wallet moved $751 million of USDT through Binance in about two hours",
-"dek": "DeepSea's list of the week's largest exchange transfers is all dollar tokens: $2.49 billion in 11 moves, led by Coinbase USDC and a single unlabeled Tron address moving USDT to and from Binance.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-04T00:50:00-05:00",
-"image": "https://lcinsight.net/og/tron-wallet-751m-usdt-binance-two-hours.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Stablecoins",
-"#ExchangeFlows",
-"#Binance"
-]
-},
-{
-"slug": "zama-tops-whale-buying-3-million-deepsea-week",
-"url": "https://lcinsight.net/news/whales-and-smart-money-put-3-million-into-zama-as-it-fell-14-percent.html",
-"title": "Whales and smart money put $3 million into ZAMA as it fell 14% in a week",
-"dek": "ZAMA drew the heaviest combined buying in DeepSea's weekly data, with coins moving to cold storage. Two USD.AI tokens, CHIP and sUSDai, came next.",
-"category": "Projects",
-"guide": false,
-"hot": true,
-"published": "2026-11-03T18:44:00-05:00",
-"image": "https://lcinsight.net/og/zama-tops-whale-buying-3-million-deepsea-week.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Ethereum",
-"#Arbitrum",
-"#Whales"
-]
-},
-{
-"slug": "defi-lenders-added-12-7b-morpho-liquidations",
-"url": "https://lcinsight.net/news/defi-lenders-supplied-12-7-billion-in-a-week-morpho-blue-had-84.html",
-"title": "DeFi lenders supplied $12.7 billion in a week. Morpho Blue had 84% of liquidations",
-"dek": "DeepSea's lending data for October 26 to November 1 shows deposits far ahead of withdrawals, borrowing almost exactly matched by repayments, and $12.69 million liquidated, most of it on Morpho Blue.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-11-03T18:43:00-05:00",
-"image": "https://lcinsight.net/og/defi-lenders-added-12-7b-morpho-liquidations.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#DeFi",
-"#Aave",
-"#Morpho"
-]
-},
-{
-"slug": "whales-sold-28-9m-lbtc-smart-money-bought",
-"url": "https://lcinsight.net/news/whales-cut-28-9-million-of-lbtc-in-a-week-smart-money-bought-just-127.html",
-"title": "Whales cut $28.9 million of LBTC in a week. Smart money bought just $127,900",
-"dek": "Lombard's bitcoin token on Ethereum was the most sold token in DeepSea's weekly data, by a wide margin. Whales also cut $6.47 million of ARB, with DeepSea flagging moves to cold storage.",
-"category": "DeFi",
-"guide": false,
-"hot": true,
-"published": "2026-11-03T18:43:00-05:00",
-"image": "https://lcinsight.net/og/whales-sold-28-9m-lbtc-smart-money-bought.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Bitcoin",
-"#Ethereum",
-"#Arbitrum"
-]
-},
-{
-"slug": "pepe-shib-deposits-us-europe-exchanges-btc-leaves",
-"url": "https://lcinsight.net/news/pepe-and-shib-flowed-into-us-and-european-exchanges-as-120-million-in.html",
-"title": "PEPE and SHIB flowed into US and European exchanges as $120 million in bitcoin left",
-"dek": "DeepSea's weekly data shows Western exchanges nearly flat overall, at minus $54.98 million. Under the surface, memecoins were deposited, bitcoin was withdrawn, Kraken lost 1,526 BTC and one $399.78 million USDC transfer left Coinbase.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-11-03T18:42:00-05:00",
-"image": "https://lcinsight.net/og/pepe-shib-deposits-us-europe-exchanges-btc-leaves.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#ExchangeFlows",
-"#Memecoins",
-"#Bitcoin"
-]
-},
-{
-"slug": "solana-kols-lost-395k-week-zeropnl-7-green-days",
-"url": "https://lcinsight.net/news/448-of-617-solana-influencers-lost-money-last-week-the-best-one-won.html",
-"title": "448 of 617 Solana influencers lost money last week. The best one won all seven days",
-"dek": "DeepSea's tracked crypto influencers on Solana closed the week $395,600 down. A trader called zeropnl made $82,900 with seven green days, while one smart money wallet lost $1.81 million in a single day.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-03T18:42:00-05:00",
-"image": "https://lcinsight.net/og/solana-kols-lost-395k-week-zeropnl-7-green-days.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Solana",
-"#KOLs",
-"#SmartMoney"
 ]
 }
 ]
