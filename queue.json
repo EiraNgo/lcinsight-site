@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:kinetiq:20261111",
-  "kind": "trending",
-  "hint": "Kinetiq (KNTQ) trending #3 on CoinGecko, -21.7% 24h",
-  "source": "https://www.coingecko.com/en/coins/kinetiq",
-  "data": {
-   "ch24": -21.715478496640497
-  },
-  "found": "2026-11-11T02:22:36Z"
- },
- {
   "id": "trend:zcash:20261111",
   "kind": "trending",
   "hint": "Zcash (ZEC) trending #2 on CoinGecko, -15.0% 24h",
@@ -244,5 +234,15 @@
    "ch24": 329.753683487228
   },
   "found": "2026-11-14T00:56:56Z"
+ },
+ {
+  "id": "trend:pearl-2:20261114",
+  "kind": "trending",
+  "hint": "Pearl (PEARL) trending #3 on CoinGecko, +16.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/pearl-2",
+  "data": {
+   "ch24": 15.959923715423052
+  },
+  "found": "2026-11-14T04:50:34Z"
  }
 ]
