@@ -257,5 +257,19 @@
    "mcap_rank": 56
   },
   "found": "2026-11-14T20:01:45Z"
+ },
+ {
+  "id": "hack:Kava Lend:1794614400",
+  "kind": "hack",
+  "hint": "Kava Lend hacked/exploited, ~$3.7M (Token & Share Accounting)",
+  "source": "https://defillama.com/hacks",
+  "data": {
+   "amount": 3700000,
+   "chain": [
+    "Kava"
+   ],
+   "technique": "Arithmetic Error"
+  },
+  "found": "2026-11-14T20:59:09Z"
  }
 ]
