@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:zcash:20261111",
-  "kind": "trending",
-  "hint": "Zcash (ZEC) trending #2 on CoinGecko, -15.0% 24h",
-  "source": "https://www.coingecko.com/en/coins/zcash",
-  "data": {
-   "ch24": -15.042038567705179
-  },
-  "found": "2026-11-11T12:43:13Z"
- },
- {
   "id": "price:rain:20261111:down",
   "kind": "price",
   "hint": "Rain (RAIN) -11.8% in 1h, -0.9% in 24h, now $0.0037298",
@@ -254,5 +244,18 @@
    "ch24": -46.835607660844474
   },
   "found": "2026-11-14T11:53:30Z"
+ },
+ {
+  "id": "price:bitway:20261114:up",
+  "kind": "price",
+  "hint": "Bitway (BTW) +3.0% in 1h, -28.1% in 24h, now $0.65453",
+  "source": "https://www.coingecko.com/en/coins/bitway",
+  "data": {
+   "h1": 2.9577,
+   "h24": -28.05073,
+   "price": 0.65453,
+   "mcap_rank": 70
+  },
+  "found": "2026-11-14T12:50:39Z"
  }
 ]
