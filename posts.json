@@ -1,5 +1,41 @@
 [
 {
+"slug": "akedo-ake-nearly-doubles-again-583m-volume",
+"url": "https://lcinsight.net/news/ake-rose-82-percent-more-after-our-friday-report-as-583-million-traded.html",
+"title": "AKE rose 82% more after our Friday report as $583 million traded, twice its value",
+"dek": "Akedo's AKE token rose another 82% from Friday morning to early Saturday and is up almost fourfold from its 24-hour low, CoinGecko data show. It is still 92% below its September record.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-14T00:50:00-05:00",
+"image": "https://lcinsight.net/og/akedo-ake-nearly-doubles-again-583m-volume.jpg",
+"hashtags": [
+"#Altcoins",
+"#Trending",
+"#BNBChain",
+"#PriceMoves",
+"#AIAgents"
+]
+},
+{
+"slug": "arbitrum-wallet-took-in-32-8m-of-arb-in-a-week-as-arb-fell",
+"url": "https://lcinsight.net/news/one-wallet-took-in-32-8-million-of-arb-in-a-week-as-arb-fell-14-5.html",
+"title": "One wallet took in $32.8 million of ARB in a week as ARB fell 14.5%. DeepSea shows $0 sent",
+"dek": "A large Arbitrum wallet kept receiving ARB from four addresses and bought more, DeepSea's data show, through one of the token's weakest weeks. Who owns it is unknown, and we could not check it on a block explorer.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-14T00:50:00-05:00",
+"image": "https://lcinsight.net/og/arbitrum-wallet-took-in-32-8m-of-arb-in-a-week-as-arb-fell.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Arbitrum",
+"#ARB"
+]
+},
+{
 "slug": "two-ni-hao-cat-tokens-one-fell-90-percent-then-jumped-9x",
 "url": "https://lcinsight.net/news/two-tokens-named-ni-hao-cat-one-fell-90-percent-overnight-then-jumped.html",
 "title": "Two tokens named ni hao cat: one fell 90% overnight, then jumped 9x in a day",
@@ -3550,42 +3586,6 @@
 "#Stablecoins",
 "#ExchangeFlows",
 "#RLUSD"
-]
-},
-{
-"slug": "binance-66386-btc-net-inflow-hack-week",
-"url": "https://lcinsight.net/news/binance-took-in-a-net-66-386-bitcoin-worth-5-2-billion-in-the-week-it.html",
-"title": "Binance took in a net 66,386 bitcoin, worth $5.2 billion, in the week it was hacked",
-"dek": "DeepSea's data shows a net $5.04 billion flowing into Binance from October 26 to November 1, almost all of Asia's net inflow. Who sent it? The data cannot say.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-11-03T18:40:00-05:00",
-"image": "https://lcinsight.net/og/binance-66386-btc-net-inflow-hack-week.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Bitcoin",
-"#Binance",
-"#ExchangeFlows"
-]
-},
-{
-"slug": "hack-funds-307m-btc-reached-exchanges-okx-binance",
-"url": "https://lcinsight.net/news/307-million-in-hack-linked-bitcoin-hit-exchanges-in-one-week-okx-got.html",
-"title": "$307 million in hack-linked bitcoin hit exchanges in one week. OKX got the biggest share",
-"dek": "DeepSea counted 680 deposits of tainted funds into exchanges from October 26 to November 1, nearly all in BTC. OKX took $139.96 million in just 55 of them, including a run of near-identical $15.47 million transfers.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-11-03T18:40:00-05:00",
-"image": "https://lcinsight.net/og/hack-funds-307m-btc-reached-exchanges-okx-binance.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Hacks",
-"#Bitcoin",
-"#OKX"
 ]
 }
 ]
