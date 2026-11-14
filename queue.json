@@ -244,5 +244,15 @@
    "ch24": 15.959923715423052
   },
   "found": "2026-11-14T04:50:34Z"
+ },
+ {
+  "id": "trend:kava:20261114",
+  "kind": "trending",
+  "hint": "Kava (KAVA) trending #3 on CoinGecko, -46.8% 24h",
+  "source": "https://www.coingecko.com/en/coins/kava",
+  "data": {
+   "ch24": -46.835607660844474
+  },
+  "found": "2026-11-14T11:53:30Z"
  }
 ]
