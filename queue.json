@@ -1,45 +1,5 @@
 [
  {
-  "id": "trend:ni-hao-cat:20261112",
-  "kind": "trending",
-  "hint": "ni hao cat (MIHAO) trending #1 on CoinGecko, +318.9% 24h",
-  "source": "https://www.coingecko.com/en/coins/ni-hao-cat",
-  "data": {
-   "ch24": 318.9151938572997
-  },
-  "found": "2026-11-12T17:49:56Z"
- },
- {
-  "id": "trend:audacity-4:20261112",
-  "kind": "trending",
-  "hint": "AudaCity (DACITYCOIN) trending #2 on CoinGecko, +19.6% 24h",
-  "source": "https://www.coingecko.com/en/coins/audacity-4",
-  "data": {
-   "ch24": 19.569620612974827
-  },
-  "found": "2026-11-12T18:47:30Z"
- },
- {
-  "id": "trend:rocco:20261112",
-  "kind": "trending",
-  "hint": "Rocco (ROCCO) trending #3 on CoinGecko, +37.2% 24h",
-  "source": "https://www.coingecko.com/en/coins/rocco",
-  "data": {
-   "ch24": 37.210309087485285
-  },
-  "found": "2026-11-12T19:33:33Z"
- },
- {
-  "id": "reg:https://www.sec.gov/Archives/edgar/data/2035053/000203505326000029/0002035053-26-000029-index.htm",
-  "kind": "regulator",
-  "hint": "US SEC EDGAR 424B: 424B3 - Grayscale Avalanche Staking ETF (0002035053) (Filer)",
-  "source": "https://www.sec.gov/Archives/edgar/data/2035053/000203505326000029/0002035053-26-000029-index.htm",
-  "data": {
-   "source": "US SEC EDGAR 424B"
-  },
-  "found": "2026-11-12T19:58:08Z"
- },
- {
   "id": "reg:https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web",
   "kind": "regulator",
   "hint": "US DOJ: International Law Enforcement Operation Targeting Opioid and Fentanyl Traffickers on the Dark Web Results in over 350 Arrests Worldwide and the Seizure of Drugs, Weapons, and over $234 Million Today, ",
@@ -301,5 +261,15 @@
    "ch24": 336.49658305687325
   },
   "found": "2026-11-15T16:38:26Z"
+ },
+ {
+  "id": "trend:macca-the-gator-2:20261115",
+  "kind": "trending",
+  "hint": "Macca the Gator (MACCA) trending #1 on CoinGecko, +301.6% 24h",
+  "source": "https://www.coingecko.com/en/coins/macca-the-gator-2",
+  "data": {
+   "ch24": 301.61134036737735
+  },
+  "found": "2026-11-15T20:04:48Z"
  }
 ]
