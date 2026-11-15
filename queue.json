@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:initia:20261112",
-  "kind": "trending",
-  "hint": "Initia (INIT) trending #3 on CoinGecko, -56.3% 24h",
-  "source": "https://www.coingecko.com/en/coins/initia",
-  "data": {
-   "ch24": -56.33289417073738
-  },
-  "found": "2026-11-12T03:00:05Z"
- },
- {
   "id": "trend:epic-cash:20261112",
   "kind": "trending",
   "hint": "Epic Private Internet Cash (EPIC) trending #3 on CoinGecko, +15.7% 24h",
@@ -291,5 +281,15 @@
    "ch24": -16.577114345883608
   },
   "found": "2026-11-15T01:01:53Z"
+ },
+ {
+  "id": "trend:kava:20261115",
+  "kind": "trending",
+  "hint": "Kava (KAVA) trending #3 on CoinGecko, -46.2% 24h",
+  "source": "https://www.coingecko.com/en/coins/kava",
+  "data": {
+   "ch24": -46.24023927184269
+  },
+  "found": "2026-11-15T06:57:20Z"
  }
 ]
