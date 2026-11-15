@@ -1,35 +1,5 @@
 [
  {
-  "id": "trend:epic-cash:20261112",
-  "kind": "trending",
-  "hint": "Epic Private Internet Cash (EPIC) trending #3 on CoinGecko, +15.7% 24h",
-  "source": "https://www.coingecko.com/en/coins/epic-cash",
-  "data": {
-   "ch24": 15.715430538653028
-  },
-  "found": "2026-11-12T07:33:32Z"
- },
- {
-  "id": "reg:https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261112-3/",
-  "kind": "regulator",
-  "hint": "Hong Kong HKMA: HKMA and SFC co-host seminar to advance tokenisation in Hong Kong and promote collaborative opportunities within Project Ensemble",
-  "source": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261112-3/",
-  "data": {
-   "source": "Hong Kong HKMA"
-  },
-  "found": "2026-11-12T08:19:22Z"
- },
- {
-  "id": "trend:seppuku:20261112",
-  "kind": "trending",
-  "hint": "Seppuku (SEPPUKU) trending #1 on CoinGecko, +17.6% 24h",
-  "source": "https://www.coingecko.com/en/coins/seppuku",
-  "data": {
-   "ch24": 17.60959327545811
-  },
-  "found": "2026-11-12T10:46:43Z"
- },
- {
   "id": "trend:ni-hao-cat:20261112",
   "kind": "trending",
   "hint": "ni hao cat (MIHAO) trending #1 on CoinGecko, +318.9% 24h",
@@ -291,5 +261,15 @@
    "ch24": -46.24023927184269
   },
   "found": "2026-11-15T06:57:20Z"
+ },
+ {
+  "id": "trend:identity-md:20261115",
+  "kind": "trending",
+  "hint": "Identity.md (IMD) trending #1 on CoinGecko, +37.3% 24h",
+  "source": "https://www.coingecko.com/en/coins/identity-md",
+  "data": {
+   "ch24": 37.34755739605614
+  },
+  "found": "2026-11-15T13:01:14Z"
  }
 ]
