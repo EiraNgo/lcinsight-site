@@ -271,5 +271,15 @@
    "ch24": 37.34755739605614
   },
   "found": "2026-11-15T13:01:14Z"
+ },
+ {
+  "id": "trend:gato-the-cat:20261115",
+  "kind": "trending",
+  "hint": "Gato The Cat (GATO) trending #2 on CoinGecko, +46.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/gato-the-cat",
+  "data": {
+   "ch24": 46.03865622369807
+  },
+  "found": "2026-11-15T13:13:16Z"
  }
 ]
