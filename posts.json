@@ -1,5 +1,184 @@
 [
 {
+"slug": "bitcoin-never-two-losing-years-needs-87509-in-46-days",
+"url": "https://lcinsight.net/news/bitcoin-has-never-lost-two-years-in-a-row-it-needs-a-34-percent-jump.html",
+"title": "Bitcoin has never lost two years in a row. It needs a 34% jump in 46 days to avoid it",
+"dek": "Bitcoin closed 2025 at $87,509 on CoinMarketCap, down 6.3% for the year. At about $65,500 on Sunday, November 15, 2026, it is down 25% in 2026. CoinMarketCap's daily record since 2013 shows every losing year followed by a gain.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-15T07:07:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-never-two-losing-years-needs-87509-in-46-days.jpg",
+"hashtags": [
+"#Bitcoin",
+"#PriceMoves",
+"#MarketCap",
+"#BearMarket"
+]
+},
+{
+"slug": "polkadot-filecoin-algorand-pi-record-lows-saturday",
+"url": "https://lcinsight.net/news/polkadot-filecoin-algorand-and-pi-all-hit-record-lows-in-one-saturday.html",
+"title": "Polkadot, Filecoin, Algorand and Pi all hit record lows in one Saturday evening",
+"dek": "As bitcoin slid on Saturday, November 14, 2026, Polkadot's DOT, Filecoin's FIL, Algorand's ALGO and Pi Network's PI all set all-time lows on CoinGecko within about three and a half hours. Each is now 97% to 99.7% below its peak.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-15T07:06:00-05:00",
+"image": "https://lcinsight.net/og/polkadot-filecoin-algorand-pi-record-lows-saturday.jpg",
+"hashtags": [
+"#Polkadot",
+"#Filecoin",
+"#Altcoins",
+"#PriceMoves",
+"#Bitcoin"
+]
+},
+{
+"slug": "rumor-vs-record-200-week-average-strategy-fear-claims",
+"url": "https://lcinsight.net/news/rumor-vs-record-bitcoin-broke-its-200-week-average-but-not-for-the.html",
+"title": "Rumor vs record: bitcoin broke its 200-week average, but not for the first time",
+"dek": "After bitcoin's weekend slide, posts claimed a first-ever break of the 200-week average, a record fear reading and an 18% loss for Strategy. We checked five claims against CoinMarketCap, CoinGecko and Strategy's own filing.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-15T07:05:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-200-week-average-strategy-fear-claims.jpg",
+"hashtags": [
+"#RumorCheck",
+"#Bitcoin",
+"#Strategy",
+"#PriceMoves",
+"#MarketCap"
+]
+},
+{
+"slug": "solana-shorts-pay-on-83-percent-of-4-2b-futures-bets",
+"url": "https://lcinsight.net/news/solana-fell-19-percent-in-a-week-shorts-now-pay-on-83-percent-of-its-4.html",
+"title": "Solana fell 19% in a week. Shorts now pay on 83% of its $4.2 billion in futures bets",
+"dek": "Funding on Solana perpetual futures was negative on almost every big venue, CoinGecko's derivatives data show. XRP looks similar. Bitcoin does not, and on Hyperliquid, Solana longs still pay.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-15T07:02:00-05:00",
+"image": "https://lcinsight.net/og/solana-shorts-pay-on-83-percent-of-4-2b-futures-bets.jpg",
+"hashtags": [
+"#Solana",
+"#XRP",
+"#Perps",
+"#FundingRates",
+"#PriceMoves"
+]
+},
+{
+"slug": "sec-clears-nasdaq-ise-options-on-crypto-etfs-700m-test",
+"url": "https://lcinsight.net/news/sec-lets-nasdaq-ise-list-crypto-etf-options-without-a-vote-per-fund-if.html",
+"title": "SEC lets Nasdaq ISE list crypto ETF options without a vote per fund, if coins pass a $700 million test",
+"dek": "A November 10 SEC order lets the options exchange list contracts on trusts that hold \"digital commodities\" without a new SEC vote for each fund. Each coin inside must pass a size test, and most of the fund a surveillance test.",
+"category": "ETFs",
+"guide": false,
+"hot": false,
+"published": "2026-11-15T07:00:00-05:00",
+"image": "https://lcinsight.net/og/sec-clears-nasdaq-ise-options-on-crypto-etfs-700m-test.jpg",
+"hashtags": [
+"#ETF",
+"#SEC",
+"#Nasdaq",
+"#Options",
+"#Regulation"
+]
+},
+{
+"slug": "seven-dollar-tokens-shrank-3-46b-in-a-week-only-rlusd-grew",
+"url": "https://lcinsight.net/news/seven-big-dollar-tokens-shrank-3-46-billion-in-under-a-week-only-rlusd.html",
+"title": "Seven big dollar tokens shrank $3.46 billion in under a week. Only RLUSD grew",
+"dek": "USDT and USDC lost $2.82 billion between them since Sunday, November 8, CoinGecko data show, as bitcoin fell 13.6% in seven days. Ripple's RLUSD added $107 million.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-15T06:57:00-05:00",
+"image": "https://lcinsight.net/og/seven-dollar-tokens-shrank-3-46b-in-a-week-only-rlusd-grew.jpg",
+"hashtags": [
+"#Stablecoins",
+"#USDT",
+"#USDC",
+"#RLUSD",
+"#Data"
+]
+},
+{
+"slug": "pax-gold-30-percent-below-january-holders-add-16200-ounces",
+"url": "https://lcinsight.net/news/gold-token-paxg-is-32-percent-off-its-january-record-yet-holders-added.html",
+"title": "Gold token PAXG is 32% off its January record, yet holders added 16,200 ounces since August",
+"dek": "PAX Gold fell 5.7% in a week to $3,826, CoinGecko data show. Its supply, one token per ounce, rose to 447,522 ounces, up 16,209 since its August 29 low.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-15T06:56:00-05:00",
+"image": "https://lcinsight.net/og/pax-gold-30-percent-below-january-holders-add-16200-ounces.jpg",
+"hashtags": [
+"#PAXGold",
+"#Gold",
+"#Paxos",
+"#Tokenization",
+"#Data"
+]
+},
+{
+"slug": "paxos-usdg-shrank-512m-since-october-22",
+"url": "https://lcinsight.net/news/paxoss-global-dollar-shrank-512-million-in-24-days-16-percent-of-its.html",
+"title": "Paxos's Global Dollar shrank $512 million in 24 days, 16% of its supply",
+"dek": "USDG fell from $3.16 billion on October 22 to $2.65 billion on Sunday, CoinGecko data show. That is 25% below its May peak, while its price held at $1.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-15T06:55:00-05:00",
+"image": "https://lcinsight.net/og/paxos-usdg-shrank-512m-since-october-22.jpg",
+"hashtags": [
+"#Stablecoins",
+"#Paxos",
+"#Data",
+"#OnChainData",
+"#MarketCap"
+]
+},
+{
+"slug": "sharks-sold-47-6m-dollar-tokens-bought-40-4m-crash-weekend",
+"url": "https://lcinsight.net/news/sharks-sold-47-6-million-of-dollar-tokens-in-a-day-and-bought-40-4.html",
+"title": "Sharks sold $47.6 million of dollar tokens in a day and bought $40.4 million",
+"dek": "DeepSea's 24-hour shark lists show 18 stablecoin and dollar-yield token rows in 492 trades. That is a net $7.28 million out, led by Aave USDC on Arbitrum and AUSD on Monad.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-15T06:51:00-05:00",
+"image": "https://lcinsight.net/og/sharks-sold-47-6m-dollar-tokens-bought-40-4m-crash-weekend.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Stablecoins",
+"#Aave"
+]
+},
+{
+"slug": "top-two-traders-made-147-7m-crash-week-moved-55m-aave-arbitrum",
+"url": "https://lcinsight.net/news/two-traders-made-147-7-million-in-crash-week-their-arbitrum-wallets.html",
+"title": "Two traders made $147.7 million in crash week. Their Arbitrum wallets moved $55 million in a day",
+"dek": "DeepSea's smart money board shows SMc060 up $80.36 million and SM6e36 up $67.36 million in 7 days. On Arbitrum, the same addresses sold $30 million and bought $25 million of tokens in a day, sums that match Aave's USDC deposit token.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-15T06:50:00-05:00",
+"image": "https://lcinsight.net/og/top-two-traders-made-147-7m-crash-week-moved-55m-aave-arbitrum.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#SmartMoney",
+"#Hyperliquid",
+"#Aave"
+]
+},
+{
 "slug": "binance-anthropic-pre-ipo-perp-13-1-billion-shares",
 "url": "https://lcinsight.net/news/binances-anthropic-pre-ipo-contract-assumed-1-billion-shares-the.html",
 "title": "Binance's Anthropic pre-IPO contract assumed 1 billion shares. The filing points to 13.1 billion",
@@ -3407,185 +3586,6 @@
 "#Whales",
 "#OnChainData",
 "#Stablecoins"
-]
-},
-{
-"slug": "mk4-kol-lost-2-84m-week-27-6m-shorts-btc-eth",
-"url": "https://lcinsight.net/news/this-weeks-worst-crypto-influencer-lost-2-84-million-and-still-bets-27.html",
-"title": "This week's worst crypto influencer lost $2.84 million and still bets $27.6 million on a fall",
-"dek": "DeepSea shows the KOL wallet mk4 on Hyperliquid holding 11 short positions, led by $7.82 million against ether and $7.69 million against bitcoin, while both coins rose overnight.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-05T01:40:00-05:00",
-"image": "https://lcinsight.net/og/mk4-kol-lost-2-84m-week-27-6m-shorts-btc-eth.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#KOLs",
-"#Hyperliquid",
-"#Bitcoin"
-]
-},
-{
-"slug": "trump-memecoin-record-low-1-22-down-98-percent",
-"url": "https://lcinsight.net/news/the-trump-memecoin-hit-a-record-low-of-1-22-it-is-now-98-percent-below.html",
-"title": "The TRUMP memecoin hit a record low of $1.22. It is now 98% below its January 2025 peak",
-"dek": "The Solana token fell 12.6% in two hours on November 4 as trading volume more than quadrupled, CoinGecko's data shows. Its 24-hour volume is now larger than its whole market value.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-05T01:40:00-05:00",
-"image": "https://lcinsight.net/og/trump-memecoin-record-low-1-22-down-98-percent.jpg",
-"hashtags": [
-"#Memecoins",
-"#Solana",
-"#TokenSupply",
-"#Data"
-]
-},
-{
-"slug": "ether-jumps-4-6-percent-in-two-hours-bitcoin-80000",
-"url": "https://lcinsight.net/news/ether-jumped-4-6-percent-in-two-hours-and-bitcoin-is-back-above-80-000.html",
-"title": "Ether jumped 4.6% in two hours and bitcoin is back above $80,000. Big traders are 86% long",
-"dek": "Most of ether's 5.5% daily gain came between 9 and 11 a.m. ET on November 4, CoinGecko's data shows. DeepSea counts $3.35 billion in long bets against $543.87 million in shorts.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-05T01:30:00-05:00",
-"image": "https://lcinsight.net/og/ether-jumps-4-6-percent-in-two-hours-bitcoin-80000.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Ethereum",
-"#Bitcoin",
-"#Perpetuals"
-]
-},
-{
-"slug": "kols-30-days-177-up-25-down-four-lost-19-8m",
-"url": "https://lcinsight.net/news/177-crypto-influencers-made-money-in-30-days-four-others-lost-19-8.html",
-"title": "177 crypto influencers made money in 30 days. Four others lost $19.8 million",
-"dek": "DeepSea's 30-day KOL leaderboard looks like a winning month: 177 of 202 accounts are up. Then you reach the bottom, where Machi Big Brother alone shows minus $12.42 million.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-05T01:30:00-05:00",
-"image": "https://lcinsight.net/og/kols-30-days-177-up-25-down-four-lost-19-8m.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#KOLs",
-"#Hyperliquid",
-"#SmartMoney"
-]
-},
-{
-"slug": "2-freres-2-fauves-kol-8-84m-week-25m-usdc-hyperliquid",
-"url": "https://lcinsight.net/news/the-top-crypto-influencer-of-the-week-made-8-84-million-and-now-sits.html",
-"title": "The top crypto influencer of the week made $8.84 million and now sits on $25.5 million in USDC",
-"dek": "DeepSea's KOL leaderboard puts \"2 freres 2 fauves\" first by a wide margin, three times the runner-up. Its latest Hyperliquid orders were in silver and copper markets, not crypto.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-05T01:20:00-05:00",
-"image": "https://lcinsight.net/og/2-freres-2-fauves-kol-8-84m-week-25m-usdc-hyperliquid.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#KOLs",
-"#Hyperliquid",
-"#SmartMoney"
-]
-},
-{
-"slug": "monad-shark-bought-2-38m-weth-sold-fixed-yield-tokens",
-"url": "https://lcinsight.net/news/one-monad-wallet-bought-2-38-million-of-ether-its-closed-trades-lost-1.html",
-"title": "One Monad wallet bought $2.38 million of ether. Its closed trades lost $1.15 million in 30 days",
-"dek": "Every shark trade DeepSea logged on Monad in the last 24 hours came from one wallet. It bought wrapped ether and sold fixed-yield dollar tokens.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-05T01:15:00-05:00",
-"image": "https://lcinsight.net/og/monad-shark-bought-2-38m-weth-sold-fixed-yield-tokens.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Whales",
-"#OnChainData",
-"#Monad"
-]
-},
-{
-"slug": "sharks-sold-7-85m-usdt0-optimism-24h",
-"url": "https://lcinsight.net/news/shark-wallets-sold-7-85-million-of-the-usd0-dollar-token-on-optimism-a.html",
-"title": "Shark wallets sold $7.85 million of the USD₮0 dollar token on Optimism, a day after buying it",
-"dek": "A day ago shark wallets were buying USD₮0 on Optimism. DeepSea's feed now shows them net sellers of almost $3 million, while OP selling kept going.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-05T01:10:00-05:00",
-"image": "https://lcinsight.net/og/sharks-sold-7-85m-usdt0-optimism-24h.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Whales",
-"#OnChainData",
-"#Layer2"
-]
-},
-{
-"slug": "binance-flips-to-1-55b-net-outflow-7-days",
-"url": "https://lcinsight.net/news/binances-7-day-flow-on-deepsea-a-1-55-billion-net-outflow-after-last.html",
-"title": "Binance's 7-day flow on DeepSea: a $1.55 billion net outflow after last week's $5.04B inflow",
-"dek": "Last week's DeepSea report showed money pouring into Binance. Its live seven-day count now shows $4.54 billion leaving and $3.00 billion arriving.",
-"category": "Exchanges",
-"guide": false,
-"hot": true,
-"published": "2026-11-05T01:05:00-05:00",
-"image": "https://lcinsight.net/og/binance-flips-to-1-55b-net-outflow-7-days.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Binance",
-"#ExchangeFlows",
-"#OnChainData"
-]
-},
-{
-"slug": "mexc-107m-net-inflow-week-okx-gate-bybit-outflows",
-"url": "https://lcinsight.net/news/mexc-took-in-a-net-107-6-million-in-seven-days-more-than-any-other.html",
-"title": "MEXC took in a net $107.6 million in seven days, more than any other exchange",
-"dek": "Among the exchanges DeepSea tracks, MEXC topped the seven-day inflow table while OKX, Gate, Bybit and Bitget all saw net outflows.",
-"category": "Exchanges",
-"guide": false,
-"hot": true,
-"published": "2026-11-05T01:05:00-05:00",
-"image": "https://lcinsight.net/og/mexc-107m-net-inflow-week-okx-gate-bybit-outflows.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#ExchangeFlows",
-"#OnChainData",
-"#OKX"
-]
-},
-{
-"slug": "robinhood-wallets-hold-14-9b-more-than-okx-bybit-kraken",
-"url": "https://lcinsight.net/news/robinhoods-14-9-billion-ranks-third-on-deepsea-one-cold-wallet-holds.html",
-"title": "Robinhood's $14.9 billion ranks third on DeepSea. One cold wallet holds $11.27 billion of it",
-"dek": "DeepSea's exchanges list puts Robinhood's labeled wallets behind only Binance and Bitfinex. A single Bitcoin cold wallet holds about three-quarters of the total.",
-"category": "Exchanges",
-"guide": false,
-"hot": true,
-"published": "2026-11-05T01:05:00-05:00",
-"image": "https://lcinsight.net/og/robinhood-wallets-hold-14-9b-more-than-okx-bybit-kraken.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Bitcoin",
-"#Exchanges",
-"#OnChainData"
 ]
 }
 ]
