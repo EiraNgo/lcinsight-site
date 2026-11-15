@@ -281,5 +281,15 @@
    "ch24": -22.45466363794954
   },
   "found": "2026-11-14T22:54:05Z"
+ },
+ {
+  "id": "trend:uniswap:20261115",
+  "kind": "trending",
+  "hint": "Uniswap (UNI) trending #3 on CoinGecko, -16.6% 24h",
+  "source": "https://www.coingecko.com/en/coins/uniswap",
+  "data": {
+   "ch24": -16.577114345883608
+  },
+  "found": "2026-11-15T01:01:53Z"
  }
 ]
