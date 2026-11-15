@@ -1,5 +1,185 @@
 [
 {
+"slug": "binance-anthropic-pre-ipo-perp-13-1-billion-shares",
+"url": "https://lcinsight.net/news/binances-anthropic-pre-ipo-contract-assumed-1-billion-shares-the.html",
+"title": "Binance's Anthropic pre-IPO contract assumed 1 billion shares. The filing points to 13.1 billion",
+"dek": "Binance priced its ANTHROPICUSDT contract on an estimate of 1 billion Anthropic shares. Citing Anthropic's latest IPO filing, it now expects about 13.1 billion and will resize and rename the contract before the stock lists.",
+"category": "Exchanges",
+"guide": false,
+"hot": false,
+"published": "2026-11-15T01:15:00-05:00",
+"image": "https://lcinsight.net/og/binance-anthropic-pre-ipo-perp-13-1-billion-shares.jpg",
+"hashtags": [
+"#Binance",
+"#IPO",
+"#TokenizedStocks",
+"#AI",
+"#Derivatives"
+]
+},
+{
+"slug": "binance-reopens-withdrawals-on-87-more-networks",
+"url": "https://lcinsight.net/news/binance-reopens-withdrawals-on-87-more-networks-after-covering-its-6.html",
+"title": "Binance reopens withdrawals on 87 more networks after covering its $6.34 billion hack",
+"dek": "Two weeks after the October 29 theft, Binance says it has covered every affected asset with company money and reopened withdrawals on 87 more networks, from Avalanche to Cardano. It aims to reopen the rest by the end of next week.",
+"category": "Security",
+"guide": false,
+"hot": true,
+"published": "2026-11-15T01:15:00-05:00",
+"image": "https://lcinsight.net/og/binance-reopens-withdrawals-on-87-more-networks.jpg",
+"hashtags": [
+"#Binance",
+"#Hacks",
+"#Exchanges",
+"#ProofOfReserves",
+"#Withdrawals"
+]
+},
+{
+"slug": "bitcoin-etfs-lose-881m-in-week-seven-day-outflow-streak",
+"url": "https://lcinsight.net/news/u-s-bitcoin-etfs-lost-881-million-in-a-week-and-1-72-billion-in-seven.html",
+"title": "U.S. bitcoin ETFs lost $881 million in a week and $1.72 billion in seven straight days",
+"dek": "U.S. spot bitcoin funds had net outflows every trading day from November 5 to 13 while bitcoin fell 8.6% over the week. Ether funds ended a six-day losing run with a $2.3 million inflow on Friday.",
+"category": "ETFs",
+"guide": false,
+"hot": false,
+"published": "2026-11-15T01:10:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-etfs-lose-881m-in-week-seven-day-outflow-streak.jpg",
+"hashtags": [
+"#ETF",
+"#BitcoinETF",
+"#Bitcoin",
+"#Ethereum",
+"#PriceMoves"
+]
+},
+{
+"slug": "ether-falls-to-1714-below-1800-lowest-since-early-july",
+"url": "https://lcinsight.net/news/ether-fell-to-1-714-on-saturday-below-1-800-for-the-first-time-since.html",
+"title": "Ether fell to $1,714 on Saturday, below $1,800 for the first time since July",
+"dek": "Ether fell below $1,900 late Friday and $1,800 on Saturday afternoon, then hit $1,714.75 at 8:45 p.m. ET, CoinGecko data show. That is its lowest price since early July, and ether has lost 18.9% in a week.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-15T01:10:00-05:00",
+"image": "https://lcinsight.net/og/ether-falls-to-1714-below-1800-lowest-since-early-july.jpg",
+"hashtags": [
+"#Ethereum",
+"#Ether",
+"#PriceMoves",
+"#Bitcoin",
+"#Data"
+]
+},
+{
+"slug": "rumor-vs-record-bitcoin-62000-crash-claims",
+"url": "https://lcinsight.net/news/rumor-vs-record-bitcoin-hit-62-081-and-only-3-of-7-viral-crash-claims.html",
+"title": "Rumor vs record: bitcoin hit $62,081, and only 3 of 7 viral crash claims hold up",
+"dek": "Bitcoin's Saturday slide set off a wave of posts about record ETF exits, a 50% crash and a hidden fund blowup. We checked seven of the most shared claims against CoinGecko, CoinMarketCap and ETF flow data.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-15T01:10:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-bitcoin-62000-crash-claims.jpg",
+"hashtags": [
+"#RumorCheck",
+"#Bitcoin",
+"#PriceMoves",
+"#Liquidations",
+"#ETF"
+]
+},
+{
+"slug": "hyperliquid-passes-bybit-open-bets-crypto-side-shrinks-14",
+"url": "https://lcinsight.net/news/hyperliquid-passes-bybit-to-rank-third-in-open-bets-even-as-its-crypto.html",
+"title": "Hyperliquid passes Bybit to rank third in open bets, even as its crypto bets shrank 14%",
+"dek": "Hyperliquid now ranks third for open futures bets, even though bets on its crypto markets fell about $590 million from Friday to early Sunday as bitcoin slid to $64,800. Bets on stocks, indexes and commodities held near $2.16 billion, CoinGecko data show.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-15T01:05:00-05:00",
+"image": "https://lcinsight.net/og/hyperliquid-passes-bybit-open-bets-crypto-side-shrinks-14.jpg",
+"hashtags": [
+"#Hyperliquid",
+"#PerpetualFutures",
+"#OpenInterest",
+"#TokenizedStocks",
+"#Data"
+]
+},
+{
+"slug": "uni-down-29-percent-in-a-week-dex-tokens-fall-3x-bitcoin",
+"url": "https://lcinsight.net/news/uniswaps-uni-lost-29-percent-in-a-week-dex-tokens-fell-9-9-percent-in.html",
+"title": "Uniswap's UNI lost 29% in a week. DEX tokens fell 9.9% in a day, three times bitcoin's drop",
+"dek": "Tokens of automated market makers, the pool-based exchanges behind most DeFi trading, lost 9.9% of their value in 24 hours to early Sunday. Bitcoin fell 3%. CoinGecko data show UNI, Curve and Aerodrome leading the slide.",
+"category": "DeFi",
+"guide": false,
+"hot": false,
+"published": "2026-11-15T01:05:00-05:00",
+"image": "https://lcinsight.net/og/uni-down-29-percent-in-a-week-dex-tokens-fall-3x-bitcoin.jpg",
+"hashtags": [
+"#Uniswap",
+"#DeFi",
+"#PriceMoves",
+"#Aave",
+"#Altcoins"
+]
+},
+{
+"slug": "eva-arbitrum-36-4m-left-one-wallet-dex-volume-83k",
+"url": "https://lcinsight.net/news/one-arbitrum-wallet-sent-out-36-4-million-of-eva-in-a-day-but-dexes.html",
+"title": "One Arbitrum wallet sent out $36.4 million of EVA in a day, but DEXes traded just $80,000",
+"dek": "DeepSea's 24-hour feed shows one unlabeled wallet sending out about 1 million EverValueCoin in 11 moves. The token's DEX pools could never have absorbed that as a sale.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-15T01:00:00-05:00",
+"image": "https://lcinsight.net/og/eva-arbitrum-36-4m-left-one-wallet-dex-volume-83k.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Arbitrum",
+"#Wallets"
+]
+},
+{
+"slug": "optimism-sharks-bought-2-58m-op-as-it-fell-9-6-percent",
+"url": "https://lcinsight.net/news/op-fell-9-6-percent-in-a-day-optimism-sharks-still-bought-2-58-million.html",
+"title": "OP fell 9.6% in a day. Optimism sharks still bought $2.58 million and sold $2.38 million",
+"dek": "Big wallets on OP Mainnet ended the day as small net buyers of OP and WLD while both tokens slid. Most of them are still losing money this week.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-15T01:00:00-05:00",
+"image": "https://lcinsight.net/og/optimism-sharks-bought-2-58m-op-as-it-fell-9-6-percent.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Optimism",
+"#Layer2"
+]
+},
+{
+"slug": "sharks-lost-15-7m-week-two-bnb-chain-wallets-5-3m",
+"url": "https://lcinsight.net/news/98-sharks-lost-15-7-million-in-a-week-two-bnb-chain-wallets-lost-5-3.html",
+"title": "98 sharks lost $15.7 million in a week. Two BNB Chain wallets lost $5.3 million of it",
+"dek": "Only 27 of 98 big wallets in DeepSea's live feed closed the week with a profit, and the winners made just $101,900 together. BNB Chain and Ethereum took the worst hits.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-15T01:00:00-05:00",
+"image": "https://lcinsight.net/og/sharks-lost-15-7m-week-two-bnb-chain-wallets-5-3m.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#BNBChain",
+"#Wallets"
+]
+},
+{
 "slug": "uniswap-uni-falls-16-percent-to-4-77-as-bitcoin-drops-8-percent",
 "url": "https://lcinsight.net/news/uniswaps-uni-falls-16-percent-in-a-day-to-4-77-as-bitcoin-drops-8.html",
 "title": "Uniswap's UNI falls 16% in a day to $4.77 as bitcoin drops 8% to its lowest since July",
@@ -3406,186 +3586,6 @@
 "#Bitcoin",
 "#Exchanges",
 "#OnChainData"
-]
-},
-{
-"slug": "sharks-bought-850k-arb-whales-4-59m-week",
-"url": "https://lcinsight.net/news/sharks-bought-850-000-of-arbitrums-arb-in-a-day-whales-added-4-59.html",
-"title": "Sharks bought $850,000 of Arbitrum's ARB in a day. Whales added $4.59 million in a week",
-"dek": "DeepSea's data shows big wallets buying ARB on Arbitrum while $11.6 million more ARB left exchanges than arrived over seven days. Two stock tokens also drew shark money.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-05T01:05:00-05:00",
-"image": "https://lcinsight.net/og/sharks-bought-850k-arb-whales-4-59m-week.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Whales",
-"#OnChainData",
-"#Arbitrum"
-]
-},
-{
-"slug": "deepsea-2615-new-wallets-2790-smart-money-zero-bots",
-"url": "https://lcinsight.net/news/deepsea-tagged-2-790-new-smart-money-wallets-in-a-week-and-not-a.html",
-"title": "DeepSea tagged 2,790 new smart money wallets in a week, and not a single new bot",
-"dek": "DeepSea's weekly report counts 2,615 wallets seen for the first time from October 26 to November 1, plus 652 new DeFi borrowers and 93 new influencer (KOL) wallets. Here is what the labels mean.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-04T07:26:00-05:00",
-"image": "https://lcinsight.net/og/deepsea-2615-new-wallets-2790-smart-money-zero-bots.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#SmartMoney",
-"#KOLs",
-"#DeFi"
-]
-},
-{
-"slug": "okx-451000-transfers-241m-net-outflow-asia",
-"url": "https://lcinsight.net/news/okx-logged-three-times-binances-transfer-count-last-week-and-lost-a.html",
-"title": "OKX logged three times Binance's transfer count last week and lost a net $241.6 million",
-"dek": "DeepSea's exchange data shows 451,046 transfers at OKX from October 26 to November 1, with almost twice as many withdrawals as deposits. Bybit went the other way, with a net $478.2 million coming in.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-11-04T07:25:00-05:00",
-"image": "https://lcinsight.net/og/okx-451000-transfers-241m-net-outflow-asia.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#OKX",
-"#Bybit",
-"#ExchangeFlows"
-]
-},
-{
-"slug": "asian-local-exchanges-1-3-percent-korea-hong-kong",
-"url": "https://lcinsight.net/news/asias-local-exchanges-handled-just-1-3-percent-of-flows-as-binance.html",
-"title": "Asia's local exchanges handled just 1.3% of flows as Binance took in a net $5.04 billion",
-"dek": "South Korea led the local markets with $12.5 million net in. Upbit, HashKey, Bitkub and other home-market exchanges together handled about $538 million of deposits and withdrawals from October 26 to November 1, DeepSea's data shows.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-11-04T07:24:00-05:00",
-"image": "https://lcinsight.net/og/asian-local-exchanges-1-3-percent-korea-hong-kong.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#ExchangeFlows",
-"#SouthKorea",
-"#HongKong"
-]
-},
-{
-"slug": "sharks-sold-3-5m-op-optimism-24h",
-"url": "https://lcinsight.net/news/shark-wallets-sold-3-55-million-of-optimisms-op-in-a-day-and-bought.html",
-"title": "Shark wallets sold $3.55 million of Optimism's OP in a day and bought just $486,000",
-"dek": "DeepSea's live feed shows big wallets selling Optimism's token while still parking dollars on the chain. On Berachain, a heavy seller of USD₮0 turned buyer in the last hour.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-04T07:21:00-05:00",
-"image": "https://lcinsight.net/og/sharks-sold-3-5m-op-optimism-24h.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Whales",
-"#OnChainData",
-"#Layer2"
-]
-},
-{
-"slug": "machibigbrother-eth-longs-145k-25-seconds",
-"url": "https://lcinsight.net/news/machibigbrother-opened-145-405-of-eth-longs-in-25-seconds-six-hours.html",
-"title": "MachiBigBrother opened $145,405 of ETH longs in 25 seconds, six hours after the last burst",
-"dek": "DeepSea's live feed caught the crypto influencer opening six ether long positions on Hyperliquid at 6:33 a.m. ET, after nine more just past midnight.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-04T07:20:00-05:00",
-"image": "https://lcinsight.net/og/machibigbrother-eth-longs-145k-25-seconds.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#KOLs",
-"#Hyperliquid",
-"#Ethereum"
-]
-},
-{
-"slug": "deepsea-risk-list-32175-addresses-ransomware",
-"url": "https://lcinsight.net/news/32-175-crypto-addresses-are-on-deepseas-risk-list-ransomware-is-the.html",
-"title": "32,175 crypto addresses are on DeepSea's risk list. Ransomware is the biggest category",
-"dek": "DeepSea's database of scam, fraud and sanctioned addresses grew by 1,178 last week. Most new entries were hack-tainted, and Bitcoin holds more flagged addresses than Ethereum.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-11-04T00:52:00-05:00",
-"image": "https://lcinsight.net/og/deepsea-risk-list-32175-addresses-ransomware.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Hacks",
-"#Enforcement",
-"#OnChainData"
-]
-},
-{
-"slug": "whales-sent-317m-more-than-received-deepsea",
-"url": "https://lcinsight.net/news/whales-sent-out-317-million-more-than-they-took-in-last-week-where-did.html",
-"title": "Whales sent out $317 million more than they took in last week. Where did it go?",
-"dek": "DeepSea's wallet-to-wallet map shows $1.10 billion leaving whale wallets and $783 million coming back, while unlabeled wallets pushed a net $306 million into exchanges.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-04T00:52:00-05:00",
-"image": "https://lcinsight.net/og/whales-sent-317m-more-than-received-deepsea.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Whales",
-"#ExchangeFlows",
-"#OnChainData"
-]
-},
-{
-"slug": "hyperliquid-top-winners-20-7m-unrealized",
-"url": "https://lcinsight.net/news/two-hyperliquid-wallets-are-up-20-7-million-on-open-bets-the-crowd-is.html",
-"title": "Two Hyperliquid wallets are up $20.7 million on open bets. The crowd is down $2.19 million",
-"dek": "DeepSea's weekly data names the biggest paper winners on Hyperliquid, a 40x bitcoin short opened on October 31, and an ether short now 3.3% from forced closing.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-04T00:51:00-05:00",
-"image": "https://lcinsight.net/og/hyperliquid-top-winners-20-7m-unrealized.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Hyperliquid",
-"#Perpetuals",
-"#SmartMoney"
-]
-},
-{
-"slug": "kols-up-590k-sharks-down-10-7m-30-days",
-"url": "https://lcinsight.net/news/crypto-influencers-made-590-000-in-30-days-sharks-in-deepseas-live.html",
-"title": "Crypto influencers made $590,000 in 30 days. Sharks in DeepSea's live feed lost $10.7 million",
-"dek": "DeepSea's 30-day realized profit table puts its live-feed KOL wallets in the green and shark wallets deep in the red. On Hyperliquid, one KOL opened a $538,000 silver short in nine minutes.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-04T00:51:00-05:00",
-"image": "https://lcinsight.net/og/kols-up-590k-sharks-down-10-7m-30-days.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#KOLs",
-"#SmartMoney",
-"#Whales"
 ]
 }
 ]
