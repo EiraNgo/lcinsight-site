@@ -1,15 +1,5 @@
 [
  {
-  "id": "reg:https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web",
-  "kind": "regulator",
-  "hint": "US DOJ: International Law Enforcement Operation Targeting Opioid and Fentanyl Traffickers on the Dark Web Results in over 350 Arrests Worldwide and the Seizure of Drugs, Weapons, and over $234 Million Today, ",
-  "source": "https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web",
-  "data": {
-   "source": "US DOJ"
-  },
-  "found": "2026-11-12T20:31:45Z"
- },
- {
   "id": "reg:https://www.sec.gov/Archives/edgar/data/2074409/000119312526458432/0001193125-26-458432-index.htm",
   "kind": "regulator",
   "hint": "US SEC EDGAR 424B: 424B3 - Invesco Galaxy Solana ETF (0002074409) (Filer)",
@@ -284,5 +274,31 @@
    "mcap_rank": 76
   },
   "found": "2026-11-15T20:16:47Z"
+ },
+ {
+  "id": "price:aster-2:20261115:up",
+  "kind": "price",
+  "hint": "Aster (ASTER) +12.7% in 1h, +29.8% in 24h, now $0.640511",
+  "source": "https://www.coingecko.com/en/coins/aster-2",
+  "data": {
+   "h1": 12.7471,
+   "h24": 29.78018,
+   "price": 0.640511,
+   "mcap_rank": 48
+  },
+  "found": "2026-11-15T21:03:50Z"
+ },
+ {
+  "id": "price:bitway:20261115:down",
+  "kind": "price",
+  "hint": "Bitway (BTW) -4.0% in 1h, -25.9% in 24h, now $0.542999",
+  "source": "https://www.coingecko.com/en/coins/bitway",
+  "data": {
+   "h1": -4.0493,
+   "h24": -25.8759,
+   "price": 0.542999,
+   "mcap_rank": 78
+  },
+  "found": "2026-11-15T21:03:50Z"
  }
 ]
