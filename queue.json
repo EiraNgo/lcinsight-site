@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:audacity-4:20261113",
-  "kind": "trending",
-  "hint": "AudaCity (DACITYCOIN) trending #2 on CoinGecko, +47.9% 24h",
-  "source": "https://www.coingecko.com/en/coins/audacity-4",
-  "data": {
-   "ch24": 47.93652768431333
-  },
-  "found": "2026-11-13T00:50:45Z"
- },
- {
   "id": "trend:ni-hao-cat-2:20261113",
   "kind": "trending",
   "hint": "ni hao cat (MIHAO) trending #1 on CoinGecko, -19.6% 24h",
@@ -306,5 +296,15 @@
    "mcap_rank": 78
   },
   "found": "2026-11-16T00:07:43Z"
+ },
+ {
+  "id": "trend:ni-hao-cat:20261116",
+  "kind": "trending",
+  "hint": "ni hao cat (MIHAO) trending #1 on CoinGecko, +30.1% 24h",
+  "source": "https://www.coingecko.com/en/coins/ni-hao-cat",
+  "data": {
+   "ch24": 30.05237673360675
+  },
+  "found": "2026-11-16T01:16:56Z"
  }
 ]
