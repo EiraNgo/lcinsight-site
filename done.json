@@ -91,5 +91,8 @@
  "price:bitway:20261115:down",
  "price:aster-2:20261115:down",
  "price:bitway:20261116:down",
- "trend:ni-hao-cat:20261116"
+ "trend:ni-hao-cat:20261116",
+ "price:bitway:20261116:up",
+ "trend:seeker:20261116",
+ "price:rain:20261116:up"
 ]
