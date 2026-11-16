@@ -1,48 +1,5 @@
 [
  {
-  "id": "trend:ni-hao-cat-2:20261113",
-  "kind": "trending",
-  "hint": "ni hao cat (MIHAO) trending #1 on CoinGecko, -19.6% 24h",
-  "source": "https://www.coingecko.com/en/coins/ni-hao-cat-2",
-  "data": {
-   "ch24": -19.640879624226944
-  },
-  "found": "2026-11-13T01:59:10Z"
- },
- {
-  "id": "trend:janction:20261113",
-  "kind": "trending",
-  "hint": "Janction (JCT) trending #3 on CoinGecko, -54.3% 24h",
-  "source": "https://www.coingecko.com/en/coins/janction",
-  "data": {
-   "ch24": -54.33208648847494
-  },
-  "found": "2026-11-13T02:10:41Z"
- },
- {
-  "id": "trend:sanctum-2:20261113",
-  "kind": "trending",
-  "hint": "Sanctum (SANC) trending #2 on CoinGecko, +121.4% 24h",
-  "source": "https://www.coingecko.com/en/coins/sanctum-2",
-  "data": {
-   "ch24": 121.4221915196128
-  },
-  "found": "2026-11-13T02:44:53Z"
- },
- {
-  "id": "price:bitway:20261113:down",
-  "kind": "price",
-  "hint": "Bitway (BTW) -1.2% in 1h, -27.6% in 24h, now $0.731501",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": -1.2123,
-   "h24": -27.58278,
-   "price": 0.731501,
-   "mcap_rank": 67
-  },
-  "found": "2026-11-13T05:00:37Z"
- },
- {
   "id": "trend:akedo:20261113",
   "kind": "trending",
   "hint": "Akedo (AKE) trending #3 on CoinGecko, +133.8% 24h",
@@ -306,5 +263,28 @@
    "ch24": 30.05237673360675
   },
   "found": "2026-11-16T01:16:56Z"
+ },
+ {
+  "id": "price:bitway:20261116:up",
+  "kind": "price",
+  "hint": "Bitway (BTW) +0.2% in 1h, -36.6% in 24h, now $0.451039",
+  "source": "https://www.coingecko.com/en/coins/bitway",
+  "data": {
+   "h1": 0.1951,
+   "h24": -36.61245,
+   "price": 0.451039,
+   "mcap_rank": 85
+  },
+  "found": "2026-11-16T06:08:51Z"
+ },
+ {
+  "id": "trend:seeker:20261116",
+  "kind": "trending",
+  "hint": "Seeker (SKR) trending #2 on CoinGecko, +30.2% 24h",
+  "source": "https://www.coingecko.com/en/coins/seeker",
+  "data": {
+   "ch24": 30.222798781605132
+  },
+  "found": "2026-11-16T06:08:51Z"
  }
 ]
