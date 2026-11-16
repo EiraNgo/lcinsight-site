@@ -1,5 +1,166 @@
 [
 {
+"slug": "solana-etfs-lost-136-7m-in-four-weeks-one-inflow-day",
+"url": "https://lcinsight.net/news/solana-etfs-lost-136-7-million-in-four-weeks-with-only-one-inflow-day.html",
+"title": "Solana ETFs lost $136.7 million in four weeks with only one inflow day",
+"dek": "U.S. spot Solana funds saw money leave on 14 of 20 trading days from October 19 to November 13, CoinMarketCap data show. XRP funds lost $19.1 million last week.",
+"category": "ETFs",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T01:00:00-05:00",
+"image": "https://lcinsight.net/og/solana-etfs-lost-136-7m-in-four-weeks-one-inflow-day.jpg",
+"hashtags": [
+"#ETF",
+"#Solana",
+"#XRP",
+"#Ethereum",
+"#Data"
+]
+},
+{
+"slug": "jito-staked-sol-shrank-289349-sol-in-a-month-price-down-31",
+"url": "https://lcinsight.net/news/jitos-staked-sol-shrank-by-289-349-tokens-in-a-month-as-its-price-fell.html",
+"title": "Jito's staked SOL shrank by 289,349 tokens in a month as its price fell 31%",
+"dek": "JitoSOL, Jito's liquid staking token on Solana, ended Sunday at 7.87 million tokens, CoinMarketCap data show. Supply fell on most days of the selloff.",
+"category": "DeFi",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T00:58:00-05:00",
+"image": "https://lcinsight.net/og/jito-staked-sol-shrank-289349-sol-in-a-month-price-down-31.jpg",
+"hashtags": [
+"#Solana",
+"#Jito",
+"#Staking",
+"#OnChainData",
+"#Data"
+]
+},
+{
+"slug": "kelp-rseth-lost-10-percent-of-supply-in-a-month-reth-down-3-6",
+"url": "https://lcinsight.net/news/kelps-rseth-lost-10-percent-of-its-supply-in-a-month-rocket-pools-reth.html",
+"title": "Kelp's rsETH lost 10% of its supply in a month. Rocket Pool's rETH fell 3.6%",
+"dek": "About 37,900 rsETH tokens were redeemed or burned between October 15 and November 15, CoinMarketCap data show, as ether fell a quarter. Ether.fi's weETH held steady.",
+"category": "DeFi",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T00:56:00-05:00",
+"image": "https://lcinsight.net/og/kelp-rseth-lost-10-percent-of-supply-in-a-month-reth-down-3-6.jpg",
+"hashtags": [
+"#Restaking",
+"#Kelp",
+"#RocketPool",
+"#Ethereum",
+"#OnChainData"
+]
+},
+{
+"slug": "lido-steth-grew-87688-eth-in-a-month-as-ether-fell-25-percent",
+"url": "https://lcinsight.net/news/lidos-steth-grew-by-87-688-eth-in-a-month-as-ether-fell-25-percent.html",
+"title": "Lido's stETH grew by 87,688 ETH in a month as ether fell 25%",
+"dek": "Holders kept staking through the selloff. Lido's staked ether token reached 9.75 million on Sunday, CoinMarketCap data show, with more than half of the month's growth in the last week.",
+"category": "DeFi",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T00:54:00-05:00",
+"image": "https://lcinsight.net/og/lido-steth-grew-87688-eth-in-a-month-as-ether-fell-25-percent.jpg",
+"hashtags": [
+"#Lido",
+"#StETH",
+"#Ethereum",
+"#Staking",
+"#OnChainData"
+]
+},
+{
+"slug": "cbbtc-added-7185-bitcoin-in-a-week-as-bitcoin-fell-13-percent",
+"url": "https://lcinsight.net/news/coinbases-cbbtc-added-7-185-bitcoin-in-a-week-as-bitcoin-fell-13.html",
+"title": "Coinbase's cbBTC added 7,185 bitcoin in a week as bitcoin fell 13%, closing in on WBTC",
+"dek": "The supply of Coinbase's wrapped bitcoin token rose to 102,692 by Sunday evening, CoinMarketCap data show. That is about $468 million of new tokens in seven days, and it is closing in on WBTC.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-16T00:52:00-05:00",
+"image": "https://lcinsight.net/og/cbbtc-added-7185-bitcoin-in-a-week-as-bitcoin-fell-13-percent.jpg",
+"hashtags": [
+"#CbBTC",
+"#Coinbase",
+"#WBTC",
+"#Bitcoin",
+"#OnChainData"
+]
+},
+{
+"slug": "rumor-vs-record-bitcoin-64000-3-month-low-xrp-weekend-claims",
+"url": "https://lcinsight.net/news/rumor-vs-record-bitcoins-3-month-low-was-its-lowest-since-july-5.html",
+"title": "Rumor vs record: bitcoin's '3-month low' was its lowest since July. 5 weekend claims checked",
+"dek": "Weekend headlines said bitcoin broke $64,000, hit a three-month low and XRP sank to its lowest since 2024. We checked five of them against CoinGecko's price records. Three hold up, one is only partly checked, one cannot be checked.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-16T00:52:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-bitcoin-64000-3-month-low-xrp-weekend-claims.jpg",
+"hashtags": [
+"#RumorCheck",
+"#Bitcoin",
+"#XRP",
+"#PriceMoves"
+]
+},
+{
+"slug": "bitcoin-flat-sunday-64749-after-13-percent-week-zcash-down-28",
+"url": "https://lcinsight.net/news/bitcoin-sat-flat-at-64-749-on-sunday-after-a-13-percent-weekly-drop.html",
+"title": "Bitcoin sat flat at $64,749 on Sunday after a 13% weekly drop, and Zcash lost 28%",
+"dek": "Bitcoin moved just 0.1% in 24 hours as the crash paused. The seven-day damage stayed deep across the top coins, with Zcash, Uniswap and Pepe down a quarter or more. Quant led the small Sunday bounce.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T00:50:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-flat-sunday-64749-after-13-percent-week-zcash-down-28.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Ethereum",
+"#Zcash",
+"#Quant",
+"#PriceMoves"
+]
+},
+{
+"slug": "solana-mobile-skr-jumps-41-percent-in-10-hours-upbit-leads",
+"url": "https://lcinsight.net/news/solana-mobiles-skr-jumped-41-percent-in-10-hours-and-koreas-upbit-did.html",
+"title": "Solana Mobile's SKR jumped 41% in 10 hours, and Korea's Upbit did half the trading",
+"dek": "Seeker, the token tied to Solana Mobile, rose from under 1 cent to $0.0122 on Sunday night as daily trading roughly quadrupled. Korean won markets on Upbit and Bithumb carried most of it.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T00:48:00-05:00",
+"image": "https://lcinsight.net/og/solana-mobile-skr-jumps-41-percent-in-10-hours-upbit-leads.jpg",
+"hashtags": [
+"#Seeker",
+"#SKR",
+"#Solana",
+"#Upbit",
+"#PriceMoves"
+]
+},
+{
+"slug": "evaa-up-142-percent-in-two-days-volume-3-times-market-cap",
+"url": "https://lcinsight.net/news/evaa-is-up-142-percent-in-two-days-and-60-million-traded-in-a-token.html",
+"title": "EVAA is up 142% in two days, and $60 million traded in a token worth $18 million",
+"dek": "The lending token on TON and BNB Chain climbed from $1.10 to $2.67 since early Saturday, with 24-hour trading 3.4 times its market value. Only 13% of its supply circulates, and it is still 80% below its 2025 record.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T00:46:00-05:00",
+"image": "https://lcinsight.net/og/evaa-up-142-percent-in-two-days-volume-3-times-market-cap.jpg",
+"hashtags": [
+"#EVAA",
+"#TON",
+"#BNBChain",
+"#DeFi",
+"#PriceMoves"
+]
+},
+{
 "slug": "aster-up-25-percent-in-55-minutes-then-down-27-in-15",
 "url": "https://lcinsight.net/news/aster-aster-jumped-25-percent-in-55-minutes-on-sunday-then-lost-all-of.html",
 "title": "Aster (ASTER) jumped 25% in 55 minutes on Sunday, then lost all of it in 15",
@@ -3423,168 +3584,6 @@
 "#EU",
 "#Staking",
 "#MinistryOfFinance"
-]
-},
-{
-"slug": "gl1-org-hsbc-jpmorgan-tokenized-market-infrastructure",
-"url": "https://lcinsight.net/news/gl1-org-launches-with-hsbc-and-jpmorgan-on-its-member-list-what-will.html",
-"title": "GL1 Org launches with HSBC and JPMorgan on its member list. What will it build?",
-"dek": "Global financial institutions have formed the Global Layer One Organisation to push shared rules for tokenized markets. Its site lists HSBC, JPMorgan, MUFG, Forge and Standard Chartered as members. The project began at Singapore's central bank in 2024.",
-"category": "AI & RWA",
-"guide": false,
-"hot": false,
-"published": "2026-11-06T00:55:00-05:00",
-"image": "https://lcinsight.net/og/gl1-org-hsbc-jpmorgan-tokenized-market-infrastructure.jpg",
-"hashtags": [
-"#Tokenization",
-"#Banking",
-"#Singapore",
-"#HSBC",
-"#JPMorgan"
-]
-},
-{
-"slug": "base-denim-upgrade-200ms-blocks-mainnet",
-"url": "https://lcinsight.net/news/base-now-aims-for-five-blocks-a-second-what-does-the-denim-upgrade.html",
-"title": "Base now aims for five blocks a second. What does the Denim upgrade break for apps?",
-"dek": "Base's Denim upgrade was set to switch mainnet from one block every 2 seconds to one every 200 milliseconds on November 5. Anything that counts blocks to measure time now runs 10 times faster.",
-"category": "Infrastructure",
-"guide": false,
-"hot": false,
-"published": "2026-11-06T00:52:00-05:00",
-"image": "https://lcinsight.net/og/base-denim-upgrade-200ms-blocks-mainnet.jpg",
-"hashtags": [
-"#Base",
-"#Upgrades",
-"#Layer2",
-"#Ethereum",
-"#Developers"
-]
-},
-{
-"slug": "canary-staked-inj-etf-injc-nasdaq-final-prospectus",
-"url": "https://lcinsight.net/news/canarys-staked-inj-etf-heads-to-nasdaq-as-injc-fees-will-take-up-to-30.html",
-"title": "Canary's staked INJ ETF heads to Nasdaq as INJC. Fees will take up to 30% of rewards",
-"dek": "Canary's Staked INJ ETF filed its final prospectus on November 4. The fund plans to stake most of its Injective tokens and keep 70% of the rewards. INJ rose 2.5% in a day the rest of the market fell.",
-"category": "ETFs",
-"guide": false,
-"hot": false,
-"published": "2026-11-06T00:51:00-05:00",
-"image": "https://lcinsight.net/og/canary-staked-inj-etf-injc-nasdaq-final-prospectus.jpg",
-"hashtags": [
-"#ETF",
-"#Injective",
-"#INJ",
-"#ETFs",
-"#Staking"
-]
-},
-{
-"slug": "bitcoin-falls-below-76000-eth-xrp-drop-8-percent-nov-5",
-"url": "https://lcinsight.net/news/bitcoin-lost-4-400-in-four-hours-why-did-eth-and-xrp-fall-even-harder.html",
-"title": "Bitcoin lost $4,400 in four hours. Why did ETH and XRP fall even harder?",
-"dek": "Bitcoin slid from about $80,300 to under $76,000 on November 5, most of it between 9 a.m. and 11 a.m. ET. Ether, Solana and XRP dropped 7% to 9%, and the whole crypto market shed about 8% in a day.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-06T00:50:00-05:00",
-"image": "https://lcinsight.net/og/bitcoin-falls-below-76000-eth-xrp-drop-8-percent-nov-5.jpg",
-"hashtags": [
-"#Bitcoin",
-"#Ethereum",
-"#Solana",
-"#XRP",
-"#Markets"
-]
-},
-{
-"slug": "trump-media-moves-4259-btc-to-crypto-com-collateral-wallets",
-"url": "https://lcinsight.net/news/trump-media-moved-4-259-btc-to-crypto-com-from-its-collateral-wallets.html",
-"title": "Trump Media moved 4,259 BTC to Crypto.com from its collateral wallets. A move is not a sale",
-"dek": "Two transfers worth about $344 million left wallets that Arkham labels as collateral for Trump Media's $1 billion convertible notes, weeks before holders can ask for their money back.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-05T19:28:00-05:00",
-"image": "https://lcinsight.net/og/trump-media-moves-4259-btc-to-crypto-com-collateral-wallets.jpg",
-"hashtags": [
-"#Bitcoin",
-"#TrumpMedia",
-"#Cryptocom",
-"#CorporateTreasury",
-"#Arkham"
-]
-},
-{
-"slug": "mercado-bitcoin-hack-49m-17-chains",
-"url": "https://lcinsight.net/news/brazils-mercado-bitcoin-lost-about-49-million-on-17-chains-it-says.html",
-"title": "Brazil's Mercado Bitcoin lost about $49 million on 17 chains. It says customers lose nothing",
-"dek": "Mercado Bitcoin says it contained a security incident on November 2, 2026, and that no customer will lose assets. Chainalysis puts the theft at about $49 million and says close to $9 million has been frozen.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-11-05T07:01:00-05:00",
-"image": "https://lcinsight.net/og/mercado-bitcoin-hack-49m-17-chains.jpg",
-"hashtags": [
-"#Hacks",
-"#Exchanges",
-"#Brazil",
-"#USDT",
-"#Stablecoins"
-]
-},
-{
-"slug": "credit-mutuel-arkea-cyberattack-133m-crypto",
-"url": "https://lcinsight.net/news/hackers-drained-french-bank-arkeas-own-account-it-calls-a-133-million.html",
-"title": "Hackers drained French bank Arkéa's own account. It calls a $133 million estimate about right",
-"dek": "Crédit Mutuel Arkéa confirmed a cyberattack that sent fraudulent transfers out of the bank's own account, possibly into crypto. It denies the attackers came in through Fortuneo and says customer savings are safe.",
-"category": "Security",
-"guide": false,
-"hot": false,
-"published": "2026-11-05T07:00:00-05:00",
-"image": "https://lcinsight.net/og/credit-mutuel-arkea-cyberattack-133m-crypto.jpg",
-"hashtags": [
-"#Hacks",
-"#Banking",
-"#France",
-"#EU",
-"#Phishing"
-]
-},
-{
-"slug": "shark-hold4312-80m-aave-usdt-1-87m-loss",
-"url": "https://lcinsight.net/news/one-shark-sold-80-5-million-of-aave-deposited-usdt-in-an-hour-its-7.html",
-"title": "One shark sold $80.5 million of Aave-deposited USDT in an hour. Its 7-day loss: $1.87 million",
-"dek": "The Ethereum wallet ending 4312 moved more than $280 million in a day, mostly in and out of Aave. DeepSea's PnL table shows it with the biggest 7-day realized loss it tracks.",
-"category": "DeFi",
-"guide": false,
-"hot": true,
-"published": "2026-11-05T06:58:00-05:00",
-"image": "https://lcinsight.net/og/shark-hold4312-80m-aave-usdt-1-87m-loss.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Whales",
-"#Aave",
-"#Ethereum"
-]
-},
-{
-"slug": "uk-gov-3-95b-quadrigacx-574m-deepsea-exchanges",
-"url": "https://lcinsight.net/news/seized-uk-government-wallets-rank-seventh-on-deepseas-exchange-list-at.html",
-"title": "Seized UK government wallets rank seventh on DeepSea's exchange list, at $3.95 billion",
-"dek": "DeepSea's exchange rankings mix trading venues with seized and long-silent wallets, including $574.14 million in failed QuadrigaCX's. Bitfinex ranks second at $31.27 billion, and one Coincheck wallet holds $3.42 billion.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-11-05T06:57:00-05:00",
-"image": "https://lcinsight.net/og/uk-gov-3-95b-quadrigacx-574m-deepsea-exchanges.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Exchanges",
-"#UK",
-"#Bitcoin"
 ]
 }
 ]
