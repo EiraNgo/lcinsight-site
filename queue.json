@@ -1,25 +1,5 @@
 [
  {
-  "id": "trend:ni-hao-cat:20261113",
-  "kind": "trending",
-  "hint": "ni hao cat (MIHAO) trending #1 on CoinGecko, +20.0% 24h",
-  "source": "https://www.coingecko.com/en/coins/ni-hao-cat",
-  "data": {
-   "ch24": 19.963191905929918
-  },
-  "found": "2026-11-13T17:11:12Z"
- },
- {
-  "id": "trend:seppuku:20261113",
-  "kind": "trending",
-  "hint": "Seppuku (SEPPUKU) trending #2 on CoinGecko, -16.2% 24h",
-  "source": "https://www.coingecko.com/en/coins/seppuku",
-  "data": {
-   "ch24": -16.232887824006177
-  },
-  "found": "2026-11-13T23:25:52Z"
- },
- {
   "id": "trend:ni-hao-cat:20261114",
   "kind": "trending",
   "hint": "ni hao cat (MIHAO) trending #1 on CoinGecko, -27.3% 24h",
@@ -332,5 +312,49 @@
    "ch24": -15.635676301925127
   },
   "found": "2026-11-16T13:29:24Z"
+ },
+ {
+  "id": "trend:backpack:20261116",
+  "kind": "trending",
+  "hint": "Backpack (BP) trending #1 on CoinGecko, +37.2% 24h",
+  "source": "https://www.coingecko.com/en/coins/backpack",
+  "data": {
+   "ch24": 37.199699511346175
+  },
+  "found": "2026-11-16T23:37:30Z"
+ },
+ {
+  "id": "hack:Lighter Perps:1794787200",
+  "kind": "hack",
+  "hint": "Lighter Perps hacked/exploited, ~$10.4M (Frontend & Infrastructure)",
+  "source": "https://defillama.com/hacks",
+  "data": {
+   "amount": 10393057,
+   "chain": [
+    "zkLighter"
+   ],
+   "technique": "API Key Compromised"
+  },
+  "found": "2026-11-16T23:37:30Z"
+ },
+ {
+  "id": "reg:https://www.justice.gov/opa/pr/alleged-member-8-digits-team-ransomware-group-extradited-italy-role-major-data-extortion",
+  "kind": "regulator",
+  "hint": "US DOJ: Alleged Member of \u201c8-Digits Team\u201d Ransomware Group Extradited from Italy  for Role in Major Data Extortion Campaign Against  U.S. Hospitals, Healthcare Entities, and Schools Roman Khlynovskiy, 43, a K",
+  "source": "https://www.justice.gov/opa/pr/alleged-member-8-digits-team-ransomware-group-extradited-italy-role-major-data-extortion",
+  "data": {
+   "source": "US DOJ"
+  },
+  "found": "2026-11-16T23:38:00Z"
+ },
+ {
+  "id": "reg:https://www.sec.gov/Archives/edgar/data/2054247/000121390026120865/0001213900-26-120865-index.htm",
+  "kind": "regulator",
+  "hint": "US SEC EDGAR 424B: 424B3 - 21Shares Polkadot Staking ETF (0002054247) (Filer)",
+  "source": "https://www.sec.gov/Archives/edgar/data/2054247/000121390026120865/0001213900-26-120865-index.htm",
+  "data": {
+   "source": "US SEC EDGAR 424B"
+  },
+  "found": "2026-11-16T23:39:18Z"
  }
 ]
