@@ -322,5 +322,15 @@
    "source": "US SEC EDGAR 424B"
   },
   "found": "2026-11-16T13:19:22Z"
+ },
+ {
+  "id": "trend:lighter:20261116",
+  "kind": "trending",
+  "hint": "Lighter (LIT) trending #2 on CoinGecko, -15.6% 24h",
+  "source": "https://www.coingecko.com/en/coins/lighter",
+  "data": {
+   "ch24": -15.635676301925127
+  },
+  "found": "2026-11-16T13:29:24Z"
  }
 ]
