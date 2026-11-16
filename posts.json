@@ -1,5 +1,184 @@
 [
 {
+"slug": "hype-futures-flip-shorts-pay-on-61-percent-of-2-32b-bets",
+"url": "https://lcinsight.net/news/longs-paid-on-84-percent-of-hype-futures-bets-on-friday-now-shorts-pay.html",
+"title": "Longs paid on 84% of HYPE futures bets on Friday. Now shorts pay on 61%",
+"dek": "HYPE slipped 7.7% in a week to $66.91, and $280 million of its futures bets closed. On Hyperliquid itself traders still pay to bet on a rise, while Binance, Bybit and OKX now show negative funding.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T07:07:00-05:00",
+"image": "https://lcinsight.net/og/hype-futures-flip-shorts-pay-on-61-percent-of-2-32b-bets.jpg",
+"hashtags": [
+"#Hyperliquid",
+"#HYPE",
+"#PerpetualFutures",
+"#OpenInterest",
+"#Data"
+]
+},
+{
+"slug": "lighter-lit-falls-13-percent-shorts-pay-on-76-percent-of-bets",
+"url": "https://lcinsight.net/news/lighters-lit-fell-13-percent-in-a-day-shorts-now-pay-on-76-percent-of.html",
+"title": "Lighter's LIT fell 13% in a day. Shorts now pay on 76% of its $237 million in futures bets",
+"dek": "LIT tops CoinGecko's trending list after a 13% drop to $2.61. Futures traded eight times its spot volume, and open bets on Lighter's own LIT market fell 44% in five days.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-16T07:06:00-05:00",
+"image": "https://lcinsight.net/og/lighter-lit-falls-13-percent-shorts-pay-on-76-percent-of-bets.jpg",
+"hashtags": [
+"#PerpDEX",
+"#Hyperliquid",
+"#PerpetualFutures",
+"#PriceMoves",
+"#Data"
+]
+},
+{
+"slug": "rumor-vs-record-mara-1-1b-bitcoin-sale-oversold-monday-claims",
+"url": "https://lcinsight.net/news/rumor-vs-record-maras-1-1-billion-bitcoin-sale-came-before-the-crash-5.html",
+"title": "Rumor vs record: MARA's $1.1 billion bitcoin sale came before the crash. 5 claims checked",
+"dek": "Monday's most shared posts said MARA dumped $1.1 billion of bitcoin into the slide, that bitcoin is deeply oversold and that big holders face record losses. MARA's own filing and CoinGecko's price records show three claims hold up, one is misleading and one cannot be checked.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-16T07:05:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-mara-1-1b-bitcoin-sale-oversold-monday-claims.jpg",
+"hashtags": [
+"#RumorCheck",
+"#Bitcoin",
+"#MARA",
+"#Miners",
+"#PriceMoves"
+]
+},
+{
+"slug": "ether-etfs-lost-2-19b-in-34-days-wiping-out-summer-inflows",
+"url": "https://lcinsight.net/news/ether-etfs-lost-2-19-billion-in-34-trading-days-erasing-all-their-late.html",
+"title": "Ether ETFs lost $2.19 billion in 34 trading days, erasing all their late-summer inflows",
+"dek": "U.S. spot ether funds had outflows on 29 of 34 trading days from September 29 to November 13, CoinMarketCap data show. Over 90 days they are now net sellers.",
+"category": "ETFs",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T07:00:00-05:00",
+"image": "https://lcinsight.net/og/ether-etfs-lost-2-19b-in-34-days-wiping-out-summer-inflows.jpg",
+"hashtags": [
+"#ETF",
+"#Ethereum",
+"#BlackRock",
+"#Data"
+]
+},
+{
+"slug": "usd1-shrank-15-days-in-a-row-833m-gone-since-november-1",
+"url": "https://lcinsight.net/news/usd1-has-shrunk-15-days-in-a-row-833-million-is-gone-since-november-1.html",
+"title": "USD1 has shrunk 15 days in a row. $833 million is gone since November 1",
+"dek": "World Liberty's dollar token fell from $3.87 billion to $3.04 billion on CoinGecko, now below where it started 2026, while it still trades about $1 billion a day.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T06:57:00-05:00",
+"image": "https://lcinsight.net/og/usd1-shrank-15-days-in-a-row-833m-gone-since-november-1.jpg",
+"hashtags": [
+"#Stablecoins",
+"#USD1",
+"#WorldLibertyFinancial",
+"#OnChainData",
+"#Data"
+]
+},
+{
+"slug": "blackrock-buidl-lost-24-percent-in-a-month-circle-usyc-15",
+"url": "https://lcinsight.net/news/blackrocks-buidl-shrank-24-percent-in-a-month-and-now-ranks-fourth.html",
+"title": "BlackRock's BUIDL shrank 24% in a month and now ranks fourth. Circle's USYC lost 15%",
+"dek": "The two big institutional Treasury tokens lost roughly $900 million between them in 30 days, rwa.xyz data show, while Ondo's USDY grew.",
+"category": "AI & RWA",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T06:56:00-05:00",
+"image": "https://lcinsight.net/og/blackrock-buidl-lost-24-percent-in-a-month-circle-usyc-15.jpg",
+"hashtags": [
+"#TokenizedTreasuries",
+"#BlackRock",
+"#BUIDL",
+"#Circle",
+"#Ondo"
+]
+},
+{
+"slug": "ethena-usdtb-lost-a-third-in-11-days-usde-added-349m",
+"url": "https://lcinsight.net/news/ethenas-usdtb-lost-a-third-in-12-days-usde-added-349-million-in-one.html",
+"title": "Ethena's USDtb lost a third in 12 days. USDe added $349 million in one day",
+"dek": "Two steps took USDtb from $484 million to $318 million on CoinGecko. Its sister token USDe jumped $349 million in a single reading, then went flat.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T06:55:00-05:00",
+"image": "https://lcinsight.net/og/ethena-usdtb-lost-a-third-in-11-days-usde-added-349m.jpg",
+"hashtags": [
+"#Ethena",
+"#USDe",
+"#Stablecoins",
+"#AnchorageDigital",
+"#OnChainData"
+]
+},
+{
+"slug": "kol-mk4-4-66m-week-zcash-short-gone-now-short-ether-bitcoin",
+"url": "https://lcinsight.net/news/influencer-mk4-made-4-66-million-in-a-week-the-13-4-million-zcash.html",
+"title": "Influencer mk4 made $4.66 million in a week. The $13.4 million Zcash short is gone",
+"dek": "DeepSea now ranks the KOL first on its 7-day board. A week ago mk4 held a big Zcash short; now it bets against ether, bitcoin and Monero and sits mostly in cash.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T06:52:00-05:00",
+"image": "https://lcinsight.net/og/kol-mk4-4-66m-week-zcash-short-gone-now-short-ether-bitcoin.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#KOLs",
+"#Hyperliquid",
+"#PerpetualFutures"
+]
+},
+{
+"slug": "smeb17-2-5m-trader-17-6m-ether-bitcoin-shorts-4-31m-week",
+"url": "https://lcinsight.net/news/trader-smeb17-has-2-5-million-made-4-31-million-in-a-week-and-holds-17.html",
+"title": "Trader SMeb17 has $2.5 million, made $4.31 million in a week and holds $17.6 million of shorts",
+"dek": "DeepSea's SMeb17 is short $12.59 million of ether and $4.97 million of bitcoin on Hyperliquid, about seven times its assets. On Arbitrum, the same address put 1,031 staked ether into Aave.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-16T06:51:00-05:00",
+"image": "https://lcinsight.net/og/smeb17-2-5m-trader-17-6m-ether-bitcoin-shorts-4-31m-week.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#SmartMoney",
+"#Hyperliquid",
+"#PerpetualFutures"
+]
+},
+{
+"slug": "john-wick-trader-13-1m-week-59-8m-bitcoin-short",
+"url": "https://lcinsight.net/news/trader-john-wick-made-13-1-million-in-a-week-and-is-short-59-8-million.html",
+"title": "Trader 'John Wick' made $13.1 million in a week and is short $59.8 million of bitcoin",
+"dek": "DeepSea ranks the Hyperliquid trader No. 5 on its 7-day smart money board. The bitcoin short, opened near $74,700, shows a $9.3 million paper gain, while most big traders DeepSea tracks are long.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-16T06:50:00-05:00",
+"image": "https://lcinsight.net/og/john-wick-trader-13-1m-week-59-8m-bitcoin-short.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#SmartMoney",
+"#Hyperliquid",
+"#PerpetualFutures"
+]
+},
+{
 "slug": "rain-jumps-43-percent-in-an-hour-still-74-percent-below-record",
 "url": "https://lcinsight.net/news/rain-rain-jumped-43-percent-in-about-an-hour-overnight-and-it-is-still.html",
 "title": "Rain (RAIN) jumped 43% in about an hour overnight, and it is still 74% below its August record",
@@ -3405,185 +3584,6 @@
 "#Whales",
 "#Layer2",
 "#Arbitrum"
-]
-},
-{
-"slug": "sharks-bought-3-74m-usdt0-unichain",
-"url": "https://lcinsight.net/news/two-sharks-bought-3-74-million-of-usd0-on-unichain-in-a-day-and-sold.html",
-"title": "Two sharks bought $3.74 million of USD₮0 on Unichain in a day and sold just $75,000",
-"dek": "A day after sharks were net sellers of the dollar token on Unichain, two wallets flipped to heavy buying. One of them also bought $4 million on Optimism.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-06T06:51:00-05:00",
-"image": "https://lcinsight.net/og/sharks-bought-3-74m-usdt0-unichain.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Whales",
-"#Stablecoins",
-"#USDT"
-]
-},
-{
-"slug": "sharks-bought-3m-tokenized-spacex-circle-arbitrum",
-"url": "https://lcinsight.net/news/sharks-bought-3-08-million-of-tokenized-spacex-on-arbitrum-its-dex.html",
-"title": "Sharks bought $3.08 million of tokenized SpaceX on Arbitrum. Its DEX pool traded $56,000",
-"dek": "Two shark wallets kept buying rSPCX and rCRCL, tokens CoinGecko lists as tokenized SpaceX and Circle stock, even as both fell. Almost none of it went through the public pool.",
-"category": "AI & RWA",
-"guide": false,
-"hot": true,
-"published": "2026-11-06T06:50:00-05:00",
-"image": "https://lcinsight.net/og/sharks-bought-3m-tokenized-spacex-circle-arbitrum.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#TokenizedStocks",
-"#Arbitrum",
-"#Whales"
-]
-},
-{
-"slug": "lido-aave-tvl-fell-crash-price-not-withdrawals-defillama",
-"url": "https://lcinsight.net/news/lido-lost-1-8-billion-in-value-in-a-day-did-anyone-actually-leave.html",
-"title": "Lido lost $1.8 billion in value in a day. Did anyone actually leave?",
-"dek": "DefiLlama shows DeFi's biggest protocols shrank 4% to 8% in 24 hours. Compared with CoinGecko prices, most of that looks like falling prices, not withdrawals.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-11-06T01:13:00-05:00",
-"image": "https://lcinsight.net/og/lido-aave-tvl-fell-crash-price-not-withdrawals-defillama.jpg",
-"hashtags": [
-"#DeFi",
-"#Staking",
-"#Aave",
-"#Ethereum",
-"#Data"
-]
-},
-{
-"slug": "bitcoin-fees-peaked-12-sats-during-sell-off-mempool",
-"url": "https://lcinsight.net/news/bitcoin-fell-5-percent-in-four-hours-fees-peaked-at-just-12-sats-after.html",
-"title": "Bitcoin fell 5% in four hours. Fees peaked at just 12 sats after a 67-minute wait",
-"dek": "mempool.space data shows the November 5 sell-off barely stressed the Bitcoin network. The biggest fee jumps came when blocks were slow, not when panic peaked.",
-"category": "Infrastructure",
-"guide": false,
-"hot": false,
-"published": "2026-11-06T01:12:00-05:00",
-"image": "https://lcinsight.net/og/bitcoin-fees-peaked-12-sats-during-sell-off-mempool.jpg",
-"hashtags": [
-"#Bitcoin",
-"#Mining",
-"#OnChainData",
-"#Data"
-]
-},
-{
-"slug": "curve-volume-nearly-quadrupled-831-million-sell-off",
-"url": "https://lcinsight.net/news/curves-trading-volume-nearly-quadrupled-to-831-million-as-crypto-sold.html",
-"title": "Curve's trading volume nearly quadrupled to $831 million as crypto sold off",
-"dek": "DefiLlama shows the stablecoin swap venue went from $215 million to $831 million in a day, while total DEX volume rose less than 3% and several big DEXs slowed. Its fees jumped about eightfold.",
-"category": "DeFi",
-"guide": false,
-"hot": false,
-"published": "2026-11-06T01:11:00-05:00",
-"image": "https://lcinsight.net/og/curve-volume-nearly-quadrupled-831-million-sell-off.jpg",
-"hashtags": [
-"#DeFi",
-"#Stablecoins",
-"#Ethereum",
-"#Data",
-"#OnChainData"
-]
-},
-{
-"slug": "stablecoin-supply-fell-5-billion-in-six-days-defillama",
-"url": "https://lcinsight.net/news/stablecoin-supply-shrank-5-billion-in-six-days-usdt-fell-the-most.html",
-"title": "Stablecoin supply shrank $5 billion in six days. USDT fell the most",
-"dek": "DefiLlama shows the total supply of dollar stablecoins fell every day from October 30 to November 5, the day bitcoin dropped below $76,000. Tether's USDT supply fell $2.76 billion in a week.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-06T01:10:00-05:00",
-"image": "https://lcinsight.net/og/stablecoin-supply-fell-5-billion-in-six-days-defillama.jpg",
-"hashtags": [
-"#Stablecoins",
-"#USDT",
-"#USDC",
-"#OnChainData",
-"#Data"
-]
-},
-{
-"slug": "exchange-wallets-lost-11-45b-value-18-hours-crash",
-"url": "https://lcinsight.net/news/exchange-wallets-lost-11-45-billion-in-18-hours-mostly-price-not.html",
-"title": "Exchange wallets lost $11.45 billion in 18 hours. Mostly price, not withdrawals",
-"dek": "DeepSea's exchange list shrank 4.7% as bitcoin fell about 6%. Binance's holdings dropped $6.84 billion, and MEXC fell 15.8%, the steepest among large exchanges.",
-"category": "Exchanges",
-"guide": false,
-"hot": false,
-"published": "2026-11-06T01:03:00-05:00",
-"image": "https://lcinsight.net/og/exchange-wallets-lost-11-45b-value-18-hours-crash.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Exchanges",
-"#Binance",
-"#MEXC"
-]
-},
-{
-"slug": "sharks-71-of-100-lost-5-85m-crash-week",
-"url": "https://lcinsight.net/news/71-of-100-shark-wallets-lost-money-on-closed-trades-in-crash-week-5-85.html",
-"title": "71 of 100 shark wallets lost money on closed trades in crash week, $5.85 million in all",
-"dek": "DeepSea's realized profit table shows large traders came out behind as bitcoin fell. Three wallets made up 63% of the loss, and one Optimism wallet won 3 of 61 trades.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-06T01:02:00-05:00",
-"image": "https://lcinsight.net/og/sharks-71-of-100-lost-5-85m-crash-week.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Sharks",
-"#Whales",
-"#Aave"
-]
-},
-{
-"slug": "kol-slingoor-9-38m-week-2-freres-12-72m-crash",
-"url": "https://lcinsight.net/news/influencer-slingoor-turned-a-686-000-week-into-9-38-million-as-bitcoin.html",
-"title": "Influencer slingoor turned a $686,000 week into $9.38 million as bitcoin fell",
-"dek": "DeepSea's 7-day KOL board changed fast in the November 5 sell-off. The top two influencers now hold 91% of the profit shown in the top 100.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-06T01:01:00-05:00",
-"image": "https://lcinsight.net/og/kol-slingoor-9-38m-week-2-freres-12-72m-crash.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#KOLs",
-"#Hyperliquid",
-"#SmartMoney"
-]
-},
-{
-"slug": "smart-money-top-10-7d-256m-after-crash",
-"url": "https://lcinsight.net/news/bitcoin-fell-6-percent-deepseas-top-10-smart-money-traders-went-from.html",
-"title": "Bitcoin fell 6%. DeepSea's top 10 smart money traders went from $98M to $256M",
-"dek": "In about 18 hours, the 7-day profit of DeepSea's ten best wallets more than doubled. All ten trade perps on Hyperliquid, and the leader alone added $47.9 million.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-06T01:00:00-05:00",
-"image": "https://lcinsight.net/og/smart-money-top-10-7d-256m-after-crash.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#SmartMoney",
-"#Hyperliquid",
-"#PerpetualFutures"
 ]
 }
 ]
