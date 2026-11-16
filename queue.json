@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:akedo:20261113",
-  "kind": "trending",
-  "hint": "Akedo (AKE) trending #3 on CoinGecko, +133.8% 24h",
-  "source": "https://www.coingecko.com/en/coins/akedo",
-  "data": {
-   "ch24": 133.80419452377592
-  },
-  "found": "2026-11-13T12:46:00Z"
- },
- {
   "id": "trend:ni-hao-cat:20261113",
   "kind": "trending",
   "hint": "ni hao cat (MIHAO) trending #1 on CoinGecko, +20.0% 24h",
@@ -299,5 +289,38 @@
    "mcap_rank": 26
   },
   "found": "2026-11-16T06:43:17Z"
+ },
+ {
+  "id": "price:rain:20261116:down",
+  "kind": "price",
+  "hint": "Rain (RAIN) -3.2% in 1h, +65.7% in 24h, now $0.00608198",
+  "source": "https://www.coingecko.com/en/coins/rain",
+  "data": {
+   "h1": -3.1991,
+   "h24": 65.70497,
+   "price": 0.00608198,
+   "mcap_rank": 22
+  },
+  "found": "2026-11-16T13:17:20Z"
+ },
+ {
+  "id": "trend:macca-the-gator-2:20261116",
+  "kind": "trending",
+  "hint": "Macca the Gator (MACCA) trending #1 on CoinGecko, +133.1% 24h",
+  "source": "https://www.coingecko.com/en/coins/macca-the-gator-2",
+  "data": {
+   "ch24": 133.0533520230773
+  },
+  "found": "2026-11-16T13:17:20Z"
+ },
+ {
+  "id": "reg:https://www.sec.gov/Archives/edgar/data/2028834/000121390026119950/0001213900-26-119950-index.htm",
+  "kind": "regulator",
+  "hint": "US SEC EDGAR 424B: 424B3 - 21Shares Solana Staking ETF (0002028834) (Filer)",
+  "source": "https://www.sec.gov/Archives/edgar/data/2028834/000121390026119950/0001213900-26-119950-index.htm",
+  "data": {
+   "source": "US SEC EDGAR 424B"
+  },
+  "found": "2026-11-16T13:19:22Z"
  }
 ]
