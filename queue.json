@@ -1,28 +1,5 @@
 [
  {
-  "id": "trend:kava:20261114",
-  "kind": "trending",
-  "hint": "Kava (KAVA) trending #3 on CoinGecko, -46.8% 24h",
-  "source": "https://www.coingecko.com/en/coins/kava",
-  "data": {
-   "ch24": -46.835607660844474
-  },
-  "found": "2026-11-14T11:53:30Z"
- },
- {
-  "id": "price:bitway:20261114:up",
-  "kind": "price",
-  "hint": "Bitway (BTW) +3.0% in 1h, -28.1% in 24h, now $0.65453",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": 2.9577,
-   "h24": -28.05073,
-   "price": 0.65453,
-   "mcap_rank": 70
-  },
-  "found": "2026-11-14T12:50:39Z"
- },
- {
   "id": "price:aster-2:20261114:down",
   "kind": "price",
   "hint": "Aster (ASTER) -11.0% in 1h, -16.4% in 24h, now $0.549405",
@@ -428,5 +405,15 @@
    "ch24": 15.619275741266334
   },
   "found": "2026-11-17T11:22:49Z"
+ },
+ {
+  "id": "trend:brevis:20261117",
+  "kind": "trending",
+  "hint": "Brevis (BREV) trending #3 on CoinGecko, +81.4% 24h",
+  "source": "https://www.coingecko.com/en/coins/brevis",
+  "data": {
+   "ch24": 81.36145314811914
+  },
+  "found": "2026-11-17T18:54:53Z"
  }
 ]
