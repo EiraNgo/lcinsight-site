@@ -408,5 +408,15 @@
    "mcap_rank": 93
   },
   "found": "2026-11-17T00:13:20Z"
+ },
+ {
+  "id": "trend:bless-2:20261117",
+  "kind": "trending",
+  "hint": "Bless (BLESS) trending #3 on CoinGecko, +103.9% 24h",
+  "source": "https://www.coingecko.com/en/coins/bless-2",
+  "data": {
+   "ch24": 103.88535405243256
+  },
+  "found": "2026-11-17T00:51:04Z"
  }
 ]
