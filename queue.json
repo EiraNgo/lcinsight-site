@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:ni-hao-cat:20261114",
-  "kind": "trending",
-  "hint": "ni hao cat (MIHAO) trending #1 on CoinGecko, -27.3% 24h",
-  "source": "https://www.coingecko.com/en/coins/ni-hao-cat",
-  "data": {
-   "ch24": -27.293920540880723
-  },
-  "found": "2026-11-14T00:00:09Z"
- },
- {
   "id": "trend:akedo:20261114",
   "kind": "trending",
   "hint": "Akedo (AKE) trending #3 on CoinGecko, +329.8% 24h",
@@ -356,5 +346,41 @@
    "source": "US SEC EDGAR 424B"
   },
   "found": "2026-11-16T23:39:18Z"
+ },
+ {
+  "id": "price:rain:20261117:down",
+  "kind": "price",
+  "hint": "Rain (RAIN) -4.2% in 1h, +75.1% in 24h, now $0.00611309",
+  "source": "https://www.coingecko.com/en/coins/rain",
+  "data": {
+   "h1": -4.2071,
+   "h24": 75.12924,
+   "price": 0.00611309,
+   "mcap_rank": 22
+  },
+  "found": "2026-11-17T00:01:21Z"
+ },
+ {
+  "id": "price:bitway:20261117:up",
+  "kind": "price",
+  "hint": "Bitway (BTW) +3.2% in 1h, -30.7% in 24h, now $0.368897",
+  "source": "https://www.coingecko.com/en/coins/bitway",
+  "data": {
+   "h1": 3.2436,
+   "h24": -30.71433,
+   "price": 0.368897,
+   "mcap_rank": 93
+  },
+  "found": "2026-11-17T00:01:21Z"
+ },
+ {
+  "id": "trend:backpack:20261117",
+  "kind": "trending",
+  "hint": "Backpack (BP) trending #1 on CoinGecko, +21.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/backpack",
+  "data": {
+   "ch24": 20.984583051835582
+  },
+  "found": "2026-11-17T00:01:21Z"
  }
 ]
