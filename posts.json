@@ -1,5 +1,23 @@
 [
 {
+"slug": "lighter-leaked-api-key-10-4m-usdc-withdrawals-paused",
+"url": "https://lcinsight.net/news/one-leaked-api-key-cost-a-lighter-trader-about-10-4-million-lighter.html",
+"title": "One leaked API key cost a Lighter trader about $10.4 million. Lighter froze all withdrawals",
+"dek": "Lighter says a single trader's leaked API key, not a bug in its contracts, let an attacker pull about $10.4 million in USDC on November 16, 2026. On-chain trackers show the money swapped to ether and sent to Hyperliquid.",
+"category": "Security",
+"guide": false,
+"hot": true,
+"published": "2026-11-16T19:30:00-05:00",
+"image": "https://lcinsight.net/og/lighter-leaked-api-key-10-4m-usdc-withdrawals-paused.jpg",
+"hashtags": [
+"#Hacks",
+"#Lighter",
+"#USDC",
+"#Hyperliquid",
+"#OnChainData"
+]
+},
+{
 "slug": "hype-futures-flip-shorts-pay-on-61-percent-of-2-32b-bets",
 "url": "https://lcinsight.net/news/longs-paid-on-84-percent-of-hype-futures-bets-on-friday-now-shorts-pay.html",
 "title": "Longs paid on 84% of HYPE futures bets on Friday. Now shorts pay on 61%",
@@ -3566,24 +3584,6 @@
 "#Aave",
 "#Arbitrum",
 "#USDC"
-]
-},
-{
-"slug": "shark-sold-2-59m-lyk-pool-holds-396-linea",
-"url": "https://lcinsight.net/news/one-shark-sold-2-59-million-of-lyk-the-tokens-arbitrum-pool-holds-396.html",
-"title": "One shark sold $2.59 million of LYK. The token's Arbitrum pool holds $396",
-"dek": "DeepSea logged big shark selling in two layer 2 tokens, LayerK's LYK and Linea's LINEA. LYK's public markets were far too small to absorb what was counted.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-06T06:52:00-05:00",
-"image": "https://lcinsight.net/og/shark-sold-2-59m-lyk-pool-holds-396-linea.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Whales",
-"#Layer2",
-"#Arbitrum"
 ]
 }
 ]
