@@ -382,5 +382,31 @@
    "ch24": 20.984583051835582
   },
   "found": "2026-11-17T00:01:21Z"
+ },
+ {
+  "id": "price:rain:20261117:up",
+  "kind": "price",
+  "hint": "Rain (RAIN) +0.9% in 1h, +76.5% in 24h, now $0.00617646",
+  "source": "https://www.coingecko.com/en/coins/rain",
+  "data": {
+   "h1": 0.8841,
+   "h24": 76.50129,
+   "price": 0.00617646,
+   "mcap_rank": 22
+  },
+  "found": "2026-11-17T00:13:20Z"
+ },
+ {
+  "id": "price:bitway:20261117:down",
+  "kind": "price",
+  "hint": "Bitway (BTW) -4.1% in 1h, -30.2% in 24h, now $0.368964",
+  "source": "https://www.coingecko.com/en/coins/bitway",
+  "data": {
+   "h1": -4.1461,
+   "h24": -30.22157,
+   "price": 0.368964,
+   "mcap_rank": 93
+  },
+  "found": "2026-11-17T00:13:20Z"
  }
 ]
