@@ -412,5 +412,18 @@
    "source": "US SEC EDGAR 424B"
   },
   "found": "2026-11-18T22:28:39Z"
+ },
+ {
+  "id": "price:pearl-2:20261118:down",
+  "kind": "price",
+  "hint": "Pearl (PEARL) -0.9% in 1h, +26.6% in 24h, now $2.33",
+  "source": "https://www.coingecko.com/en/coins/pearl-2",
+  "data": {
+   "h1": -0.8543,
+   "h24": 26.60023,
+   "price": 2.33,
+   "mcap_rank": 73
+  },
+  "found": "2026-11-18T23:25:50Z"
  }
 ]
