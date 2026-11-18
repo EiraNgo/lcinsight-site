@@ -1,5 +1,219 @@
 [
 {
+"slug": "fake-usdc-copied-8-46m-aave-withdrawal-to-the-cent",
+"url": "https://lcinsight.net/news/fake-usdc-copied-an-8-46-million-aave-withdrawal-to-the-cent-minutes.html",
+"title": "Fake 'USDC' copied an $8.46 million Aave withdrawal to the cent, minutes after it happened",
+"dek": "Two big wallets left Aave on Arbitrum on Tuesday. Within minutes, lookalike tokens started writing the same amounts into their histories, and Arbiscan tags the sender as phishing.",
+"category": "Security",
+"guide": false,
+"hot": true,
+"published": "2026-11-18T01:16:00-05:00",
+"image": "https://lcinsight.net/og/fake-usdc-copied-8-46m-aave-withdrawal-to-the-cent.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#ScamAlerts",
+"#USDC",
+"#Arbitrum"
+]
+},
+{
+"slug": "smad53-traded-47-6b-in-30-days-open-bets-only-3-06m",
+"url": "https://lcinsight.net/news/smart-money-trader-smad53-traded-47-6-billion-in-30-days-its-open-bets.html",
+"title": "Smart money trader SMad53 traded $47.6 billion in 30 days. Its open bets total $3.06 million",
+"dek": "The No. 6 wallet on DeepSea's 7-day board made $28.57 million in a month after a flat 90 days. It holds 30 small bets, all at 3x, and one bitcoin short makes up 90% of the total.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-18T01:14:00-05:00",
+"image": "https://lcinsight.net/og/smad53-traded-47-6b-in-30-days-open-bets-only-3-06m.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#SmartMoney",
+"#Hyperliquid",
+"#Bitcoin"
+]
+},
+{
+"slug": "sharks-pulled-18-5m-usdc-from-aave-arbitrum-both-now-zero",
+"url": "https://lcinsight.net/news/two-sharks-pulled-18-5-million-of-usdc-from-aave-on-arbitrum-in-a-day.html",
+"title": "Two sharks pulled $18.5 million of USDC from Aave on Arbitrum in a day. Both now hold none",
+"dek": "The No. 2 trader on DeepSea's smart money board took out its last $10.05 million. An unlabeled wallet withdrew $8.46 million. Arbiscan shows both balances at zero.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-18T01:12:00-05:00",
+"image": "https://lcinsight.net/og/sharks-pulled-18-5m-usdc-from-aave-arbitrum-both-now-zero.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Aave",
+"#Arbitrum"
+]
+},
+{
+"slug": "kol-tech-bought-five-pika-tokens-at-launch-second",
+"url": "https://lcinsight.net/news/kol-tech-bought-five-pika-tokens-within-a-second-of-launch-each-pool.html",
+"title": "KOL 'tech' bought five PIKA tokens within a second of launch. Each pool now holds under $1",
+"dek": "DeepSea logs the BNB Chain wallet buying every new PIKA within one second of launch. DexScreener now shows all five pools with less than $1 of liquidity.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-18T01:10:00-05:00",
+"image": "https://lcinsight.net/og/kol-tech-bought-five-pika-tokens-at-launch-second.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#KOLs",
+"#BSC",
+"#Memecoins"
+]
+},
+{
+"slug": "sparklend-shrank-447m-in-7-days-maple-up-5-7-percent-in-a-day",
+"url": "https://lcinsight.net/news/sparklend-shrank-447-million-in-seven-days-while-maple-grew-5-7.html",
+"title": "SparkLend shrank $447 million in seven days while Maple grew 5.7% in a single day",
+"dek": "DefiLlama data show the lender SparkLend fell 10% since November 10 to $4.00 billion, with a $404 million drop in one day. Lender Maple rose to $2.33 billion.",
+"category": "DeFi",
+"guide": false,
+"hot": false,
+"published": "2026-11-18T01:06:00-05:00",
+"image": "https://lcinsight.net/og/sparklend-shrank-447m-in-7-days-maple-up-5-7-percent-in-a-day.jpg",
+"hashtags": [
+"#DeFi",
+"#Sky",
+"#Ethereum",
+"#DefiLlama",
+"#Data"
+]
+},
+{
+"slug": "rumor-vs-record-predict-airdrop-claim-today-metamask-token",
+"url": "https://lcinsight.net/news/rumor-vs-record-no-official-date-for-predict-funs-airdrop-claim-and-no.html",
+"title": "Rumor vs record: no official date for Predict.fun's airdrop claim, and no MetaMask token",
+"dek": "Posts say PREDICT's delayed Season 1 claim opens November 18 and that a MetaMask token claim closes November 26. We checked four claims against official pages and CoinGecko. Three could not be confirmed on any official page we could open, and one is wrong.",
+"category": "Airdrops",
+"guide": false,
+"hot": true,
+"published": "2026-11-18T01:05:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-predict-airdrop-claim-today-metamask-token.jpg",
+"hashtags": [
+"#RumorCheck",
+"#Predictfun",
+"#PREDICT",
+"#MetaMask",
+"#Airdrops"
+]
+},
+{
+"slug": "hyperliquid-bridge-lost-515m-in-8-days-arbitrum-usdc-up-92m",
+"url": "https://lcinsight.net/news/515-million-left-hyperliquids-bridge-in-8-days-arbitrums-usdc-rose-92.html",
+"title": "$515 million left Hyperliquid's bridge in 8 days. Arbitrum's USDC rose $92 million in a day",
+"dek": "DefiLlama data show the Hyperliquid Bridge fell 8.4% since November 9 and USDC on Hyperliquid's chain dropped $194 million in a day. USDC on Arbitrum, Base Bridge and LayerZero gained.",
+"category": "DeFi",
+"guide": false,
+"hot": false,
+"published": "2026-11-18T01:02:00-05:00",
+"image": "https://lcinsight.net/og/hyperliquid-bridge-lost-515m-in-8-days-arbitrum-usdc-up-92m.jpg",
+"hashtags": [
+"#Hyperliquid",
+"#Bridges",
+"#Arbitrum",
+"#USDC",
+"#DefiLlama"
+]
+},
+{
+"slug": "pearl-up-53-percent-in-six-days-18-percent-of-coins-circulate",
+"url": "https://lcinsight.net/news/pearl-climbed-53-percent-in-six-days-to-1-84-as-bitcoin-fell-only-18.html",
+"title": "Pearl climbed 53% in six days to $1.84 as bitcoin fell. Only 18% of its coins are out",
+"dek": "The coin of Pearl, a blockchain that pays GPU miners for AI math, is back on CoinGecko's trending list. Its market value rose by about $184 million in a week, but all 2.1 billion coins would be worth $3.86 billion.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-18T01:00:00-05:00",
+"image": "https://lcinsight.net/og/pearl-up-53-percent-in-six-days-18-percent-of-coins-circulate.jpg",
+"hashtags": [
+"#Pearl",
+"#PEARL",
+"#AI",
+"#Mining",
+"#Trending"
+]
+},
+{
+"slug": "sky-usds-lost-1-63b-in-a-month-12-dollar-tokens-shrank-850m",
+"url": "https://lcinsight.net/news/skys-usds-lost-1-63-billion-in-a-month-almost-a-quarter-of-its-supply.html",
+"title": "Sky's USDS lost $1.63 billion in a month, almost a quarter of its supply",
+"dek": "The 12 biggest dollar stablecoins shrank $850 million in a day and $3.61 billion in a week, DefiLlama data show. USDS fell $121 million in a day, and USDC lost ground on Hyperliquid, Solana and Base.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-18T01:00:00-05:00",
+"image": "https://lcinsight.net/og/sky-usds-lost-1-63b-in-a-month-12-dollar-tokens-shrank-850m.jpg",
+"hashtags": [
+"#Stablecoins",
+"#USDS",
+"#Sky",
+"#USDC",
+"#DefiLlama"
+]
+},
+{
+"slug": "binance-anthropic-ipo-token-sale-500m-cap-perp-resized-13x",
+"url": "https://lcinsight.net/news/binance-opens-a-500-million-anthropic-ipo-token-sale-a-day-after.html",
+"title": "Binance opens a $500 million Anthropic IPO token sale, a day after cutting its perp price 13x",
+"dek": "Binance Wallet takes USDC orders for Anthropic stock tokens from 1 a.m. to 9 a.m. ET on Wednesday, at an indicative $70 to $78 each. On Tuesday, Binance Futures shrank the price of its Anthropic pre-IPO contract by a factor of 13.116 and renamed it ANTUSDT.",
+"category": "Exchanges",
+"guide": false,
+"hot": false,
+"published": "2026-11-18T00:55:00-05:00",
+"image": "https://lcinsight.net/og/binance-anthropic-ipo-token-sale-500m-cap-perp-resized-13x.jpg",
+"hashtags": [
+"#Binance",
+"#TokenizedStocks",
+"#IPO",
+"#Derivatives"
+]
+},
+{
+"slug": "infinifi-infi-airdrop-8-3-percent-down-88-percent-first-day",
+"url": "https://lcinsight.net/news/infinifi-airdropped-8-3-percent-of-infi-on-tuesday-the-token-is-88.html",
+"title": "infiniFi airdropped 8.3% of INFI on Tuesday. The token is 88% below its first trade",
+"dek": "The yield protocol sent INFI straight into eligible wallets on Ethereum and Base on November 17, 2026. Trading opened near $0.92 and slid to about $0.10 by midnight ET, which puts all 100 million tokens at roughly $10.6 million.",
+"category": "Airdrops",
+"guide": false,
+"hot": true,
+"published": "2026-11-18T00:55:00-05:00",
+"image": "https://lcinsight.net/og/infinifi-infi-airdrop-8-3-percent-down-88-percent-first-day.jpg",
+"hashtags": [
+"#InfiniFi",
+"#INFI",
+"#Airdrops",
+"#Ethereum",
+"#Base"
+]
+},
+{
+"slug": "bitcoin-etfs-monday-flips-to-9-6m-inflow-tuesday-out-32m",
+"url": "https://lcinsight.net/news/bitcoin-etfs-took-in-9-6-million-monday-ending-a-7-day-outflow-run.html",
+"title": "Bitcoin ETFs took in $9.6 million Monday, ending a 7-day outflow run, then lost $32.4 million",
+"dek": "CoinMarketCap's revised data show U.S. spot bitcoin funds took in $9.6 million on Monday, November 16, their first inflow since November 4. On Tuesday they lost $32.4 million as bitcoin dipped below $64,000.",
+"category": "ETFs",
+"guide": false,
+"hot": false,
+"published": "2026-11-18T00:50:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-etfs-monday-flips-to-9-6m-inflow-tuesday-out-32m.jpg",
+"hashtags": [
+"#ETF",
+"#Bitcoin",
+"#Ethereum",
+"#Data"
+]
+},
+{
 "slug": "bitway-btw-bounces-32-percent-still-84-percent-below-record",
 "url": "https://lcinsight.net/news/bitway-btw-bounces-32-percent-in-a-day-but-it-is-still-84-percent.html",
 "title": "Bitway (BTW) bounces 32% in a day, but it is still 84% below its October record",
@@ -323,9 +537,9 @@
 },
 {
 "slug": "bitcoin-etfs-eight-straight-outflow-days-1-79b-bitcoin-65k",
-"url": "https://lcinsight.net/news/bitcoin-etfs-bled-1-79-billion-over-eight-straight-outflow-days-as.html",
-"title": "Bitcoin ETFs bled $1.79 billion over eight straight outflow days as bitcoin slid to $65,000",
-"dek": "U.S. spot bitcoin funds had net outflows of $185.4 million on Friday and $66.9 million on Monday, CoinMarketCap data show. It is their longest outflow run in the 63 sessions CoinMarketCap's 90-day chart covers.",
+"url": "https://lcinsight.net/news/bitcoin-etfs-bled-1-72-billion-over-seven-straight-outflow-days-as.html",
+"title": "Bitcoin ETFs bled $1.72 billion over seven straight outflow days as bitcoin slid to $65,000",
+"dek": "U.S. spot bitcoin funds had a net outflow of $185.4 million on Friday, CoinMarketCap data show, and Monday's figure was revised to a $9.6 million inflow. The seven-day run is their longest in the 63 sessions CoinMarketCap's 90-day chart covers.",
 "category": "ETFs",
 "guide": false,
 "hot": false,
@@ -3364,222 +3578,6 @@
 "#BlackRock",
 "#Bitcoin",
 "#FundFlows"
-]
-},
-{
-"slug": "janction-jct-up-285-percent-record-high-november-8",
-"url": "https://lcinsight.net/news/janction-jct-jumps-285-percent-in-a-day-to-a-record-high-as-volume.html",
-"title": "Janction (JCT) jumps 285% in a day to a record high as volume tops its market cap",
-"dek": "JCT climbed from about $0.0025 to a new all-time high near $0.0107 on Sunday morning. About $175 million changed hands in a day, more than the token's $120 million market cap, and three venues handled 86% of it.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-08T07:15:00-05:00",
-"image": "https://lcinsight.net/og/janction-jct-up-285-percent-record-high-november-8.jpg",
-"hashtags": [
-"#Janction",
-"#JCT",
-"#PriceMoves",
-"#Trending",
-"#Altcoins"
-]
-},
-{
-"slug": "hyperliquid-zcash-open-interest-626m-tops-binance",
-"url": "https://lcinsight.net/news/hyperliquid-holds-626-million-of-open-zcash-bets-more-than-binances.html",
-"title": "Hyperliquid holds $626 million of open Zcash bets, more than Binance's $556.9 million",
-"dek": "On a quiet Sunday, Zcash was the second most traded market on Hyperliquid, ahead of ether. CoinGecko's data shows the on-chain exchange now carries the largest pile of open ZEC futures of any venue.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-08T07:10:00-05:00",
-"image": "https://lcinsight.net/og/hyperliquid-zcash-open-interest-626m-tops-binance.jpg",
-"hashtags": [
-"#Zcash",
-"#Hyperliquid",
-"#PerpetualFutures",
-"#Binance",
-"#Data"
-]
-},
-{
-"slug": "rumor-vs-record-japan-128-shinkin-banks-outage-november-6",
-"url": "https://lcinsight.net/news/rumor-vs-record-128-japanese-banks-went-dark-on-november-6-notices.html",
-"title": "Rumor vs record: 128 Japanese banks went dark on November 6. Notices blame broken equipment",
-"dek": "A viral reel says 128 banks in Japan were taken down all at once. The outage was real. The official notices we could read point to a failed piece of communications equipment, and none of them mention an attack.",
-"category": "Security",
-"guide": false,
-"hot": true,
-"published": "2026-11-08T07:10:00-05:00",
-"image": "https://lcinsight.net/og/rumor-vs-record-japan-128-shinkin-banks-outage-november-6.jpg",
-"hashtags": [
-"#RumorCheck",
-"#Japan",
-"#Banks",
-"#Outages",
-"#Security"
-]
-},
-{
-"slug": "optimism-shark-bought-612k-op-one-trade-down-98-from-high",
-"url": "https://lcinsight.net/news/a-shark-bought-612-100-of-op-in-one-trade-nine-hours-later-its-wallet.html",
-"title": "A shark bought $612,100 of OP in one trade. Nine hours later its wallet held no OP",
-"dek": "An Optimism wallet DeepSea calls Hold9675 bought 6.03 million OP on Saturday night, about 3% of the token's daily trading. Its page now shows no OP among its holdings.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-08T07:03:00-05:00",
-"image": "https://lcinsight.net/og/optimism-shark-bought-612k-op-one-trade-down-98-from-high.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Sharks",
-"#Optimism",
-"#OnChainData"
-]
-},
-{
-"slug": "cbbtc-whale-216m-shows-291k-loss-trades-look-like-loans",
-"url": "https://lcinsight.net/news/a-216-million-bitcoin-whale-shows-a-291-600-weekly-loss-but-its-moves.html",
-"title": "A $216 million bitcoin whale shows a $291,600 weekly loss, but its moves look like loans",
-"dek": "DeepSea counts an 82% win rate and a 7-day loss for an Ethereum wallet holding only cbBTC. Its trade list reads like a borrower moving collateral in and out of a lending market.",
-"category": "DeFi",
-"guide": false,
-"hot": true,
-"published": "2026-11-08T07:02:00-05:00",
-"image": "https://lcinsight.net/og/cbbtc-whale-216m-shows-291k-loss-trades-look-like-loans.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Whales",
-"#Bitcoin",
-"#OnChainData"
-]
-},
-{
-"slug": "shark-5488-trades-30-days-lost-1-64m-bought-155k-debit",
-"url": "https://lcinsight.net/news/a-shark-lost-1-64-million-on-5-488-trades-in-30-days-then-bought-155.html",
-"title": "A shark lost $1.64 million on 5,488 trades in 30 days, then bought $155,000 of DEBIT",
-"dek": "DeepSea's page for a shark wallet ending in 1f17 shows losses on BNB Chain, Ethereum and Optimism. On Sunday morning it kept trading: gold tokens out, small caps in.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-08T07:01:00-05:00",
-"image": "https://lcinsight.net/og/shark-5488-trades-30-days-lost-1-64m-bought-155k-debit.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Sharks",
-"#OnChainData",
-"#BSC"
-]
-},
-{
-"slug": "kol-loopierr-lost-44k-sunday-31-winners-made-54k",
-"url": "https://lcinsight.net/news/one-kol-lost-44-400-on-sunday-wiping-out-82-percent-of-what-31-winning.html",
-"title": "One KOL lost $44,400 on Sunday, wiping out 82% of what 31 winning KOLs made",
-"dek": "DeepSea's one-day board lists 58 crypto influencers with a result on November 8. Most made money, but Loopierr's single loss pulled the whole group about $20,900 into the red.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-08T07:00:00-05:00",
-"image": "https://lcinsight.net/og/kol-loopierr-lost-44k-sunday-31-winners-made-54k.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#KOLs",
-"#OnChainData",
-"#Memecoins"
-]
-},
-{
-"slug": "russia-retail-crypto-bitcoin-ether-usdt-300000-ruble-cap",
-"url": "https://lcinsight.net/news/russia-lets-ordinary-investors-buy-only-btc-eth-and-usdt-capped-at.html",
-"title": "Russia lets ordinary investors buy only BTC, ETH and USDT, capped at about $3,665 a year",
-"dek": "The Bank of Russia's directive 7441-U, published November 6, 2026, names just three assets that non-qualified investors may buy through a broker, with a yearly limit of 300,000 rubles. It enters into force 10 days after publication.",
-"category": "Policy",
-"guide": false,
-"hot": true,
-"published": "2026-11-08T01:10:00-05:00",
-"image": "https://lcinsight.net/og/russia-retail-crypto-bitcoin-ether-usdt-300000-ruble-cap.jpg",
-"hashtags": [
-"#Russia",
-"#Regulation",
-"#Bitcoin",
-"#Ethereum",
-"#USDT"
-]
-},
-{
-"slug": "bsc-kols-kurtz-tech-18-same-memecoin-trades",
-"url": "https://lcinsight.net/news/two-bnb-chain-influencers-made-18-of-the-same-memecoin-trades-within.html",
-"title": "Two BNB Chain influencers made 18 of the same memecoin trades within hours. Both are up this week",
-"dek": "DeepSea's KOL wallets for kurtz and tech bought and sold the same tokens, in the same direction and within about an hour, over two days. DeepSea counts every closed trade of theirs this week as a win.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-08T01:02:00-05:00",
-"image": "https://lcinsight.net/og/bsc-kols-kurtz-tech-18-same-memecoin-trades.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#KOLs",
-"#BSC",
-"#Memecoins"
-]
-},
-{
-"slug": "ethereum-shark-100m-traded-450m-30-days-profit-26k",
-"url": "https://lcinsight.net/news/a-100-million-ethereum-shark-traded-450-million-in-30-days-its-profit.html",
-"title": "A $100 million Ethereum shark traded $450 million in 30 days. Its profit: $26,100",
-"dek": "Three quarters of the wallet sits in three dollar tokens. In four minutes from 12:30 a.m. ET it bought $340,000 of Ripple's RLUSD, sold $131,000 of LINK and made 18 buys of under $10 each.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-08T01:01:00-05:00",
-"image": "https://lcinsight.net/og/ethereum-shark-100m-traded-450m-30-days-profit-26k.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Ethereum",
-"#Stablecoins",
-"#RLUSD"
-]
-},
-{
-"slug": "bsc-shark-sold-13-4m-btc-eth-jct-buyer-81836-trades",
-"url": "https://lcinsight.net/news/a-shark-sold-13-4-million-of-bitcoin-ether-and-jct-in-minutes-the.html",
-"title": "A shark sold $13.4 million of bitcoin, ether and JCT in minutes. The buyer made 81,836 trades in a month",
-"dek": "A BNB Chain wallet that DeepSea shows down $1.75 million in 30 days sold three tokens just after midnight ET and now holds $28.7 million in a dollar token. DeepSea logs the buyer of its ether and JCT as one of the most active wallets it tracks.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-08T01:00:00-05:00",
-"image": "https://lcinsight.net/og/bsc-shark-sold-13-4m-btc-eth-jct-buyer-81836-trades.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#BSC",
-"#Bitcoin",
-"#Ethereum"
-]
-},
-{
-"slug": "memecoin-easy-money-numbers-top-12-memes-44-to-98-below-highs",
-"url": "https://lcinsight.net/news/is-the-memecoin-easy-money-era-over-the-12-biggest-memecoins-sit-44.html",
-"title": "Is the memecoin easy-money era over? The 12 biggest memecoins sit 44% to 98% below their highs",
-"dek": "Traders are arguing about whether memecoins still pay. We skipped the opinions and pulled the numbers: prices against all-time highs, Pump.fun's revenue and the size of the meme market today.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-07T22:50:00-05:00",
-"image": "https://lcinsight.net/og/memecoin-easy-money-numbers-top-12-memes-44-to-98-below-highs.jpg",
-"hashtags": [
-"#Memecoins",
-"#Pumpfun",
-"#Dogecoin",
-"#PEPE",
-"#Data"
 ]
 }
 ]
