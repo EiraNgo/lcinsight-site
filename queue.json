@@ -1,77 +1,5 @@
 [
  {
-  "id": "trend:ni-hao-cat:20261115",
-  "kind": "trending",
-  "hint": "ni hao cat (MIHAO) trending #2 on CoinGecko, +336.5% 24h",
-  "source": "https://www.coingecko.com/en/coins/ni-hao-cat",
-  "data": {
-   "ch24": 336.49658305687325
-  },
-  "found": "2026-11-15T16:38:26Z"
- },
- {
-  "id": "trend:macca-the-gator-2:20261115",
-  "kind": "trending",
-  "hint": "Macca the Gator (MACCA) trending #1 on CoinGecko, +301.6% 24h",
-  "source": "https://www.coingecko.com/en/coins/macca-the-gator-2",
-  "data": {
-   "ch24": 301.61134036737735
-  },
-  "found": "2026-11-15T20:04:48Z"
- },
- {
-  "id": "price:bitway:20261115:up",
-  "kind": "price",
-  "hint": "Bitway (BTW) +6.6% in 1h, -26.6% in 24h, now $0.557825",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": 6.5981,
-   "h24": -26.63892,
-   "price": 0.557825,
-   "mcap_rank": 76
-  },
-  "found": "2026-11-15T20:16:47Z"
- },
- {
-  "id": "price:aster-2:20261115:up",
-  "kind": "price",
-  "hint": "Aster (ASTER) +12.7% in 1h, +29.8% in 24h, now $0.640511",
-  "source": "https://www.coingecko.com/en/coins/aster-2",
-  "data": {
-   "h1": 12.7471,
-   "h24": 29.78018,
-   "price": 0.640511,
-   "mcap_rank": 48
-  },
-  "found": "2026-11-15T21:03:50Z"
- },
- {
-  "id": "price:bitway:20261115:down",
-  "kind": "price",
-  "hint": "Bitway (BTW) -4.0% in 1h, -25.9% in 24h, now $0.542999",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": -4.0493,
-   "h24": -25.8759,
-   "price": 0.542999,
-   "mcap_rank": 78
-  },
-  "found": "2026-11-15T21:03:50Z"
- },
- {
-  "id": "price:aster-2:20261115:down",
-  "kind": "price",
-  "hint": "Aster (ASTER) -15.2% in 1h, +5.0% in 24h, now $0.523898",
-  "source": "https://www.coingecko.com/en/coins/aster-2",
-  "data": {
-   "h1": -15.1616,
-   "h24": 5.01678,
-   "price": 0.523898,
-   "mcap_rank": 56
-  },
-  "found": "2026-11-15T22:01:25Z"
- },
- {
   "id": "price:bitway:20261116:down",
   "kind": "price",
   "hint": "Bitway (BTW) -3.7% in 1h, -27.3% in 24h, now $0.526173",
@@ -446,5 +374,43 @@
    "mcap_rank": 73
   },
   "found": "2026-11-18T16:10:46Z"
+ },
+ {
+  "id": "hack:Gonka AI:1794960000",
+  "kind": "hack",
+  "hint": "Gonka AI hacked/exploited, ~$1.1M (Bridge & Cross-Chain)",
+  "source": "https://defillama.com/hacks",
+  "data": {
+   "amount": 1050000,
+   "chain": [
+    "Ethereum"
+   ],
+   "technique": "Bridge Logic Flaw"
+  },
+  "found": "2026-11-18T22:26:55Z"
+ },
+ {
+  "id": "hack:K3 Capital:1794960000",
+  "kind": "hack",
+  "hint": "K3 Capital hacked/exploited, ~$3.4M (Token & Share Accounting)",
+  "source": "https://defillama.com/hacks",
+  "data": {
+   "amount": 3420000,
+   "chain": [
+    "Ethereum"
+   ],
+   "technique": "Incorrect Share Accounting"
+  },
+  "found": "2026-11-18T22:26:55Z"
+ },
+ {
+  "id": "reg:https://www.sec.gov/Archives/edgar/data/2080215/000121390026121814/0001213900-26-121814-index.htm",
+  "kind": "regulator",
+  "hint": "US SEC EDGAR 424B: 424B3 - StableCoinX Inc. (0002080215) (Filer)",
+  "source": "https://www.sec.gov/Archives/edgar/data/2080215/000121390026121814/0001213900-26-121814-index.htm",
+  "data": {
+   "source": "US SEC EDGAR 424B"
+  },
+  "found": "2026-11-18T22:28:39Z"
  }
 ]
