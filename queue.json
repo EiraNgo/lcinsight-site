@@ -394,5 +394,25 @@
    "mcap_rank": 85
   },
   "found": "2026-11-18T01:59:13Z"
+ },
+ {
+  "id": "trend:pearl-2:20261118",
+  "kind": "trending",
+  "hint": "Pearl (PEARL) trending #2 on CoinGecko, +15.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/pearl-2",
+  "data": {
+   "ch24": 15.027018203519429
+  },
+  "found": "2026-11-18T02:35:07Z"
+ },
+ {
+  "id": "trend:brevis:20261118",
+  "kind": "trending",
+  "hint": "Brevis (BREV) trending #3 on CoinGecko, +97.7% 24h",
+  "source": "https://www.coingecko.com/en/coins/brevis",
+  "data": {
+   "ch24": 97.68238862904495
+  },
+  "found": "2026-11-18T02:35:07Z"
  }
 ]
