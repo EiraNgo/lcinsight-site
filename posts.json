@@ -1,5 +1,23 @@
 [
 {
+"slug": "bitway-btw-bounces-32-percent-still-84-percent-below-record",
+"url": "https://lcinsight.net/news/bitway-btw-bounces-32-percent-in-a-day-but-it-is-still-84-percent.html",
+"title": "Bitway (BTW) bounces 32% in a day, but it is still 84% below its October record",
+"dek": "BTW climbed from a low near $0.335 late Monday to about $0.45 on Tuesday evening, after falling more than 60% in a week. A PancakeSwap pool on BNB Chain carried half the trading.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-17T21:15:00-05:00",
+"image": "https://lcinsight.net/og/bitway-btw-bounces-32-percent-still-84-percent-below-record.jpg",
+"hashtags": [
+"#Bitway",
+"#BTW",
+"#PriceMoves",
+"#Altcoins",
+"#PancakeSwap"
+]
+},
+{
 "slug": "rain-gives-back-40-percent-of-its-monday-surge-on-thin-volume",
 "url": "https://lcinsight.net/news/rain-rain-has-given-back-40-percent-since-mondays-peak-and-htx-carried.html",
 "title": "Rain (RAIN) has given back 40% since Monday's peak, and HTX carried half the trading",
@@ -3562,24 +3580,6 @@
 "#Dogecoin",
 "#PEPE",
 "#Data"
-]
-},
-{
-"slug": "six-crypto-projects-leaving-own-chains-solana-ethereum-base",
-"url": "https://lcinsight.net/news/6-crypto-projects-are-giving-up-their-own-chains-for-solana-ethereum.html",
-"title": "6 crypto projects are giving up their own chains for Solana, Ethereum, Base, Sui and Arc",
-"dek": "A table of nine \"chain migrations\" is going viral. We checked each row against the projects' own posts: six are confirmed, three are not. Here is where each one is going and what its token did since.",
-"category": "Infrastructure",
-"guide": false,
-"hot": true,
-"published": "2026-11-07T22:40:00-05:00",
-"image": "https://lcinsight.net/og/six-crypto-projects-leaving-own-chains-solana-ethereum-base.jpg",
-"hashtags": [
-"#Solana",
-"#Ethereum",
-"#Base",
-"#Sui",
-"#Layer1"
 ]
 }
 ]
