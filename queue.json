@@ -1,42 +1,5 @@
 [
  {
-  "id": "price:aster-2:20261114:down",
-  "kind": "price",
-  "hint": "Aster (ASTER) -11.0% in 1h, -16.4% in 24h, now $0.549405",
-  "source": "https://www.coingecko.com/en/coins/aster-2",
-  "data": {
-   "h1": -10.9567,
-   "h24": -16.36351,
-   "price": 0.549405,
-   "mcap_rank": 56
-  },
-  "found": "2026-11-14T20:01:45Z"
- },
- {
-  "id": "hack:Kava Lend:1794614400",
-  "kind": "hack",
-  "hint": "Kava Lend hacked/exploited, ~$3.7M (Token & Share Accounting)",
-  "source": "https://defillama.com/hacks",
-  "data": {
-   "amount": 3700000,
-   "chain": [
-    "Kava"
-   ],
-   "technique": "Arithmetic Error"
-  },
-  "found": "2026-11-14T20:59:09Z"
- },
- {
-  "id": "trend:aster-2:20261114",
-  "kind": "trending",
-  "hint": "Aster (ASTER) trending #2 on CoinGecko, -22.5% 24h",
-  "source": "https://www.coingecko.com/en/coins/aster-2",
-  "data": {
-   "ch24": -22.45466363794954
-  },
-  "found": "2026-11-14T22:54:05Z"
- },
- {
   "id": "trend:uniswap:20261115",
   "kind": "trending",
   "hint": "Uniswap (UNI) trending #3 on CoinGecko, -16.6% 24h",
@@ -415,5 +378,18 @@
    "ch24": 81.36145314811914
   },
   "found": "2026-11-17T18:54:53Z"
+ },
+ {
+  "id": "price:rain:20261118:down",
+  "kind": "price",
+  "hint": "Rain (RAIN) -2.1% in 1h, -28.3% in 24h, now $0.00456877",
+  "source": "https://www.coingecko.com/en/coins/rain",
+  "data": {
+   "h1": -2.077,
+   "h24": -28.26037,
+   "price": 0.00456877,
+   "mcap_rank": 26
+  },
+  "found": "2026-11-18T00:16:50Z"
  }
 ]
