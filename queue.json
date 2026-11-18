@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:uniswap:20261115",
-  "kind": "trending",
-  "hint": "Uniswap (UNI) trending #3 on CoinGecko, -16.6% 24h",
-  "source": "https://www.coingecko.com/en/coins/uniswap",
-  "data": {
-   "ch24": -16.577114345883608
-  },
-  "found": "2026-11-15T01:01:53Z"
- },
- {
   "id": "trend:kava:20261115",
   "kind": "trending",
   "hint": "Kava (KAVA) trending #3 on CoinGecko, -46.2% 24h",
@@ -391,5 +381,18 @@
    "mcap_rank": 26
   },
   "found": "2026-11-18T00:16:50Z"
+ },
+ {
+  "id": "price:bitway:20261118:up",
+  "kind": "price",
+  "hint": "Bitway (BTW) +8.0% in 1h, +33.5% in 24h, now $0.464909",
+  "source": "https://www.coingecko.com/en/coins/bitway",
+  "data": {
+   "h1": 8.0257,
+   "h24": 33.53191,
+   "price": 0.464909,
+   "mcap_rank": 85
+  },
+  "found": "2026-11-18T01:59:13Z"
  }
 ]
