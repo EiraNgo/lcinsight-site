@@ -1,35 +1,5 @@
 [
  {
-  "id": "trend:kava:20261115",
-  "kind": "trending",
-  "hint": "Kava (KAVA) trending #3 on CoinGecko, -46.2% 24h",
-  "source": "https://www.coingecko.com/en/coins/kava",
-  "data": {
-   "ch24": -46.24023927184269
-  },
-  "found": "2026-11-15T06:57:20Z"
- },
- {
-  "id": "trend:identity-md:20261115",
-  "kind": "trending",
-  "hint": "Identity.md (IMD) trending #1 on CoinGecko, +37.3% 24h",
-  "source": "https://www.coingecko.com/en/coins/identity-md",
-  "data": {
-   "ch24": 37.34755739605614
-  },
-  "found": "2026-11-15T13:01:14Z"
- },
- {
-  "id": "trend:gato-the-cat:20261115",
-  "kind": "trending",
-  "hint": "Gato The Cat (GATO) trending #2 on CoinGecko, +46.0% 24h",
-  "source": "https://www.coingecko.com/en/coins/gato-the-cat",
-  "data": {
-   "ch24": 46.03865622369807
-  },
-  "found": "2026-11-15T13:13:16Z"
- },
- {
   "id": "trend:audacity-4:20261115",
   "kind": "trending",
   "hint": "AudaCity (DACITYCOIN) trending #2 on CoinGecko, +238.5% 24h",
@@ -440,5 +410,28 @@
    "mcap_rank": 26
   },
   "found": "2026-11-18T06:02:37Z"
+ },
+ {
+  "id": "price:pieverse:20261118:up",
+  "kind": "price",
+  "hint": "Pieverse (PIEVERSE) +18.1% in 1h, +53.7% in 24h, now $2.96",
+  "source": "https://www.coingecko.com/en/coins/pieverse",
+  "data": {
+   "h1": 18.0542,
+   "h24": 53.74524,
+   "price": 2.96,
+   "mcap_rank": 76
+  },
+  "found": "2026-11-18T13:37:21Z"
+ },
+ {
+  "id": "trend:momentum-3:20261118",
+  "kind": "trending",
+  "hint": "Momentum (MMT) trending #3 on CoinGecko, +116.1% 24h",
+  "source": "https://www.coingecko.com/en/coins/momentum-3",
+  "data": {
+   "ch24": 116.12121620437708
+  },
+  "found": "2026-11-18T13:37:21Z"
  }
 ]
