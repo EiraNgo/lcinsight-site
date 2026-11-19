@@ -1,41 +1,5 @@
 [
  {
-  "id": "price:bitway:20261116:up",
-  "kind": "price",
-  "hint": "Bitway (BTW) +0.2% in 1h, -36.6% in 24h, now $0.451039",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": 0.1951,
-   "h24": -36.61245,
-   "price": 0.451039,
-   "mcap_rank": 85
-  },
-  "found": "2026-11-16T06:08:51Z"
- },
- {
-  "id": "trend:seeker:20261116",
-  "kind": "trending",
-  "hint": "Seeker (SKR) trending #2 on CoinGecko, +30.2% 24h",
-  "source": "https://www.coingecko.com/en/coins/seeker",
-  "data": {
-   "ch24": 30.222798781605132
-  },
-  "found": "2026-11-16T06:08:51Z"
- },
- {
-  "id": "price:rain:20261116:up",
-  "kind": "price",
-  "hint": "Rain (RAIN) +6.2% in 1h, +27.5% in 24h, now $0.00461003",
-  "source": "https://www.coingecko.com/en/coins/rain",
-  "data": {
-   "h1": 6.1682,
-   "h24": 27.5102,
-   "price": 0.00461003,
-   "mcap_rank": 26
-  },
-  "found": "2026-11-16T06:43:17Z"
- },
- {
   "id": "price:rain:20261116:down",
   "kind": "price",
   "hint": "Rain (RAIN) -3.2% in 1h, +65.7% in 24h, now $0.00608198",
@@ -487,5 +451,18 @@
    "ch24": 53.74374775655313
   },
   "found": "2026-11-19T05:27:44Z"
+ },
+ {
+  "id": "price:bitway:20261119:down",
+  "kind": "price",
+  "hint": "Bitway (BTW) -2.1% in 1h, +26.2% in 24h, now $0.559747",
+  "source": "https://www.coingecko.com/en/coins/bitway",
+  "data": {
+   "h1": -2.1334,
+   "h24": 26.22523,
+   "price": 0.559747,
+   "mcap_rank": 77
+  },
+  "found": "2026-11-19T06:59:05Z"
  }
 ]
