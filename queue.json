@@ -461,5 +461,18 @@
    "source": "US SEC"
   },
   "found": "2026-11-19T18:46:29Z"
+ },
+ {
+  "id": "price:sky:20261119:up",
+  "kind": "price",
+  "hint": "Sky (SKY) +17.1% in 1h, -8.8% in 24h, now $0.04642307",
+  "source": "https://www.coingecko.com/en/coins/sky",
+  "data": {
+   "h1": 17.0813,
+   "h24": -8.75034,
+   "price": 0.04642307,
+   "mcap_rank": 67
+  },
+  "found": "2026-11-19T20:10:16Z"
  }
 ]
