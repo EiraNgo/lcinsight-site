@@ -121,5 +121,10 @@
  "price:rain:20261118:up",
  "price:pieverse:20261118:up",
  "trend:momentum-3:20261118",
- "trend:pieverse:20261118"
+ "trend:pieverse:20261118",
+ "price:pieverse:20261118:down",
+ "hack:Gonka AI:1794960000",
+ "hack:K3 Capital:1794960000",
+ "reg:https://www.sec.gov/Archives/edgar/data/2080215/000121390026121814/0001213900-26-121814-index.htm",
+ "price:pearl-2:20261118:down"
 ]
