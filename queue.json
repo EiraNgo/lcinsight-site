@@ -425,5 +425,41 @@
    "mcap_rank": 73
   },
   "found": "2026-11-18T23:25:50Z"
+ },
+ {
+  "id": "price:pieverse:20261119:down",
+  "kind": "price",
+  "hint": "Pieverse (PIEVERSE) -0.6% in 1h, +71.5% in 24h, now $3.53",
+  "source": "https://www.coingecko.com/en/coins/pieverse",
+  "data": {
+   "h1": -0.6424,
+   "h24": 71.54747,
+   "price": 3.53,
+   "mcap_rank": 71
+  },
+  "found": "2026-11-19T00:01:25Z"
+ },
+ {
+  "id": "price:pearl-2:20261119:down",
+  "kind": "price",
+  "hint": "Pearl (PEARL) -0.9% in 1h, +28.5% in 24h, now $2.34",
+  "source": "https://www.coingecko.com/en/coins/pearl-2",
+  "data": {
+   "h1": -0.8543,
+   "h24": 28.46998,
+   "price": 2.34,
+   "mcap_rank": 73
+  },
+  "found": "2026-11-19T00:01:25Z"
+ },
+ {
+  "id": "trend:pearl-2:20261119",
+  "kind": "trending",
+  "hint": "Pearl (PEARL) trending #3 on CoinGecko, +28.1% 24h",
+  "source": "https://www.coingecko.com/en/coins/pearl-2",
+  "data": {
+   "ch24": 28.126595771105954
+  },
+  "found": "2026-11-19T00:01:25Z"
  }
 ]
