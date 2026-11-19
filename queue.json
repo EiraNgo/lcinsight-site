@@ -464,5 +464,15 @@
    "mcap_rank": 77
   },
   "found": "2026-11-19T06:59:05Z"
+ },
+ {
+  "id": "trend:terra-luna:20261119",
+  "kind": "trending",
+  "hint": "Terra Luna Classic (LUNC) trending #3 on CoinGecko, +16.5% 24h",
+  "source": "https://www.coingecko.com/en/coins/terra-luna",
+  "data": {
+   "ch24": 16.52673857645931
+  },
+  "found": "2026-11-19T08:30:46Z"
  }
 ]
