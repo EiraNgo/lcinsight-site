@@ -1,5 +1,148 @@
 [
 {
+"slug": "k3-sbold-vault-exploit-10000-wsteth-flash-loan-9m-bold",
+"url": "https://lcinsight.net/news/k3s-sbold-vault-hit-with-10-000-borrowed-wsteth-and-9-million-new-bold.html",
+"title": "K3's sBOLD vault hit with 10,000 borrowed wstETH and 9 million new BOLD in one transaction",
+"dek": "An attacker hit K3 Capital's sBOLD savings vault on Ethereum on Wednesday morning. In one public transaction it borrowed 10,000 wstETH from Morpho, minted 9 million BOLD, cycled it through the vault and then paid ether to the wallet that built the attack contract.",
+"category": "Security",
+"guide": false,
+"hot": true,
+"published": "2026-11-19T01:05:00-05:00",
+"image": "https://lcinsight.net/og/k3-sbold-vault-exploit-10000-wsteth-flash-loan-9m-bold.jpg",
+"hashtags": [
+"#Hacks",
+"#DeFiVaults",
+"#Ethereum",
+"#Morpho",
+"#OnChainData"
+]
+},
+{
+"slug": "bitcoin-63k-top-traders-93-percent-short-694m",
+"url": "https://lcinsight.net/news/bitcoin-fell-to-62-068-and-97-top-hyperliquid-traders-are-93-percent.html",
+"title": "Bitcoin fell to $62,068, and 97 top Hyperliquid traders are 93% short with $694 million",
+"dek": "DeepSea counts $693.71 million of bitcoin shorts against $55.60 million of longs among 97 top Hyperliquid traders. With an average short entry of $72,018, the group is well in profit as bitcoin trades near $63,400.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-19T01:02:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-63k-top-traders-93-percent-short-694m.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Bitcoin",
+"#SmartMoney",
+"#PerpetualFutures"
+]
+},
+{
+"slug": "irys-jumps-51-percent-volume-20x-korean-won-trading-leads",
+"url": "https://lcinsight.net/news/irys-jumped-58-percent-in-a-day-as-trading-volume-rose-more-than-40.html",
+"title": "Irys jumped 58% in a day as trading volume rose more than 40 times, led by Korean won pairs",
+"dek": "IRYS climbed to about $0.025 while bitcoin fell. Daily volume went from about $3.4 million to $161 million, and Upbit's won market carried the most trading, CoinGecko data show.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-19T01:01:00-05:00",
+"image": "https://lcinsight.net/og/irys-jumps-51-percent-volume-20x-korean-won-trading-leads.jpg",
+"hashtags": [
+"#Layer1",
+"#SouthKorea",
+"#BNBChain",
+"#OnChainData",
+"#Liquidity"
+]
+},
+{
+"slug": "bitcoin-etfs-wednesday-outflow-157m-november-2-55b",
+"url": "https://lcinsight.net/news/bitcoin-etfs-lost-157-5-million-wednesday-pushing-novembers-outflow-to.html",
+"title": "Bitcoin ETFs lost $157.5 million Wednesday, pushing November's outflow to $2.55 billion",
+"dek": "U.S. spot bitcoin funds had a second straight outflow day as bitcoin closed near $62,500. Ether funds lost $17 million, their third outflow day in a row.",
+"category": "ETFs",
+"guide": false,
+"hot": false,
+"published": "2026-11-19T01:00:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-etfs-wednesday-outflow-157m-november-2-55b.jpg",
+"hashtags": [
+"#ETF",
+"#Bitcoin",
+"#Ethereum",
+"#Data"
+]
+},
+{
+"slug": "usdt-on-plasma-up-58-percent-since-november-2-back-above-1b",
+"url": "https://lcinsight.net/news/usdt-on-plasma-jumped-58-percent-in-17-days-to-1-09-billion-while.html",
+"title": "USDT on Plasma jumped 58% in 17 days to $1.09 billion while total USDT shrank",
+"dek": "DefiLlama data show USDT on the Plasma chain rose $401 million since November 2, even as total USDT fell $598 million in a week. It is still about 80% below its October 18, 2025, peak of $5.35 billion.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-19T00:57:00-05:00",
+"image": "https://lcinsight.net/og/usdt-on-plasma-up-58-percent-since-november-2-back-above-1b.jpg",
+"hashtags": [
+"#USDT",
+"#Tether",
+"#Stablecoins",
+"#DefiLlama",
+"#OnChainData"
+]
+},
+{
+"slug": "usdc-on-arc-up-245m-in-a-week-3-5-times-september-low",
+"url": "https://lcinsight.net/news/usdc-on-circles-arc-chain-grew-245-million-in-a-week-as-total-usdc.html",
+"title": "USDC on Circle's Arc chain grew $245 million in a week as total USDC shrank $1.1 billion",
+"dek": "DefiLlama data put USDC on Arc at $1.60 billion, up 18% in a week and 3.5 times its September low. It is level with Polygon, a hair behind in seventh place among USDC chains.",
+"category": "Infrastructure",
+"guide": false,
+"hot": false,
+"published": "2026-11-19T00:56:00-05:00",
+"image": "https://lcinsight.net/og/usdc-on-arc-up-245m-in-a-week-3-5-times-september-low.jpg",
+"hashtags": [
+"#Arc",
+"#Circle",
+"#USDC",
+"#Stablecoins",
+"#DefiLlama"
+]
+},
+{
+"slug": "top-two-traders-made-78-7m-week-accounts-show-14-5m",
+"url": "https://lcinsight.net/news/deepseas-top-two-traders-made-78-7-million-in-a-week-but-hold-just-14.html",
+"title": "DeepSea's top two traders made $78.7 million in a week but hold just $14.5 million",
+"dek": "SMc060 is back at No. 1 on DeepSea's smart money board, with SM6e36 right behind. SM6e36's assets roughly halved in a day while its profit rose, and Arbiscan shows neither wallet keeps any Aave USDC on Arbitrum.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-19T00:51:00-05:00",
+"image": "https://lcinsight.net/og/top-two-traders-made-78-7m-week-accounts-show-14-5m.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#SmartMoney",
+"#Hyperliquid",
+"#Perps"
+]
+},
+{
+"slug": "shark-pulled-10-2m-usdc-from-aave-arbitrum-one-trade",
+"url": "https://lcinsight.net/news/one-shark-pulled-10-2-million-of-usdc-from-aave-on-arbitrum-in-a.html",
+"title": "One shark pulled $10.2 million of USDC from Aave on Arbitrum in a single trade",
+"dek": "An unlabeled wallet made the day's biggest shark sale on any chain, more than 10 times the next one. Arbiscan shows it now holds none of the Aave token, and the pool's supply fell 7% in a day.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-19T00:50:00-05:00",
+"image": "https://lcinsight.net/og/shark-pulled-10-2m-usdc-from-aave-arbitrum-one-trade.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Aave",
+"#Arbitrum"
+]
+},
+{
 "slug": "pieverse-record-3-64-up-66-percent-in-a-day-upbit-retakes-lead",
 "url": "https://lcinsight.net/news/pieverse-jumps-66-percent-in-a-day-to-a-record-3-64-as-upbit-retakes.html",
 "title": "Pieverse jumps 66% in a day to a record $3.64 as Upbit retakes the lead in trading",
@@ -3434,149 +3577,6 @@
 "#Tether",
 "#Sanctions",
 "#Enforcement"
-]
-},
-{
-"slug": "shark-hold4312-49-7m-aave-usdt-129m-gold-ether-fell",
-"url": "https://lcinsight.net/news/one-shark-put-49-7-million-into-aave-usdt-as-ether-fell-5-percent-and.html",
-"title": "One shark put $49.7 million into Aave USDT as ether fell 5%, and holds $129 million in gold",
-"dek": "The same shark wallet we covered on November 5 is back, buying Aave's USDT receipt in five steps. It also holds $129 million of tokenized gold, second only to its restaked ether.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-09T06:52:00-05:00",
-"image": "https://lcinsight.net/og/shark-hold4312-49-7m-aave-usdt-129m-gold-ether-fell.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Sharks",
-"#Aave",
-"#Stablecoins"
-]
-},
-{
-"slug": "rumor-vs-record-strategy-bitcoin-underwater",
-"url": "https://lcinsight.net/news/rumor-vs-record-strategys-bitcoin-is-underwater-but-no-filing-shows-it.html",
-"title": "Rumor vs record: Strategy's bitcoin is underwater, but no filing shows it must sell",
-"dek": "Bitcoin slipped below Strategy's average purchase price overnight, and posts about a $54 billion bet gone bad spread fast. We checked each line against the company's own SEC filing and CoinGecko prices.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-09T06:51:00-05:00",
-"image": "https://lcinsight.net/og/rumor-vs-record-strategy-bitcoin-underwater.jpg",
-"hashtags": [
-"#RumorCheck",
-"#Strategy",
-"#Bitcoin",
-"#PriceMoves",
-"#Markets"
-]
-},
-{
-"slug": "stonk-fell-32-percent-day-57-percent-two-days-dex-pools",
-"url": "https://lcinsight.net/news/solana-launchpad-token-stonk-fell-32-percent-in-a-day-and-lost-45.html",
-"title": "Solana launchpad token STONK fell 32% in a day and lost $45 million in under two days",
-"dek": "StonkFun's STONK token dropped from about $0.10 to $0.044 between Saturday and Sunday evening, now 88% below its September record. Most of the trading ran through Solana DEX pools, CoinGecko's market list shows, and one Meteora pool handled nearly half of all trading.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-09T01:21:00-05:00",
-"image": "https://lcinsight.net/og/stonk-fell-32-percent-day-57-percent-two-days-dex-pools.jpg",
-"hashtags": [
-"#STONK",
-"#Solana",
-"#Memecoins",
-"#PriceMoves",
-"#Trending"
-]
-},
-{
-"slug": "rumor-vs-record-xrp-whales-bought-slide-to-1-10",
-"url": "https://lcinsight.net/news/rumor-vs-record-did-whales-really-load-up-on-xrp-as-it-slid-to-1-10.html",
-"title": "Rumor vs record: did whales really load up on XRP as it slid to $1.10?",
-"dek": "XRP fell 5.4% in a day and hit its lowest price since August. Posts say whales are buying the dip. We checked six viral claims. The price claims mostly hold up; the whale claims cannot be confirmed yet.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-09T01:20:00-05:00",
-"image": "https://lcinsight.net/og/rumor-vs-record-xrp-whales-bought-slide-to-1-10.jpg",
-"hashtags": [
-"#RumorCheck",
-"#XRP",
-"#Whales",
-"#OnChainData"
-]
-},
-{
-"slug": "blackrock-ether-etf-etha-lost-fifth-of-shares-since-sept",
-"url": "https://lcinsight.net/news/blackrocks-ether-etf-lost-19-percent-of-its-shares-since-september-its.html",
-"title": "BlackRock's ether ETF lost 19% of its shares since September. Its bitcoin ETF held steady",
-"dek": "ETHA, BlackRock's spot ether fund, held about 131.8 million shares on November 6, down from 162.4 million on September 30. That is roughly 693,000 ETH handed back, by our calculation, while the firm's bitcoin fund kept its share count flat.",
-"category": "ETFs",
-"guide": false,
-"hot": false,
-"published": "2026-11-09T01:10:00-05:00",
-"image": "https://lcinsight.net/og/blackrock-ether-etf-etha-lost-fifth-of-shares-since-sept.jpg",
-"hashtags": [
-"#ETF",
-"#Ether",
-"#BlackRock",
-"#Ethereum",
-"#FundFlows"
-]
-},
-{
-"slug": "ether-price-in-bitcoin-lowest-since-july-0-0286",
-"url": "https://lcinsight.net/news/one-ether-now-buys-0-0286-bitcoin-the-least-since-mid-july.html",
-"title": "One ether now buys 0.0286 bitcoin, the least since mid-July",
-"dek": "Ether lost 2.7% against bitcoin in a day after Sunday's sell-off. CoinGecko's daily data shows no lower close since July 14.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-09T01:03:00-05:00",
-"image": "https://lcinsight.net/og/ether-price-in-bitcoin-lowest-since-july-0-0286.jpg",
-"hashtags": [
-"#Ether",
-"#Bitcoin",
-"#Ethereum",
-"#PriceMoves",
-"#Data"
-]
-},
-{
-"slug": "hyperliquid-crypto-bets-shrank-640m-eth-funding-negative",
-"url": "https://lcinsight.net/news/hyperliquids-crypto-bets-shrank-640-million-since-friday-and-ether.html",
-"title": "Hyperliquid's crypto bets shrank $640 million since Friday, and ether shorts now pay",
-"dek": "CoinGecko's per-market data puts Hyperliquid's open bets at $14.0 billion after Sunday's ether drop. Its $1.93 billion ether market now has negative funding, while bitcoin's does not.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-09T01:02:00-05:00",
-"image": "https://lcinsight.net/og/hyperliquid-crypto-bets-shrank-640m-eth-funding-negative.jpg",
-"hashtags": [
-"#Hyperliquid",
-"#PerpDEX",
-"#Ether",
-"#Funding",
-"#TradeXYZ"
-]
-},
-{
-"slug": "stablecoins-shrank-1-5b-since-nov-6-usds-down-921m",
-"url": "https://lcinsight.net/news/big-stablecoins-shrank-another-1-5-billion-since-friday-skys-usds-lost.html",
-"title": "Big stablecoins shrank another $1.5 billion since Friday. Sky's USDS lost $921 million",
-"dek": "Eleven of the largest dollar tokens lost $1.54 billion in market value in three days, CoinGecko data shows. Ethena's USDe went the other way, up $412 million.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-09T01:01:00-05:00",
-"image": "https://lcinsight.net/og/stablecoins-shrank-1-5b-since-nov-6-usds-down-921m.jpg",
-"hashtags": [
-"#Stablecoins",
-"#USDS",
-"#USDe",
-"#USDT",
-"#Sky"
 ]
 }
 ]
