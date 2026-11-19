@@ -1,5 +1,23 @@
 [
 {
+"slug": "gonka-bridge-drained-884k-usdt-22m-wgnk-minted",
+"url": "https://lcinsight.net/news/gonkas-ethereum-bridge-lost-884-000-in-usdt-in-one-minute-then-22.html",
+"title": "Gonka's Ethereum bridge lost $884,000 in USDT in one minute, then 22 million WGNK were minted",
+"dek": "A wallet funded six hours earlier set a new key on Gonka's Ethereum bridge, pulled out 884,150 USDT and minted 22 million wrapped GNK on November 18, 2026. The WGNK price fell about 84% by evening.",
+"category": "Security",
+"guide": false,
+"hot": true,
+"published": "2026-11-18T19:30:00-05:00",
+"image": "https://lcinsight.net/og/gonka-bridge-drained-884k-usdt-22m-wgnk-minted.jpg",
+"hashtags": [
+"#Hacks",
+"#Gonka",
+"#Bridges",
+"#USDT",
+"#Ethereum"
+]
+},
+{
 "slug": "extended-xten-airdrop-300m-tokens-sign-by-december-31",
 "url": "https://lcinsight.net/news/extendeds-xten-airdrop-300-million-tokens-about-4-29-per-point-sign-by.html",
 "title": "Extended's XTEN airdrop: 300 million tokens, about 4.29 per point, sign by December 31",
@@ -3559,24 +3577,6 @@
 "#PerpetualFutures",
 "#Derivatives",
 "#Solana"
-]
-},
-{
-"slug": "monad-wsteth-2-46m-shark-buy-pool-116-liquidity",
-"url": "https://lcinsight.net/news/a-shark-bought-2-46-million-of-staked-ether-on-monad-deepsea-sees-116.html",
-"title": "A shark bought $2.46 million of staked ether on Monad. DeepSea sees $116 of liquidity",
-"dek": "The largest single shark buy of the last day came in three trades on ether's down day. The token's pools on Monad that DeepSea tracks hold only $116, so the buy did not run through them.",
-"category": "DeFi",
-"guide": false,
-"hot": true,
-"published": "2026-11-09T00:52:00-05:00",
-"image": "https://lcinsight.net/og/monad-wsteth-2-46m-shark-buy-pool-116-liquidity.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Sharks",
-"#Ethereum",
-"#Staking"
 ]
 }
 ]
