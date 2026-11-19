@@ -474,5 +474,15 @@
    "mcap_rank": 67
   },
   "found": "2026-11-19T20:10:16Z"
+ },
+ {
+  "id": "reg:https://www.justice.gov/opa/pr/3-mexican-nationals-plead-guilty-laundering-millions-dollars-drug-proceeds-united-states",
+  "kind": "regulator",
+  "hint": "US DOJ: 3 Mexican Nationals Plead Guilty to Laundering Millions of Dollars in Drug Proceeds from the United States to Mexico Three Mexican nationals pleaded guilty for their roles in the collection of million",
+  "source": "https://www.justice.gov/opa/pr/3-mexican-nationals-plead-guilty-laundering-millions-dollars-drug-proceeds-united-states",
+  "data": {
+   "source": "US DOJ"
+  },
+  "found": "2026-11-19T20:33:29Z"
  }
 ]
