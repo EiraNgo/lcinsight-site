@@ -1,18 +1,5 @@
 [
  {
-  "id": "price:bitway:20261116:down",
-  "kind": "price",
-  "hint": "Bitway (BTW) -3.7% in 1h, -27.3% in 24h, now $0.526173",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": -3.6595,
-   "h24": -27.32496,
-   "price": 0.526173,
-   "mcap_rank": 78
-  },
-  "found": "2026-11-16T00:07:43Z"
- },
- {
   "id": "trend:ni-hao-cat:20261116",
   "kind": "trending",
   "hint": "ni hao cat (MIHAO) trending #1 on CoinGecko, +30.1% 24h",
@@ -461,5 +448,31 @@
    "ch24": 28.126595771105954
   },
   "found": "2026-11-19T00:01:25Z"
+ },
+ {
+  "id": "price:pieverse:20261119:up",
+  "kind": "price",
+  "hint": "Pieverse (PIEVERSE) +0.8% in 1h, +68.6% in 24h, now $3.49",
+  "source": "https://www.coingecko.com/en/coins/pieverse",
+  "data": {
+   "h1": 0.7699,
+   "h24": 68.63666,
+   "price": 3.49,
+   "mcap_rank": 71
+  },
+  "found": "2026-11-19T00:13:29Z"
+ },
+ {
+  "id": "price:pearl-2:20261119:up",
+  "kind": "price",
+  "hint": "Pearl (PEARL) +3.5% in 1h, +25.9% in 24h, now $2.26",
+  "source": "https://www.coingecko.com/en/coins/pearl-2",
+  "data": {
+   "h1": 3.533,
+   "h24": 25.86079,
+   "price": 2.26,
+   "mcap_rank": 76
+  },
+  "found": "2026-11-19T00:13:29Z"
  }
 ]
