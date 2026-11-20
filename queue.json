@@ -1,121 +1,5 @@
 [
  {
-  "id": "trend:backpack:20261116",
-  "kind": "trending",
-  "hint": "Backpack (BP) trending #1 on CoinGecko, +37.2% 24h",
-  "source": "https://www.coingecko.com/en/coins/backpack",
-  "data": {
-   "ch24": 37.199699511346175
-  },
-  "found": "2026-11-16T23:37:30Z"
- },
- {
-  "id": "hack:Lighter Perps:1794787200",
-  "kind": "hack",
-  "hint": "Lighter Perps hacked/exploited, ~$10.4M (Frontend & Infrastructure)",
-  "source": "https://defillama.com/hacks",
-  "data": {
-   "amount": 10393057,
-   "chain": [
-    "zkLighter"
-   ],
-   "technique": "API Key Compromised"
-  },
-  "found": "2026-11-16T23:37:30Z"
- },
- {
-  "id": "reg:https://www.justice.gov/opa/pr/alleged-member-8-digits-team-ransomware-group-extradited-italy-role-major-data-extortion",
-  "kind": "regulator",
-  "hint": "US DOJ: Alleged Member of \u201c8-Digits Team\u201d Ransomware Group Extradited from Italy  for Role in Major Data Extortion Campaign Against  U.S. Hospitals, Healthcare Entities, and Schools Roman Khlynovskiy, 43, a K",
-  "source": "https://www.justice.gov/opa/pr/alleged-member-8-digits-team-ransomware-group-extradited-italy-role-major-data-extortion",
-  "data": {
-   "source": "US DOJ"
-  },
-  "found": "2026-11-16T23:38:00Z"
- },
- {
-  "id": "reg:https://www.sec.gov/Archives/edgar/data/2054247/000121390026120865/0001213900-26-120865-index.htm",
-  "kind": "regulator",
-  "hint": "US SEC EDGAR 424B: 424B3 - 21Shares Polkadot Staking ETF (0002054247) (Filer)",
-  "source": "https://www.sec.gov/Archives/edgar/data/2054247/000121390026120865/0001213900-26-120865-index.htm",
-  "data": {
-   "source": "US SEC EDGAR 424B"
-  },
-  "found": "2026-11-16T23:39:18Z"
- },
- {
-  "id": "price:rain:20261117:down",
-  "kind": "price",
-  "hint": "Rain (RAIN) -4.2% in 1h, +75.1% in 24h, now $0.00611309",
-  "source": "https://www.coingecko.com/en/coins/rain",
-  "data": {
-   "h1": -4.2071,
-   "h24": 75.12924,
-   "price": 0.00611309,
-   "mcap_rank": 22
-  },
-  "found": "2026-11-17T00:01:21Z"
- },
- {
-  "id": "price:bitway:20261117:up",
-  "kind": "price",
-  "hint": "Bitway (BTW) +3.2% in 1h, -30.7% in 24h, now $0.368897",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": 3.2436,
-   "h24": -30.71433,
-   "price": 0.368897,
-   "mcap_rank": 93
-  },
-  "found": "2026-11-17T00:01:21Z"
- },
- {
-  "id": "trend:backpack:20261117",
-  "kind": "trending",
-  "hint": "Backpack (BP) trending #1 on CoinGecko, +21.0% 24h",
-  "source": "https://www.coingecko.com/en/coins/backpack",
-  "data": {
-   "ch24": 20.984583051835582
-  },
-  "found": "2026-11-17T00:01:21Z"
- },
- {
-  "id": "price:rain:20261117:up",
-  "kind": "price",
-  "hint": "Rain (RAIN) +0.9% in 1h, +76.5% in 24h, now $0.00617646",
-  "source": "https://www.coingecko.com/en/coins/rain",
-  "data": {
-   "h1": 0.8841,
-   "h24": 76.50129,
-   "price": 0.00617646,
-   "mcap_rank": 22
-  },
-  "found": "2026-11-17T00:13:20Z"
- },
- {
-  "id": "price:bitway:20261117:down",
-  "kind": "price",
-  "hint": "Bitway (BTW) -4.1% in 1h, -30.2% in 24h, now $0.368964",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": -4.1461,
-   "h24": -30.22157,
-   "price": 0.368964,
-   "mcap_rank": 93
-  },
-  "found": "2026-11-17T00:13:20Z"
- },
- {
-  "id": "trend:bless-2:20261117",
-  "kind": "trending",
-  "hint": "Bless (BLESS) trending #3 on CoinGecko, +103.9% 24h",
-  "source": "https://www.coingecko.com/en/coins/bless-2",
-  "data": {
-   "ch24": 103.88535405243256
-  },
-  "found": "2026-11-17T00:51:04Z"
- },
- {
   "id": "trend:evaa-protocol:20261117",
   "kind": "trending",
   "hint": "EVAA Protocol (EVAA) trending #3 on CoinGecko, +37.6% 24h",
@@ -484,5 +368,25 @@
    "source": "US DOJ"
   },
   "found": "2026-11-19T20:33:29Z"
+ },
+ {
+  "id": "trend:pearl-2:20261120",
+  "kind": "trending",
+  "hint": "Pearl (PEARL) trending #2 on CoinGecko, -15.7% 24h",
+  "source": "https://www.coingecko.com/en/coins/pearl-2",
+  "data": {
+   "ch24": -15.66061312267272
+  },
+  "found": "2026-11-20T04:40:52Z"
+ },
+ {
+  "id": "trend:anthropic-prestocks-2:20261120",
+  "kind": "trending",
+  "hint": "Anthropic PreStocks (ANTHROPIC) trending #3 on CoinGecko, -22.2% 24h",
+  "source": "https://www.coingecko.com/en/coins/anthropic-prestocks-2",
+  "data": {
+   "ch24": -22.164017551877183
+  },
+  "found": "2026-11-20T04:40:52Z"
  }
 ]
