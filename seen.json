@@ -1521,5 +1521,7 @@
 "trend:anthropic-prestocks-2:20261120": "2026-11-20T04:40:52Z",
 "price:pearl-2:20261120:down": "2026-11-20T13:46:33Z",
 "trend:wasted-4:20261120": "2026-11-20T13:46:33Z",
-"trend:chunkee-the-manatee:20261120": "2026-11-20T13:46:33Z"
+"trend:chunkee-the-manatee:20261120": "2026-11-20T13:46:33Z",
+"price:bitcoin:20261120:down": "2026-11-20T16:06:12Z",
+"price:ethereum:20261120:down": "2026-11-20T16:06:12Z"
 }

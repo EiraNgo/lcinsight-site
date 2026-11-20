@@ -391,5 +391,31 @@
    "ch24": 144.02628093708384
   },
   "found": "2026-11-20T13:46:33Z"
+ },
+ {
+  "id": "price:bitcoin:20261120:down",
+  "kind": "price",
+  "hint": "Bitcoin (BTC) -3.6% in 1h, -6.6% in 24h, now $58,878",
+  "source": "https://www.coingecko.com/en/coins/bitcoin",
+  "data": {
+   "h1": -3.6498,
+   "h24": -6.64831,
+   "price": 58878,
+   "mcap_rank": 1
+  },
+  "found": "2026-11-20T16:06:12Z"
+ },
+ {
+  "id": "price:ethereum:20261120:down",
+  "kind": "price",
+  "hint": "Ethereum (ETH) -5.1% in 1h, -8.3% in 24h, now $1,631.37",
+  "source": "https://www.coingecko.com/en/coins/ethereum",
+  "data": {
+   "h1": -5.1031,
+   "h24": -8.31555,
+   "price": 1631.37,
+   "mcap_rank": 2
+  },
+  "found": "2026-11-20T16:06:12Z"
  }
 ]
