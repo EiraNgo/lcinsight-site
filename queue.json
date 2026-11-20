@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:brevis:20261117",
-  "kind": "trending",
-  "hint": "Brevis (BREV) trending #3 on CoinGecko, +81.4% 24h",
-  "source": "https://www.coingecko.com/en/coins/brevis",
-  "data": {
-   "ch24": 81.36145314811914
-  },
-  "found": "2026-11-17T18:54:53Z"
- },
- {
   "id": "price:rain:20261118:down",
   "kind": "price",
   "hint": "Rain (RAIN) -2.1% in 1h, -28.3% in 24h, now $0.00456877",
@@ -440,5 +430,19 @@
    "ch24": -16.079407826588042
   },
   "found": "2026-11-20T18:40:55Z"
+ },
+ {
+  "id": "hack:Wagyu (XMR1):1795132800",
+  "kind": "hack",
+  "hint": "Wagyu (XMR1) hacked/exploited, ~$13.5M (Frontend & Infrastructure)",
+  "source": "https://defillama.com/hacks",
+  "data": {
+   "amount": 13510000,
+   "chain": [
+    "Hyperliquid L1"
+   ],
+   "technique": "Key Leaked via Infrastructure"
+  },
+  "found": "2026-11-20T19:04:17Z"
  }
 ]
