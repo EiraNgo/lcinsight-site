@@ -142,5 +142,8 @@
  "reg:https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
  "reg:https://www.justice.gov/opa/pr/3-mexican-nationals-plead-guilty-laundering-millions-dollars-drug-proceeds-united-states",
  "trend:pearl-2:20261120",
- "trend:anthropic-prestocks-2:20261120"
+ "trend:anthropic-prestocks-2:20261120",
+ "price:pearl-2:20261120:down",
+ "trend:wasted-4:20261120",
+ "trend:chunkee-the-manatee:20261120"
 ]
