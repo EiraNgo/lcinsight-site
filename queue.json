@@ -1,35 +1,5 @@
 [
  {
-  "id": "trend:evaa-protocol:20261117",
-  "kind": "trending",
-  "hint": "EVAA Protocol (EVAA) trending #3 on CoinGecko, +37.6% 24h",
-  "source": "https://www.coingecko.com/en/coins/evaa-protocol",
-  "data": {
-   "ch24": 37.589956847399606
-  },
-  "found": "2026-11-17T07:20:24Z"
- },
- {
-  "id": "trend:audacity-4:20261117",
-  "kind": "trending",
-  "hint": "AudaCity (DACITYCOIN) trending #3 on CoinGecko, +83.1% 24h",
-  "source": "https://www.coingecko.com/en/coins/audacity-4",
-  "data": {
-   "ch24": 83.08680641071857
-  },
-  "found": "2026-11-17T10:36:02Z"
- },
- {
-  "id": "trend:gato-the-cat:20261117",
-  "kind": "trending",
-  "hint": "Gato The Cat (GATO) trending #1 on CoinGecko, +15.6% 24h",
-  "source": "https://www.coingecko.com/en/coins/gato-the-cat",
-  "data": {
-   "ch24": 15.619275741266334
-  },
-  "found": "2026-11-17T11:22:49Z"
- },
- {
   "id": "trend:brevis:20261117",
   "kind": "trending",
   "hint": "Brevis (BREV) trending #3 on CoinGecko, +81.4% 24h",
@@ -388,5 +358,38 @@
    "ch24": -22.164017551877183
   },
   "found": "2026-11-20T04:40:52Z"
+ },
+ {
+  "id": "price:pearl-2:20261120:down",
+  "kind": "price",
+  "hint": "Pearl (PEARL) -10.5% in 1h, -15.7% in 24h, now $1.92",
+  "source": "https://www.coingecko.com/en/coins/pearl-2",
+  "data": {
+   "h1": -10.5347,
+   "h24": -15.65029,
+   "price": 1.92,
+   "mcap_rank": 77
+  },
+  "found": "2026-11-20T13:46:33Z"
+ },
+ {
+  "id": "trend:wasted-4:20261120",
+  "kind": "trending",
+  "hint": "WASTED (WASTED) trending #1 on CoinGecko, +19.7% 24h",
+  "source": "https://www.coingecko.com/en/coins/wasted-4",
+  "data": {
+   "ch24": 19.723529318312803
+  },
+  "found": "2026-11-20T13:46:33Z"
+ },
+ {
+  "id": "trend:chunkee-the-manatee:20261120",
+  "kind": "trending",
+  "hint": "Chunkee The Manatee (CHUNKEE) trending #3 on CoinGecko, +144.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/chunkee-the-manatee",
+  "data": {
+   "ch24": 144.02628093708384
+  },
+  "found": "2026-11-20T13:46:33Z"
  }
 ]
