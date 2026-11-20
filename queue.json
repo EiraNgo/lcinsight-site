@@ -430,5 +430,15 @@
    "mcap_rank": 34
   },
   "found": "2026-11-20T17:53:18Z"
+ },
+ {
+  "id": "trend:lucia-2:20261120",
+  "kind": "trending",
+  "hint": "Lucia (LUCIA) trending #3 on CoinGecko, -16.1% 24h",
+  "source": "https://www.coingecko.com/en/coins/lucia-2",
+  "data": {
+   "ch24": -16.079407826588042
+  },
+  "found": "2026-11-20T18:40:55Z"
  }
 ]
