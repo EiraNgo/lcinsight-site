@@ -1,5 +1,23 @@
 [
 {
+"slug": "bitcoin-bounces-4-percent-in-45-minutes-to-57950-ether-1640",
+"url": "https://lcinsight.net/news/bitcoin-bounced-4-percent-in-45-minutes-to-57-952-an-hour-after-its.html",
+"title": "Bitcoin bounced 4% in 45 minutes to $57,952, an hour after its lowest price since 2024",
+"dek": "Bitcoin climbed from $55,637 to $57,952 early Saturday and ether jumped 5.4% to $1,640, CoinGecko data show. Both are still down more than 6% in a day.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-21T02:10:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-bounces-4-percent-in-45-minutes-to-57950-ether-1640.jpg",
+"hashtags": [
+"#Bitcoin",
+"#BTC",
+"#Ether",
+"#ETH",
+"#PriceMove"
+]
+},
+{
 "slug": "nft-blue-chips-crash-punks-bored-apes-lose-a-third-in-dollars",
 "url": "https://lcinsight.net/news/bored-ape-floors-held-in-eth-but-lost-31-percent-in-dollars-since.html",
 "title": "Bored Ape floors held in ETH but lost 31% in dollars since November 2 as ether slid",
@@ -3556,24 +3574,6 @@
 "#Staking",
 "#Earnings",
 "#SEC"
-]
-},
-{
-"slug": "stablecoins-shrank-1-25-billion-in-a-day-ethereum-lost-most",
-"url": "https://lcinsight.net/news/stablecoins-shrank-1-25-billion-in-a-day-usdt-and-usdc-on-ethereum.html",
-"title": "Stablecoins shrank $1.25 billion in a day. USDT and USDC on Ethereum fell $1.06 billion",
-"dek": "The eight biggest dollar stablecoins lost $1.25 billion in 24 hours and $4.86 billion in a week, DefiLlama data show. Ethereum and Hyperliquid shed the most, while USDC grew on Solana, Arbitrum and Base and USDT grew on Plasma.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-11T01:02:00-05:00",
-"image": "https://lcinsight.net/og/stablecoins-shrank-1-25-billion-in-a-day-ethereum-lost-most.jpg",
-"hashtags": [
-"#Stablecoins",
-"#USDT",
-"#USDC",
-"#Ethereum",
-"#Solana"
 ]
 }
 ]
