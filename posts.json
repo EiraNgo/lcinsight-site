@@ -1,5 +1,111 @@
 [
 {
+"slug": "derive-bitway-venice-rose-in-the-crash-drv-27-percent-upbit",
+"url": "https://lcinsight.net/news/derive-jumped-27-percent-in-the-crash-as-volume-quadrupled-to-20-8.html",
+"title": "Derive jumped 27% in the crash as volume quadrupled to $20.8 million, led by Upbit",
+"dek": "Three large tokens rose while almost everything else fell: Derive (DRV), Bitway (BTW) and Venice (VVV). Exchange data show where the buying happened. We found no primary source that explains the moves.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-21T07:12:00-05:00",
+"image": "https://lcinsight.net/og/derive-bitway-venice-rose-in-the-crash-drv-27-percent-upbit.jpg",
+"hashtags": [
+"#Altcoins",
+"#PriceMove",
+"#Upbit",
+"#AI",
+"#Data"
+]
+},
+{
+"slug": "rumor-vs-record-bitcoin-23-percent-november-2022-bear-market",
+"url": "https://lcinsight.net/news/rumor-vs-record-bitcoin-is-down-25-percent-in-november-its-worst-month.html",
+"title": "Rumor vs record: bitcoin is down 25% in November, its worst month since June 2022",
+"dek": "After the overnight crash, a line spread that bitcoin slid as much as 23% in November and that the 2022 bear market is back. We checked each part against CoinMarketCap and CoinGecko price history. The fall is bigger than claimed, but 2022 was far worse.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-21T07:11:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-bitcoin-23-percent-november-2022-bear-market.jpg",
+"hashtags": [
+"#RumorCheck",
+"#Bitcoin",
+"#BTC",
+"#PriceMove",
+"#Data"
+]
+},
+{
+"slug": "solana-etfs-week-inflow-4-7m-ether-xrp-funds-keep-losing",
+"url": "https://lcinsight.net/news/solana-etfs-drew-4-7-million-in-crash-week-while-ether-funds-lost-1-24.html",
+"title": "Solana ETFs drew $4.7 million in crash week while ether funds lost $1.24 billion in four weeks",
+"dek": "Of the U.S. spot bitcoin, ether, solana and XRP fund groups, only solana's had a weekly inflow, thanks to one Monday. Ether funds have had just two inflow days since late October, and XRP funds lost $11.1 million on the week.",
+"category": "ETFs",
+"guide": false,
+"hot": false,
+"published": "2026-11-21T07:10:00-05:00",
+"image": "https://lcinsight.net/og/solana-etfs-week-inflow-4-7m-ether-xrp-funds-keep-losing.jpg",
+"hashtags": [
+"#ETF",
+"#Solana",
+"#XRP",
+"#Ethereum",
+"#Data"
+]
+},
+{
+"slug": "bitcoin-difficulty-set-to-rise-10-percent-in-crash-fees-51-cents",
+"url": "https://lcinsight.net/news/bitcoin-fell-14-percent-in-a-week-but-mining-difficulty-is-set-to-jump.html",
+"title": "Bitcoin fell 14% in a week, but mining difficulty is set to jump 10% and fees sit at 51 cents",
+"dek": "A week after a 9.13% cut, blocks are arriving fast enough that mempool.space projects a 10% rise in about 864 blocks. Fees stayed tiny through the sell-off: about 51 cents a transaction.",
+"category": "Infrastructure",
+"guide": false,
+"hot": false,
+"published": "2026-11-21T07:02:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-difficulty-set-to-rise-10-percent-in-crash-fees-51-cents.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Mining",
+"#Hashrate",
+"#OnChainData"
+]
+},
+{
+"slug": "ether-crash-staking-exit-queue-shrank-42-percent-152865-eth",
+"url": "https://lcinsight.net/news/ether-fell-14-percent-in-eight-days-yet-its-staking-exit-line-shrank.html",
+"title": "Ether fell 14% in eight days, yet its staking exit line shrank 42% to 152,865 ETH",
+"dek": "The crash did not send stakers rushing for the door. Validator Queue shows 820,241 ETH still waiting to be staked, more than five times the ether waiting to leave.",
+"category": "Infrastructure",
+"guide": false,
+"hot": false,
+"published": "2026-11-21T07:01:00-05:00",
+"image": "https://lcinsight.net/og/ether-crash-staking-exit-queue-shrank-42-percent-152865-eth.jpg",
+"hashtags": [
+"#Ether",
+"#Ethereum",
+"#Staking",
+"#OnChainData"
+]
+},
+{
+"slug": "bitcoin-58k-top-hyperliquid-shorts-606m-42m-short-56948",
+"url": "https://lcinsight.net/news/bitcoin-bounced-4-percent-yet-top-hyperliquid-traders-shorts-grew-to.html",
+"title": "Bitcoin bounced 4%, yet top Hyperliquid traders' shorts grew to $606 million",
+"dek": "The 88 big Hyperliquid wallets DeepSea tracks are still 93% short on bitcoin. One $42 million short from $56,948, close to the night's low, is now losing money.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-21T07:00:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-58k-top-hyperliquid-shorts-606m-42m-short-56948.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Bitcoin",
+"#Ether",
+"#SmartMoney"
+]
+},
+{
 "slug": "bitcoin-bounces-4-percent-in-45-minutes-to-57950-ether-1640",
 "url": "https://lcinsight.net/news/bitcoin-bounced-4-percent-in-45-minutes-to-57-952-an-hour-after-its.html",
 "title": "Bitcoin bounced 4% in 45 minutes to $57,952, an hour after its lowest price since 2024",
@@ -3467,113 +3573,6 @@
 "#PriceMoves",
 "#Trending",
 "#Altcoins"
-]
-},
-{
-"slug": "sec-fy2026-enforcement-348-actions-1-1-billion-crypto-cases",
-"url": "https://lcinsight.net/news/sec-cases-fall-to-348-from-456-as-crypto-examples-include-a-95-6.html",
-"title": "SEC cases fall to 348 from 456 as crypto examples include a $95.6 million mining fraud",
-"dek": "The SEC's fiscal 2026 enforcement results, released November 10, show 348 actions and $1.095 billion in ordered money. The crypto cases it highlights are retail frauds, from a $14 million fake platform scheme to an FTX audit case.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-11-11T07:05:00-05:00",
-"image": "https://lcinsight.net/og/sec-fy2026-enforcement-348-actions-1-1-billion-crypto-cases.jpg",
-"hashtags": [
-"#SEC",
-"#Enforcement",
-"#Regulation",
-"#ScamAlerts",
-"#Mining"
-]
-},
-{
-"slug": "rex-osprey-21-altcoin-etfs-delayed-to-november-20",
-"url": "https://lcinsight.net/news/21-rex-osprey-altcoin-etfs-get-a-new-start-date-november-20-after-13.html",
-"title": "21 REX-Osprey altcoin ETFs get a new start date, November 20, after 13 months of waiting",
-"dek": "An October 22 SEC filing pushes back the effective date for 21 planned REX-Osprey funds, from AAVE to XLM. Most of their tokens fell 15% to 38% in the past 30 days.",
-"category": "ETFs",
-"guide": false,
-"hot": false,
-"published": "2026-11-11T06:55:00-05:00",
-"image": "https://lcinsight.net/og/rex-osprey-21-altcoin-etfs-delayed-to-november-20.jpg",
-"hashtags": [
-"#ETF",
-"#ETFs",
-"#SEC",
-"#Altcoins",
-"#Staking"
-]
-},
-{
-"slug": "midnight-night-thaw-ends-december-4-final-installments",
-"url": "https://lcinsight.net/news/midnights-night-airdrop-thaw-ends-december-4-the-last-25-percent.html",
-"title": "Midnight's NIGHT airdrop thaw ends December 4. The last 25% installments are landing now",
-"dek": "NIGHT claimed in the Glacier Drop and Scavenger Mine unlocks in four 25% steps, and Midnight says the whole thaw ends December 4, 2026. NIGHT trades 64% below its record.",
-"category": "Airdrops",
-"guide": false,
-"hot": true,
-"published": "2026-11-11T01:21:00-05:00",
-"image": "https://lcinsight.net/og/midnight-night-thaw-ends-december-4-final-installments.jpg",
-"hashtags": [
-"#Midnight",
-"#NIGHT",
-"#Cardano",
-"#Airdrops",
-"#TokenUnlocks"
-]
-},
-{
-"slug": "rumor-vs-record-binance-335-million-user-data-sale",
-"url": "https://lcinsight.net/news/rumor-vs-record-is-a-hacker-really-selling-335-9-million-binance-user.html",
-"title": "Rumor vs record: is a hacker really selling 335.9 million Binance user records?",
-"dek": "A \"pay or leak\" ad offering 335.9 million Binance records, private keys included, has been reshared online. We checked each claim against Binance's own pages and a threat intelligence firm's review. Nothing confirms it, and its headline number is close to a counter anyone can read on Binance's homepage.",
-"category": "Security",
-"guide": false,
-"hot": true,
-"published": "2026-11-11T01:20:00-05:00",
-"image": "https://lcinsight.net/og/rumor-vs-record-binance-335-million-user-data-sale.jpg",
-"hashtags": [
-"#RumorCheck",
-"#Binance",
-"#Security",
-"#ScamAlerts",
-"#Privacy"
-]
-},
-{
-"slug": "october-cpi-0-4-percent-no-annual-rate-bitcoin",
-"url": "https://lcinsight.net/news/us-prices-rose-0-4-percent-in-october-with-no-yearly-inflation-rate.html",
-"title": "US prices rose 0.4% in October, with no yearly inflation rate. Bitcoin fell 1.4% on the day",
-"dek": "October's consumer price index, out November 10, slowed from September's 0.6% jump. The Labor Department could not publish the usual 12-month rate because it collected no data in October 2025. Bitcoin dipped about 0.6% in 20 minutes around the release and ended the day near $73,650.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-11T01:11:00-05:00",
-"image": "https://lcinsight.net/og/october-cpi-0-4-percent-no-annual-rate-bitcoin.jpg",
-"hashtags": [
-"#CPI",
-"#Inflation",
-"#Bitcoin",
-"#Macro"
-]
-},
-{
-"slug": "grayscale-hyperliquid-etf-hypg-10q-staking-2-2m-hype",
-"url": "https://lcinsight.net/news/grayscales-hyperliquid-etf-staked-90-percent-of-its-197-million.html",
-"title": "Grayscale's Hyperliquid ETF staked 90% of its $197 million, earning 10,341 HYPE in a quarter",
-"dek": "The quarterly report of Grayscale Hyperliquid Staking ETF (HYPG), filed with the SEC on November 10, shows 2.22 million HYPE in the fund on September 30 and a $48.3 million quarterly gain. HYPE has since dropped about 19%.",
-"category": "ETFs",
-"guide": false,
-"hot": false,
-"published": "2026-11-11T01:10:00-05:00",
-"image": "https://lcinsight.net/og/grayscale-hyperliquid-etf-hypg-10q-staking-2-2m-hype.jpg",
-"hashtags": [
-"#ETF",
-"#Hyperliquid",
-"#Staking",
-"#Earnings",
-"#SEC"
 ]
 }
 ]
