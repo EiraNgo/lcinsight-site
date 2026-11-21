@@ -145,5 +145,9 @@
  "trend:anthropic-prestocks-2:20261120",
  "price:pearl-2:20261120:down",
  "trend:wasted-4:20261120",
- "trend:chunkee-the-manatee:20261120"
+ "trend:chunkee-the-manatee:20261120",
+ "price:bitcoin:20261120:down",
+ "price:ethereum:20261120:down",
+ "price:rain:20261120:up",
+ "trend:lucia-2:20261120"
 ]
