@@ -1,64 +1,5 @@
 [
  {
-  "id": "price:bitway:20261118:up",
-  "kind": "price",
-  "hint": "Bitway (BTW) +8.0% in 1h, +33.5% in 24h, now $0.464909",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": 8.0257,
-   "h24": 33.53191,
-   "price": 0.464909,
-   "mcap_rank": 85
-  },
-  "found": "2026-11-18T01:59:13Z"
- },
- {
-  "id": "trend:pearl-2:20261118",
-  "kind": "trending",
-  "hint": "Pearl (PEARL) trending #2 on CoinGecko, +15.0% 24h",
-  "source": "https://www.coingecko.com/en/coins/pearl-2",
-  "data": {
-   "ch24": 15.027018203519429
-  },
-  "found": "2026-11-18T02:35:07Z"
- },
- {
-  "id": "trend:brevis:20261118",
-  "kind": "trending",
-  "hint": "Brevis (BREV) trending #3 on CoinGecko, +97.7% 24h",
-  "source": "https://www.coingecko.com/en/coins/brevis",
-  "data": {
-   "ch24": 97.68238862904495
-  },
-  "found": "2026-11-18T02:35:07Z"
- },
- {
-  "id": "price:bitway:20261118:down",
-  "kind": "price",
-  "hint": "Bitway (BTW) -1.8% in 1h, +39.0% in 24h, now $0.470935",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": -1.8464,
-   "h24": 38.95616,
-   "price": 0.470935,
-   "mcap_rank": 85
-  },
-  "found": "2026-11-18T03:09:59Z"
- },
- {
-  "id": "price:rain:20261118:up",
-  "kind": "price",
-  "hint": "Rain (RAIN) +0.3% in 1h, -27.1% in 24h, now $0.00471384",
-  "source": "https://www.coingecko.com/en/coins/rain",
-  "data": {
-   "h1": 0.2579,
-   "h24": -27.07499,
-   "price": 0.00471384,
-   "mcap_rank": 26
-  },
-  "found": "2026-11-18T06:02:37Z"
- },
- {
   "id": "price:pieverse:20261118:up",
   "kind": "price",
   "hint": "Pieverse (PIEVERSE) +18.1% in 1h, +53.7% in 24h, now $2.96",
@@ -451,5 +392,44 @@
    "ch24": -15.337437811407561
   },
   "found": "2026-11-21T00:16:29Z"
+ },
+ {
+  "id": "price:bitcoin:20261121:up",
+  "kind": "price",
+  "hint": "Bitcoin (BTC) +4.0% in 1h, -6.5% in 24h, now $57,928",
+  "source": "https://www.coingecko.com/en/coins/bitcoin",
+  "data": {
+   "h1": 3.9748,
+   "h24": -6.4888,
+   "price": 57928,
+   "mcap_rank": 1
+  },
+  "found": "2026-11-21T07:01:22Z"
+ },
+ {
+  "id": "price:ethereum:20261121:up",
+  "kind": "price",
+  "hint": "Ethereum (ETH) +5.1% in 1h, -6.3% in 24h, now $1,637.93",
+  "source": "https://www.coingecko.com/en/coins/ethereum",
+  "data": {
+   "h1": 5.1219,
+   "h24": -6.27415,
+   "price": 1637.93,
+   "mcap_rank": 2
+  },
+  "found": "2026-11-21T07:01:22Z"
+ },
+ {
+  "id": "price:pearl-2:20261121:up",
+  "kind": "price",
+  "hint": "Pearl (PEARL) +10.9% in 1h, -4.9% in 24h, now $1.8",
+  "source": "https://www.coingecko.com/en/coins/pearl-2",
+  "data": {
+   "h1": 10.8848,
+   "h24": -4.89194,
+   "price": 1.8,
+   "mcap_rank": 81
+  },
+  "found": "2026-11-21T07:01:22Z"
  }
 ]
