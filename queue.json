@@ -1,51 +1,5 @@
 [
  {
-  "id": "price:pieverse:20261118:up",
-  "kind": "price",
-  "hint": "Pieverse (PIEVERSE) +18.1% in 1h, +53.7% in 24h, now $2.96",
-  "source": "https://www.coingecko.com/en/coins/pieverse",
-  "data": {
-   "h1": 18.0542,
-   "h24": 53.74524,
-   "price": 2.96,
-   "mcap_rank": 76
-  },
-  "found": "2026-11-18T13:37:21Z"
- },
- {
-  "id": "trend:momentum-3:20261118",
-  "kind": "trending",
-  "hint": "Momentum (MMT) trending #3 on CoinGecko, +116.1% 24h",
-  "source": "https://www.coingecko.com/en/coins/momentum-3",
-  "data": {
-   "ch24": 116.12121620437708
-  },
-  "found": "2026-11-18T13:37:21Z"
- },
- {
-  "id": "trend:pieverse:20261118",
-  "kind": "trending",
-  "hint": "Pieverse (PIEVERSE) trending #3 on CoinGecko, +60.1% 24h",
-  "source": "https://www.coingecko.com/en/coins/pieverse",
-  "data": {
-   "ch24": 60.08583536201423
-  },
-  "found": "2026-11-18T15:22:59Z"
- },
- {
-  "id": "price:pieverse:20261118:down",
-  "kind": "price",
-  "hint": "Pieverse (PIEVERSE) -2.0% in 1h, +62.1% in 24h, now $3.23",
-  "source": "https://www.coingecko.com/en/coins/pieverse",
-  "data": {
-   "h1": -2.0247,
-   "h24": 62.14558,
-   "price": 3.23,
-   "mcap_rank": 73
-  },
-  "found": "2026-11-18T16:10:46Z"
- },
- {
   "id": "hack:Gonka AI:1794960000",
   "kind": "hack",
   "hint": "Gonka AI hacked/exploited, ~$1.1M (Bridge & Cross-Chain)",
@@ -701,5 +655,18 @@
    "ch24": -15.40524672642269
   },
   "found": "2026-11-21T07:58:19Z"
+ },
+ {
+  "id": "price:a7a5:20261121:down",
+  "kind": "price",
+  "hint": "A7A5 (A7A5) -1.4% in 1h, +190.6% in 24h, now $0.01193597",
+  "source": "https://www.coingecko.com/en/coins/a7a5",
+  "data": {
+   "h1": -1.4002,
+   "h24": 190.61276,
+   "price": 0.01193597,
+   "mcap_rank": 99
+  },
+  "found": "2026-11-21T17:03:02Z"
  }
 ]
