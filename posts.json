@@ -1,5 +1,23 @@
 [
 {
+"slug": "bitcoin-falls-below-60000-to-58300-ether-below-1600",
+"url": "https://lcinsight.net/news/bitcoin-broke-below-60-000-and-hit-its-lowest-in-a-year-ether-fell-5.html",
+"title": "Bitcoin broke below $60,000 and hit its lowest in a year. Ether fell 5% in one hour, under $1,600",
+"dek": "Bitcoin lost $2,277 in one hour on Friday morning and kept sliding to about $58,300 by 4 p.m. ET, a level CoinGecko's daily prices have not shown in 12 months. Ether briefly fell below $1,600 for the first time since early July.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-20T19:20:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-falls-below-60000-to-58300-ether-below-1600.jpg",
+"hashtags": [
+"#Bitcoin",
+"#BTC",
+"#Ether",
+"#ETH",
+"#PriceMove"
+]
+},
+{
 "slug": "pearl-fell-21-percent-from-2-35-high-then-bounced-to-1-98",
 "url": "https://lcinsight.net/news/pearl-fell-21-percent-from-its-2-35-high-in-22-hours-then-bounced-to-1.html",
 "title": "Pearl fell 21% from its $2.35 high in 22 hours, then bounced to $1.98 as bitcoin slid",
@@ -3557,24 +3575,6 @@
 "#Sharks",
 "#RLUSD",
 "#Stablecoins"
-]
-},
-{
-"slug": "sharks-sold-19m-gold-tokens-day-after-xaut-buying",
-"url": "https://lcinsight.net/news/sharks-sold-19-million-of-gold-tokens-in-a-day-a-day-after-buying-8-1.html",
-"title": "Sharks sold $19 million of gold tokens in a day, a day after buying $8.1 million of XAUt",
-"dek": "A handful of big wallets sold $10.5 million of PAXG and $8.5 million of Tether Gold and bought back $2.8 million. Both tokens slipped about 0.9%.",
-"category": "AI & RWA",
-"guide": false,
-"hot": true,
-"published": "2026-11-10T06:52:00-05:00",
-"image": "https://lcinsight.net/og/sharks-sold-19m-gold-tokens-day-after-xaut-buying.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Sharks",
-"#TetherGold",
-"#PAXGold"
 ]
 }
 ]
