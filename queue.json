@@ -740,5 +740,18 @@
    "ch24": 690.464364442826
   },
   "found": "2026-11-21T19:21:30Z"
+ },
+ {
+  "id": "price:venice-token:20261121:up",
+  "kind": "price",
+  "hint": "Venice Token (VVV) +1.8% in 1h, +25.2% in 24h, now $24.07",
+  "source": "https://www.coingecko.com/en/coins/venice-token",
+  "data": {
+   "h1": 1.7555,
+   "h24": 25.18908,
+   "price": 24.07,
+   "mcap_rank": 60
+  },
+  "found": "2026-11-21T19:33:01Z"
  }
 ]
