@@ -704,5 +704,18 @@
    "mcap_rank": 31
   },
   "found": "2026-11-21T18:12:34Z"
+ },
+ {
+  "id": "price:a7a5:20261121:up",
+  "kind": "price",
+  "hint": "A7A5 (A7A5) +0.0% in 1h, +190.7% in 24h, now $0.01193761",
+  "source": "https://www.coingecko.com/en/coins/a7a5",
+  "data": {
+   "h1": 0.0035,
+   "h24": 190.6625,
+   "price": 0.01193761,
+   "mcap_rank": 100
+  },
+  "found": "2026-11-21T18:24:02Z"
  }
 ]
