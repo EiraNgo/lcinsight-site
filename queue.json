@@ -1,18 +1,5 @@
 [
  {
-  "id": "price:rain:20261118:down",
-  "kind": "price",
-  "hint": "Rain (RAIN) -2.1% in 1h, -28.3% in 24h, now $0.00456877",
-  "source": "https://www.coingecko.com/en/coins/rain",
-  "data": {
-   "h1": -2.077,
-   "h24": -28.26037,
-   "price": 0.00456877,
-   "mcap_rank": 26
-  },
-  "found": "2026-11-18T00:16:50Z"
- },
- {
   "id": "price:bitway:20261118:up",
   "kind": "price",
   "hint": "Bitway (BTW) +8.0% in 1h, +33.5% in 24h, now $0.464909",
@@ -454,5 +441,15 @@
    "ch24": -16.4490816713296
   },
   "found": "2026-11-21T00:04:31Z"
+ },
+ {
+  "id": "trend:lighter:20261121",
+  "kind": "trending",
+  "hint": "Lighter (LIT) trending #3 on CoinGecko, -15.3% 24h",
+  "source": "https://www.coingecko.com/en/coins/lighter",
+  "data": {
+   "ch24": -15.337437811407561
+  },
+  "found": "2026-11-21T00:16:29Z"
  }
 ]
