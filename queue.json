@@ -444,5 +444,15 @@
    "technique": "Key Leaked via Infrastructure"
   },
   "found": "2026-11-20T19:04:17Z"
+ },
+ {
+  "id": "trend:pearl-2:20261121",
+  "kind": "trending",
+  "hint": "Pearl (PEARL) trending #2 on CoinGecko, -16.4% 24h",
+  "source": "https://www.coingecko.com/en/coins/pearl-2",
+  "data": {
+   "ch24": -16.4490816713296
+  },
+  "found": "2026-11-21T00:04:31Z"
  }
 ]

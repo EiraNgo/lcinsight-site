@@ -1,7 +1,6 @@
 {
 "reg:https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal": "2026-11-07T03:33:34Z",
 "reg:https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment": "2026-11-07T03:33:34Z",
-"trend:denim:20261107": "2026-11-07T00:04:34Z",
 "reg:https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/withdrawal-proposed-rule-related": "2026-11-07T03:33:44Z",
 "reg:https://ofac.treasury.gov/recent-actions/20261028": "2026-11-07T03:34:02Z",
 "reg:https://ofac.treasury.gov/recent-actions/20261021": "2026-11-07T03:34:02Z",
@@ -1524,5 +1523,6 @@
 "price:ethereum:20261120:down": "2026-11-20T16:06:12Z",
 "price:rain:20261120:up": "2026-11-20T17:53:18Z",
 "trend:lucia-2:20261120": "2026-11-20T18:40:55Z",
-"hack:Wagyu (XMR1):1795132800": "2026-11-20T19:04:17Z"
+"hack:Wagyu (XMR1):1795132800": "2026-11-20T19:04:17Z",
+"trend:pearl-2:20261121": "2026-11-21T00:04:31Z"
 }
