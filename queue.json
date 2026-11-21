@@ -753,5 +753,19 @@
    "mcap_rank": 60
   },
   "found": "2026-11-21T19:33:01Z"
+ },
+ {
+  "id": "hack:Chainflip AMM:1795219200",
+  "kind": "hack",
+  "hint": "Chainflip AMM hacked/exploited, ~$4.9M (Key Compromise)",
+  "source": "https://defillama.com/hacks",
+  "data": {
+   "amount": 4860000,
+   "chain": [
+    "Ethereum"
+   ],
+   "technique": "Validator Key Compromised"
+  },
+  "found": "2026-11-21T21:04:15Z"
  }
 ]
