@@ -691,5 +691,15 @@
    "source": "Turkey SPK"
   },
   "found": "2026-11-21T07:13:48Z"
+ },
+ {
+  "id": "trend:chunkee-the-manatee:20261121",
+  "kind": "trending",
+  "hint": "Chunkee The Manatee (CHUNKEE) trending #2 on CoinGecko, -15.4% 24h",
+  "source": "https://www.coingecko.com/en/coins/chunkee-the-manatee",
+  "data": {
+   "ch24": -15.40524672642269
+  },
+  "found": "2026-11-21T07:58:19Z"
  }
 ]
