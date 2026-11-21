@@ -1,5 +1,23 @@
 [
 {
+"slug": "lighter-lit-falls-15-percent-to-2-31-lowest-since-august",
+"url": "https://lcinsight.net/news/lighters-lit-fell-15-percent-in-a-day-to-2-31-its-lowest-price-since.html",
+"title": "Lighter's LIT fell 15% in a day to $2.31, its lowest price since August",
+"dek": "LIT lost 5.8% in the same hour bitcoin broke below $60,000 on Friday and kept sliding into the evening. It is down 29% in a week, CoinGecko data show.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-20T20:05:00-05:00",
+"image": "https://lcinsight.net/og/lighter-lit-falls-15-percent-to-2-31-lowest-since-august.jpg",
+"hashtags": [
+"#Lighter",
+"#LIT",
+"#PerpDEX",
+"#PriceMove",
+"#Bitcoin"
+]
+},
+{
 "slug": "bitcoin-falls-below-60000-to-58300-ether-below-1600",
 "url": "https://lcinsight.net/news/bitcoin-broke-below-60-000-and-hit-its-lowest-in-a-year-ether-fell-5.html",
 "title": "Bitcoin broke below $60,000 and hit its lowest in a year. Ether fell 5% in one hour, under $1,600",
@@ -3557,24 +3575,6 @@
 "#CorporateTreasury",
 "#Staking",
 "#Ethereum"
-]
-},
-{
-"slug": "sharks-bought-36m-rlusd-day-whales-net-sellers-week",
-"url": "https://lcinsight.net/news/sharks-bought-36-4-million-of-rlusd-in-a-day-over-the-week-whales-sold.html",
-"title": "Sharks bought $36.4 million of RLUSD in a day. Over the week, whales sold $12 million net",
-"dek": "Two wallets made 37 trades in Ripple's stablecoin in 24 hours. One of them, with $97 million on DeepSea, swaps it in blocks of up to $4.5 million.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-10T06:53:00-05:00",
-"image": "https://lcinsight.net/og/sharks-bought-36m-rlusd-day-whales-net-sellers-week.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Sharks",
-"#RLUSD",
-"#Stablecoins"
 ]
 }
 ]
