@@ -691,5 +691,18 @@
    "mcap_rank": 70
   },
   "found": "2026-11-21T17:26:05Z"
+ },
+ {
+  "id": "price:rain:20261121:up",
+  "kind": "price",
+  "hint": "Rain (RAIN) +16.0% in 1h, +3.7% in 24h, now $0.0038914",
+  "source": "https://www.coingecko.com/en/coins/rain",
+  "data": {
+   "h1": 16.0281,
+   "h24": 3.74359,
+   "price": 0.0038914,
+   "mcap_rank": 31
+  },
+  "found": "2026-11-21T18:12:34Z"
  }
 ]
