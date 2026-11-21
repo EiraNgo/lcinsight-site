@@ -730,5 +730,15 @@
    "mcap_rank": 32
   },
   "found": "2026-11-21T19:09:56Z"
+ },
+ {
+  "id": "trend:pipi-2:20261121",
+  "kind": "trending",
+  "hint": "PIPI (PIPI) trending #3 on CoinGecko, +690.5% 24h",
+  "source": "https://www.coingecko.com/en/coins/pipi-2",
+  "data": {
+   "ch24": 690.464364442826
+  },
+  "found": "2026-11-21T19:21:30Z"
  }
 ]
