@@ -25,6 +25,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+          TELEGRAM_X_CHAT: ${{ secrets.TELEGRAM_X_CHAT }}
           BEFORE: ${{ github.event.before }}
           MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'new' }}
         run: python3 .github/scripts/telegram_post.py

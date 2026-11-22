@@ -6,6 +6,7 @@ import re, json, os, urllib.error, subprocess, sys, time, urllib.parse, urllib.r
 
 TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', '').strip()
 CHAT = os.environ.get('TELEGRAM_CHANNEL', '').strip()
+X_CHAT = os.environ.get('TELEGRAM_X_CHAT', '').strip()   # private chat of the X manager (owner, Nov 22 2026); empty = skip
 BEFORE = os.environ.get('BEFORE', '').strip()
 MODE = os.environ.get('MODE', 'new')          # "new" (on push) or "test" (manual: post the latest story once)
 MAX_NEWS, MAX_GUIDES = 6, 2
@@ -54,6 +55,17 @@ HOT_HOOKS = {"🔥", "🚨", "🧊", "🎁", "🚀", "💥", "🐋", "📈", "�
 def is_hot(p):
     return bool(p.get('hot')) or p.get('category') in HOT_CATS or hook(p) in HOT_HOOKS
 
+def send_x_draft(p):
+    """Ready-to-post X thread for the X manager: post 1 with the image, then the replies."""
+    th = p.get('x_thread') or []
+    if not X_CHAT or not th: return
+    try:
+        api('sendPhoto', {'chat_id': X_CHAT, 'photo': p['image'], 'caption': ('X POST 1/' + str(len(th)) + ' (attach this image)\n\n' + th[0])[:1024]})
+        for i, t in enumerate(th[1:], 2):
+            api('sendMessage', {'chat_id': X_CHAT, 'text': f'X POST {i}/{len(th)} (reply)\n\n{t}', 'disable_web_page_preview': 'true'})
+    except Exception as e:
+        print('X draft send failed:', e)
+
 def post(p):
     label = 'Guide' if p.get('guide') else p.get('category', 'News')
     tags = ' '.join(p.get('hashtags', []))
@@ -62,6 +74,7 @@ def post(p):
            f"👉 {esc(p['dek'])}\n\n"
            f"{CAT_EMOJI.get(label, '📰')} <i>{esc(label)}</i> · LC Insight{(' · ' + head) if head else ''}\n{esc(tags)}")
     kb = json.dumps({"inline_keyboard": [[{"text": "📖 Read the full story", "url": p['url']}]]})
+    send_x_draft(p)
     try:
         return api('sendPhoto', {'chat_id': CHAT, 'photo': p['image'], 'caption': cap[:1024], 'parse_mode': 'HTML', 'reply_markup': kb})
     except Exception as e:
