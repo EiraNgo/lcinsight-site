@@ -18,6 +18,114 @@
 ]
 },
 {
+"slug": "treehouse-tree-season-2-airdrop-claim-closes-november-25",
+"url": "https://lcinsight.net/news/treehouses-23-1-million-tree-airdrop-closes-wednesday-unclaimed-tokens.html",
+"title": "Treehouse's 23.1 million TREE airdrop closes Wednesday; unclaimed tokens go to its treasury",
+"dek": "Season 2 of Treehouse's airdrop set aside 23.1 million TREE, 2.31% of supply, and the claim window ends at 2:00 a.m. ET on November 25. The pot is worth about $667,000 at Sunday's price, with TREE 98% below its record.",
+"category": "Airdrops",
+"guide": false,
+"hot": false,
+"published": "2026-11-22T00:58:00-05:00",
+"image": "https://lcinsight.net/og/treehouse-tree-season-2-airdrop-claim-closes-november-25.jpg",
+"hashtags": [
+"#Treehouse",
+"#TREE",
+"#Airdrops",
+"#DeFi",
+"#Ethereum"
+]
+},
+{
+"slug": "sharks-moved-out-10-2m-stablecoins-4m-jusdt-tron-aave-debt",
+"url": "https://lcinsight.net/news/sharks-sent-10-2-million-of-stablecoin-tokens-out-in-a-day-4-million.html",
+"title": "Sharks sent $10.2 million of stablecoin tokens out in a day, $4 million in one Tron trade",
+"dek": "DeepSea's 24-hour table shows shark wallets sending out about twice the stablecoins they took in during the bounce. One Arbitrum wallet shed $1.97 million of Aave USDC debt tokens.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-22T00:52:00-05:00",
+"image": "https://lcinsight.net/og/sharks-moved-out-10-2m-stablecoins-4m-jusdt-tron-aave-debt.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Stablecoins",
+"#USDT"
+]
+},
+{
+"slug": "stablecoins-grew-122m-in-bitcoin-bounce-usdt-0-9984",
+"url": "https://lcinsight.net/news/bitcoin-bounced-5-percent-but-the-five-biggest-dollar-stablecoins-grew.html",
+"title": "Bitcoin bounced 5%, but the five biggest dollar stablecoins grew just $122 million",
+"dek": "USDT supply barely moved after Friday's $442 million drop, and its price slipped further to $0.9984. USDC won back $415 million of its crash-week dip.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-22T00:51:00-05:00",
+"image": "https://lcinsight.net/og/stablecoins-grew-122m-in-bitcoin-bounce-usdt-0-9984.jpg",
+"hashtags": [
+"#Stablecoins",
+"#USDT",
+"#USDC",
+"#Tether",
+"#Circle"
+]
+},
+{
+"slug": "bitcoin-60k-bounce-hyperliquid-bets-1-11b-funding-negative",
+"url": "https://lcinsight.net/news/bitcoin-touched-60-799-as-hyperliquid-bets-grew-50-million-and-funding.html",
+"title": "Bitcoin touched $60,799 as Hyperliquid bets grew $50 million and funding turned negative",
+"dek": "Open bets on Hyperliquid's bitcoin contract rose to $1.11 billion through Saturday's rebound, still well below Friday's $1.23 billion. Trading volume halved and more markets paid shorts.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-22T00:50:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-60k-bounce-hyperliquid-bets-1-11b-funding-negative.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Hyperliquid",
+"#OpenInterest",
+"#PerpetualFutures",
+"#OnChainData"
+]
+},
+{
+"slug": "rumor-vs-record-midterm-year-q4-bitcoin-bottom-claims",
+"url": "https://lcinsight.net/news/rumor-vs-record-bitcoins-55-150-low-broke-julys-bottom-in-the-midterm.html",
+"title": "Rumor vs record: bitcoin's $55,150 low broke July's bottom in the midterm fourth quarter",
+"dek": "As bitcoin bounced 5%, a cycle claim spread: midterm years make fresh lows late in the fourth quarter. CoinMarketCap and CoinGecko records show it held in 2018 and 2022, only loosely in 2014, and 2026 has already followed it.",
+"category": "Markets",
+"guide": false,
+"hot": false,
+"published": "2026-11-22T00:50:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-midterm-year-q4-bitcoin-bottom-claims.jpg",
+"hashtags": [
+"#RumorCheck",
+"#Bitcoin",
+"#BTC",
+"#PriceMove",
+"#Data"
+]
+},
+{
+"slug": "sharks-bought-830k-wbtc-arbitrum-bounce-sold-900k-wsteth",
+"url": "https://lcinsight.net/news/sharks-bought-830-649-of-wbtc-on-arbitrum-in-the-bounce-and-sold-900.html",
+"title": "Sharks bought $830,649 of WBTC on Arbitrum in the bounce and sold $900,306 of staked ether",
+"dek": "Bitcoin rose 5% in a day, and DeepSea's shark wallets flipped to net buyers of bitcoin on Arbitrum after selling $894,130 the day before. They sold staked ether, ARB and OP.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-22T00:50:00-05:00",
+"image": "https://lcinsight.net/og/sharks-bought-830k-wbtc-arbitrum-bounce-sold-900k-wsteth.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Whales",
+"#Bitcoin"
+]
+},
+{
 "slug": "rain-drops-11-percent-in-an-hour-as-bitcoin-climbs-5-percent",
 "url": "https://lcinsight.net/news/rain-rain-fell-11-percent-in-an-hour-late-saturday-even-as-bitcoin.html",
 "title": "Rain (RAIN) fell 11% in an hour late Saturday, even as bitcoin rose 5% on the day",
@@ -3465,114 +3573,6 @@
 "#Sharks",
 "#Optimism",
 "#OP"
-]
-},
-{
-"slug": "sharks-75-of-102-lost-week-one-bnb-chain-wallet-made-967k",
-"url": "https://lcinsight.net/news/75-of-102-shark-wallets-lost-money-this-week-one-bnb-chain-wallet-made.html",
-"title": "75 of 102 shark wallets lost money this week. One BNB Chain wallet made $967,000",
-"dek": "DeepSea's 7-day profit table shows big traders down $2.56 million on closed trades, winning one trade in three. A single wallet made 80% of all the gains.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-12T01:05:00-05:00",
-"image": "https://lcinsight.net/og/sharks-75-of-102-lost-week-one-bnb-chain-wallet-made-967k.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Sharks",
-"#BNBChain",
-"#Ethereum"
-]
-},
-{
-"slug": "deutsche-bank-crypto-custody-live-germany-bitcoin-usdc",
-"url": "https://lcinsight.net/news/deutsche-bank-custody-site-says-bitcoin-ether-and-3-stablecoins-are.html",
-"title": "Deutsche Bank custody site says bitcoin, ether and 3 stablecoins are available in Germany",
-"dek": "Germany's largest bank says its digital asset custody is available to Corporate Bank clients in Germany. Retail customers are not part of it.",
-"category": "AI & RWA",
-"guide": false,
-"hot": false,
-"published": "2026-11-12T00:55:00-05:00",
-"image": "https://lcinsight.net/og/deutsche-bank-crypto-custody-live-germany-bitcoin-usdc.jpg",
-"hashtags": [
-"#Banking",
-"#Custody",
-"#Bitcoin",
-"#USDC",
-"#MiCA"
-]
-},
-{
-"slug": "rumor-vs-record-anthropic-token-solana-ipo-day",
-"url": "https://lcinsight.net/news/rumor-vs-record-will-an-ant-anthropic-stock-token-go-live-on-solana-on.html",
-"title": "Rumor vs record: will an \"ANT\" Anthropic stock token go live on Solana on IPO day?",
-"dek": "A viral post says a tokenized Anthropic share called ANT will launch on Solana the day Anthropic starts trading in public. CoinGecko does list an Anthropic xStock with a Solana address, but under a different ticker, with zero supply and no price. We found no Anthropic or issuer statement that sets a date.",
-"category": "AI & RWA",
-"guide": false,
-"hot": true,
-"published": "2026-11-12T00:55:00-05:00",
-"image": "https://lcinsight.net/og/rumor-vs-record-anthropic-token-solana-ipo-day.jpg",
-"hashtags": [
-"#RumorCheck",
-"#TokenizedStocks",
-"#Solana",
-"#IPO",
-"#AI"
-]
-},
-{
-"slug": "stablecoins-shrank-13-4b-in-30-days-usdt-lost-8-3b",
-"url": "https://lcinsight.net/news/stablecoins-lost-13-4-billion-in-30-days-usdt-alone-shrank-8-3-billion.html",
-"title": "Stablecoins lost $13.4 billion in 30 days. USDT alone shrank $8.3 billion",
-"dek": "CoinGecko data shows the three biggest dollar tokens all got smaller since mid-October. Tether's USDT fell every week, and November 11 was its worst day of the month.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-12T00:55:00-05:00",
-"image": "https://lcinsight.net/og/stablecoins-shrank-13-4b-in-30-days-usdt-lost-8-3b.jpg",
-"hashtags": [
-"#Stablecoins",
-"#USDT",
-"#USDC",
-"#USDS",
-"#Data"
-]
-},
-{
-"slug": "arbitrum-wallet-0270-bought-3-17m-arb-a-day-after-chip",
-"url": "https://lcinsight.net/news/one-wallet-bought-3-17-million-of-arb-in-one-trade-a-day-after-its-3.html",
-"title": "One wallet bought $3.17 million of ARB in one trade, a day after its $3.29 million CHIP buy",
-"dek": "DeepSea's 24-hour table shows Arbitrum sharks bought $3.65 million of ARB and sold $771. Most of it came from one wallet that Etherscan shows holding 135 million ARB.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-12T00:50:00-05:00",
-"image": "https://lcinsight.net/og/arbitrum-wallet-0270-bought-3-17m-arb-a-day-after-chip.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Sharks",
-"#Arbitrum",
-"#ARB"
-]
-},
-{
-"slug": "kols-30-days-89-of-210-in-profit-group-up-374k",
-"url": "https://lcinsight.net/news/only-89-of-210-kol-wallets-made-money-in-30-days-top-earner-kurtz-won.html",
-"title": "Only 89 of 210 KOL wallets made money in 30 days. Top earner kurtz won 11 of 11",
-"dek": "DeepSea's realized PnL table shows most tracked influencer wallets lost money over 30 days, yet the group is up $374,000 as a few big winners carried the total.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-12T00:50:00-05:00",
-"image": "https://lcinsight.net/og/kols-30-days-89-of-210-in-profit-group-up-374k.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#KOLs",
-"#Solana",
-"#BNBChain"
 ]
 }
 ]
