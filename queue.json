@@ -710,5 +710,18 @@
    "ch24": 21.204447634949545
   },
   "found": "2026-11-22T07:46:17Z"
+ },
+ {
+  "id": "price:pieverse:20261122:up",
+  "kind": "price",
+  "hint": "Pieverse (PIEVERSE) +7.1% in 1h, +28.6% in 24h, now $3.92",
+  "source": "https://www.coingecko.com/en/coins/pieverse",
+  "data": {
+   "h1": 7.1152,
+   "h24": 28.63273,
+   "price": 3.92,
+   "mcap_rank": 65
+  },
+  "found": "2026-11-22T08:09:05Z"
  }
 ]
