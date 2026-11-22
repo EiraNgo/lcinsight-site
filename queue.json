@@ -1,92 +1,5 @@
 [
  {
-  "id": "hack:Gonka AI:1794960000",
-  "kind": "hack",
-  "hint": "Gonka AI hacked/exploited, ~$1.1M (Bridge & Cross-Chain)",
-  "source": "https://defillama.com/hacks",
-  "data": {
-   "amount": 1050000,
-   "chain": [
-    "Ethereum"
-   ],
-   "technique": "Bridge Logic Flaw"
-  },
-  "found": "2026-11-18T22:26:55Z"
- },
- {
-  "id": "hack:K3 Capital:1794960000",
-  "kind": "hack",
-  "hint": "K3 Capital hacked/exploited, ~$3.4M (Token & Share Accounting)",
-  "source": "https://defillama.com/hacks",
-  "data": {
-   "amount": 3420000,
-   "chain": [
-    "Ethereum"
-   ],
-   "technique": "Incorrect Share Accounting"
-  },
-  "found": "2026-11-18T22:26:55Z"
- },
- {
-  "id": "reg:https://www.sec.gov/Archives/edgar/data/2080215/000121390026121814/0001213900-26-121814-index.htm",
-  "kind": "regulator",
-  "hint": "US SEC EDGAR 424B: 424B3 - StableCoinX Inc. (0002080215) (Filer)",
-  "source": "https://www.sec.gov/Archives/edgar/data/2080215/000121390026121814/0001213900-26-121814-index.htm",
-  "data": {
-   "source": "US SEC EDGAR 424B"
-  },
-  "found": "2026-11-18T22:28:39Z"
- },
- {
-  "id": "price:pearl-2:20261118:down",
-  "kind": "price",
-  "hint": "Pearl (PEARL) -0.9% in 1h, +26.6% in 24h, now $2.33",
-  "source": "https://www.coingecko.com/en/coins/pearl-2",
-  "data": {
-   "h1": -0.8543,
-   "h24": 26.60023,
-   "price": 2.33,
-   "mcap_rank": 73
-  },
-  "found": "2026-11-18T23:25:50Z"
- },
- {
-  "id": "price:pieverse:20261119:down",
-  "kind": "price",
-  "hint": "Pieverse (PIEVERSE) -0.6% in 1h, +71.5% in 24h, now $3.53",
-  "source": "https://www.coingecko.com/en/coins/pieverse",
-  "data": {
-   "h1": -0.6424,
-   "h24": 71.54747,
-   "price": 3.53,
-   "mcap_rank": 71
-  },
-  "found": "2026-11-19T00:01:25Z"
- },
- {
-  "id": "price:pearl-2:20261119:down",
-  "kind": "price",
-  "hint": "Pearl (PEARL) -0.9% in 1h, +28.5% in 24h, now $2.34",
-  "source": "https://www.coingecko.com/en/coins/pearl-2",
-  "data": {
-   "h1": -0.8543,
-   "h24": 28.46998,
-   "price": 2.34,
-   "mcap_rank": 73
-  },
-  "found": "2026-11-19T00:01:25Z"
- },
- {
-  "id": "trend:pearl-2:20261119",
-  "kind": "trending",
-  "hint": "Pearl (PEARL) trending #3 on CoinGecko, +28.1% 24h",
-  "source": "https://www.coingecko.com/en/coins/pearl-2",
-  "data": {
-   "ch24": 28.126595771105954
-  },
-  "found": "2026-11-19T00:01:25Z"
- },
- {
   "id": "price:pieverse:20261119:up",
   "kind": "price",
   "hint": "Pieverse (PIEVERSE) +0.8% in 1h, +68.6% in 24h, now $3.49",
@@ -767,5 +680,15 @@
    "technique": "Validator Key Compromised"
   },
   "found": "2026-11-21T21:04:15Z"
+ },
+ {
+  "id": "trend:venice-token:20261122",
+  "kind": "trending",
+  "hint": "Venice Token (VVV) trending #1 on CoinGecko, +20.1% 24h",
+  "source": "https://www.coingecko.com/en/coins/venice-token",
+  "data": {
+   "ch24": 20.09528787474031
+  },
+  "found": "2026-11-22T00:01:16Z"
  }
 ]
