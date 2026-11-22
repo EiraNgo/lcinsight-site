@@ -70,6 +70,16 @@ b.addEventListener('click',function(e){e.stopPropagation();set(n.hidden);});
 document.addEventListener('click',function(e){if(!n.hidden&&!n.contains(e.target)&&!b.contains(e.target))set(false);});
 n.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){set(false);});});
 document.addEventListener('keydown',function(e){if(e.key==='Escape')set(false);});})();</script>
+<!-- owner, Nov 22 2026: global readers. A visitor whose browser language is not English gets a one-tap bar to read the
+     page in that language through Google Translate. No IP lookup, no auto-redirect (keeps SEO and the English original). -->
+<script>(function(){try{var L=(navigator.language||'en').toLowerCase(),c=L.split('-')[0];if(c==='en'||localStorage.getItem('lci-tr-off'))return;
+var N={vi:'Đọc bằng Tiếng Việt',es:'Leer en español',pt:'Ler em português',fr:'Lire en français',de:'Auf Deutsch lesen',it:'Leggi in italiano',ru:'Читать на русском',uk:'Читати українською',tr:'Türkçe oku',id:'Baca dalam Bahasa Indonesia',ms:'Baca dalam Bahasa Melayu',th:'อ่านเป็นภาษาไทย',ja:'日本語で読む',ko:'한국어로 읽기',zh:'用中文阅读',hi:'हिन्दी में पढ़ें',ar:'اقرأ بالعربية',fa:'به فارسی بخوانید',nl:'Lees in het Nederlands',pl:'Czytaj po polsku',fil:'Basahin sa Filipino',tl:'Basahin sa Filipino',ur:'اردو میں پڑھیں',bn:'বাংলায় পড়ুন'};
+var tl=(c==='zh')?(/tw|hk|hant/.test(L)?'zh-TW':'zh-CN'):c,u='https://lcinsight-net.translate.goog'+location.pathname+'?_x_tr_sl=en&_x_tr_tl='+tl+'&_x_tr_hl='+tl;
+if(location.hostname.indexOf('translate.goog')>-1||location.protocol==='file:')return;
+var d=document.createElement('div');d.className='trbar';d.setAttribute('role','region');d.setAttribute('aria-label','Translate');
+d.innerHTML='<a href="'+u+'" rel="nofollow">🌐 '+(N[c]||'Translate this page')+'</a><button aria-label="Close">×</button>';
+d.querySelector('button').onclick=function(){d.remove();try{localStorage.setItem('lci-tr-off','1')}catch(e){}};document.body.appendChild(d);}catch(e){}})();</script>
+<style>.trbar{position:fixed;left:12px;right:12px;bottom:12px;z-index:50;display:flex;gap:8px;align-items:center;justify-content:space-between;max-width:520px;margin:0 auto;background:#111;color:#fff;border-radius:14px;padding:10px 12px;box-shadow:0 6px 24px rgba(0,0,0,.25);font:600 15px/1.3 system-ui,sans-serif}.trbar a{color:#fff;text-decoration:none;flex:1}.trbar button{background:none;border:0;color:#bbb;font-size:22px;line-height:1;cursor:pointer}</style>
 <!-- Cloudflare Web Analytics --><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "5022dbc520454edfa2c8ae18913ac97f"}'></script>
 </body>
 </html>
