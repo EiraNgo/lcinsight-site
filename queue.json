@@ -1,28 +1,5 @@
 [
  {
-  "id": "price:bitway:20261119:up",
-  "kind": "price",
-  "hint": "Bitway (BTW) +0.2% in 1h, +28.4% in 24h, now $0.556409",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": 0.2231,
-   "h24": 28.36185,
-   "price": 0.556409,
-   "mcap_rank": 77
-  },
-  "found": "2026-11-19T05:27:44Z"
- },
- {
-  "id": "trend:irys:20261119",
-  "kind": "trending",
-  "hint": "Irys (IRYS) trending #2 on CoinGecko, +53.7% 24h",
-  "source": "https://www.coingecko.com/en/coins/irys",
-  "data": {
-   "ch24": 53.74374775655313
-  },
-  "found": "2026-11-19T05:27:44Z"
- },
- {
   "id": "price:bitway:20261119:down",
   "kind": "price",
   "hint": "Bitway (BTW) -2.1% in 1h, +26.2% in 24h, now $0.559747",
@@ -723,5 +700,18 @@
    "mcap_rank": 59
   },
   "found": "2026-11-22T04:12:40Z"
+ },
+ {
+  "id": "price:a7a5:20261122:up",
+  "kind": "price",
+  "hint": "A7A5 (A7A5) +1.5% in 1h, +195.1% in 24h, now $0.0121172",
+  "source": "https://www.coingecko.com/en/coins/a7a5",
+  "data": {
+   "h1": 1.5129,
+   "h24": 195.10651,
+   "price": 0.0121172,
+   "mcap_rank": 99
+  },
+  "found": "2026-11-22T06:03:40Z"
  }
 ]
