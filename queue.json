@@ -1,18 +1,5 @@
 [
  {
-  "id": "price:bitway:20261119:down",
-  "kind": "price",
-  "hint": "Bitway (BTW) -2.1% in 1h, +26.2% in 24h, now $0.559747",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": -2.1334,
-   "h24": 26.22523,
-   "price": 0.559747,
-   "mcap_rank": 77
-  },
-  "found": "2026-11-19T06:59:05Z"
- },
- {
   "id": "trend:terra-luna:20261119",
   "kind": "trending",
   "hint": "Terra Luna Classic (LUNC) trending #3 on CoinGecko, +16.5% 24h",
@@ -713,5 +700,15 @@
    "mcap_rank": 99
   },
   "found": "2026-11-22T06:03:40Z"
+ },
+ {
+  "id": "trend:pieverse:20261122",
+  "kind": "trending",
+  "hint": "Pieverse (PIEVERSE) trending #2 on CoinGecko, +21.2% 24h",
+  "source": "https://www.coingecko.com/en/coins/pieverse",
+  "data": {
+   "ch24": 21.204447634949545
+  },
+  "found": "2026-11-22T07:46:17Z"
  }
 ]
