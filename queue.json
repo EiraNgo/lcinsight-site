@@ -674,5 +674,15 @@
    "ch24": 33.904781469374356
   },
   "found": "2026-11-22T00:12:37Z"
+ },
+ {
+  "id": "trend:lucia-2:20261122",
+  "kind": "trending",
+  "hint": "Lucia (LUCIA) trending #2 on CoinGecko, -20.9% 24h",
+  "source": "https://www.coingecko.com/en/coins/lucia-2",
+  "data": {
+   "ch24": -20.87001144612149
+  },
+  "found": "2026-11-22T01:43:18Z"
  }
 ]
