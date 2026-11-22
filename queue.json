@@ -1,31 +1,5 @@
 [
  {
-  "id": "price:pieverse:20261119:up",
-  "kind": "price",
-  "hint": "Pieverse (PIEVERSE) +0.8% in 1h, +68.6% in 24h, now $3.49",
-  "source": "https://www.coingecko.com/en/coins/pieverse",
-  "data": {
-   "h1": 0.7699,
-   "h24": 68.63666,
-   "price": 3.49,
-   "mcap_rank": 71
-  },
-  "found": "2026-11-19T00:13:29Z"
- },
- {
-  "id": "price:pearl-2:20261119:up",
-  "kind": "price",
-  "hint": "Pearl (PEARL) +3.5% in 1h, +25.9% in 24h, now $2.26",
-  "source": "https://www.coingecko.com/en/coins/pearl-2",
-  "data": {
-   "h1": 3.533,
-   "h24": 25.86079,
-   "price": 2.26,
-   "mcap_rank": 76
-  },
-  "found": "2026-11-19T00:13:29Z"
- },
- {
   "id": "price:bitway:20261119:up",
   "kind": "price",
   "hint": "Bitway (BTW) +0.2% in 1h, +28.4% in 24h, now $0.556409",
@@ -690,5 +664,15 @@
    "ch24": 20.09528787474031
   },
   "found": "2026-11-22T00:01:16Z"
+ },
+ {
+  "id": "trend:derive:20261122",
+  "kind": "trending",
+  "hint": "Derive (DRV) trending #3 on CoinGecko, +33.9% 24h",
+  "source": "https://www.coingecko.com/en/coins/derive",
+  "data": {
+   "ch24": 33.904781469374356
+  },
+  "found": "2026-11-22T00:12:37Z"
  }
 ]

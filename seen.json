@@ -33,8 +33,6 @@
 "_warm:US SEC EDGAR S-1": "2026-11-07T03:34:50Z",
 "_warm:US SEC EDGAR 19b-4": "2026-11-07T03:34:50Z",
 "_warm:US SEC EDGAR 424B": "2026-11-07T03:34:50Z",
-"trend:dacity-coin-4:20261108": "2026-11-08T00:05:40Z",
-"trend:stonk-3:20261108": "2026-11-08T00:05:40Z",
 "trend:unifai-network:20261108": "2026-11-08T04:05:05Z",
 "trend:wasted-2:20261108": "2026-11-08T10:11:43Z",
 "trend:janction:20261108": "2026-11-08T11:20:03Z",
@@ -256,5 +254,6 @@
 "trend:pipi-2:20261121": "2026-11-21T19:21:30Z",
 "price:venice-token:20261121:up": "2026-11-21T19:33:01Z",
 "hack:Chainflip AMM:1795219200": "2026-11-21T21:04:15Z",
-"trend:venice-token:20261122": "2026-11-22T00:01:16Z"
+"trend:venice-token:20261122": "2026-11-22T00:01:16Z",
+"trend:derive:20261122": "2026-11-22T00:12:37Z"
 }
