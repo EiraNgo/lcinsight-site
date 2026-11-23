@@ -1,58 +1,5 @@
 [
  {
-  "id": "trend:wasted-4:20261119",
-  "kind": "trending",
-  "hint": "WASTED (WASTED) trending #1 on CoinGecko, +44.1% 24h",
-  "source": "https://www.coingecko.com/en/coins/wasted-4",
-  "data": {
-   "ch24": 44.07865457103141
-  },
-  "found": "2026-11-19T18:46:29Z"
- },
- {
-  "id": "trend:lucia-2:20261119",
-  "kind": "trending",
-  "hint": "Lucia (LUCIA) trending #3 on CoinGecko, +34.8% 24h",
-  "source": "https://www.coingecko.com/en/coins/lucia-2",
-  "data": {
-   "ch24": 34.818879906343994
-  },
-  "found": "2026-11-19T18:46:29Z"
- },
- {
-  "id": "reg:https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
-  "kind": "regulator",
-  "hint": "US SEC: SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors\n The Securities and Exchange Commission today charged eight Colorado-based entities, lik",
-  "source": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
-  "data": {
-   "source": "US SEC"
-  },
-  "found": "2026-11-19T18:46:29Z"
- },
- {
-  "id": "price:sky:20261119:up",
-  "kind": "price",
-  "hint": "Sky (SKY) +17.1% in 1h, -8.8% in 24h, now $0.04642307",
-  "source": "https://www.coingecko.com/en/coins/sky",
-  "data": {
-   "h1": 17.0813,
-   "h24": -8.75034,
-   "price": 0.04642307,
-   "mcap_rank": 67
-  },
-  "found": "2026-11-19T20:10:16Z"
- },
- {
-  "id": "reg:https://www.justice.gov/opa/pr/3-mexican-nationals-plead-guilty-laundering-millions-dollars-drug-proceeds-united-states",
-  "kind": "regulator",
-  "hint": "US DOJ: 3 Mexican Nationals Plead Guilty to Laundering Millions of Dollars in Drug Proceeds from the United States to Mexico Three Mexican nationals pleaded guilty for their roles in the collection of million",
-  "source": "https://www.justice.gov/opa/pr/3-mexican-nationals-plead-guilty-laundering-millions-dollars-drug-proceeds-united-states",
-  "data": {
-   "source": "US DOJ"
-  },
-  "found": "2026-11-19T20:33:29Z"
- },
- {
   "id": "trend:pearl-2:20261120",
   "kind": "trending",
   "hint": "Pearl (PEARL) trending #2 on CoinGecko, -15.7% 24h",
@@ -733,5 +680,19 @@
    "ch24": 70.0117564667231
   },
   "found": "2026-11-22T17:33:06Z"
+ },
+ {
+  "id": "hack:Endurance Bridge:1795305600",
+  "kind": "hack",
+  "hint": "Endurance Bridge hacked/exploited, ~$1.0M (Bridge & Cross-Chain)",
+  "source": "https://defillama.com/hacks",
+  "data": {
+   "amount": 1040000,
+   "chain": [
+    "BSC"
+   ],
+   "technique": "Unbacked Cross-Chain Mint"
+  },
+  "found": "2026-11-23T00:34:24Z"
  }
 ]

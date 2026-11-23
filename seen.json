@@ -33,7 +33,6 @@
 "_warm:US SEC EDGAR S-1": "2026-11-07T03:34:50Z",
 "_warm:US SEC EDGAR 19b-4": "2026-11-07T03:34:50Z",
 "_warm:US SEC EDGAR 424B": "2026-11-07T03:34:50Z",
-"price:ethereum:20261108:down": "2026-11-08T22:08:35Z",
 "trend:janction:20261109": "2026-11-09T04:49:29Z",
 "trend:kinetiq:20261109": "2026-11-09T05:57:19Z",
 "trend:stonk-3:20261109": "2026-11-09T08:38:12Z",
@@ -261,5 +260,6 @@
 "trend:pieverse:20261122": "2026-11-22T07:46:17Z",
 "price:pieverse:20261122:up": "2026-11-22T08:09:05Z",
 "trend:wanted-star:20261122": "2026-11-22T17:33:06Z",
-"trend:popo-the-turtle:20261122": "2026-11-22T17:33:06Z"
+"trend:popo-the-turtle:20261122": "2026-11-22T17:33:06Z",
+"hack:Endurance Bridge:1795305600": "2026-11-23T00:34:24Z"
 }
