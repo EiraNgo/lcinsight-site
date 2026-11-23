@@ -1,97 +1,5 @@
 [
  {
-  "id": "trend:pearl-2:20261120",
-  "kind": "trending",
-  "hint": "Pearl (PEARL) trending #2 on CoinGecko, -15.7% 24h",
-  "source": "https://www.coingecko.com/en/coins/pearl-2",
-  "data": {
-   "ch24": -15.66061312267272
-  },
-  "found": "2026-11-20T04:40:52Z"
- },
- {
-  "id": "trend:anthropic-prestocks-2:20261120",
-  "kind": "trending",
-  "hint": "Anthropic PreStocks (ANTHROPIC) trending #3 on CoinGecko, -22.2% 24h",
-  "source": "https://www.coingecko.com/en/coins/anthropic-prestocks-2",
-  "data": {
-   "ch24": -22.164017551877183
-  },
-  "found": "2026-11-20T04:40:52Z"
- },
- {
-  "id": "price:pearl-2:20261120:down",
-  "kind": "price",
-  "hint": "Pearl (PEARL) -10.5% in 1h, -15.7% in 24h, now $1.92",
-  "source": "https://www.coingecko.com/en/coins/pearl-2",
-  "data": {
-   "h1": -10.5347,
-   "h24": -15.65029,
-   "price": 1.92,
-   "mcap_rank": 77
-  },
-  "found": "2026-11-20T13:46:33Z"
- },
- {
-  "id": "trend:wasted-4:20261120",
-  "kind": "trending",
-  "hint": "WASTED (WASTED) trending #1 on CoinGecko, +19.7% 24h",
-  "source": "https://www.coingecko.com/en/coins/wasted-4",
-  "data": {
-   "ch24": 19.723529318312803
-  },
-  "found": "2026-11-20T13:46:33Z"
- },
- {
-  "id": "trend:chunkee-the-manatee:20261120",
-  "kind": "trending",
-  "hint": "Chunkee The Manatee (CHUNKEE) trending #3 on CoinGecko, +144.0% 24h",
-  "source": "https://www.coingecko.com/en/coins/chunkee-the-manatee",
-  "data": {
-   "ch24": 144.02628093708384
-  },
-  "found": "2026-11-20T13:46:33Z"
- },
- {
-  "id": "price:bitcoin:20261120:down",
-  "kind": "price",
-  "hint": "Bitcoin (BTC) -3.6% in 1h, -6.6% in 24h, now $58,878",
-  "source": "https://www.coingecko.com/en/coins/bitcoin",
-  "data": {
-   "h1": -3.6498,
-   "h24": -6.64831,
-   "price": 58878,
-   "mcap_rank": 1
-  },
-  "found": "2026-11-20T16:06:12Z"
- },
- {
-  "id": "price:ethereum:20261120:down",
-  "kind": "price",
-  "hint": "Ethereum (ETH) -5.1% in 1h, -8.3% in 24h, now $1,631.37",
-  "source": "https://www.coingecko.com/en/coins/ethereum",
-  "data": {
-   "h1": -5.1031,
-   "h24": -8.31555,
-   "price": 1631.37,
-   "mcap_rank": 2
-  },
-  "found": "2026-11-20T16:06:12Z"
- },
- {
-  "id": "price:rain:20261120:up",
-  "kind": "price",
-  "hint": "Rain (RAIN) +3.3% in 1h, -26.3% in 24h, now $0.00367263",
-  "source": "https://www.coingecko.com/en/coins/rain",
-  "data": {
-   "h1": 3.2822,
-   "h24": -26.29372,
-   "price": 0.00367263,
-   "mcap_rank": 34
-  },
-  "found": "2026-11-20T17:53:18Z"
- },
- {
   "id": "trend:lucia-2:20261120",
   "kind": "trending",
   "hint": "Lucia (LUCIA) trending #3 on CoinGecko, -16.1% 24h",
@@ -707,5 +615,15 @@
    "mcap_rank": 70
   },
   "found": "2026-11-23T03:09:16Z"
+ },
+ {
+  "id": "reg:https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
+  "kind": "regulator",
+  "hint": "US DOJ: United States Files Action to Recover More Than $1 Billion in Cryptocurrency Assets Stolen by North Korean Cyber Actors in Binance Hack Today, the Justice Department announced actions taken to forfeit",
+  "source": "https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
+  "data": {
+   "source": "US DOJ"
+  },
+  "found": "2026-11-23T18:28:24Z"
  }
 ]
