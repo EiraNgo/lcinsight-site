@@ -694,5 +694,18 @@
    "technique": "Unbacked Cross-Chain Mint"
   },
   "found": "2026-11-23T00:34:24Z"
+ },
+ {
+  "id": "price:pieverse:20261123:down",
+  "kind": "price",
+  "hint": "Pieverse (PIEVERSE) -10.9% in 1h, -1.1% in 24h, now $3.34",
+  "source": "https://www.coingecko.com/en/coins/pieverse",
+  "data": {
+   "h1": -10.8602,
+   "h24": -1.08761,
+   "price": 3.34,
+   "mcap_rank": 70
+  },
+  "found": "2026-11-23T03:09:16Z"
  }
 ]
