@@ -1,29 +1,5 @@
 [
  {
-  "id": "trend:lucia-2:20261120",
-  "kind": "trending",
-  "hint": "Lucia (LUCIA) trending #3 on CoinGecko, -16.1% 24h",
-  "source": "https://www.coingecko.com/en/coins/lucia-2",
-  "data": {
-   "ch24": -16.079407826588042
-  },
-  "found": "2026-11-20T18:40:55Z"
- },
- {
-  "id": "hack:Wagyu (XMR1):1795132800",
-  "kind": "hack",
-  "hint": "Wagyu (XMR1) hacked/exploited, ~$13.5M (Frontend & Infrastructure)",
-  "source": "https://defillama.com/hacks",
-  "data": {
-   "amount": 13510000,
-   "chain": [
-    "Hyperliquid L1"
-   ],
-   "technique": "Key Leaked via Infrastructure"
-  },
-  "found": "2026-11-20T19:04:17Z"
- },
- {
   "id": "trend:pearl-2:20261121",
   "kind": "trending",
   "hint": "Pearl (PEARL) trending #2 on CoinGecko, -16.4% 24h",
@@ -625,5 +601,28 @@
    "source": "US DOJ"
   },
   "found": "2026-11-23T18:28:24Z"
+ },
+ {
+  "id": "price:pearl-2:20261123:up",
+  "kind": "price",
+  "hint": "Pearl (PEARL) +2.1% in 1h, +25.0% in 24h, now $2.45",
+  "source": "https://www.coingecko.com/en/coins/pearl-2",
+  "data": {
+   "h1": 2.1313,
+   "h24": 25.02988,
+   "price": 2.45,
+   "mcap_rank": 70
+  },
+  "found": "2026-11-23T20:45:56Z"
+ },
+ {
+  "id": "trend:pearl-2:20261123",
+  "kind": "trending",
+  "hint": "Pearl (PEARL) trending #2 on CoinGecko, +24.1% 24h",
+  "source": "https://www.coingecko.com/en/coins/pearl-2",
+  "data": {
+   "ch24": 24.09599599243997
+  },
+  "found": "2026-11-23T20:45:57Z"
  }
 ]
