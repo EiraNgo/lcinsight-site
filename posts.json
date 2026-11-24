@@ -1,5 +1,154 @@
 [
 {
+"slug": "us-files-to-forfeit-1-1-billion-usdc-from-binance-hack",
+"url": "https://lcinsight.net/news/u-s-files-to-keep-1-1-billion-of-binance-hack-usdc-over-2-9-billion-is.html",
+"title": "U.S. files to keep $1.1 billion of Binance hack USDC. Over $2.9 billion is now frozen, seized or returned",
+"dek": "The Justice Department said on Monday, November 23, that it filed a civil forfeiture claim for more than $1.1 billion in Circle's USDC stolen in the October 29 Binance hack, which it attributes to North Korean cyber actors.",
+"category": "Security",
+"guide": false,
+"hot": true,
+"published": "2026-11-24T07:12:00-05:00",
+"image": "https://lcinsight.net/og/us-files-to-forfeit-1-1-billion-usdc-from-binance-hack.jpg",
+"hashtags": [
+"#Binance",
+"#Hacks",
+"#NorthKorea",
+"#USDC",
+"#Circle"
+],
+"x_thread": [
+"🚨 U.S. files to keep $1.1 billion of Binance hack USDC. Over $2.9 billion is now frozen, seized or returned\n\nThe Justice Department said on Monday, November 23, that it filed a civil forfeiture claim for more than $1.1 billion in Circle's USDC stolen in the October 29…",
+"The USDC was already under a restraining order the government requested. Circle assisted, the department says.",
+"More than $2.9 billion of the haul has now been frozen, seized or returned with U.S. help. On November 12 the department said more than $2.7 billion had been frozen.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/u-s-files-to-keep-1-1-billion-of-binance-hack-usdc-over-2-9-billion-is.html\n#Binance #Hacks"
+]
+},
+{
+"slug": "bitcoin-falls-under-60k-from-64446-as-usdc-grows-583m",
+"url": "https://lcinsight.net/news/bitcoin-fell-under-60k-from-mondays-64-446-high-yet-usdc-supply-grew.html",
+"title": "Bitcoin fell under $60K from Monday's $64,446 high, yet USDC supply grew $583 million",
+"dek": "Bitcoin spiked to $64,446 on Monday morning, then slid to $59,798 by early Tuesday, November 24. Hyperliquid's bitcoin bets barely moved, and the six largest dollar stablecoins grew by $687 million in a day.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-24T07:11:00-05:00",
+"image": "https://lcinsight.net/og/bitcoin-falls-under-60k-from-64446-as-usdc-grows-583m.jpg",
+"hashtags": [
+"#Bitcoin",
+"#Hyperliquid",
+"#Stablecoins",
+"#USDC",
+"#Derivatives"
+],
+"x_thread": [
+"📉 Bitcoin fell under $60K from Monday's $64,446 high, yet USDC supply grew $583 million\n\nBitcoin spiked to $64,446 on Monday morning, then slid to $59,798 by early Tuesday, November 24.",
+"CoinGecko showed bitcoin at $59,798 at 6:37 a.m. ET on November 24, down 2.6% in 24 hours, after a 24-hour high of $64,446 and a low of $59,380.",
+"Hyperliquid's BTC-USD contract held $1.115 billion of open bets at 6:21 a.m. ET, about the same as late Saturday, with funding at zero.",
+"DefiLlama shows USDC supply up $583 million in a day to $69.31 billion. The six largest dollar stablecoins grew $687 million, though they are $3.17 billion smaller than a week ago.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/bitcoin-fell-under-60k-from-mondays-64-446-high-yet-usdc-supply-grew.html\n#Bitcoin #Hyperliquid"
+]
+},
+{
+"slug": "layerzero-zro-falls-16-percent-as-volume-triples",
+"url": "https://lcinsight.net/news/layerzeros-zro-fell-16-percent-in-a-day-as-volume-tripled-to-91-6.html",
+"title": "LayerZero's ZRO fell 16% in a day as volume tripled to $91.6 million, with no stated cause",
+"dek": "ZRO dropped from $1.27 on Monday morning to $1.04 by early Tuesday, November 24. Trading volume tripled, but LayerZero has posted no news that explains the slide, and no new unlock is on DefiLlama's schedule.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-24T07:10:00-05:00",
+"image": "https://lcinsight.net/og/layerzero-zro-falls-16-percent-as-volume-triples.jpg",
+"hashtags": [
+"#LayerZero",
+"#Hyperliquid",
+"#TokenUnlocks",
+"#Altcoins",
+"#Bridges"
+],
+"x_thread": [
+"📉 LayerZero's ZRO fell 16% in a day as volume tripled to $91.6 million, with no stated cause\n\nZRO dropped from $1.27 on Monday morning to $1.04 by early Tuesday, November 24. Trading volume tripled, but LayerZero has posted no news that explains the slide, and no new…",
+"CoinGecko showed ZRO at $1.036 at 6:37 a.m. ET on November 24, down 15.9% in 24 hours and 29.8% in seven days.",
+"24-hour volume reached $91.6 million, about three times the $31 million reading a day earlier and above every daily figure since November 14.",
+"Hyperliquid's ZRO-USD contract held $14.5 million of open bets, with funding slightly positive. LayerZero's own pages give no reason for the drop.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/layerzeros-zro-fell-16-percent-in-a-day-as-volume-tripled-to-91-6.html\n#LayerZero #Hyperliquid"
+]
+},
+{
+"slug": "shark-220m-staked-ether-out-was-a-transfer-not-a-sale",
+"url": "https://lcinsight.net/news/a-shark-sold-220-million-of-staked-ether-the-chain-shows-a-transfer-to.html",
+"title": "A shark 'sold' $220 million of staked ether. The chain shows a transfer to one wallet",
+"dek": "DeepSea logged $115.7 million of weETH and $103.8 million of wstETH leaving one wallet. Blockscout shows no sale and no unwrap. The wallet paid down part of an Aave loan, then sent both tokens to a single address that still holds them.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-24T07:02:00-05:00",
+"image": "https://lcinsight.net/og/shark-220m-staked-ether-out-was-a-transfer-not-a-sale.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Ethereum",
+"#Staking"
+],
+"x_thread": [
+"🐋 A shark 'sold' $220 million of staked ether. The chain shows a transfer to one wallet\n\nDeepSea logged $115.7 million of weETH and $103.8 million of wstETH leaving one wallet. Blockscout shows no sale and no unwrap.",
+"DeepSea shows the wallet ending in 4312 with $48.20 million in and $220.01 million out in 7 trades in the 24 hours to 6:34 a.m. ET on November 24.",
+"On November 23 it repaid about 18,983 WETH of Aave debt and withdrew 25,000 weETH from Aave, Blockscout shows. That is the $48.2 million in.",
+"At 4:50 and 4:51 a.m. ET on November 24 it sent 61,851.01 weETH and 49,084.41 wstETH to one unlabeled address, which still held both an hour later.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/a-shark-sold-220-million-of-staked-ether-the-chain-shows-a-transfer-to.html\n#DeepSea #Desea"
+]
+},
+{
+"slug": "shark-moved-56-7m-rlusd-sent-32-8m-to-binance-bybit",
+"url": "https://lcinsight.net/news/one-shark-took-in-56-7-million-of-rlusd-in-a-day-then-sent-32-8.html",
+"title": "One shark took in $56.7 million of RLUSD in a day, then sent $32.8 million to Binance and Bybit",
+"dek": "DeepSea's top RLUSD line, $54.13 million bought, comes almost entirely from one wallet. Blockscout shows it working as a pipe, with dollars arriving from Bullish, OKX, Bitstamp and unlabeled wallets and leaving for exchange deposit addresses.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-24T07:01:00-05:00",
+"image": "https://lcinsight.net/og/shark-moved-56-7m-rlusd-sent-32-8m-to-binance-bybit.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#RLUSD",
+"#Stablecoins",
+"#Sharks"
+],
+"x_thread": [
+"🐋 One shark took in $56.7 million of RLUSD in a day, then sent $32.8 million to Binance and Bybit\n\nDeepSea's top RLUSD line, $54.13 million bought, comes almost entirely from one wallet.",
+"DeepSea shows 3 shark wallets bought $54.13 million and sold $35.55 million of RLUSD on Ethereum in the 24 hours to 6:34 a.m. ET on November 24, in 31 trades.",
+"One of them, the wallet ending in 3425, received 56.72 million RLUSD in 15 transfers from 7:01 a.m. ET Monday to 6:32 a.m. ET Tuesday, Blockscout shows, and sent out 38.34 million in 13.",
+"Of the outflow, 18.30 million RLUSD went to an address Blockscout labels a Bybit deposit address and 14.49 million to addresses labeled Binance deposit.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/one-shark-took-in-56-7-million-of-rlusd-in-a-day-then-sent-32-8.html\n#DeepSea #Desea"
+]
+},
+{
+"slug": "shark-45-9m-cbbtc-buy-was-aave-spark-loan-swap",
+"url": "https://lcinsight.net/news/a-sharks-45-9-million-buy-was-a-loan-swap-that-freed-410-cbbtc-from.html",
+"title": "A shark's $45.9 million 'buy' was a loan swap that freed 410 cbBTC from Aave and Spark",
+"dek": "DeepSea logged a shark wallet's $25.87 million of cbBTC as a buy while bitcoin slid toward $60,000. Blockscout shows no purchase. The wallet refinanced a $10 million loan and pulled its own bitcoin collateral back.",
+"category": "DeFi",
+"guide": false,
+"hot": true,
+"published": "2026-11-24T07:00:00-05:00",
+"image": "https://lcinsight.net/og/shark-45-9m-cbbtc-buy-was-aave-spark-loan-swap.jpg",
+"hashtags": [
+"#DeepSea",
+"#Desea",
+"#Sharks",
+"#Bitcoin",
+"#Aave"
+],
+"x_thread": [
+"🐋 A shark's $45.9 million 'buy' was a loan swap that freed 410 cbBTC from Aave and Spark\n\nDeepSea logged a shark wallet's $25.87 million of cbBTC as a buy while bitcoin slid toward $60,000. Blockscout shows no purchase.",
+"DeepSea's 24-hour table shows the wallet ending in 5f60 with $45.87 million bought and $10.01 million sold in 5 trades, including $25.87 million of cbBTC (Coinbase's wrapped bitcoin).",
+"Blockscout shows what happened at 9:36 a.m. ET on November 23: the wallet borrowed 10 million USDC on Aave, swapped it for 10 million USDS through Spark, and repaid a 10 million USDS loan on Spark.",
+"It then withdrew 310 cbBTC from Spark and 100 cbBTC from Aave, 410 coins in all. No cbBTC was bought on a market.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/a-sharks-45-9-million-buy-was-a-loan-swap-that-freed-410-cbbtc-from.html\n#DeepSea #Desea"
+]
+},
+{
 "slug": "cftc-staff-bitcoin-ether-stablecoins-count-financial-resources",
 "url": "https://lcinsight.net/news/cftc-staff-exchanges-and-clearinghouses-can-count-bitcoin-at-80.html",
 "title": "CFTC staff: exchanges and clearinghouses can count bitcoin at 80% toward their reserves",
@@ -68,7 +217,7 @@
 ],
 "x_thread": [
 "🎁 Rumor vs record: 4 of 6 crash claims hold up, led by bitcoin ETFs' $3.46 billion November outflow\n\nA list of crash-week numbers spread widely over the weekend. We checked six lines against CoinMarketCap and CoinGecko: four are true, while the IBIT record and the…",
-"U.S. spot bitcoin ETFs lost $3.46 billion from November 2 to 20 in CoinMarketCap's data, matching the viral $3.47 billion. With Monday's $60.4 million, the month is at minus $3.52 billion.",
+"U.S. spot bitcoin ETFs lost $3.46 billion from November 2 to 20 in CoinMarketCap's data, matching the viral $3.47 billion. With Monday's $569.7 million in CoinMarketCap's final data, the month is at minus $4.03 billion.",
 "Bitcoin's weekend low was $55,149.57 on Saturday, November 21, 56.3% below its $126,080 record. Ether dipped to $1,538.60 the same day.",
 "Two claims cannot be checked on our sources: a record $541 million IBIT outflow and 60 straight days of a negative Coinbase premium.",
 "Full story, with every source 👇\nhttps://lcinsight.net/news/rumor-vs-record-4-of-6-crash-claims-hold-up-led-by-bitcoin-etfs-3-46.html\n#RumorCheck #Bitcoin"
@@ -76,9 +225,9 @@
 },
 {
 "slug": "etf-whale-flows-november-24-bitcoin-etfs-lost-1-37-billion",
-"url": "https://lcinsight.net/news/etf-and-whale-flows-november-24-1-37-billion-left-bitcoin-etfs-in-five.html",
-"title": "ETF & Whale Flows, November 24: $1.37 billion left bitcoin ETFs in five straight days",
-"dek": "U.S. spot bitcoin funds lost money for a fifth straight trading day on Monday, November 23, though the daily outflows keep shrinking. Ether funds took in money for the first time since November 13.",
+"url": "https://lcinsight.net/news/etf-and-whale-flows-november-24-1-88-billion-left-bitcoin-etfs-in-five.html",
+"title": "ETF & Whale Flows, November 24: $1.88 billion left bitcoin ETFs in five straight days",
+"dek": "U.S. spot bitcoin funds lost $569.7 million on Monday, November 23, their fifth straight outflow day, in final CoinMarketCap data. Ether funds lost $84.9 million. Corrected: an earlier version used a preliminary Monday figure.",
 "category": "ETFs",
 "guide": false,
 "hot": true,
@@ -92,11 +241,9 @@
 "#Solana"
 ],
 "x_thread": [
-"🐋 ETF & Whale Flows, November 24: $1.37 billion left bitcoin ETFs in five straight days\n\nU.S. spot bitcoin funds lost money for a fifth straight trading day on Monday, November 23, though the daily outflows keep shrinking.",
-"U.S. spot bitcoin ETFs had net outflows of $60.4 million on Monday, November 23, per CoinMarketCap. That makes five trading days in a row and $1.37 billion out since November 17.",
-"Ether ETFs took in a net $5.6 million on Monday, their first inflow since November 13. Solana funds lost $3.8 million and XRP funds lost $2.49 million.",
-"Bitcoin traded at $60,683 on CoinGecko at 12:35 a.m. ET on November 24, down 1.1% in 24 hours.",
-"Full story, with every source 👇\nhttps://lcinsight.net/news/etf-and-whale-flows-november-24-1-37-billion-left-bitcoin-etfs-in-five.html\n#ETFWhaleFlows #ETF"
+"🐋 ETF & Whale Flows, November 24: $1.88 billion left bitcoin ETFs in five straight days\n\nU.S. spot bitcoin funds lost $569.7 million on Monday, November 23, their fifth straight outflow day, in final CoinMarketCap data. Ether funds lost $84.9 million.",
+"Bitcoin traded at $59,795 on CoinGecko at 6:35 a.m. ET on November 24, down 2.6% in 24 hours.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/etf-and-whale-flows-november-24-1-88-billion-left-bitcoin-etfs-in-five.html\n#ETFWhaleFlows #ETF"
 ]
 },
 {
@@ -4161,125 +4308,6 @@
 "Only 264,211 ETH (about $507 million) was waiting to leave, a wait of 5 days, 16 hours.",
 "Etherscan shows the wallet it labels SharpLink Gaming sent 128 ETH to Figment's staking depositor at 11:10 a.m. ET on November 12.",
 "Full story, with every source 👇\nhttps://lcinsight.net/news/ether-fell-14-percent-in-a-week-yet-912-000-eth-is-waiting-in-line-to.html\n#Ethereum #Staking"
-]
-},
-{
-"slug": "hyperscale-data-sold-last-bitcoin-strategy-bought-1036",
-"url": "https://lcinsight.net/news/one-company-sold-its-last-211-bitcoin-at-76-000-strategy-bought-1-036.html",
-"title": "One company sold its last 211 bitcoin at $76,000. Strategy bought 1,036 at $79,012",
-"dek": "Hyperscale Data says it has sold all its bitcoin, about 1,113 BTC since July. Strategy kept buying, but spent more than twice as much buying back its own preferred stock. Bitcoin now trades at $68,521.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-13T00:45:00-05:00",
-"image": "https://lcinsight.net/og/hyperscale-data-sold-last-bitcoin-strategy-bought-1036.jpg",
-"hashtags": [
-"#Bitcoin",
-"#Strategy",
-"#TreasuryCompanies",
-"#HyperscaleData",
-"#Data"
-],
-"x_thread": [
-"⚡ One company sold its last 211 bitcoin at $76,000. Strategy bought 1,036 at $79,012\n\nHyperscale Data says it has sold all its bitcoin, about 1,113 BTC since July. Strategy kept buying, but spent more than twice as much buying back its own preferred stock.",
-"Hyperscale Data sold its remaining 211.56 BTC by November 8 at about $76,000 each, for about $16.0 million, its November 10 release says.",
-"Strategy bought 1,036 BTC from November 2 to 8 at an average $79,012 and now holds 850,364 BTC, its 8-K shows.",
-"At $68,521 on CoinGecko, Strategy's coins are worth about $58.27 billion, roughly $5.89 billion below their $64.16 billion cost.",
-"Full story, with every source 👇\nhttps://lcinsight.net/news/one-company-sold-its-last-211-bitcoin-at-76-000-strategy-bought-1-036.html\n#Bitcoin #Strategy"
-]
-},
-{
-"slug": "rumor-vs-record-nvidia-huang-resignation-claims",
-"url": "https://lcinsight.net/news/rumor-vs-record-nvidia-says-huang-resigned-but-gives-no-reason-was-he.html",
-"title": "Rumor vs record: Nvidia says Huang resigned but gives no reason. Was he ousted?",
-"dek": "Nvidia announced its CEO's resignation on November 12, 2026, and crypto feeds filled with claims about why and what it did to prices. We checked six of them against Nvidia's own filing.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-13T00:45:00-05:00",
-"image": "https://lcinsight.net/og/rumor-vs-record-nvidia-huang-resignation-claims.jpg",
-"hashtags": [
-"#RumorCheck",
-"#Nvidia",
-"#TokenizedStocks",
-"#Bitcoin"
-]
-},
-{
-"slug": "tether-gold-xaut-kpmg-audit-520089-ounces",
-"url": "https://lcinsight.net/news/kpmg-counted-tether-golds-bars-520-089-ounces-for-520-089-tokens.html",
-"title": "KPMG counted Tether Gold's bars: 520,089 ounces for 520,089 tokens",
-"dek": "Tether says KPMG gave Tether Gold (XAU₮) a clean audit for 2025, its second Big Four audit after USDT. The gold matched the tokens almost to the ounce.",
-"category": "AI & RWA",
-"guide": false,
-"hot": false,
-"published": "2026-11-13T00:45:00-05:00",
-"image": "https://lcinsight.net/og/tether-gold-xaut-kpmg-audit-520089-ounces.jpg",
-"hashtags": [
-"#Tether",
-"#Gold",
-"#Tokenization",
-"#Stablecoins",
-"#ProofOfReserves"
-]
-},
-{
-"slug": "tether-treasury-holds-4-65b-usdt-supply-fell-2-69b",
-"url": "https://lcinsight.net/news/usdt-shrank-2-69-billion-in-8-days-but-tethers-ethereum-treasury-still.html",
-"title": "USDT shrank $2.69 billion in 8 days, but Tether's Ethereum treasury still holds $4.65 billion",
-"dek": "Etherscan shows 4.65 billion USDT parked in the wallet it labels Tether: Treasury, which kept sending tokens out through November 12. CoinGecko counts $5.47 billion of USDT as not circulating.",
-"category": "Markets",
-"guide": false,
-"hot": false,
-"published": "2026-11-13T00:45:00-05:00",
-"image": "https://lcinsight.net/og/tether-treasury-holds-4-65b-usdt-supply-fell-2-69b.jpg",
-"hashtags": [
-"#Stablecoins",
-"#USDT",
-"#Tether",
-"#Ethereum",
-"#Data"
-]
-},
-{
-"slug": "waller-half-point-hike-test-core-cpi-0-3-percent",
-"url": "https://lcinsight.net/news/feds-waller-set-a-0-3-percent-test-for-a-half-point-hike-octobers-core.html",
-"title": "Fed's Waller set a 0.3% test for a half-point hike. October's core CPI hit it",
-"dek": "Fed Governor Christopher Waller said a 25 basis point hike in December could hurt the Fed's credibility if core inflation stayed near 0.3%. Hours later, October's core reading came in at 0.3%.",
-"category": "Policy",
-"guide": false,
-"hot": false,
-"published": "2026-11-13T00:45:00-05:00",
-"image": "https://lcinsight.net/og/waller-half-point-hike-test-core-cpi-0-3-percent.jpg",
-"hashtags": [
-"#FederalReserve",
-"#InterestRates",
-"#Inflation",
-"#Macro"
-]
-},
-{
-"slug": "us-moves-to-seize-1-2-billion-binance-hack-funds-north-korea",
-"url": "https://lcinsight.net/news/us-moves-to-seize-1-2-billion-of-the-binance-hack-haul-and-shuts-down.html",
-"title": "US moves to seize $1.2 billion of the Binance hack haul and shuts down North Korea's deepfake call trap",
-"dek": "The Justice Department says it won court approval to seize or restrain more than $1.2 billion stolen from Binance on October 29. It also took down servers behind \"FaceStealer,\" a fake video call scheme it ties to more than $400 million in thefts.",
-"category": "Security",
-"guide": false,
-"hot": true,
-"published": "2026-11-12T19:15:00-05:00",
-"image": "https://lcinsight.net/og/us-moves-to-seize-1-2-billion-binance-hack-funds-north-korea.jpg",
-"hashtags": [
-"#Binance",
-"#Hacks",
-"#NorthKorea",
-"#Regulation",
-"#WalletSecurity"
-],
-"x_thread": [
-"🚨 US moves to seize $1.2 billion of the Binance hack haul and shuts down North Korea's deepfake call trap\n\nThe Justice Department says it won court approval to seize or restrain more than $1.2 billion stolen from Binance on October 29.",
-"US officials and private companies have frozen more than $2.7 billion of the haul. The department says the FBI calls the North Korean military unit behind the theft \"TraderTraitor.\"",
-"The department also seized cloud servers behind \"FaceStealer,\" a fake video call scheme it links to more than $400 million in crypto thefts over 18 months.",
-"Full story, with every source 👇\nhttps://lcinsight.net/news/us-moves-to-seize-1-2-billion-of-the-binance-hack-haul-and-shuts-down.html\n#Binance #Hacks"
 ]
 }
 ]
