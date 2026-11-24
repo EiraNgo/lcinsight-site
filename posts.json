@@ -1,5 +1,29 @@
 [
 {
+"slug": "monad-mon-falls-27-percent-to-record-low-under-1-cent",
+"url": "https://lcinsight.net/news/monads-mon-fell-27-percent-from-its-overnight-high-to-a-record-low.html",
+"title": "Monad's MON fell 27% from its overnight high to a record low under one cent",
+"dek": "MON dropped from $0.0138 at 1:35 a.m. ET to $0.00999 at 10:03 a.m. ET on Tuesday, November 24, its lowest price ever. Volume nearly doubled as bitcoin slid 4.8%.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-24T11:15:00-05:00",
+"image": "https://lcinsight.net/og/monad-mon-falls-27-percent-to-record-low-under-1-cent.jpg",
+"hashtags": [
+"#Monad",
+"#Hyperliquid",
+"#Altcoins",
+"#Layer1"
+],
+"x_thread": [
+"📉 Monad's MON fell 27% from its overnight high to a record low under one cent\n\nMON dropped from $0.0138 at 1:35 a.m. ET to $0.00999 at 10:03 a.m. ET on Tuesday, November 24, its lowest price ever. Volume nearly doubled as bitcoin slid 4.8%.",
+"CoinGecko showed MON at $0.0101 at 11:03 a.m. ET on November 24, down 17.1% in 24 hours, after a record low of $0.00999 at 10:03 a.m. ET.",
+"The steepest leg came between 9 and 10 a.m. ET, when MON fell about 14% in one hour. 24-hour volume rose from $32.1 million to $57.9 million.",
+"MON is now 79% below its record of $0.0488 from November 26, 2025, and down 52% in 30 days. Bitcoin lost 4.8% and ether 5.1% over the same day.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/monads-mon-fell-27-percent-from-its-overnight-high-to-a-record-low.html\n#Monad #Hyperliquid"
+]
+},
+{
 "slug": "us-files-to-forfeit-1-1-billion-usdc-from-binance-hack",
 "url": "https://lcinsight.net/news/u-s-files-to-keep-1-1-billion-of-binance-hack-usdc-over-2-9-billion-is.html",
 "title": "U.S. files to keep $1.1 billion of Binance hack USDC. Over $2.9 billion is now frozen, seized or returned",
@@ -4283,31 +4307,6 @@
 "#Bitcoin",
 "#BlackRock",
 "#ETFs"
-]
-},
-{
-"slug": "eth-staking-queue-912k-eth-waits-sharplink-staked-128",
-"url": "https://lcinsight.net/news/ether-fell-14-percent-in-a-week-yet-912-000-eth-is-waiting-in-line-to.html",
-"title": "Ether fell 14% in a week, yet 912,000 ETH is waiting in line to be staked",
-"dek": "Ethereum's entry queue holds 3.5 times more ether than its exit queue, Validator Queue data show. SharpLink's labeled wallet staked another 128 ETH on November 12 as the price slid.",
-"category": "Infrastructure",
-"guide": false,
-"hot": true,
-"published": "2026-11-13T00:45:00-05:00",
-"image": "https://lcinsight.net/og/eth-staking-queue-912k-eth-waits-sharplink-staked-128.jpg",
-"hashtags": [
-"#Ethereum",
-"#Staking",
-"#SharpLink",
-"#TreasuryCompanies",
-"#Data"
-],
-"x_thread": [
-"📉 Ether fell 14% in a week, yet 912,000 ETH is waiting in line to be staked\n\nEthereum's entry queue holds 3.5 times more ether than its exit queue, Validator Queue data show. SharpLink's labeled wallet staked another 128 ETH on November 12 as the price slid.",
-"911,938 ETH (about $1.75 billion) sat in Ethereum's staking entry queue early on November 13, with a wait of 16 days, 7 hours, on Validator Queue.",
-"Only 264,211 ETH (about $507 million) was waiting to leave, a wait of 5 days, 16 hours.",
-"Etherscan shows the wallet it labels SharpLink Gaming sent 128 ETH to Figment's staking depositor at 11:10 a.m. ET on November 12.",
-"Full story, with every source 👇\nhttps://lcinsight.net/news/ether-fell-14-percent-in-a-week-yet-912-000-eth-is-waiting-in-line-to.html\n#Ethereum #Staking"
 ]
 }
 ]
