@@ -1,25 +1,5 @@
 [
  {
-  "id": "trend:pearl-2:20261121",
-  "kind": "trending",
-  "hint": "Pearl (PEARL) trending #2 on CoinGecko, -16.4% 24h",
-  "source": "https://www.coingecko.com/en/coins/pearl-2",
-  "data": {
-   "ch24": -16.4490816713296
-  },
-  "found": "2026-11-21T00:04:31Z"
- },
- {
-  "id": "trend:lighter:20261121",
-  "kind": "trending",
-  "hint": "Lighter (LIT) trending #3 on CoinGecko, -15.3% 24h",
-  "source": "https://www.coingecko.com/en/coins/lighter",
-  "data": {
-   "ch24": -15.337437811407561
-  },
-  "found": "2026-11-21T00:16:29Z"
- },
- {
   "id": "price:bitcoin:20261121:up",
   "kind": "price",
   "hint": "Bitcoin (BTC) +4.0% in 1h, -6.5% in 24h, now $57,928",
@@ -624,5 +604,35 @@
    "ch24": 24.09599599243997
   },
   "found": "2026-11-23T20:45:57Z"
+ },
+ {
+  "id": "trend:orochi-network:20261124",
+  "kind": "trending",
+  "hint": "Orochi Network (ON) trending #2 on CoinGecko, +22.5% 24h",
+  "source": "https://www.coingecko.com/en/coins/orochi-network",
+  "data": {
+   "ch24": 22.525432720834008
+  },
+  "found": "2026-11-24T04:33:09Z"
+ },
+ {
+  "id": "reg:https://www.cftc.gov/PressRoom/PressReleases/9331-26",
+  "kind": "regulator",
+  "hint": "US CFTC: CFTC Staff Issues Advisory Concerning the Use of Crypto Assets to Satisfy Financial Resources Requirements",
+  "source": "https://www.cftc.gov/PressRoom/PressReleases/9331-26",
+  "data": {
+   "source": "US CFTC"
+  },
+  "found": "2026-11-24T04:33:10Z"
+ },
+ {
+  "id": "reg:https://www.sec.gov/Archives/edgar/data/2086017/000121390026123156/0001213900-26-123156-index.htm",
+  "kind": "regulator",
+  "hint": "US SEC EDGAR 424B: 424B3 - Bitwise Avalanche ETF (0002086017) (Filer)",
+  "source": "https://www.sec.gov/Archives/edgar/data/2086017/000121390026123156/0001213900-26-123156-index.htm",
+  "data": {
+   "source": "US SEC EDGAR 424B"
+  },
+  "found": "2026-11-24T04:34:36Z"
  }
 ]
