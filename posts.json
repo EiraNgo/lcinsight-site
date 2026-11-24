@@ -1,5 +1,55 @@
 [
 {
+"slug": "rumor-vs-record-3-47-billion-etf-outflow-55100-bitcoin-claims",
+"url": "https://lcinsight.net/news/rumor-vs-record-4-of-6-crash-claims-hold-up-led-by-bitcoin-etfs-3-46.html",
+"title": "Rumor vs record: 4 of 6 crash claims hold up, led by bitcoin ETFs' $3.46 billion November outflow",
+"dek": "A list of crash-week numbers spread widely over the weekend. We checked six lines against CoinMarketCap and CoinGecko: four are true, while the IBIT record and the 60-day Coinbase premium could not be checked.",
+"category": "Markets",
+"guide": false,
+"hot": true,
+"published": "2026-11-24T01:01:00-05:00",
+"image": "https://lcinsight.net/og/rumor-vs-record-3-47-billion-etf-outflow-55100-bitcoin-claims.jpg",
+"hashtags": [
+"#RumorCheck",
+"#Bitcoin",
+"#ETF",
+"#Ethereum",
+"#Data"
+],
+"x_thread": [
+"🎁 Rumor vs record: 4 of 6 crash claims hold up, led by bitcoin ETFs' $3.46 billion November outflow\n\nA list of crash-week numbers spread widely over the weekend. We checked six lines against CoinMarketCap and CoinGecko: four are true, while the IBIT record and the…",
+"U.S. spot bitcoin ETFs lost $3.46 billion from November 2 to 20 in CoinMarketCap's data, matching the viral $3.47 billion. With Monday's $60.4 million, the month is at minus $3.52 billion.",
+"Bitcoin's weekend low was $55,149.57 on Saturday, November 21, 56.3% below its $126,080 record. Ether dipped to $1,538.60 the same day.",
+"Two claims cannot be checked on our sources: a record $541 million IBIT outflow and 60 straight days of a negative Coinbase premium.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/rumor-vs-record-4-of-6-crash-claims-hold-up-led-by-bitcoin-etfs-3-46.html\n#RumorCheck #Bitcoin"
+]
+},
+{
+"slug": "etf-whale-flows-november-24-bitcoin-etfs-lost-1-37-billion",
+"url": "https://lcinsight.net/news/etf-and-whale-flows-november-24-1-37-billion-left-bitcoin-etfs-in-five.html",
+"title": "ETF & Whale Flows, November 24: $1.37 billion left bitcoin ETFs in five straight days",
+"dek": "U.S. spot bitcoin funds lost money for a fifth straight trading day on Monday, November 23, though the daily outflows keep shrinking. Ether funds took in money for the first time since November 13.",
+"category": "ETFs",
+"guide": false,
+"hot": true,
+"published": "2026-11-24T01:00:00-05:00",
+"image": "https://lcinsight.net/og/etf-whale-flows-november-24-bitcoin-etfs-lost-1-37-billion.jpg",
+"hashtags": [
+"#ETFWhaleFlows",
+"#ETF",
+"#Bitcoin",
+"#Ethereum",
+"#Solana"
+],
+"x_thread": [
+"🐋 ETF & Whale Flows, November 24: $1.37 billion left bitcoin ETFs in five straight days\n\nU.S. spot bitcoin funds lost money for a fifth straight trading day on Monday, November 23, though the daily outflows keep shrinking.",
+"U.S. spot bitcoin ETFs had net outflows of $60.4 million on Monday, November 23, per CoinMarketCap. That makes five trading days in a row and $1.37 billion out since November 17.",
+"Ether ETFs took in a net $5.6 million on Monday, their first inflow since November 13. Solana funds lost $3.8 million and XRP funds lost $2.49 million.",
+"Bitcoin traded at $60,683 on CoinGecko at 12:35 a.m. ET on November 24, down 1.1% in 24 hours.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/etf-and-whale-flows-november-24-1-37-billion-left-bitcoin-etfs-in-five.html\n#ETFWhaleFlows #ETF"
+]
+},
+{
 "slug": "pearl-hits-record-2-48-then-slips-8-percent",
 "url": "https://lcinsight.net/news/pearl-hit-a-record-2-48-on-monday-then-slipped-8-percent-by-early.html",
 "title": "Pearl hit a record $2.48 on Monday, then slipped 8% by early evening",
@@ -4223,42 +4273,6 @@
 "DeepSea counted $3,653,779 of ARB bought by 5 shark wallets on Arbitrum in 24 hours, against $9,135 sold. One trade of $3,172,039 made up 87% of the buying.",
 "At 7:00 a.m. ET, funding was negative on 40 of 75 ARB perpetual futures on CoinGecko's list. Those 40 hold $182.6 million, or 79%, of the $232.2 million in open bets.",
 "Full story, with every source 👇\nhttps://lcinsight.net/news/arb-fell-8-percent-after-one-wallets-3-17-million-buy-shorts-now-pay.html\n#DeepSea #Desea"
-]
-},
-{
-"slug": "bitcoin-core-discloses-3-bugs-one-high-could-stop-block-building",
-"url": "https://lcinsight.net/news/bitcoin-core-discloses-3-bugs-fixed-in-2025-the-worst-could-stop-a.html",
-"title": "Bitcoin Core discloses 3 bugs fixed in 2025. The worst could stop a node building blocks",
-"dek": "Bitcoin Core published three security advisories on November 10, one rated high. All were fixed in releases from October 2025, and the advisories describe no theft of coins.",
-"category": "Infrastructure",
-"guide": false,
-"hot": false,
-"published": "2026-11-12T07:00:00-05:00",
-"image": "https://lcinsight.net/og/bitcoin-core-discloses-3-bugs-one-high-could-stop-block-building.jpg",
-"hashtags": [
-"#Bitcoin",
-"#BitcoinCore",
-"#Security",
-"#Upgrades",
-"#Mining"
-]
-},
-{
-"slug": "bitcoin-etfs-lose-1-49b-five-straight-days-ether-funds-477m",
-"url": "https://lcinsight.net/news/u-s-bitcoin-etfs-lost-1-49-billion-in-five-straight-days-as-bitcoin.html",
-"title": "U.S. bitcoin ETFs lost $1.49 billion in five straight days as bitcoin fell 9%",
-"dek": "Spot bitcoin funds have now seen money leave on eight of the last nine trading days, $2.57 billion in all, CoinMarketCap's tally shows. Ether funds lost $477 million in the same five days.",
-"category": "ETFs",
-"guide": false,
-"hot": false,
-"published": "2026-11-12T07:00:00-05:00",
-"image": "https://lcinsight.net/og/bitcoin-etfs-lose-1-49b-five-straight-days-ether-funds-477m.jpg",
-"hashtags": [
-"#ETF",
-"#BitcoinETF",
-"#Bitcoin",
-"#Ethereum",
-"#ETFs"
 ]
 }
 ]
