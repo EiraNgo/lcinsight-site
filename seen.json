@@ -33,12 +33,6 @@
 "_warm:US SEC EDGAR S-1": "2026-11-07T03:34:50Z",
 "_warm:US SEC EDGAR 19b-4": "2026-11-07T03:34:50Z",
 "_warm:US SEC EDGAR 424B": "2026-11-07T03:34:50Z",
-"price:pieverse:20261110:up": "2026-11-10T05:33:24Z",
-"trend:dacity-coin-4:20261110": "2026-11-10T05:33:24Z",
-"trend:initia:20261110": "2026-11-10T05:33:24Z",
-"price:pieverse:20261110:down": "2026-11-10T07:05:17Z",
-"trend:janction:20261110": "2026-11-10T08:36:06Z",
-"trend:super-inu-3:20261110": "2026-11-10T09:55:38Z",
 "price:bitway:20261110:down": "2026-11-10T20:04:47Z",
 "reg:https://www.sec.gov/Archives/edgar/data/2089855/000119312526455398/0001193125-26-455398-index.htm": "2026-11-10T21:03:41Z",
 "reg:https://www.sec.gov/Archives/edgar/data/2028835/000121390026118093/0001213900-26-118093-index.htm": "2026-11-10T22:12:22Z",
@@ -262,5 +256,7 @@
 "trend:pearl-2:20261123": "2026-11-23T20:45:57Z",
 "trend:orochi-network:20261124": "2026-11-24T04:33:09Z",
 "reg:https://www.cftc.gov/PressRoom/PressReleases/9331-26": "2026-11-24T04:33:10Z",
-"reg:https://www.sec.gov/Archives/edgar/data/2086017/000121390026123156/0001213900-26-123156-index.htm": "2026-11-24T04:34:36Z"
+"reg:https://www.sec.gov/Archives/edgar/data/2086017/000121390026123156/0001213900-26-123156-index.htm": "2026-11-24T04:34:36Z",
+"trend:variational-x:20261124": "2026-11-24T15:28:04Z",
+"trend:monad:20261124": "2026-11-24T15:28:04Z"
 }
