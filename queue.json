@@ -345,5 +345,15 @@
    "ch24": -18.587560035075875
   },
   "found": "2026-11-24T15:28:04Z"
+ },
+ {
+  "id": "trend:pepe-intelligence:20261124",
+  "kind": "trending",
+  "hint": "Pepe Intelligence (PEI) trending #2 on CoinGecko, +18.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/pepe-intelligence",
+  "data": {
+   "ch24": 18.048302887806642
+  },
+  "found": "2026-11-24T16:25:38Z"
  }
 ]
