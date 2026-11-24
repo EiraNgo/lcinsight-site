@@ -1,5 +1,30 @@
 [
 {
+"slug": "cftc-staff-bitcoin-ether-stablecoins-count-financial-resources",
+"url": "https://lcinsight.net/news/cftc-staff-exchanges-and-clearinghouses-can-count-bitcoin-at-80.html",
+"title": "CFTC staff: exchanges and clearinghouses can count bitcoin at 80% toward their reserves",
+"dek": "A new CFTC staff letter says U.S. futures exchanges, swap platforms and clearinghouses may count bitcoin, ether and payment stablecoins toward the 12 months of operating costs they must hold, after haircuts of 20% and 2%. Crypto still cannot fill the cash part of the cushion.",
+"category": "Policy",
+"guide": false,
+"hot": true,
+"published": "2026-11-24T02:30:00-05:00",
+"image": "https://lcinsight.net/og/cftc-staff-bitcoin-ether-stablecoins-count-financial-resources.jpg",
+"hashtags": [
+"#CFTC",
+"#Bitcoin",
+"#Ethereum",
+"#Stablecoins",
+"#Regulation"
+],
+"x_thread": [
+"⚡ CFTC staff: exchanges and clearinghouses can count bitcoin at 80% toward their reserves\n\nA new CFTC staff letter says U.S. futures exchanges, swap platforms and clearinghouses may count bitcoin, ether and payment stablecoins toward the 12 months of operating costs…",
+"CFTC Staff Letter No. 26-31, dated November 23, 2026, lets designated contract markets, swap execution facilities and clearinghouses count bitcoin, ether and payment stablecoins toward their financial resources.",
+"Staff would not object to a minimum 20% haircut on bitcoin and ether and a 2% haircut on payment stablecoins, so $100 of bitcoin counts as $80 at most.",
+"Crypto cannot count toward the liquid part of the cushion: three months of costs for swap platforms and six months for exchanges and clearinghouses must still sit in cash or highly liquid assets.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/cftc-staff-exchanges-and-clearinghouses-can-count-bitcoin-at-80.html\n#CFTC #Bitcoin"
+]
+},
+{
 "slug": "rumor-vs-record-3-47-billion-etf-outflow-55100-bitcoin-claims",
 "url": "https://lcinsight.net/news/rumor-vs-record-4-of-6-crash-claims-hold-up-led-by-bitcoin-etfs-3-46.html",
 "title": "Rumor vs record: 4 of 6 crash claims hold up, led by bitcoin ETFs' $3.46 billion November outflow",
@@ -4248,31 +4273,6 @@
 "#Metaplanet",
 "#Bitcoin",
 "#Ether"
-]
-},
-{
-"slug": "arb-fell-8-percent-after-3-17m-wallet-buy-shorts-pay-85-percent",
-"url": "https://lcinsight.net/news/arb-fell-8-percent-after-one-wallets-3-17-million-buy-shorts-now-pay.html",
-"title": "ARB fell 8% after one wallet's $3.17 million buy. Shorts now pay on 79% of its futures bets",
-"dek": "Sharks bought $3.65 million of Arbitrum's ARB in a day and sold $9,135, DeepSea's data show. The price kept sliding, and on most futures markets traders betting on a fall now pay those betting on a rise.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-12T07:00:00-05:00",
-"image": "https://lcinsight.net/og/arb-fell-8-percent-after-3-17m-wallet-buy-shorts-pay-85-percent.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Sharks",
-"#Arbitrum",
-"#ARB"
-],
-"x_thread": [
-"📉 ARB fell 8% after one wallet's $3.17 million buy. Shorts now pay on 79% of its futures bets\n\nSharks bought $3.65 million of Arbitrum's ARB in a day and sold $9,135, DeepSea's data show.",
-"ARB traded at $0.1481 at 6:49 a.m. ET on November 12, 2026, down 8.3% in 24 hours and 19.7% in 30 days, CoinGecko data show.",
-"DeepSea counted $3,653,779 of ARB bought by 5 shark wallets on Arbitrum in 24 hours, against $9,135 sold. One trade of $3,172,039 made up 87% of the buying.",
-"At 7:00 a.m. ET, funding was negative on 40 of 75 ARB perpetual futures on CoinGecko's list. Those 40 hold $182.6 million, or 79%, of the $232.2 million in open bets.",
-"Full story, with every source 👇\nhttps://lcinsight.net/news/arb-fell-8-percent-after-one-wallets-3-17-million-buy-shorts-now-pay.html\n#DeepSea #Desea"
 ]
 }
 ]
