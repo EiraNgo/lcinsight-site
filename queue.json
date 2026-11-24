@@ -1,41 +1,5 @@
 [
  {
-  "id": "price:a7a5:20261121:down",
-  "kind": "price",
-  "hint": "A7A5 (A7A5) -1.4% in 1h, +190.6% in 24h, now $0.01193597",
-  "source": "https://www.coingecko.com/en/coins/a7a5",
-  "data": {
-   "h1": -1.4002,
-   "h24": 190.61276,
-   "price": 0.01193597,
-   "mcap_rank": 99
-  },
-  "found": "2026-11-21T17:03:02Z"
- },
- {
-  "id": "trend:wanted-star:20261121",
-  "kind": "trending",
-  "hint": "Wanted Star (WSTAR) trending #2 on CoinGecko, +4468.1% 24h",
-  "source": "https://www.coingecko.com/en/coins/wanted-star",
-  "data": {
-   "ch24": 4468.108912196679
-  },
-  "found": "2026-11-21T17:14:36Z"
- },
- {
-  "id": "price:pieverse:20261121:up",
-  "kind": "price",
-  "hint": "Pieverse (PIEVERSE) +3.9% in 1h, +26.5% in 24h, now $3.35",
-  "source": "https://www.coingecko.com/en/coins/pieverse",
-  "data": {
-   "h1": 3.8788,
-   "h24": 26.51722,
-   "price": 3.35,
-   "mcap_rank": 70
-  },
-  "found": "2026-11-21T17:26:05Z"
- },
- {
   "id": "price:rain:20261121:up",
   "kind": "price",
   "hint": "Rain (RAIN) +16.0% in 1h, +3.7% in 24h, now $0.0038914",
@@ -355,5 +319,19 @@
    "ch24": 18.048302887806642
   },
   "found": "2026-11-24T16:25:38Z"
+ },
+ {
+  "id": "hack:Bullpen:1795478400",
+  "kind": "hack",
+  "hint": "Bullpen hacked/exploited, ~$2.6M (Protocol Logic)",
+  "source": "https://defillama.com/hacks",
+  "data": {
+   "amount": 2570000,
+   "chain": [
+    "Solana"
+   ],
+   "technique": "Unknown"
+  },
+  "found": "2026-11-24T18:09:15Z"
  }
 ]
