@@ -1,31 +1,5 @@
 [
  {
-  "id": "price:rain:20261122:down",
-  "kind": "price",
-  "hint": "Rain (RAIN) -11.1% in 1h, -11.8% in 24h, now $0.00315427",
-  "source": "https://www.coingecko.com/en/coins/rain",
-  "data": {
-   "h1": -11.072,
-   "h24": -11.78716,
-   "price": 0.00315427,
-   "mcap_rank": 36
-  },
-  "found": "2026-11-22T04:00:59Z"
- },
- {
-  "id": "price:venice-token:20261122:up",
-  "kind": "price",
-  "hint": "Venice Token (VVV) +0.5% in 1h, +25.6% in 24h, now $24.97",
-  "source": "https://www.coingecko.com/en/coins/venice-token",
-  "data": {
-   "h1": 0.536,
-   "h24": 25.63567,
-   "price": 24.97,
-   "mcap_rank": 59
-  },
-  "found": "2026-11-22T04:12:40Z"
- },
- {
   "id": "price:a7a5:20261122:up",
   "kind": "price",
   "hint": "A7A5 (A7A5) +1.5% in 1h, +195.1% in 24h, now $0.0121172",
@@ -224,5 +198,15 @@
    "ch24": -20.91786331159546
   },
   "found": "2026-11-25T03:18:03Z"
+ },
+ {
+  "id": "trend:big-time:20261125",
+  "kind": "trending",
+  "hint": "Big Time (BIGTIME) trending #3 on CoinGecko, +53.6% 24h",
+  "source": "https://www.coingecko.com/en/coins/big-time",
+  "data": {
+   "ch24": 53.55687164020006
+  },
+  "found": "2026-11-25T05:11:35Z"
  }
 ]
