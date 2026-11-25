@@ -235,5 +235,15 @@
    "source": "US SEC EDGAR 424B"
   },
   "found": "2026-11-25T15:15:41Z"
+ },
+ {
+  "id": "reg:https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+  "kind": "regulator",
+  "hint": "US SEC: SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting\n The Securities and Exchange Commission\u2019s&nbsp;Investor Advisory Committee will hold a virtual public meeting on Dec. 3, at 9:30 a.m. ET ",
+  "source": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+  "data": {
+   "source": "US SEC"
+  },
+  "found": "2026-11-25T15:25:44Z"
  }
 ]
