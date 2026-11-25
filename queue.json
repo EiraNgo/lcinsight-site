@@ -1,18 +1,5 @@
 [
  {
-  "id": "price:pieverse:20261122:up",
-  "kind": "price",
-  "hint": "Pieverse (PIEVERSE) +7.1% in 1h, +28.6% in 24h, now $3.92",
-  "source": "https://www.coingecko.com/en/coins/pieverse",
-  "data": {
-   "h1": 7.1152,
-   "h24": 28.63273,
-   "price": 3.92,
-   "mcap_rank": 65
-  },
-  "found": "2026-11-22T08:09:05Z"
- },
- {
   "id": "trend:wanted-star:20261122",
   "kind": "trending",
   "hint": "Wanted Star (WSTAR) trending #1 on CoinGecko, -29.2% 24h",
@@ -198,5 +185,15 @@
    "mcap_rank": 53
   },
   "found": "2026-11-25T07:52:07Z"
+ },
+ {
+  "id": "reg:https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/",
+  "kind": "regulator",
+  "hint": "Hong Kong HKMA: Launch of CMU Digital Asset Platform",
+  "source": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/",
+  "data": {
+   "source": "Hong Kong HKMA"
+  },
+  "found": "2026-11-25T08:15:43Z"
  }
 ]
