@@ -1,25 +1,5 @@
 [
  {
-  "id": "trend:wanted-star:20261122",
-  "kind": "trending",
-  "hint": "Wanted Star (WSTAR) trending #1 on CoinGecko, -29.2% 24h",
-  "source": "https://www.coingecko.com/en/coins/wanted-star",
-  "data": {
-   "ch24": -29.224067903938227
-  },
-  "found": "2026-11-22T17:33:06Z"
- },
- {
-  "id": "trend:popo-the-turtle:20261122",
-  "kind": "trending",
-  "hint": "Popo The Turtle (POPO) trending #2 on CoinGecko, +70.0% 24h",
-  "source": "https://www.coingecko.com/en/coins/popo-the-turtle",
-  "data": {
-   "ch24": 70.0117564667231
-  },
-  "found": "2026-11-22T17:33:06Z"
- },
- {
   "id": "hack:Endurance Bridge:1795305600",
   "kind": "hack",
   "hint": "Endurance Bridge hacked/exploited, ~$1.0M (Bridge & Cross-Chain)",
@@ -245,5 +225,15 @@
    "source": "US SEC"
   },
   "found": "2026-11-25T15:25:44Z"
+ },
+ {
+  "id": "trend:variational-x:20261125",
+  "kind": "trending",
+  "hint": "Variational X (VAR) trending #2 on CoinGecko, -16.7% 24h",
+  "source": "https://www.coingecko.com/en/coins/variational-x",
+  "data": {
+   "ch24": -16.726809390980954
+  },
+  "found": "2026-11-25T17:43:38Z"
  }
 ]
