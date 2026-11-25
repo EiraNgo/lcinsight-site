@@ -235,5 +235,15 @@
    "ch24": -16.726809390980954
   },
   "found": "2026-11-25T17:43:38Z"
+ },
+ {
+  "id": "reg:https://www.sec.gov/Archives/edgar/data/2166611/000119312526477751/0001193125-26-477751-index.htm",
+  "kind": "regulator",
+  "hint": "US SEC EDGAR S-1: S-1 - Fidelity Chainlink Fund (0002166611) (Filer)",
+  "source": "https://www.sec.gov/Archives/edgar/data/2166611/000119312526477751/0001193125-26-477751-index.htm",
+  "data": {
+   "source": "US SEC EDGAR S-1"
+  },
+  "found": "2026-11-25T18:53:30Z"
  }
 ]
