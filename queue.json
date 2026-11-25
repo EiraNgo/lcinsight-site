@@ -245,5 +245,18 @@
    "source": "US SEC EDGAR S-1"
   },
   "found": "2026-11-25T18:53:30Z"
+ },
+ {
+  "id": "price:pieverse:20261125:up",
+  "kind": "price",
+  "hint": "Pieverse (PIEVERSE) +2.3% in 1h, +25.8% in 24h, now $3.73",
+  "source": "https://www.coingecko.com/en/coins/pieverse",
+  "data": {
+   "h1": 2.2632,
+   "h24": 25.79603,
+   "price": 3.73,
+   "mcap_rank": 67
+  },
+  "found": "2026-11-25T19:37:56Z"
  }
 ]
