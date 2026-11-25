@@ -195,5 +195,45 @@
    "source": "Hong Kong HKMA"
   },
   "found": "2026-11-25T08:15:43Z"
+ },
+ {
+  "id": "trend:non-playable-shiba:20261125",
+  "kind": "trending",
+  "hint": "Non-Playable Shiba (NPS) trending #1 on CoinGecko, +707.8% 24h",
+  "source": "https://www.coingecko.com/en/coins/non-playable-shiba",
+  "data": {
+   "ch24": 707.8194400613273
+  },
+  "found": "2026-11-25T15:14:15Z"
+ },
+ {
+  "id": "trend:pepe-intelligence:20261125",
+  "kind": "trending",
+  "hint": "Pepe Intelligence (PEI) trending #2 on CoinGecko, +25.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/pepe-intelligence",
+  "data": {
+   "ch24": 25.025505242358605
+  },
+  "found": "2026-11-25T15:14:15Z"
+ },
+ {
+  "id": "reg:https://www.justice.gov/opa/pr/colombian-national-indicted-scheme-defraud-victims-ransomware-attacks",
+  "kind": "regulator",
+  "hint": "US DOJ: Colombian National Indicted in Scheme to Defraud  Victims of Ransomware Attacks A federal grand jury in the District of Rhode Island returned an indictment charging Juan Ricardo Palacio Escobar, 52, a",
+  "source": "https://www.justice.gov/opa/pr/colombian-national-indicted-scheme-defraud-victims-ransomware-attacks",
+  "data": {
+   "source": "US DOJ"
+  },
+  "found": "2026-11-25T15:14:35Z"
+ },
+ {
+  "id": "reg:https://www.sec.gov/Archives/edgar/data/2033807/000207184426001935/0002071844-26-001935-index.htm",
+  "kind": "regulator",
+  "hint": "US SEC EDGAR 424B: 424B3 - Franklin Crypto Trust (0002033807) (Filer)",
+  "source": "https://www.sec.gov/Archives/edgar/data/2033807/000207184426001935/0002071844-26-001935-index.htm",
+  "data": {
+   "source": "US SEC EDGAR 424B"
+  },
+  "found": "2026-11-25T15:15:41Z"
  }
 ]
