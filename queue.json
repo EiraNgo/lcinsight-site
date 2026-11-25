@@ -1,28 +1,5 @@
 [
  {
-  "id": "price:a7a5:20261122:up",
-  "kind": "price",
-  "hint": "A7A5 (A7A5) +1.5% in 1h, +195.1% in 24h, now $0.0121172",
-  "source": "https://www.coingecko.com/en/coins/a7a5",
-  "data": {
-   "h1": 1.5129,
-   "h24": 195.10651,
-   "price": 0.0121172,
-   "mcap_rank": 99
-  },
-  "found": "2026-11-22T06:03:40Z"
- },
- {
-  "id": "trend:pieverse:20261122",
-  "kind": "trending",
-  "hint": "Pieverse (PIEVERSE) trending #2 on CoinGecko, +21.2% 24h",
-  "source": "https://www.coingecko.com/en/coins/pieverse",
-  "data": {
-   "ch24": 21.204447634949545
-  },
-  "found": "2026-11-22T07:46:17Z"
- },
- {
   "id": "price:pieverse:20261122:up",
   "kind": "price",
   "hint": "Pieverse (PIEVERSE) +7.1% in 1h, +28.6% in 24h, now $3.92",
@@ -208,5 +185,18 @@
    "ch24": 53.55687164020006
   },
   "found": "2026-11-25T05:11:35Z"
+ },
+ {
+  "id": "price:bitway:20261125:up",
+  "kind": "price",
+  "hint": "Bitway (BTW) +2.9% in 1h, +25.9% in 24h, now $0.891508",
+  "source": "https://www.coingecko.com/en/coins/bitway",
+  "data": {
+   "h1": 2.9256,
+   "h24": 25.85228,
+   "price": 0.891508,
+   "mcap_rank": 53
+  },
+  "found": "2026-11-25T07:52:07Z"
  }
 ]
