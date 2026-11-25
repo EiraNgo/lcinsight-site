@@ -1,5 +1,29 @@
 [
 {
+"slug": "hkma-launches-cmu-digital-asset-platform-24-hour-bond-settlement",
+"url": "https://lcinsight.net/news/hong-kongs-hkma-switches-on-a-blockchain-bond-platform-that-settles-24.html",
+"title": "Hong Kong's HKMA switches on a blockchain bond platform that settles 24 hours a day",
+"dek": "The Hong Kong Monetary Authority launched the CMU Digital Asset Platform on November 25, 2026. It moves bonds from issuance to redemption on a shared ledger, settles in multiple currencies around the clock, and is meant to link up with regulated stablecoins later.",
+"category": "Policy",
+"guide": false,
+"hot": true,
+"published": "2026-11-25T04:05:00-05:00",
+"image": "https://lcinsight.net/og/hkma-launches-cmu-digital-asset-platform-24-hour-bond-settlement.jpg",
+"hashtags": [
+"#HongKong",
+"#HKMA",
+"#Tokenization",
+"#Stablecoins",
+"#RWA"
+],
+"x_thread": [
+"⚡ Hong Kong's HKMA switches on a blockchain bond platform that settles 24 hours a day\n\nThe Hong Kong Monetary Authority launched the CMU Digital Asset Platform on November 25, 2026.",
+"The platform handles bonds paperlessly from first issuance to redemption, settles on-chain with atomic delivery versus payment, and supports 24-hour settlement in multiple currencies using cash tokens.",
+"Next, CMU OmniClear plans to explore funds and other real-world assets and to connect the platform with tokenized deposits and regulated stablecoins.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/hong-kongs-hkma-switches-on-a-blockchain-bond-platform-that-settles-24.html\n#HongKong #HKMA"
+]
+},
+{
 "slug": "rumor-vs-record-ansem-crash-457-btc-0g-upbit-big-time",
 "url": "https://lcinsight.net/news/rumor-vs-record-ansem-really-fell-53-percent-in-15-minutes-but-the.html",
 "title": "Rumor vs record: ANSEM really fell 53% in 15 minutes, but the hack story is unproven",
@@ -4305,30 +4329,6 @@
 "Between 6:32 and 6:35 a.m. ET, DeepSea's live feed logged the wallet selling 11 tokens for $62,885, led by ALT ($17,706) and HOT ($12,630), while buying $2,544 of others.",
 "The wallet's 30-day count reached 53,069 trades and $1.24 billion of volume, up from 28,847 trades and $634.78 million on November 10.",
 "Full story, with every source 👇\nhttps://lcinsight.net/news/a-101-million-shark-lost-1-21-million-in-a-week-then-sold-11-altcoins.html\n#DeepSea #Desea"
-]
-},
-{
-"slug": "smart-money-smc060-sm6e36-made-111m-week-bitcoin-below-70k",
-"url": "https://lcinsight.net/news/two-hyperliquid-traders-made-111-7-million-in-the-week-bitcoin-fell.html",
-"title": "Two Hyperliquid traders made $111.7 million in the week bitcoin fell below $70,000",
-"dek": "DeepSea's smart money board puts SMc060 at +$57.45 million and SM6e36 at +$54.30 million over 7 days. Together they hold 60% of the top 10's gains.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-13T07:02:00-05:00",
-"image": "https://lcinsight.net/og/smart-money-smc060-sm6e36-made-111m-week-bitcoin-below-70k.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#SmartMoney",
-"#Hyperliquid",
-"#PerpetualFutures"
-],
-"x_thread": [
-"📉 Two Hyperliquid traders made $111.7 million in the week bitcoin fell below $70,000\n\nDeepSea's smart money board puts SMc060 at +$57.45 million and SM6e36 at +$54.30 million over 7 days. Together they hold 60% of the top 10's gains.",
-"The top 10, all Hyperliquid perpetual futures traders, made $185.38 million. The top two account for $111.75 million, about 60%.",
-"On November 9 the same two wallets showed about +$23 million each over 7 days. Their 30-day figures are now +$125.51 million and +$110.94 million.",
-"Full story, with every source 👇\nhttps://lcinsight.net/news/two-hyperliquid-traders-made-111-7-million-in-the-week-bitcoin-fell.html\n#DeepSea #Desea"
 ]
 }
 ]
