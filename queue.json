@@ -1,124 +1,5 @@
 [
  {
-  "id": "price:rain:20261121:up",
-  "kind": "price",
-  "hint": "Rain (RAIN) +16.0% in 1h, +3.7% in 24h, now $0.0038914",
-  "source": "https://www.coingecko.com/en/coins/rain",
-  "data": {
-   "h1": 16.0281,
-   "h24": 3.74359,
-   "price": 0.0038914,
-   "mcap_rank": 31
-  },
-  "found": "2026-11-21T18:12:34Z"
- },
- {
-  "id": "price:a7a5:20261121:up",
-  "kind": "price",
-  "hint": "A7A5 (A7A5) +0.0% in 1h, +190.7% in 24h, now $0.01193761",
-  "source": "https://www.coingecko.com/en/coins/a7a5",
-  "data": {
-   "h1": 0.0035,
-   "h24": 190.6625,
-   "price": 0.01193761,
-   "mcap_rank": 100
-  },
-  "found": "2026-11-21T18:24:02Z"
- },
- {
-  "id": "price:rain:20261121:down",
-  "kind": "price",
-  "hint": "Rain (RAIN) -11.0% in 1h, +3.7% in 24h, now $0.00375183",
-  "source": "https://www.coingecko.com/en/coins/rain",
-  "data": {
-   "h1": -10.9742,
-   "h24": 3.6564,
-   "price": 0.00375183,
-   "mcap_rank": 32
-  },
-  "found": "2026-11-21T19:09:56Z"
- },
- {
-  "id": "trend:pipi-2:20261121",
-  "kind": "trending",
-  "hint": "PIPI (PIPI) trending #3 on CoinGecko, +690.5% 24h",
-  "source": "https://www.coingecko.com/en/coins/pipi-2",
-  "data": {
-   "ch24": 690.464364442826
-  },
-  "found": "2026-11-21T19:21:30Z"
- },
- {
-  "id": "price:venice-token:20261121:up",
-  "kind": "price",
-  "hint": "Venice Token (VVV) +1.8% in 1h, +25.2% in 24h, now $24.07",
-  "source": "https://www.coingecko.com/en/coins/venice-token",
-  "data": {
-   "h1": 1.7555,
-   "h24": 25.18908,
-   "price": 24.07,
-   "mcap_rank": 60
-  },
-  "found": "2026-11-21T19:33:01Z"
- },
- {
-  "id": "hack:Chainflip AMM:1795219200",
-  "kind": "hack",
-  "hint": "Chainflip AMM hacked/exploited, ~$4.9M (Key Compromise)",
-  "source": "https://defillama.com/hacks",
-  "data": {
-   "amount": 4860000,
-   "chain": [
-    "Ethereum"
-   ],
-   "technique": "Validator Key Compromised"
-  },
-  "found": "2026-11-21T21:04:15Z"
- },
- {
-  "id": "trend:venice-token:20261122",
-  "kind": "trending",
-  "hint": "Venice Token (VVV) trending #1 on CoinGecko, +20.1% 24h",
-  "source": "https://www.coingecko.com/en/coins/venice-token",
-  "data": {
-   "ch24": 20.09528787474031
-  },
-  "found": "2026-11-22T00:01:16Z"
- },
- {
-  "id": "trend:derive:20261122",
-  "kind": "trending",
-  "hint": "Derive (DRV) trending #3 on CoinGecko, +33.9% 24h",
-  "source": "https://www.coingecko.com/en/coins/derive",
-  "data": {
-   "ch24": 33.904781469374356
-  },
-  "found": "2026-11-22T00:12:37Z"
- },
- {
-  "id": "trend:lucia-2:20261122",
-  "kind": "trending",
-  "hint": "Lucia (LUCIA) trending #2 on CoinGecko, -20.9% 24h",
-  "source": "https://www.coingecko.com/en/coins/lucia-2",
-  "data": {
-   "ch24": -20.87001144612149
-  },
-  "found": "2026-11-22T01:43:18Z"
- },
- {
-  "id": "price:a7a5:20261122:down",
-  "kind": "price",
-  "hint": "A7A5 (A7A5) -0.0% in 1h, +190.8% in 24h, now $0.01193626",
-  "source": "https://www.coingecko.com/en/coins/a7a5",
-  "data": {
-   "h1": -0.001,
-   "h24": 190.75828,
-   "price": 0.01193626,
-   "mcap_rank": 100
-  },
-  "found": "2026-11-22T02:51:59Z"
- },
- {
   "id": "price:rain:20261122:down",
   "kind": "price",
   "hint": "Rain (RAIN) -11.1% in 1h, -11.8% in 24h, now $0.00315427",
@@ -333,5 +214,15 @@
    "technique": "Unknown"
   },
   "found": "2026-11-24T18:09:15Z"
+ },
+ {
+  "id": "trend:monad:20261125",
+  "kind": "trending",
+  "hint": "Monad (MON) trending #2 on CoinGecko, -20.9% 24h",
+  "source": "https://www.coingecko.com/en/coins/monad",
+  "data": {
+   "ch24": -20.91786331159546
+  },
+  "found": "2026-11-25T03:18:03Z"
  }
 ]
