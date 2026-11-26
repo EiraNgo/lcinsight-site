@@ -224,5 +224,8 @@
  "reg:https://www.justice.gov/opa/pr/colombian-national-indicted-scheme-defraud-victims-ransomware-attacks",
  "reg:https://www.sec.gov/Archives/edgar/data/2033807/000207184426001935/0002071844-26-001935-index.htm",
  "reg:https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
- "reg:https://www.sec.gov/Archives/edgar/data/2166611/000119312526477751/0001193125-26-477751-index.htm"
+ "reg:https://www.sec.gov/Archives/edgar/data/2166611/000119312526477751/0001193125-26-477751-index.htm",
+ "price:pieverse:20261126:up",
+ "trend:venice-token:20261126",
+ "trend:pieverse:20261126"
 ]
