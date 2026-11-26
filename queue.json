@@ -1,18 +1,5 @@
 [
  {
-  "id": "price:pieverse:20261123:down",
-  "kind": "price",
-  "hint": "Pieverse (PIEVERSE) -10.9% in 1h, -1.1% in 24h, now $3.34",
-  "source": "https://www.coingecko.com/en/coins/pieverse",
-  "data": {
-   "h1": -10.8602,
-   "h24": -1.08761,
-   "price": 3.34,
-   "mcap_rank": 70
-  },
-  "found": "2026-11-23T03:09:16Z"
- },
- {
   "id": "reg:https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
   "kind": "regulator",
   "hint": "US DOJ: United States Files Action to Recover More Than $1 Billion in Cryptocurrency Assets Stolen by North Korean Cyber Actors in Binance Hack Today, the Justice Department announced actions taken to forfeit",
@@ -277,5 +264,18 @@
    "ch24": 31.30421236209121
   },
   "found": "2026-11-26T02:35:56Z"
+ },
+ {
+  "id": "price:bitway:20261126:up",
+  "kind": "price",
+  "hint": "Bitway (BTW) +5.3% in 1h, +25.3% in 24h, now $0.993171",
+  "source": "https://www.coingecko.com/en/coins/bitway",
+  "data": {
+   "h1": 5.2601,
+   "h24": 25.30002,
+   "price": 0.993171,
+   "mcap_rank": 52
+  },
+  "found": "2026-11-26T05:05:07Z"
  }
 ]
