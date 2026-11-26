@@ -33,9 +33,6 @@
 "_warm:US SEC EDGAR S-1": "2026-11-07T03:34:50Z",
 "_warm:US SEC EDGAR 19b-4": "2026-11-07T03:34:50Z",
 "_warm:US SEC EDGAR 424B": "2026-11-07T03:34:50Z",
-"trend:epic-cash:20261112": "2026-11-12T07:33:32Z",
-"reg:https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261112-3/": "2026-11-12T08:19:22Z",
-"trend:seppuku:20261112": "2026-11-12T10:46:43Z",
 "trend:ni-hao-cat:20261112": "2026-11-12T17:49:56Z",
 "trend:audacity-4:20261112": "2026-11-12T18:47:30Z",
 "trend:rocco:20261112": "2026-11-12T19:33:33Z",
@@ -266,5 +263,7 @@
 "price:pieverse:20261126:up": "2026-11-26T02:35:56Z",
 "trend:venice-token:20261126": "2026-11-26T02:35:56Z",
 "trend:pieverse:20261126": "2026-11-26T02:35:56Z",
-"price:bitway:20261126:up": "2026-11-26T05:05:07Z"
+"price:bitway:20261126:up": "2026-11-26T05:05:07Z",
+"trend:pepe-wojak:20261126": "2026-11-26T14:38:54Z",
+"trend:zylo-ecosystem:20261126": "2026-11-26T14:38:54Z"
 }

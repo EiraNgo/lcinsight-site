@@ -277,5 +277,25 @@
    "mcap_rank": 52
   },
   "found": "2026-11-26T05:05:07Z"
+ },
+ {
+  "id": "trend:pepe-wojak:20261126",
+  "kind": "trending",
+  "hint": "Pepe Wojak (PEJAK) trending #1 on CoinGecko, +222.2% 24h",
+  "source": "https://www.coingecko.com/en/coins/pepe-wojak",
+  "data": {
+   "ch24": 222.2371201691767
+  },
+  "found": "2026-11-26T14:38:54Z"
+ },
+ {
+  "id": "trend:zylo-ecosystem:20261126",
+  "kind": "trending",
+  "hint": "Zylo Ecosystem (ZYLO) trending #2 on CoinGecko, +16.2% 24h",
+  "source": "https://www.coingecko.com/en/coins/zylo-ecosystem",
+  "data": {
+   "ch24": 16.190554513684834
+  },
+  "found": "2026-11-26T14:38:54Z"
  }
 ]
