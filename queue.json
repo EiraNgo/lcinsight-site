@@ -1,19 +1,5 @@
 [
  {
-  "id": "hack:Endurance Bridge:1795305600",
-  "kind": "hack",
-  "hint": "Endurance Bridge hacked/exploited, ~$1.0M (Bridge & Cross-Chain)",
-  "source": "https://defillama.com/hacks",
-  "data": {
-   "amount": 1040000,
-   "chain": [
-    "BSC"
-   ],
-   "technique": "Unbacked Cross-Chain Mint"
-  },
-  "found": "2026-11-23T00:34:24Z"
- },
- {
   "id": "price:pieverse:20261123:down",
   "kind": "price",
   "hint": "Pieverse (PIEVERSE) -10.9% in 1h, -1.1% in 24h, now $3.34",
@@ -258,5 +244,38 @@
    "mcap_rank": 67
   },
   "found": "2026-11-25T19:37:56Z"
+ },
+ {
+  "id": "price:pieverse:20261126:up",
+  "kind": "price",
+  "hint": "Pieverse (PIEVERSE) +4.0% in 1h, +30.9% in 24h, now $3.84",
+  "source": "https://www.coingecko.com/en/coins/pieverse",
+  "data": {
+   "h1": 3.9701,
+   "h24": 30.92773,
+   "price": 3.84,
+   "mcap_rank": 67
+  },
+  "found": "2026-11-26T02:35:56Z"
+ },
+ {
+  "id": "trend:venice-token:20261126",
+  "kind": "trending",
+  "hint": "Venice Token (VVV) trending #1 on CoinGecko, +21.6% 24h",
+  "source": "https://www.coingecko.com/en/coins/venice-token",
+  "data": {
+   "ch24": 21.63863707581643
+  },
+  "found": "2026-11-26T02:35:56Z"
+ },
+ {
+  "id": "trend:pieverse:20261126",
+  "kind": "trending",
+  "hint": "Pieverse (PIEVERSE) trending #3 on CoinGecko, +31.3% 24h",
+  "source": "https://www.coingecko.com/en/coins/pieverse",
+  "data": {
+   "ch24": 31.30421236209121
+  },
+  "found": "2026-11-26T02:35:56Z"
  }
 ]
