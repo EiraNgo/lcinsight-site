@@ -297,5 +297,15 @@
    "ch24": 16.190554513684834
   },
   "found": "2026-11-26T14:38:54Z"
+ },
+ {
+  "id": "trend:non-playable-shiba:20261126",
+  "kind": "trending",
+  "hint": "Non-Playable Shiba (NPS) trending #2 on CoinGecko, +31.3% 24h",
+  "source": "https://www.coingecko.com/en/coins/non-playable-shiba",
+  "data": {
+   "ch24": 31.32678042170658
+  },
+  "found": "2026-11-26T15:36:28Z"
  }
 ]
