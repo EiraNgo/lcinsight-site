@@ -1,5 +1,55 @@
 [
 {
+"slug": "doj-ransomware-recovery-firm-paid-hackers-6000-bitcoin",
+"url": "https://lcinsight.net/news/a-ransomware-recovery-firm-said-it-never-paid-hackers-doj-says-it-paid.html",
+"title": "A ransomware \"recovery\" firm said it never paid hackers. DOJ says it paid $6,000 in bitcoin and billed $13,260",
+"dek": "A federal grand jury in Rhode Island indicted the co-founder of a Florida data recovery company on three counts of wire fraud. Prosecutors say the firm secretly paid ransoms and kept the markup, and an FBI sting caught it.",
+"category": "Security",
+"guide": false,
+"hot": true,
+"published": "2026-11-25T19:20:00-05:00",
+"image": "https://lcinsight.net/og/doj-ransomware-recovery-firm-paid-hackers-6000-bitcoin.jpg",
+"hashtags": [
+"#Ransomware",
+"#Bitcoin",
+"#DOJ",
+"#FBI",
+"#Scams"
+],
+"x_thread": [
+"🚨 A ransomware \"recovery\" firm said it never paid hackers. DOJ says it paid $6,000 in bitcoin and billed $13,260\n\nA federal grand jury in Rhode Island indicted the co-founder of a Florida data recovery company on three counts of wire fraud.",
+"The Justice Department said on November 25, 2026, that a grand jury in Rhode Island indicted a 52-year-old Colombian national on three counts of wire fraud.",
+"Prosecutors allege his Florida company told ransomware victims it had its own decryption technology and never paid attackers, but secretly paid the ransom and charged more.",
+"In a June 2026 FBI sting, the company allegedly paid about $6,000 in bitcoin for a decryption key and billed the fake victim about $13,260.",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/a-ransomware-recovery-firm-said-it-never-paid-hackers-doj-says-it-paid.html\n#Ransomware #Bitcoin"
+]
+},
+{
+"slug": "fidelity-chainlink-fund-s1-nasdaq-flnk-no-staking",
+"url": "https://lcinsight.net/news/fidelity-files-for-a-chainlink-fund-on-nasdaq-ticker-flnk-with-no.html",
+"title": "Fidelity files for a Chainlink fund on Nasdaq, ticker FLNK, with no staking and the fee blank",
+"dek": "Fidelity's S-1 for a spot LINK fund landed on SEC EDGAR at 1:48 p.m. ET on November 25. Three custodians would hold the coins, the fund will not stake, and the fee and ticker are still placeholders.",
+"category": "ETFs",
+"guide": false,
+"hot": true,
+"published": "2026-11-25T19:15:00-05:00",
+"image": "https://lcinsight.net/og/fidelity-chainlink-fund-s1-nasdaq-flnk-no-staking.jpg",
+"hashtags": [
+"#ETF",
+"#Chainlink",
+"#Fidelity",
+"#LINK",
+"#SEC"
+],
+"x_thread": [
+"🏦 Fidelity files for a Chainlink fund on Nasdaq, ticker FLNK, with no staking and the fee blank\n\nFidelity's S-1 for a spot LINK fund landed on SEC EDGAR at 1:48 p.m. ET on November 25. Three custodians would hold the coins, the fund will not stake, and the fee and…",
+"Fidelity filed a Form S-1 for the Fidelity Chainlink Fund on November 25, 2026. EDGAR accepted it at 1:48 p.m. ET.",
+"The shares would list on Nasdaq under the bracketed ticker FLNK. Anchorage Digital Bank, BitGo Bank & Trust and Coinbase Custody would hold the LINK.",
+"The S-1 says \"The Trust will not stake its LINK.\" The yearly fee is still a blank \"[ ]%\".",
+"Full story, with every source 👇\nhttps://lcinsight.net/news/fidelity-files-for-a-chainlink-fund-on-nasdaq-ticker-flnk-with-no.html\n#ETF #Chainlink"
+]
+},
+{
 "slug": "monad-mon-new-record-low-volume-130m-tops-market-value",
 "url": "https://lcinsight.net/news/monads-mon-hits-a-second-record-low-in-a-day-0-00914-as-trading-tops.html",
 "title": "Monad's MON hits a second record low in a day, $0.00914, as trading tops its market value",
@@ -4301,54 +4351,6 @@
 "Our November 13 report had AKE at $0.00658 at 6:45 a.m. ET. The price has risen another 82% since then, most of it between 10 a.m. and 1 p.m. ET.",
 "CoinGecko counted $582.8 million of AKE traded in 24 hours, more than twice its $273.7 million market value. AKE is still 91.8% below its record of $0.1467 from September 20.",
 "Full story, with every source 👇\nhttps://lcinsight.net/news/ake-rose-82-percent-more-after-our-friday-report-as-583-million-traded.html\n#Altcoins #Trending"
-]
-},
-{
-"slug": "arbitrum-wallet-took-in-32-8m-of-arb-in-a-week-as-arb-fell",
-"url": "https://lcinsight.net/news/one-wallet-took-in-32-8-million-of-arb-in-a-week-as-arb-fell-14-5.html",
-"title": "One wallet took in $32.8 million of ARB in a week as ARB fell 14.5%. DeepSea shows $0 sent",
-"dek": "A large Arbitrum wallet kept receiving ARB from four addresses and bought more, DeepSea's data show, through one of the token's weakest weeks. Who owns it is unknown, and we could not check it on a block explorer.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-14T00:50:00-05:00",
-"image": "https://lcinsight.net/og/arbitrum-wallet-took-in-32-8m-of-arb-in-a-week-as-arb-fell.jpg",
-"hashtags": [
-"#DeepSea",
-"#Desea",
-"#Sharks",
-"#Arbitrum",
-"#ARB"
-],
-"x_thread": [
-"📉 One wallet took in $32.8 million of ARB in a week as ARB fell 14.5%. DeepSea shows $0 sent\n\nA large Arbitrum wallet kept receiving ARB from four addresses and bought more, DeepSea's data show, through one of the token's weakest weeks.",
-"DeepSea valued the wallet's ARB at $86.34 million at 12:37 a.m. ET and at $65.70 million at 12:46 a.m. ET, with no tokens sent in between, so the size is uncertain. DeepSea's flow table shows $573,781 bought and nothing sold in 24 hours.",
-"ARB traded at $0.1408 at 12:45 a.m. ET, down 14.5% in 7 days, CoinGecko data show, while bitcoin was near $66,886 at 12:50 a.m. ET.",
-"Full story, with every source 👇\nhttps://lcinsight.net/news/one-wallet-took-in-32-8-million-of-arb-in-a-week-as-arb-fell-14-5.html\n#DeepSea #Desea"
-]
-},
-{
-"slug": "two-ni-hao-cat-tokens-one-fell-90-percent-then-jumped-9x",
-"url": "https://lcinsight.net/news/two-tokens-named-ni-hao-cat-one-fell-90-percent-overnight-then-jumped.html",
-"title": "Two tokens named ni hao cat: one fell 90% overnight, then jumped 9x in a day",
-"dek": "CoinGecko lists two \"ni hao cat\" tokens with the same MIHAO ticker, one on Ethereum and one on Solana. The Ethereum one went from a record to a 90% loss and back up 9x in 24 hours, all in a single Uniswap pool.",
-"category": "Markets",
-"guide": false,
-"hot": true,
-"published": "2026-11-13T19:25:00-05:00",
-"image": "https://lcinsight.net/og/two-ni-hao-cat-tokens-one-fell-90-percent-then-jumped-9x.jpg",
-"hashtags": [
-"#MIHAO",
-"#SEPPUKU",
-"#Memecoins",
-"#PriceMoves",
-"#Trending"
-],
-"x_thread": [
-"📉 Two tokens named ni hao cat: one fell 90% overnight, then jumped 9x in a day\n\nCoinGecko lists two \"ni hao cat\" tokens with the same MIHAO ticker, one on Ethereum and one on Solana.",
-"The Ethereum MIHAO hit a record $0.0270 at 5:26 p.m. ET on November 12, fell to about $0.0026 by 1 a.m. ET (about 90% lower), climbed back to about $0.023 by 5 p.m. ET on November 13, then halved to $0.011 by 7 p.m. ET.",
-"All of its tracked trading, about $3.5 million in 24 hours, ran through one Uniswap V4 pool. Another Ethereum memecoin on the trending list, Seppuku, fell about 31% in five hours.",
-"Full story, with every source 👇\nhttps://lcinsight.net/news/two-tokens-named-ni-hao-cat-one-fell-90-percent-overnight-then-jumped.html\n#MIHAO #SEPPUKU"
 ]
 }
 ]
