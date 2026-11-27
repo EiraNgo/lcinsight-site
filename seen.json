@@ -33,13 +33,6 @@
 "_warm:US SEC EDGAR S-1": "2026-11-07T03:34:50Z",
 "_warm:US SEC EDGAR 19b-4": "2026-11-07T03:34:50Z",
 "_warm:US SEC EDGAR 424B": "2026-11-07T03:34:50Z",
-"trend:ni-hao-cat:20261112": "2026-11-12T17:49:56Z",
-"trend:audacity-4:20261112": "2026-11-12T18:47:30Z",
-"trend:rocco:20261112": "2026-11-12T19:33:33Z",
-"reg:https://www.sec.gov/Archives/edgar/data/2035053/000203505326000029/0002035053-26-000029-index.htm": "2026-11-12T19:58:08Z",
-"reg:https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-and-fentanyl-traffickers-dark-web": "2026-11-12T20:31:45Z",
-"reg:https://www.sec.gov/Archives/edgar/data/2074409/000119312526458432/0001193125-26-458432-index.htm": "2026-11-12T21:19:12Z",
-"reg:https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency": "2026-11-12T21:41:00Z",
 "trend:audacity-4:20261113": "2026-11-13T00:50:45Z",
 "reg:https://www.occ.gov/topics/supervision-and-examination/bsa/index-bsa.html": "2026-11-13T00:51:14Z",
 "reg:https://www.occ.gov/topics/consumers-and-communities/cra/index-cra.html": "2026-11-13T00:51:14Z",
@@ -267,5 +260,6 @@
 "trend:pepe-wojak:20261126": "2026-11-26T14:38:54Z",
 "trend:zylo-ecosystem:20261126": "2026-11-26T14:38:54Z",
 "trend:non-playable-shiba:20261126": "2026-11-26T15:36:28Z",
-"trend:pepe-intelligence:20261126": "2026-11-26T16:34:26Z"
+"trend:pepe-intelligence:20261126": "2026-11-26T16:34:26Z",
+"trend:pepe-wojak:20261127": "2026-11-27T00:00:32Z"
 }

@@ -1,38 +1,5 @@
 [
  {
-  "id": "reg:https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
-  "kind": "regulator",
-  "hint": "US DOJ: United States Files Action to Recover More Than $1 Billion in Cryptocurrency Assets Stolen by North Korean Cyber Actors in Binance Hack Today, the Justice Department announced actions taken to forfeit",
-  "source": "https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
-  "data": {
-   "source": "US DOJ"
-  },
-  "found": "2026-11-23T18:28:24Z"
- },
- {
-  "id": "price:pearl-2:20261123:up",
-  "kind": "price",
-  "hint": "Pearl (PEARL) +2.1% in 1h, +25.0% in 24h, now $2.45",
-  "source": "https://www.coingecko.com/en/coins/pearl-2",
-  "data": {
-   "h1": 2.1313,
-   "h24": 25.02988,
-   "price": 2.45,
-   "mcap_rank": 70
-  },
-  "found": "2026-11-23T20:45:56Z"
- },
- {
-  "id": "trend:pearl-2:20261123",
-  "kind": "trending",
-  "hint": "Pearl (PEARL) trending #2 on CoinGecko, +24.1% 24h",
-  "source": "https://www.coingecko.com/en/coins/pearl-2",
-  "data": {
-   "ch24": 24.09599599243997
-  },
-  "found": "2026-11-23T20:45:57Z"
- },
- {
   "id": "trend:orochi-network:20261124",
   "kind": "trending",
   "hint": "Orochi Network (ON) trending #2 on CoinGecko, +22.5% 24h",
@@ -317,5 +284,15 @@
    "ch24": -21.06093361653756
   },
   "found": "2026-11-26T16:34:26Z"
+ },
+ {
+  "id": "trend:pepe-wojak:20261127",
+  "kind": "trending",
+  "hint": "Pepe Wojak (PEJAK) trending #2 on CoinGecko, +220.4% 24h",
+  "source": "https://www.coingecko.com/en/coins/pepe-wojak",
+  "data": {
+   "ch24": 220.44036698396766
+  },
+  "found": "2026-11-27T00:00:32Z"
  }
 ]
