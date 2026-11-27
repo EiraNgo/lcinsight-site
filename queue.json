@@ -284,5 +284,15 @@
    "ch24": -26.5909894748477
   },
   "found": "2026-11-27T07:06:16Z"
+ },
+ {
+  "id": "trend:pons:20261127",
+  "kind": "trending",
+  "hint": "Pons (PONS) trending #1 on CoinGecko, +21.4% 24h",
+  "source": "https://www.coingecko.com/en/coins/pons",
+  "data": {
+   "ch24": 21.44269094087169
+  },
+  "found": "2026-11-27T08:15:30Z"
  }
 ]
