@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:big-time:20261125",
-  "kind": "trending",
-  "hint": "Big Time (BIGTIME) trending #3 on CoinGecko, +53.6% 24h",
-  "source": "https://www.coingecko.com/en/coins/big-time",
-  "data": {
-   "ch24": 53.55687164020006
-  },
-  "found": "2026-11-25T05:11:35Z"
- },
- {
   "id": "price:bitway:20261125:up",
   "kind": "price",
   "hint": "Bitway (BTW) +2.9% in 1h, +25.9% in 24h, now $0.891508",
@@ -296,5 +286,15 @@
    "mcap_rank": 43
   },
   "found": "2026-11-28T05:08:07Z"
+ },
+ {
+  "id": "trend:world-liberty-financial:20261128",
+  "kind": "trending",
+  "hint": "World Liberty Financial (WLFI) trending #2 on CoinGecko, -42.7% 24h",
+  "source": "https://www.coingecko.com/en/coins/world-liberty-financial",
+  "data": {
+   "ch24": -42.726490465962804
+  },
+  "found": "2026-11-28T05:19:40Z"
  }
 ]
