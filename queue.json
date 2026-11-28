@@ -260,5 +260,15 @@
    "ch24": 216.790349186964
   },
   "found": "2026-11-27T19:18:35Z"
+ },
+ {
+  "id": "trend:portal-2:20261128",
+  "kind": "trending",
+  "hint": "Portal (PORTAL) trending #2 on CoinGecko, +217.2% 24h",
+  "source": "https://www.coingecko.com/en/coins/portal-2",
+  "data": {
+   "ch24": 217.214774621897
+  },
+  "found": "2026-11-28T02:26:36Z"
  }
 ]
