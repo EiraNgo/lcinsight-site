@@ -239,5 +239,9 @@
  "trend:pons:20261127",
  "trend:portal-2:20261127",
  "trend:portal-2:20261128",
- "reg:https://www.occ.gov/topics/charters-and-licensing/digital-assets-licensing-applications/index-digital-assets-licensing-applications.html"
+ "reg:https://www.occ.gov/topics/charters-and-licensing/digital-assets-licensing-applications/index-digital-assets-licensing-applications.html",
+ "price:world-liberty-financial:20261128:down",
+ "trend:world-liberty-financial:20261128",
+ "price:bitway:20261128:up",
+ "trend:centrifuge-2:20261128"
 ]
