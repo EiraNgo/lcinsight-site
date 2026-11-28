@@ -34,7 +34,6 @@
 "_warm:US SEC EDGAR 19b-4": "2026-11-07T03:34:50Z",
 "_warm:US SEC EDGAR 424B": "2026-11-07T03:34:50Z",
 "_warm:US OCC": "2026-11-13T00:51:14Z",
-"trend:pearl-2:20261114": "2026-11-14T04:50:34Z",
 "trend:kava:20261114": "2026-11-14T11:53:30Z",
 "price:bitway:20261114:up": "2026-11-14T12:50:39Z",
 "price:aster-2:20261114:down": "2026-11-14T20:01:45Z",
@@ -203,5 +202,6 @@
 "trend:portal-2:20261127": "2026-11-27T19:18:35Z",
 "trend:portal-2:20261128": "2026-11-28T02:26:36Z",
 "reg:https://www.occ.gov/topics/charters-and-licensing/digital-assets-licensing-applications/index-digital-assets-licensing-applications.html": "2026-11-28T03:01:32Z",
-"price:world-liberty-financial:20261128:down": "2026-11-28T04:45:04Z"
+"price:world-liberty-financial:20261128:down": "2026-11-28T04:45:04Z",
+"price:bitway:20261128:up": "2026-11-28T05:08:07Z"
 }
