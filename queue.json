@@ -1,75 +1,5 @@
 [
  {
-  "id": "trend:non-playable-shiba:20261125",
-  "kind": "trending",
-  "hint": "Non-Playable Shiba (NPS) trending #1 on CoinGecko, +707.8% 24h",
-  "source": "https://www.coingecko.com/en/coins/non-playable-shiba",
-  "data": {
-   "ch24": 707.8194400613273
-  },
-  "found": "2026-11-25T15:14:15Z"
- },
- {
-  "id": "trend:pepe-intelligence:20261125",
-  "kind": "trending",
-  "hint": "Pepe Intelligence (PEI) trending #2 on CoinGecko, +25.0% 24h",
-  "source": "https://www.coingecko.com/en/coins/pepe-intelligence",
-  "data": {
-   "ch24": 25.025505242358605
-  },
-  "found": "2026-11-25T15:14:15Z"
- },
- {
-  "id": "reg:https://www.justice.gov/opa/pr/colombian-national-indicted-scheme-defraud-victims-ransomware-attacks",
-  "kind": "regulator",
-  "hint": "US DOJ: Colombian National Indicted in Scheme to Defraud  Victims of Ransomware Attacks A federal grand jury in the District of Rhode Island returned an indictment charging Juan Ricardo Palacio Escobar, 52, a",
-  "source": "https://www.justice.gov/opa/pr/colombian-national-indicted-scheme-defraud-victims-ransomware-attacks",
-  "data": {
-   "source": "US DOJ"
-  },
-  "found": "2026-11-25T15:14:35Z"
- },
- {
-  "id": "reg:https://www.sec.gov/Archives/edgar/data/2033807/000207184426001935/0002071844-26-001935-index.htm",
-  "kind": "regulator",
-  "hint": "US SEC EDGAR 424B: 424B3 - Franklin Crypto Trust (0002033807) (Filer)",
-  "source": "https://www.sec.gov/Archives/edgar/data/2033807/000207184426001935/0002071844-26-001935-index.htm",
-  "data": {
-   "source": "US SEC EDGAR 424B"
-  },
-  "found": "2026-11-25T15:15:41Z"
- },
- {
-  "id": "reg:https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
-  "kind": "regulator",
-  "hint": "US SEC: SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting\n The Securities and Exchange Commission\u2019s&nbsp;Investor Advisory Committee will hold a virtual public meeting on Dec. 3, at 9:30 a.m. ET ",
-  "source": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
-  "data": {
-   "source": "US SEC"
-  },
-  "found": "2026-11-25T15:25:44Z"
- },
- {
-  "id": "trend:variational-x:20261125",
-  "kind": "trending",
-  "hint": "Variational X (VAR) trending #2 on CoinGecko, -16.7% 24h",
-  "source": "https://www.coingecko.com/en/coins/variational-x",
-  "data": {
-   "ch24": -16.726809390980954
-  },
-  "found": "2026-11-25T17:43:38Z"
- },
- {
-  "id": "reg:https://www.sec.gov/Archives/edgar/data/2166611/000119312526477751/0001193125-26-477751-index.htm",
-  "kind": "regulator",
-  "hint": "US SEC EDGAR S-1: S-1 - Fidelity Chainlink Fund (0002166611) (Filer)",
-  "source": "https://www.sec.gov/Archives/edgar/data/2166611/000119312526477751/0001193125-26-477751-index.htm",
-  "data": {
-   "source": "US SEC EDGAR S-1"
-  },
-  "found": "2026-11-25T18:53:30Z"
- },
- {
   "id": "price:pieverse:20261125:up",
   "kind": "price",
   "hint": "Pieverse (PIEVERSE) +2.3% in 1h, +25.8% in 24h, now $3.73",
@@ -316,5 +246,18 @@
    "ch24": 413.72592402190645
   },
   "found": "2026-11-28T14:58:22Z"
+ },
+ {
+  "id": "price:world-liberty-financial:20261128:up",
+  "kind": "price",
+  "hint": "World Liberty Financial (WLFI) +5.0% in 1h, -54.6% in 24h, now $0.01699859",
+  "source": "https://www.coingecko.com/en/coins/world-liberty-financial",
+  "data": {
+   "h1": 4.983,
+   "h24": -54.56516,
+   "price": 0.01699859,
+   "mcap_rank": 92
+  },
+  "found": "2026-11-28T19:02:19Z"
  }
 ]
