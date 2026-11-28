@@ -1,15 +1,5 @@
 [
  {
-  "id": "trend:monad:20261125",
-  "kind": "trending",
-  "hint": "Monad (MON) trending #2 on CoinGecko, -20.9% 24h",
-  "source": "https://www.coingecko.com/en/coins/monad",
-  "data": {
-   "ch24": -20.91786331159546
-  },
-  "found": "2026-11-25T03:18:03Z"
- },
- {
   "id": "trend:big-time:20261125",
   "kind": "trending",
   "hint": "Big Time (BIGTIME) trending #3 on CoinGecko, +53.6% 24h",
@@ -280,5 +270,18 @@
    "source": "US OCC"
   },
   "found": "2026-11-28T03:01:32Z"
+ },
+ {
+  "id": "price:world-liberty-financial:20261128:down",
+  "kind": "price",
+  "hint": "World Liberty Financial (WLFI) -1.2% in 1h, -36.7% in 24h, now $0.02644666",
+  "source": "https://www.coingecko.com/en/coins/world-liberty-financial",
+  "data": {
+   "h1": -1.2026,
+   "h24": -36.7155,
+   "price": 0.02644666,
+   "mcap_rank": 74
+  },
+  "found": "2026-11-28T04:45:04Z"
  }
 ]
