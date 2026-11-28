@@ -270,5 +270,15 @@
    "ch24": 217.214774621897
   },
   "found": "2026-11-28T02:26:36Z"
+ },
+ {
+  "id": "reg:https://www.occ.gov/topics/charters-and-licensing/digital-assets-licensing-applications/index-digital-assets-licensing-applications.html",
+  "kind": "regulator",
+  "hint": "US OCC: Digital Assets Licensing Applications",
+  "source": "https://www.occ.gov/topics/charters-and-licensing/digital-assets-licensing-applications/index-digital-assets-licensing-applications.html",
+  "data": {
+   "source": "US OCC"
+  },
+  "found": "2026-11-28T03:01:32Z"
  }
 ]
