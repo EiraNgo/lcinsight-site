@@ -306,5 +306,15 @@
    "ch24": 35.739245221082854
   },
   "found": "2026-11-28T14:11:48Z"
+ },
+ {
+  "id": "trend:variational-x:20261128",
+  "kind": "trending",
+  "hint": "Variational X (VAR) trending #2 on CoinGecko, +413.7% 24h",
+  "source": "https://www.coingecko.com/en/coins/variational-x",
+  "data": {
+   "ch24": 413.72592402190645
+  },
+  "found": "2026-11-28T14:58:22Z"
  }
 ]
