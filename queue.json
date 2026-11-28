@@ -296,5 +296,15 @@
    "ch24": -42.726490465962804
   },
   "found": "2026-11-28T05:19:40Z"
+ },
+ {
+  "id": "trend:centrifuge-2:20261128",
+  "kind": "trending",
+  "hint": "Centrifuge (CFG) trending #2 on CoinGecko, +33.0% 24h",
+  "source": "https://www.coingecko.com/en/coins/centrifuge-2",
+  "data": {
+   "ch24": 33.022611896035336
+  },
+  "found": "2026-11-28T05:31:21Z"
  }
 ]
