@@ -243,5 +243,8 @@
  "price:world-liberty-financial:20261128:down",
  "trend:world-liberty-financial:20261128",
  "price:bitway:20261128:up",
- "trend:centrifuge-2:20261128"
+ "trend:centrifuge-2:20261128",
+ "price:bitway:20261128:down",
+ "trend:pumpchan:20261128",
+ "trend:variational-x:20261128"
 ]
