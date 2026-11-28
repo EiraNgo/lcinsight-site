@@ -1,28 +1,5 @@
 [
  {
-  "id": "price:bitway:20261125:up",
-  "kind": "price",
-  "hint": "Bitway (BTW) +2.9% in 1h, +25.9% in 24h, now $0.891508",
-  "source": "https://www.coingecko.com/en/coins/bitway",
-  "data": {
-   "h1": 2.9256,
-   "h24": 25.85228,
-   "price": 0.891508,
-   "mcap_rank": 53
-  },
-  "found": "2026-11-25T07:52:07Z"
- },
- {
-  "id": "reg:https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/",
-  "kind": "regulator",
-  "hint": "Hong Kong HKMA: Launch of CMU Digital Asset Platform",
-  "source": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/",
-  "data": {
-   "source": "Hong Kong HKMA"
-  },
-  "found": "2026-11-25T08:15:43Z"
- },
- {
   "id": "trend:non-playable-shiba:20261125",
   "kind": "trending",
   "hint": "Non-Playable Shiba (NPS) trending #1 on CoinGecko, +707.8% 24h",
@@ -306,5 +283,28 @@
    "ch24": 33.022611896035336
   },
   "found": "2026-11-28T05:31:21Z"
+ },
+ {
+  "id": "price:bitway:20261128:down",
+  "kind": "price",
+  "hint": "Bitway (BTW) -1.9% in 1h, +25.5% in 24h, now $1.48",
+  "source": "https://www.coingecko.com/en/coins/bitway",
+  "data": {
+   "h1": -1.8958,
+   "h24": 25.51612,
+   "price": 1.48,
+   "mcap_rank": 37
+  },
+  "found": "2026-11-28T14:11:48Z"
+ },
+ {
+  "id": "trend:pumpchan:20261128",
+  "kind": "trending",
+  "hint": "PumpChan (PUMPCHAN) trending #3 on CoinGecko, +35.7% 24h",
+  "source": "https://www.coingecko.com/en/coins/pumpchan",
+  "data": {
+   "ch24": 35.739245221082854
+  },
+  "found": "2026-11-28T14:11:48Z"
  }
 ]

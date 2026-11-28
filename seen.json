@@ -34,8 +34,6 @@
 "_warm:US SEC EDGAR 19b-4": "2026-11-07T03:34:50Z",
 "_warm:US SEC EDGAR 424B": "2026-11-07T03:34:50Z",
 "_warm:US OCC": "2026-11-13T00:51:14Z",
-"trend:kava:20261114": "2026-11-14T11:53:30Z",
-"price:bitway:20261114:up": "2026-11-14T12:50:39Z",
 "price:aster-2:20261114:down": "2026-11-14T20:01:45Z",
 "hack:Kava Lend:1794614400": "2026-11-14T20:59:09Z",
 "trend:aster-2:20261114": "2026-11-14T22:54:05Z",
@@ -205,5 +203,7 @@
 "price:world-liberty-financial:20261128:down": "2026-11-28T04:45:04Z",
 "price:bitway:20261128:up": "2026-11-28T05:08:07Z",
 "trend:world-liberty-financial:20261128": "2026-11-28T05:19:40Z",
-"trend:centrifuge-2:20261128": "2026-11-28T05:31:21Z"
+"trend:centrifuge-2:20261128": "2026-11-28T05:31:21Z",
+"price:bitway:20261128:down": "2026-11-28T14:11:48Z",
+"trend:pumpchan:20261128": "2026-11-28T14:11:48Z"
 }
